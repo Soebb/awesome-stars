@@ -5,1817 +5,2381 @@
 
 ## Contents
 
-- [Assembly](#assembly)
-- [Batchfile](#batchfile)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
 - [CSS](#css)
-- [Clojure](#clojure)
-- [CodeQL](#codeql)
-- [Cython](#cython)
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
-- [Elixir](#elixir)
+- [EJS](#ejs)
+- [Fluent](#fluent)
 - [Go](#go)
+- [HCL](#hcl)
 - [HTML](#html)
-- [Handlebars](#handlebars)
-- [Haskell](#haskell)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jinja](#jinja)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
-- [Lua](#lua)
-- [MDX](#mdx)
 - [Makefile](#makefile)
-- [Markdown](#markdown)
-- [Mustache](#mustache)
-- [OCaml](#ocaml)
 - [Objective-C](#objective-c)
 - [Others](#others)
 - [PHP](#php)
-- [PLpgSQL](#plpgsql)
+- [Pascal](#pascal)
 - [Perl](#perl)
 - [PowerShell](#powershell)
+- [Procfile](#procfile)
 - [Python](#python)
+- [R](#r)
 - [Ruby](#ruby)
 - [Rust](#rust)
-- [SCSS](#scss)
-- [Scala](#scala)
-- [Scheme](#scheme)
 - [Shell](#shell)
-- [Starlark](#starlark)
-- [Svelte](#svelte)
-- [Swift](#swift)
-- [TeX](#tex)
+- [Smalltalk](#smalltalk)
 - [TypeScript](#typescript)
-- [Vue](#vue)
-
-## Assembly 
-
-- [bytedance/sonic](https://github.com/bytedance/sonic) - A blazingly fast JSON serializing & deserializing library
-
-## Batchfile 
-
-- [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。
 
 ## C 
 
-- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
-- [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
-- [ggerganov/ggml](https://github.com/ggerganov/ggml) - Tensor library for machine learning
-- [libsql/libsql](https://github.com/libsql/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
-- [hashcat/hashcat](https://github.com/hashcat/hashcat) - World's fastest and most advanced password recovery utility
-- [gojue/ecapture](https://github.com/gojue/ecapture) - Capture SSL/TLS text content without a CA certificate using eBPF. This tool is compatible with Linux/Android x86_64/Aarch64.
-- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
-- [RedisGraph/RedisGraph](https://github.com/RedisGraph/RedisGraph) - A graph database as a Redis module
-- [citusdata/citus](https://github.com/citusdata/citus) - Distributed PostgreSQL as an extension
-- [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db) - YugabyteDB - the cloud native distributed SQL database for mission-critical applications.
-- [iovisor/bcc](https://github.com/iovisor/bcc) - BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more
-- [RedisBloom/RedisBloom](https://github.com/RedisBloom/RedisBloom) - Probabilistic Datatypes Module for Redis
-- [timescale/timescaledb](https://github.com/timescale/timescaledb) - An open-source time-series SQL database optimized for fast ingest and complex queries.  Packaged as a PostgreSQL extension.
-- [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
-- [zpoint/CPython-Internals](https://github.com/zpoint/CPython-Internals) - Dive into CPython internals, trying to illustrate every detail of CPython implementation
-- [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
-- [taosdata/TDengine](https://github.com/taosdata/TDengine) - TDengine is an open source, high-performance, cloud native time-series database optimized for Internet of Things (IoT), Connected Cars, Industrial IoT and DevOps.
-- [facebook/zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
-- [ish-app/ish](https://github.com/ish-app/ish) - Linux shell for iOS
-- [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming la
-- [RediSearch/RediSearch](https://github.com/RediSearch/RediSearch) - A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggregations.
-- [netdata/netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
-- [libgit2/pygit2](https://github.com/libgit2/pygit2) - Python bindings for libgit2
-- [redis/redis](https://github.com/redis/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bi
+- [norihiro/alignaudio](https://github.com/norihiro/alignaudio) - a tool to align audio files
+- [gpac/gpac](https://github.com/gpac/gpac) - Modular Multimedia framework for packaging, streaming and playing your favorite content, see http://netflix.gpac.io
+- [TheZoc/sub3dtool](https://github.com/TheZoc/sub3dtool) - Convert subtitle to 3D (ASS Format) to use with VLC or MPlayer
+- [ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick) - 🧙‍♂️ ImageMagick 7
 
 ## C# # 
 
-- [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) - Integrate cutting-edge LLM technology quickly and easily into your apps
-- [cxfksword/jellyfin-plugin-metashark](https://github.com/cxfksword/jellyfin-plugin-metashark) - jellyfin电影元数据插件
-- [dotnet/maui](https://github.com/dotnet/maui) - .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.
-- [actions/runner](https://github.com/actions/runner) - The Runner for GitHub Actions :rocket:
+- [KryptoST/SRTranslatorGUI](https://github.com/KryptoST/SRTranslatorGUI) - SRT files translator GUI
+- [ALIILAPRO/dns-changer](https://github.com/ALIILAPRO/dns-changer) - یه برنامه ساده برای دسترسی به سایت های تحریم شده
+- [wolfgarbe/SymSpell](https://github.com/wolfgarbe/SymSpell) - SymSpell: 1 million times faster spelling correction & fuzzy search through Symmetric Delete spelling correction algorithm
+- [ArdeshirV/ArdeshirV.Tools.QrCode](https://github.com/ArdeshirV/ArdeshirV.Tools.QrCode) - QR Code Generator
+- [ArdeshirV/DigitConvertor](https://github.com/ArdeshirV/DigitConvertor) - DigitConvertor provides conversion from western numbers to/from Persian/Arabic numbers and also provides conversion from digital numbers to Persian-alphabetic numbers.
+- [ArdeshirV/KnightsTour](https://github.com/ArdeshirV/KnightsTour) - Knight's tour is a classic computer problem; Here I provided my very own method to solve this classic problem with black-box approach. I developed this algorithm when I was in high school. Maybe it's 
+- [ArdeshirV/QrCodeGeneratorWithLogo](https://github.com/ArdeshirV/QrCodeGeneratorWithLogo) - QrCodeGeneratorWithLogo Provides a QR code generator that let you embed a predefined or custom logo in your QR code
+- [ArdeshirV/ArdeshirV.Forms](https://github.com/ArdeshirV/ArdeshirV.Forms) - ArdeshirV.Forms is a customized version of everyday windows .Net forms like About Box, Error Handler, Splash Screen and my base windows form with many fantastic ability.
+- [Bazzu85/MKVmergeBatcher](https://github.com/Bazzu85/MKVmergeBatcher) - Create/execute custom created models to batch you Mkvmerge work
+- [icsharpcode/SharpZipLib](https://github.com/icsharpcode/SharpZipLib) - #ziplib is a Zip, GZip, Tar and BZip2 library written entirely in C# for the .NET platform.
+- [oliverfei/KeyboardKinect](https://github.com/oliverfei/KeyboardKinect) - 
+- [oliverfei/OCBusTracker](https://github.com/oliverfei/OCBusTracker) - A simple UWP app for keeping track of City of Ottawa buses.
+- [oliverfei/BodyPoseEstimatorVRUnity](https://github.com/oliverfei/BodyPoseEstimatorVRUnity) - A unity project that demonstrates body pose approximation for VR applications using a feedforward neural network
 
 ## C++ 
 
-- [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch) - Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK soon
-- [ByConity/ByConity](https://github.com/ByConity/ByConity) - ByConity is an open source cloud data warehouse
-- [yuzu-emu/yuzu](https://github.com/yuzu-emu/yuzu) - Nintendo Switch Emulator
-- [Tencent/libpag](https://github.com/Tencent/libpag) - The official rendering library for PAG (Portable Animated Graphics) files that renders After Effects animations natively across multiple platforms.
-- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue
-- [ytsaurus/ytsaurus](https://github.com/ytsaurus/ytsaurus) - YTsaurus is a scalable and fault-tolerant open-source big data platform.
-- [Snapchat/KeyDB](https://github.com/Snapchat/KeyDB) - A Multithreaded Fork of Redis
-- [google/cdc-file-transfer](https://github.com/google/cdc-file-transfer) - Tools for synching and streaming files from Windows to Linux
-- [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler using LLVM
-- [alibaba/havenask](https://github.com/alibaba/havenask) - 
-- [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
-- [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an in-process SQL OLAP Database Management System
-- [cloudflare/workerd](https://github.com/cloudflare/workerd) - The JavaScript / Wasm runtime that powers Cloudflare Workers
-- [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
-- [opencurve/curve](https://github.com/opencurve/curve) - Curve is a sandbox project hosted by the CNCF Foundation. It's cloud-native, high-performance, and easy to operate. Curve is an open-source distributed storage system for block and shared file storage
-- [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
-- [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, sm
+- [THIS-IS-NOT-A-BACKUP/MKVToolNix](https://github.com/THIS-IS-NOT-A-BACKUP/MKVToolNix) - 
+- [ArdeshirV/FractalX](https://github.com/ArdeshirV/FractalX) - FractalX demonstrates 3 simple fractals: Sierpinski triangle, snow and tree.
 - [PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle) - PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）
-- [ydb-platform/ydb](https://github.com/ydb-platform/ydb) - YDB is an open source Distributed SQL Database that combines high availability and scalability with strong consistency and ACID transactions
-- [pingcap/tiflash](https://github.com/pingcap/tiflash) - The analytical engine for TiDB and TiDB Cloud. Try free: https://tidbcloud.com/free-trial
-- [taichi-dev/taichi](https://github.com/taichi-dev/taichi) - Productive & portable high-performance programming in Python.
-- [oceanbase/oceanbase](https://github.com/oceanbase/oceanbase) - OceanBase is an enterprise distributed relational database with high availability, high performance, horizontal scalability, and compatibility with SQL standards.
-- [pixie-io/pixie](https://github.com/pixie-io/pixie) - Instant Kubernetes-Native Application Observability
-- [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
-- [vesoft-inc/nebula](https://github.com/vesoft-inc/nebula) - A distributed, fast open-source graph database featuring horizontal scalability and high availability
-- [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
-- [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).
-- [versatica/mediasoup](https://github.com/versatica/mediasoup) - Cutting Edge WebRTC Video Conferencing
-- [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
-- [pybind/pybind11](https://github.com/pybind/pybind11) - Seamless operability between C++11 and Python
-- [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high-efficiency, real-time video server supporting RTMP, WebRTC, HLS, HTTP-FLV, SRT, MPEG-DASH, and GB28181.
-- [facebook/watchman](https://github.com/facebook/watchman) - Watches files and records, or triggers actions, when they change.
-- [falcosecurity/falco](https://github.com/falcosecurity/falco) - Cloud Native Runtime Security
-- [opencv/opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
-- [envoyproxy/envoy](https://github.com/envoyproxy/envoy) - Cloud-native high-performance edge/middle/service proxy
-- [apple/foundationdb](https://github.com/apple/foundationdb) - FoundationDB - the open source, distributed, transactional key-value store
-- [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a free analytics DBMS for big data
-- [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
-- [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree
-- [ceph/ceph](https://github.com/ceph/ceph) - Ceph is a distributed object, block, and file storage platform
-- [apple/swift](https://github.com/apple/swift) - The Swift Programming Language
-- [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
-- [grpc/grpc](https://github.com/grpc/grpc) - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
-- [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format
+- [mozilla/DeepSpeech](https://github.com/mozilla/DeepSpeech) - DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.
 
 ## CSS 
 
-- [thinkingjimmy/Learning-Prompt](https://github.com/thinkingjimmy/Learning-Prompt) - 免费 Prompt Engineering 教程
-- [cocktailpeanut/dalai](https://github.com/cocktailpeanut/dalai) - The simplest way to run LLaMA on your local machine
-- [evildmp/diataxis-documentation-framework](https://github.com/evildmp/diataxis-documentation-framework) - "The Grand Unified Theory of Documentation" (David Laing) - a popular and transformative documentation authoring framework
-- [missing-semester-cn/missing-semester-cn.github.io](https://github.com/missing-semester-cn/missing-semester-cn.github.io) - the CS missing semester Chinese version
-- [Wei-Xia/most-frequent-technology-english-words](https://github.com/Wei-Xia/most-frequent-technology-english-words) - 程序员工作中常见的英语词汇
-- [cncf/landscape](https://github.com/cncf/landscape) - 🌄 The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding or market cap, first and last commits, contributor count
-
-## Clojure 
-
-- [penpot/penpot](https://github.com/penpot/penpot) - Penpot - The Open-Source design & prototyping platform
-- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
-
-## CodeQL 
-
-- [github/codeql](https://github.com/github/codeql) - CodeQL: the libraries and queries that power security researchers around the world, as well as code scanning in GitHub Advanced Security
-
-## Cython 
-
-- [MagicStack/uvloop](https://github.com/MagicStack/uvloop) - Ultra fast asyncio event loop.
+- [0xdolan/roj_dictionary](https://github.com/0xdolan/roj_dictionary) - Roj Dictionary (English - Kurdish)
+- [P-Konstantin/Image_slider](https://github.com/P-Konstantin/Image_slider) - HTML, CSS, JavaScript project
+- [Crazy-Marvin/YouTubeStatsTelegramBot](https://github.com/Crazy-Marvin/YouTubeStatsTelegramBot) - Receive updates of YouTube videos
+- [Itz-fork/Redirect-to-Heroku](https://github.com/Itz-fork/Redirect-to-Heroku) - Get Deploy to Heroku Link with your repo!
+- [h4x4d/FilmFinder](https://github.com/h4x4d/FilmFinder) - 
 
 ## Dart 
 
-- [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
-- [localsend/localsend](https://github.com/localsend/localsend) - An open source cross-platform alternative to AirDrop
-- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
-- [vandadnp/flutter-tips-and-tricks](https://github.com/vandadnp/flutter-tips-and-tricks) - A Collection of Flutter and Dart Tips and Tricks
-- [bytedance/flutter_ume](https://github.com/bytedance/flutter_ume) - UME is an in-app debug kits platform for Flutter. Produced by Flutter Infra team of ByteDance
-- [felangel/bloc](https://github.com/felangel/bloc) - A predictable state management library that helps implement the BLoC design pattern
-- [OpenFlutter/fluwx](https://github.com/OpenFlutter/fluwx) - Flutter版微信SDK.WeChat SDK for flutter.
-- [TheAlphamerc/flutter_twitter_clone](https://github.com/TheAlphamerc/flutter_twitter_clone) - Fully functional Twitter clone built in  flutter framework using Firebase realtime database and storage
-- [mitesh77/Best-Flutter-UI-Templates](https://github.com/mitesh77/Best-Flutter-UI-Templates) - completely free for everyone. Its build-in Flutter Dart.
-- [fluttercandies/wechat_flutter](https://github.com/fluttercandies/wechat_flutter) - wechat_flutter is Flutter version WeChat, an excellent Flutter instant messaging IM open source library!
-- [flutter/samples](https://github.com/flutter/samples) - A collection of Flutter examples and demos
-- [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
-- [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
+- [Itz-fork/Bypasser-CLI](https://github.com/Itz-fork/Bypasser-CLI) - CLI for bypass.vip api
+- [DinoLeung/TeleDart](https://github.com/DinoLeung/TeleDart) - A Dart library interfacing with the latest Telegram Bot API.
+- [Itz-fork/Dart-Tg-Bot](https://github.com/Itz-fork/Dart-Tg-Bot) - Test telegram bot written in dart using teledart package
 
 ## Dockerfile 
 
-- [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘清单(速查表)
-- [Zenika/alpine-chrome](https://github.com/Zenika/alpine-chrome) - Chrome Headless docker images built upon alpine official image
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (May 2023)
+- [divideprojects/docker-telegram-bot-api](https://github.com/divideprojects/docker-telegram-bot-api) - Auto build repository for 🐳 docker image of telegram-bot-api using Github Actions
+- [gautamajay52/heroku-stack-container-repo](https://github.com/gautamajay52/heroku-stack-container-repo) - After deploying this repo your Heroku app will have stack as container. After that you just have to deploy your own original app.
+- [samadii/ubuntu-desktop-on-heroku](https://github.com/samadii/ubuntu-desktop-on-heroku) - A Heroku install of Ubuntu 20.10 (Groovy Gorilla), with the XFCE desktop environment and VNC
 
-## Elixir 
+## EJS 
 
-- [adriankumpf/teslamate](https://github.com/adriankumpf/teslamate) - A self-hosted data logger for your Tesla  🚘
-- [phoenixframework/phoenix](https://github.com/phoenixframework/phoenix) - Peace of mind from prototype to production
-- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open-source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
-- [supabase/realtime](https://github.com/supabase/realtime) - Broadcast, Presence, and Postgres Changes via WebSockets
+- [viperadnan-git/tiiny](https://github.com/viperadnan-git/tiiny) - Shorten your long URLs in just a click.
+
+## Fluent 
+
+- [xditya/ChannelActionsBot](https://github.com/xditya/ChannelActionsBot) - Telegram bot to auto approve chat join requests.
 
 ## Go 
 
-- [paypal/junodb](https://github.com/paypal/junodb) - JunoDB is PayPal's home-grown secure, consistent and highly available key-value store providing low, single digit millisecond, latency at any scale.
-- [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
-- [containers/skopeo](https://github.com/containers/skopeo) - Work with remote images registries - retrieving information, images, signing content
-- [frain-dev/convoy](https://github.com/frain-dev/convoy) - Open Source Webhooks Gateway; For both incoming & outgoing events.
-- [wechatpay-apiv3/wechatpay-go](https://github.com/wechatpay-apiv3/wechatpay-go) - 微信支付 APIv3 的官方 Go Library
-- [kubernetes/kompose](https://github.com/kubernetes/kompose) - Convert Compose to Kubernetes
-- [k0sproject/k0s](https://github.com/k0sproject/k0s) - k0s - The Zero Friction Kubernetes
-- [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) - :robot: Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. LocalA
-- [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) - Giving Kubernetes Superpowers to everyone
-- [ConnectAI-E/Feishu-OpenAI](https://github.com/ConnectAI-E/Feishu-OpenAI) - 🎒 飞书  ×（GPT-4 + DALL·E + Whisper）=  飞一般的工作体验  🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀
-- [lwch/natpass](https://github.com/lwch/natpass) - 🔥居家办公，远程开发神器
-- [weaviate/weaviate](https://github.com/weaviate/weaviate) - Weaviate is an open source vector database that stores both objects and vectors, allowing for combining vector search with structured filtering with the fault-tolerance and scalability of a cloud-nati
-- [openfga/openfga](https://github.com/openfga/openfga) - A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar
-- [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go
-- [horizoncd/horizon](https://github.com/horizoncd/horizon) - Production-Grade GitOps CD PlatForm For CloudNative Applications, MiddleWares, etc.
-- [ServiceWeaver/weaver](https://github.com/ServiceWeaver/weaver) - Programming framework for writing and deploying cloud applications.
-- [flipt-io/flipt](https://github.com/flipt-io/flipt) - An open source, self-hosted feature flag solution
-- [go-olive/olive](https://github.com/go-olive/olive) - Live Stream Recorder                       直播录制/录播
-- [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The open source high performance data integration platform built for developers.
-- [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵
-- [mjl-/mox](https://github.com/mjl-/mox) - modern full-featured open source secure mail server for low-maintenance self-hosted email
-- [hashicorp/golang-lru](https://github.com/hashicorp/golang-lru) - Golang LRU cache
-- [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
-- [dtm-labs/dtm](https://github.com/dtm-labs/dtm) - A distributed transaction framework, supports workflow, saga, tcc, xa, 2-phase message, outbox patterns, supports many languages.
-- [GoogleContainerTools/kpt](https://github.com/GoogleContainerTools/kpt) - Automate Kubernetes Configuration Editing
-- [GoogleContainerTools/kpt-config-sync](https://github.com/GoogleContainerTools/kpt-config-sync) - ConfigSync - used to sync Git, OCI and Helm charts to your clusters.  Part of KPT.
-- [alexellis/arkade](https://github.com/alexellis/arkade) - Open Source Marketplace For Developer Tools
-- [txn2/kubefwd](https://github.com/txn2/kubefwd) - Bulk port forwarding Kubernetes services for local development.
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦
-- [alicebob/miniredis](https://github.com/alicebob/miniredis) - Pure Go Redis server for Go unittests
-- [sourcegraph/conc](https://github.com/sourcegraph/conc) - Better structured concurrency for go
-- [carina-io/carina](https://github.com/carina-io/carina) - Carina: an high performance and ops-free local storage for kubernetes
-- [go-acme/lego](https://github.com/go-acme/lego) - Let's Encrypt/ACME client and library written in Go
-- [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) - A PDF processor written in Go.
-- [sundowndev/phoneinfoga](https://github.com/sundowndev/phoneinfoga) - Information gathering framework for phone numbers
-- [microcosm-cc/bluemonday](https://github.com/microcosm-cc/bluemonday) - bluemonday: a fast golang HTML sanitizer (inspired by the OWASP Java HTML Sanitizer) to scrub user generated content of XSS
-- [alist-org/alist](https://github.com/alist-org/alist) - 🗂️A file list program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。
-- [Permify/permify](https://github.com/Permify/permify) - Permify is an open-source authorization service inspired by Google Zanzibar.
-- [google/osv-scanner](https://github.com/google/osv-scanner) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
-- [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) - Ready-to-use RTSP / RTMP / LL-HLS / WebRTC server and proxy that allows to read, publish and proxy video and audio streams. Formerly known as rtsp-simple-server.
-- [gobackup/gobackup](https://github.com/gobackup/gobackup) - 🗄 CLI tool for backup your databases, files to FTP / SCP / S3 / GCS and other cloud storages.
-- [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
-- [thangchung/go-coffeeshop](https://github.com/thangchung/go-coffeeshop) - ☕ A practical event-driven microservices demo built with Golang. Nomad, Consul Connect, Vault, and Terraform for deployment
-- [MichaelMure/git-bug](https://github.com/MichaelMure/git-bug) - Distributed, offline-first bug tracker embedded in git, with bridges
-- [stashapp/stash](https://github.com/stashapp/stash) - An organizer for your porn, written in Go.  Documentation:  https://docs.stashapp.cc
-- [runfinch/finch](https://github.com/runfinch/finch) - The Finch CLI an open source client for container development
-- [shomali11/go-interview](https://github.com/shomali11/go-interview) - Collection of Technical Interview Questions solved with Go
-- [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
-- [go-faker/faker](https://github.com/go-faker/faker) - Go (Golang) Fake Data Generator for Struct, previously https://github.com/bxcodec/faker
-- [google/btree](https://github.com/google/btree) - BTree provides a simple, ordered, in-memory data structure for Go programs.
-- [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
-- [memphisdev/memphis](https://github.com/memphisdev/memphis) - Next-Generation Event Processing Platform
-- [uber-go/fx](https://github.com/uber-go/fx) - A dependency injection based application framework for Go.
-- [treeverse/lakeFS](https://github.com/treeverse/lakeFS) - lakeFS - Data version control for your data lake | Git for data
-- [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
-- [projectdiscovery/katana](https://github.com/projectdiscovery/katana) - A next-generation crawling and spidering framework.
-- [ccfos/nightingale](https://github.com/ccfos/nightingale) - An enterprise-level cloud-native observability solution, which can be used as drop-in replacement of Prometheus for alerting and Grafana for visualization.
-- [cockroachdb/errors](https://github.com/cockroachdb/errors) - Go error library with error portability over the network
-- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
-- [komodorio/helm-dashboard](https://github.com/komodorio/helm-dashboard) - The missing UI for Helm - visualize your releases
-- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
-- [tenable/terrascan](https://github.com/tenable/terrascan) - Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.
-- [bwmarrin/snowflake](https://github.com/bwmarrin/snowflake) - A simple to use Go (golang) package to generate or parse Twitter snowflake IDs
-- [answerdev/answer](https://github.com/answerdev/answer) - An open-source knowledge-based community software. You can use it quickly to build Q&A community for your products, customers, teams, and more.
-- [arl/statsviz](https://github.com/arl/statsviz) - :rocket: Visualise Go program runtime metrics in real time in your browser
-- [stefanprodan/podinfo](https://github.com/stefanprodan/podinfo) - Go microservice template for Kubernetes
-- [turbot/steampipe](https://github.com/turbot/steampipe) - Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required.
-- [klauspost/cpuid](https://github.com/klauspost/cpuid) - CPU feature identification for Go
-- [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page
-- [BishopFox/sliver](https://github.com/BishopFox/sliver) - Adversary Emulation Framework
-- [hashicorp/go-version](https://github.com/hashicorp/go-version) - A Go (golang) library for parsing and verifying versions and version constraints.
-- [inlets/mixctl](https://github.com/inlets/mixctl) - A tiny TCP load balancer 🍸
-- [vmware-tanzu/kubeapps](https://github.com/vmware-tanzu/kubeapps) - A web-based UI for deploying and managing applications in Kubernetes clusters
-- [mitchellh/mapstructure](https://github.com/mitchellh/mapstructure) - Go library for decoding generic map values into native Go structures and vice versa.
-- [TykTechnologies/tyk](https://github.com/TykTechnologies/tyk) - Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols
-- [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
-- [earthly/earthly](https://github.com/earthly/earthly) - Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby.
-- [guangzhengli/k8s-tutorials](https://github.com/guangzhengli/k8s-tutorials) - k8s tutorials | k8s 教程
-- [teivah/100-go-mistakes](https://github.com/teivah/100-go-mistakes) - 📖 100 Go Mistakes and How to Avoid Them
-- [hibiken/asynq](https://github.com/hibiken/asynq) - Simple, reliable, and efficient distributed task queue in Go
-- [cornelk/hashmap](https://github.com/cornelk/hashmap) - A Golang lock-free thread-safe HashMap optimized for fastest read access.
-- [sorintlab/stolon](https://github.com/sorintlab/stolon) - PostgreSQL cloud native High Availability and more.
-- [jetpack-io/devbox](https://github.com/jetpack-io/devbox) - Instant, easy, and predictable development environments
-- [cloudflare/tableflip](https://github.com/cloudflare/tableflip) - Graceful process restarts in Go
-- [coder/coder](https://github.com/coder/coder) - A tool that provisions remote development environments via Terraform
-- [grpc/grpc-go](https://github.com/grpc/grpc-go) - The Go language implementation of gRPC. HTTP/2 based RPC
-- [variadico/noti](https://github.com/variadico/noti) - Monitor a process and trigger a notification.
-- [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats
-- [vicanso/go-charts](https://github.com/vicanso/go-charts) - A charts library for Golang
-- [tylertreat/comcast](https://github.com/tylertreat/comcast) - Simulating shitty network connections so you can build better systems.
-- [deepflowio/deepflow](https://github.com/deepflowio/deepflow) - Application Observability using eBPF
-- [emirpasic/gods](https://github.com/emirpasic/gods) - GoDS (Go Data Structures) - Sets, Lists, Stacks, Maps, Trees, Queues, and much more
-- [cosmos72/gomacro](https://github.com/cosmos72/gomacro) - Interactive Go interpreter and debugger with REPL, Eval, generics and Lisp-like macros
-- [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
-- [samber/do](https://github.com/samber/do) - ⚙️  A dependency injection toolkit based on Go 1.18+ Generics.
-- [sourcegraph/doctree](https://github.com/sourcegraph/doctree) - First-class library documentation for every language (based on tree-sitter), with symbol search & more. Lightweight single binary, run locally or self-host. Surfaces usage examples via Sourcegraph.
-- [Altinity/clickhouse-backup](https://github.com/Altinity/clickhouse-backup) - Tool for easy ClickHouse backup and restore with cloud storages support
-- [cubefs/cubefs](https://github.com/cubefs/cubefs) - CubeFS is a cloud native file storage
-- [cloudwego/hertz](https://github.com/cloudwego/hertz) - Go HTTP framework with high-performance and strong-extensibility for building micro-services.
-- [go-mysql-org/go-mysql](https://github.com/go-mysql-org/go-mysql) - a powerful mysql toolset with Go
-- [hashicorp/raft](https://github.com/hashicorp/raft) - Golang implementation of the Raft consensus protocol
-- [devstream-io/devstream](https://github.com/devstream-io/devstream) - DevStream: the open-source DevOps toolchain manager (DTM).
-- [alibaba/IOC-golang](https://github.com/alibaba/IOC-golang) - 一款服务于 Go 开发者的依赖注入框架，方便搭建任何 Go 应用。 A Golang depenedency injection framework, helps developers to build any go application.
-- [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
-- [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find and verify credentials
-- [samber/mo](https://github.com/samber/mo) - 🦄  Monads and popular FP abstractions, powered by Go 1.18+ Generics (Option, Result, Either...)
-- [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and cluste
-- [reugn/go-quartz](https://github.com/reugn/go-quartz) - Minimalist and zero-dependency scheduling library for Go
-- [clusternet/clusternet](https://github.com/clusternet/clusternet) - [CNCF Sandbox Project] Managing your Kubernetes clusters (including public, private, edge, etc.) as easily as visiting the Internet ⎈
-- [d4l3k/go-pry](https://github.com/d4l3k/go-pry) - An interactive REPL for Go that allows you to drop into your code at any point.
-- [labring/sealos](https://github.com/labring/sealos) - Sealos is a Kubernetes distribution, one-stop solution for your public&private cloud.
-- [go-chi/chi](https://github.com/go-chi/chi) - lightweight, idiomatic and composable router for building Go HTTP services
-- [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) - Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.
-- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
-- [helmfile/helmfile](https://github.com/helmfile/helmfile) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
-- [silenceper/wechat](https://github.com/silenceper/wechat) - WeChat SDK for Go （微信SDK：简单、易用）
-- [aquasecurity/tracee](https://github.com/aquasecurity/tracee) - Linux Runtime Security and Forensics using eBPF
-- [ko-build/ko](https://github.com/ko-build/ko) - Build and deploy Go applications
-- [google/go-cloud](https://github.com/google/go-cloud) - The Go Cloud Development Kit (Go CDK): A library and tools for open cloud development in Go.
-- [bufbuild/connect-go](https://github.com/bufbuild/connect-go) - Simple, reliable, interoperable. A better gRPC.
-- [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
-- [rocboss/paopao-ce](https://github.com/rocboss/paopao-ce) - 🔥An artistic "twitter like" community built on gin+zinc+vue+ts 清新文艺微社区
-- [megaease/easeprobe](https://github.com/megaease/easeprobe) - A simple, standalone, and lightweight tool that can do health/status checking, written in Go.
-- [go-swagger/go-swagger](https://github.com/go-swagger/go-swagger) - Swagger 2.0 implementation for go
-- [bitfield/script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go
-- [tetratelabs/wazero](https://github.com/tetratelabs/wazero) - wazero: the zero dependency WebAssembly runtime for Go developers
-- [envoyproxy/gateway](https://github.com/envoyproxy/gateway) - Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway
-- [luk4z7/go-concurrency-guide](https://github.com/luk4z7/go-concurrency-guide) - Practical concurrency guide in Go, communication by channels, patterns
-- [txthinking/brook](https://github.com/txthinking/brook) - A cross-platform programmable network tool. 一个跨平台可编程网络工具.
-- [bufbuild/protoc-gen-validate](https://github.com/bufbuild/protoc-gen-validate) - Protocol Buffer Validation - Checkout the new `protovalidate` project
-- [miniflux/v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader
-- [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
-- [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) - A lightweight log analytic and data visualize platform  built on clickhouse.
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
-- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
-- [fullstorydev/grpcui](https://github.com/fullstorydev/grpcui) - An interactive web UI for gRPC, along the lines of postman
-- [koordinator-sh/koordinator](https://github.com/koordinator-sh/koordinator) - A QoS-based scheduling system brings optimal layout and status to workloads such as microservices, web services, big data jobs, AI jobs, etc.
-- [getporter/porter](https://github.com/getporter/porter) - Porter enables you to package your application artifact, client tools, configuration and deployment logic together as an installer that you can distribute, and install with a single command.
-- [orlangure/gnomock](https://github.com/orlangure/gnomock) - Test your code without writing mocks with ephemeral Docker containers 📦 Setup popular services with just a couple lines of code ⏱️ No bash, no yaml, only code 💻
-- [tilt-dev/tilt](https://github.com/tilt-dev/tilt) - Define your dev environment as code. For microservice apps on Kubernetes.
-- [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
-- [zincsearch/zincsearch](https://github.com/zincsearch/zincsearch) - ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
-- [melbahja/goph](https://github.com/melbahja/goph) - 🤘 The native golang ssh client to execute your commands over ssh connection. 🚀🚀
-- [trustwallet/assets](https://github.com/trustwallet/assets) - A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.
-- [smallstep/cli](https://github.com/smallstep/cli) - 🧰  A zero trust swiss army knife for working with X509, OAuth, JWT, OATH OTP, etc.
-- [projectdiscovery/httpx](https://github.com/projectdiscovery/httpx) - httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.
-- [grafana/mimir](https://github.com/grafana/mimir) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
-- [sealerio/sealer](https://github.com/sealerio/sealer) - Build, Share and Run Both Your Kubernetes Cluster and Distributed Applications  (Project under CNCF)
-- [dagger/dagger](https://github.com/dagger/dagger) - A programmable CI/CD engine that runs your pipelines in containers
-- [google/go-licenses](https://github.com/google/go-licenses) - A lightweight tool to report on the licenses used by a Go package and its dependencies. Highlight! Versioned external URL to licenses can be found at the same time.
-- [imroc/req](https://github.com/imroc/req) - Simple Go HTTP client with Black Magic
-- [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Love your cloud bill!
-- [pterm/pterm](https://github.com/pterm/pterm) - ✨ #PTerm is a modern Go module to easily beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more 🚀 It's completely configurable and 100% cross-pl
-- [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
-- [googleforgames/agones](https://github.com/googleforgames/agones) - Dedicated Game Server Hosting and Scaling for Multiplayer Games on Kubernetes
-- [YaoApp/yao](https://github.com/YaoApp/yao) - :rocket: A performance app engine to create web services and applications in minutes.Suitable for AI, IoT, Industrial Internet, Connected Vehicles, DevOps, Energy, Finance and many other use-cases.
-- [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) - Kubernetes-native Job Queueing
-- [rogchap/v8go](https://github.com/rogchap/v8go) - Execute JavaScript from Go
-- [fortio/fortio](https://github.com/fortio/fortio) - Fortio load testing library, command line tool, advanced echo server and web UI in go (golang). Allows to specify a set query-per-second load and record latency histograms and other useful stats.
-- [pyrra-dev/pyrra](https://github.com/pyrra-dev/pyrra) - Making SLOs with Prometheus manageable, accessible, and easy to use for everyone!
-- [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
-- [prest/prest](https://github.com/prest/prest) - PostgreSQL ➕ REST, low-code, simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new
-- [alibaba/open-local](https://github.com/alibaba/open-local) - cloud-native local storage management system
-- [panjf2000/ants](https://github.com/panjf2000/ants) - 🐜🐜🐜 ants is a high-performance and low-cost goroutine pool in Go./ ants 是一个高性能且低损耗的 goroutine 池。
-- [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
-- [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller) - Kubernetes controller for GitHub Actions self-hosted runners
-- [kr/pretty](https://github.com/kr/pretty) - Pretty printing for Go values
-- [uptrace/uptrace](https://github.com/uptrace/uptrace) - Open source APM: OpenTelemetry traces, metrics, and logs
-- [benthosdev/benthos](https://github.com/benthosdev/benthos) - Fancy stream processing made operationally mundane
-- [codenotary/immudb](https://github.com/codenotary/immudb) - immudb - immutable database based on zero trust, SQL/Key-Value/Document model, tamperproof, data change history
-- [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
-- [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client (formerly Argo Tunnel)
-- [hashicorp/boundary](https://github.com/hashicorp/boundary) - Boundary enables identity-based access management for dynamic infrastructure.
-- [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
-- [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
-- [asynkron/protoactor-go](https://github.com/asynkron/protoactor-go) - Proto Actor - Ultra fast distributed actors for Go, C# and Java/Kotlin
-- [Shopify/toxiproxy](https://github.com/Shopify/toxiproxy) - :alarm_clock: :fire: A TCP proxy to simulate network and system conditions for chaos and resiliency testing
-- [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
-- [go-gorm/gen](https://github.com/go-gorm/gen) - Gen:  Friendly & Safer GORM powered by Code Generation
-- [bytebase/bytebase](https://github.com/bytebase/bytebase) - Database DevOps and CI/CD for teams. https://www.bytebase.com
-- [kubesphere/ks-devops](https://github.com/kubesphere/ks-devops) - This is a cloud-native application that focuses on the DevOps area.
-- [alibaba/open-simulator](https://github.com/alibaba/open-simulator) - K8s cluster simulator for capacity planning
-- [datreeio/datree](https://github.com/datreeio/datree) - Prevent Kubernetes misconfigurations from reaching production (again 😤 )! From code to cloud, Datree provides an E2E policy enforcement solution to run automatic checks for rule violations. See our do
-- [karmada-io/karmada](https://github.com/karmada-io/karmada) - Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration
-- [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
-- [flipped-aurora/gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - 基于vite+vue3+gin搭建的开发基础平台（支持TS,JS混用），集成jwt鉴权，权限管理，动态路由，显隐可控组件，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器,chatGPT自动查表等开发必备功能。
-- [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
-- [loft-sh/vcluster](https://github.com/loft-sh/vcluster) - vcluster - Create fully functional virtual Kubernetes clusters - Each vcluster runs inside a namespace of the underlying k8s cluster. It's cheaper than creating separate full-blown clusters and it off
-- [google/gnostic](https://github.com/google/gnostic) - A compiler for APIs described by the OpenAPI Specification with plugins for code generation and other API support tasks.
-- [shipwright-io/build](https://github.com/shipwright-io/build) - Shipwright - a framework for building container images on Kubernetes
-- [OpenFunction/OpenFunction](https://github.com/OpenFunction/OpenFunction) - Cloud Native Function-as-a-Service Platform (CNCF Sandbox Project)
-- [penglongli/gin-metrics](https://github.com/penglongli/gin-metrics) - gin-gonic/gin  metrics for prometheus.
-- [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) - IM即时通讯
-- [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
-- [submariner-io/submariner](https://github.com/submariner-io/submariner) - Connect all your Kubernetes clusters, no matter where they are in the world.
-- [cloudwego/netpoll](https://github.com/cloudwego/netpoll) - A high-performance non-blocking I/O networking framework focusing on RPC scenarios.
-- [go-co-op/gocron](https://github.com/go-co-op/gocron) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron
-- [uber-go/automaxprocs](https://github.com/uber-go/automaxprocs) - Automatically set GOMAXPROCS to match Linux container CPU quota.
-- [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
-- [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing and converting remote images
-- [go-pay/gopay](https://github.com/go-pay/gopay) - 微信、支付宝、通联支付、PayPal、Apple 的Go版本SDK。【极简、易用的聚合支付SDK】
-- [kubescape/kubescape](https://github.com/kubescape/kubescape) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes 
-- [sourcegraph/sourcegraph](https://github.com/sourcegraph/sourcegraph) - Code Intelligence Platform
-- [go-resty/resty](https://github.com/go-resty/resty) - Simple HTTP and REST client library for Go
-- [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.
-- [aws/aws-lambda-go](https://github.com/aws/aws-lambda-go) - Libraries, samples and tools to help Go developers develop AWS Lambda functions.
-- [golang-module/carbon](https://github.com/golang-module/carbon) - A simple, semantic and developer-friendly golang package for datetime
-- [homeport/havener](https://github.com/homeport/havener) - /ˈheɪvənə/ - Think of it as a swiss army knife for Kubernetes tasks
-- [marmotedu/iam](https://github.com/marmotedu/iam) - 企业级的 Go 语言实战项目：认证和授权系统（带配套课程）
-- [klintcheng/kim](https://github.com/klintcheng/kim) - King IM Cloud 分布式即时通信云IM
-- [heroiclabs/nakama](https://github.com/heroiclabs/nakama) - Distributed server for social and realtime games and apps.
-- [twitchtv/twirp](https://github.com/twitchtv/twirp) - A simple RPC framework with protobuf service definitions
-- [golang-jwt/jwt](https://github.com/golang-jwt/jwt) - Community maintained clone of https://github.com/dgrijalva/jwt-go
-- [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
-- [emicklei/go-restful](https://github.com/emicklei/go-restful) - package for building REST-style Web Services using Go
-- [didi/sharingan](https://github.com/didi/sharingan) - Sharingan（写轮眼）是一个基于golang的流量录制回放工具，适合项目重构、回归测试等。
-- [erda-project/erda](https://github.com/erda-project/erda) - An enterprise-grade Cloud-Native application platform for Kubernetes.
-- [cloudwego/kitex](https://github.com/cloudwego/kitex) - Go RPC framework with high-performance and strong-extensibility for building micro-services.
-- [tinode/chat](https://github.com/tinode/chat) - Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots
-- [openelb/openelb](https://github.com/openelb/openelb) - Load Balancer Implementation for Kubernetes in Bare-Metal, Edge, and Virtualization
-- [gorse-io/gorse](https://github.com/gorse-io/gorse) - Gorse open source recommender system engine
-- [livekit/livekit](https://github.com/livekit/livekit) - End-to-end stack for WebRTC. SFU media server and SDKs.
-- [tkestack/tke](https://github.com/tkestack/tke) - Native Kubernetes container management platform supporting multi-tenant and multi-cluster
+- [EverythingSuckz/github-telegram-notify](https://github.com/EverythingSuckz/github-telegram-notify) - Actions that sends commit updates of a repository to any chat in Telegram
+- [utkusen/wholeaked](https://github.com/utkusen/wholeaked) - a file-sharing tool that allows you to find the responsible person in case of a leakage
+- [Brawl345/rssbot](https://github.com/Brawl345/rssbot) - RSS Bot for the Telegram Messenger
+- [c0re100/TelegramProfileVideoBot](https://github.com/c0re100/TelegramProfileVideoBot) - A userbot to help you upload a profile video without compression
+- [AnjanaMadu/YTSearch](https://github.com/AnjanaMadu/YTSearch) - A go (golang) library to search videos in YouTube.
+- [1995parham/koochooloo](https://github.com/1995parham/koochooloo) - Make your URLs shorter (smaller) and more memorable in Go
+- [celestix/AccountGeneratorBot](https://github.com/celestix/AccountGeneratorBot) - Golang Based Account Generator Telegram Bot
+- [ShivangKakkar/Telegraph-Go-Bot](https://github.com/ShivangKakkar/Telegraph-Go-Bot) - Telegram Bot based on Telegra.ph API
+- [gaowanliang/DownloadBot](https://github.com/gaowanliang/DownloadBot) - (Currently) 🤖 A distributed cross-platform Telegram Bot that can control your Aria2 server, control server files and also upload to OneDrive / Google Drive.
+- [ShivangKakkar/telegraph](https://github.com/ShivangKakkar/telegraph) - Golang Bindings for Telegraph API
+- [AnjanaMadu/LinkShortner](https://github.com/AnjanaMadu/LinkShortner) - A simple Webapp + API to short long links. Written in Go Lang and SQL.
+- [reaitten/flowerss-bot](https://github.com/reaitten/flowerss-bot) - A RSS telegram bot.
+- [PaulSonOfLars/gotgbot](https://github.com/PaulSonOfLars/gotgbot) - Autogenerated Go wrapper for the telegram API. Inspired by the python-telegram-bot library.
+- [donno2048/recurzip](https://github.com/donno2048/recurzip) - recursive zip and gzip files
+- [AnjanaMadu/FileServer](https://github.com/AnjanaMadu/FileServer) - This is a simple file server that allows you to upload files to the server
+- [divideprojects/Alita_Robot](https://github.com/divideprojects/Alita_Robot) - 🤖 Alita is a Telegram Group management bot made using Gotgbot and Go, which makes it modern and ⏩ faster than most of the Telegram chat managers. 💬
+- [celestix/gotgproto](https://github.com/celestix/gotgproto) - A wrapper for Go Telegram Client, i.e. gotd/td.
+- [divideprojects/RestrictChannelRobot](https://github.com/divideprojects/RestrictChannelRobot) - 🤖 Simple telegram Bot to ban Anonymous Channel 📢 users in a group.
 - [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
-- [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source Identity and Access Management (IAM) / Single-Sign-On (SSO) platform powered by Casbin and AI gateway with web UI supporting OAuth 2.0, OIDC, SAML and OpenAI ChatGPT
-- [SmartKeyerror/Psyduck](https://github.com/SmartKeyerror/Psyduck) - Record CS knowlegement with XMind, version 2.0. 使用 XMind 记录 Linux 操作系统，网络，C++，Golang 以及数据库的一些设计
-- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source
-- [kuberhealthy/kuberhealthy](https://github.com/kuberhealthy/kuberhealthy) - A Kubernetes operator for running synthetic checks as pods. Works great with Prometheus!
-- [six-ddc/plow](https://github.com/six-ddc/plow) - A high-performance HTTP benchmarking tool that includes a real-time web UI and terminal display
-- [cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve) - 🌩支持多家云存储的云盘系统 (Self-hosted file management and sharing system, supports multiple storage providers)
-- [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, typically on macOS, for running containerd
-- [gogf/gf](https://github.com/gogf/gf) - GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang.
-- [elastic/beats](https://github.com/elastic/beats) - :tropical_fish: Beats - Lightweight shippers for Elasticsearch & Logstash
-- [chromedp/chromedp](https://github.com/chromedp/chromedp) - A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol.
-- [containerd/accelerated-container-image](https://github.com/containerd/accelerated-container-image) - A production-ready remote container image format (overlaybd) and snapshotter based on block-device.
-- [bettercap/bettercap](https://github.com/bettercap/bettercap) - The Swiss Army knife for 802.11, BLE, IPv4 and IPv6 networks reconnaissance and MITM attacks.
-- [fluxcd/flux2](https://github.com/fluxcd/flux2) - Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.
-- [robfig/cron](https://github.com/robfig/cron) - a cron library for go
-- [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt
-- [metallb/metallb](https://github.com/metallb/metallb) - A network load-balancer implementation for Kubernetes using standard routing protocols
-- [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
-- [keptn/keptn](https://github.com/keptn/keptn) - Cloud-native application life-cycle orchestration. Keptn automates your SLO-driven multi-stage delivery and operations & remediation of your applications.
-- [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework
-- [mholt/archiver](https://github.com/mholt/archiver) - Easily create & extract archives, and compress & decompress files of various formats
-- [grafana/pyroscope](https://github.com/grafana/pyroscope) - Continuous Profiling Platform. Debug performance issues down to a single line of code
-- [ClickHouse/clickhouse-go](https://github.com/ClickHouse/clickhouse-go) - Golang driver for ClickHouse
-- [kubernetes/minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
-- [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go.
-- [88250/lute](https://github.com/88250/lute) - 🎼 一款结构化的 Markdown 引擎，支持 Go 和 JavaScript。A structured Markdown engine that supports Go and JavaScript.
-- [tidwall/redcon](https://github.com/tidwall/redcon) - Redis compatible server framework for Go
-- [golang-design/under-the-hood](https://github.com/golang-design/under-the-hood) - 📚 Go: Under The Hood | Go 语言原本 | https://golang.design/under-the-hood
-- [aws/aws-sdk-go-v2](https://github.com/aws/aws-sdk-go-v2) - AWS SDK for the Go programming language.
-- [berty/berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
-- [dolthub/go-mysql-server](https://github.com/dolthub/go-mysql-server) - A MySQL-compatible relational database with a storage agnostic query engine. Implemented in pure Go.
-- [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Decrypt passwords/cookies/history/bookmarks from the browser. 一款可全平台运行的浏览器数据导出解密工具。
-- [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, distributed relational database built on SQLite
-- [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) - Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
-- [nocalhost/nocalhost](https://github.com/nocalhost/nocalhost) - Nocalhost is Cloud Native Dev Environment.
-- [juicedata/juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3.
-- [cilium/ebpf](https://github.com/cilium/ebpf) - ebpf-go is a pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
-- [fsnotify/fsnotify](https://github.com/fsnotify/fsnotify) - Cross-platform file system notifications for Go.
-- [juicedata/juicesync](https://github.com/juicedata/juicesync) - A tool to move your data between any clouds or regions.
-- [grafana/agent](https://github.com/grafana/agent) - Vendor-neutral programmable observability pipelines.
-- [harvester/harvester](https://github.com/harvester/harvester) - Open source hyperconverged infrastructure (HCI) software
-- [prometheus-community/postgres_exporter](https://github.com/prometheus-community/postgres_exporter) - A PostgreSQL metric exporter for Prometheus
-- [Hackl0us/GeoIP2-CN](https://github.com/Hackl0us/GeoIP2-CN) - 小巧精悍、准确、实用 GeoIP2 数据库
-- [alecthomas/chroma](https://github.com/alecthomas/chroma) - A general purpose syntax highlighter in pure Go
-- [containerd/nerdctl](https://github.com/containerd/nerdctl) - contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
-- [kyverno/kyverno](https://github.com/kyverno/kyverno) - Kubernetes Native Policy Management
-- [appleboy/gin-jwt](https://github.com/appleboy/gin-jwt) - JWT Middleware for Gin framework
-- [kubevela/kubevela](https://github.com/kubevela/kubevela) - The Modern Application Platform.
-- [grafana/tempo](https://github.com/grafana/tempo) - Grafana Tempo is a high volume, minimal dependency distributed tracing backend.
-- [hashicorp/waypoint](https://github.com/hashicorp/waypoint) - A tool to build, deploy, and release any application on any platform.
-- [v2fly/v2ray-core](https://github.com/v2fly/v2ray-core) - A platform for building proxies to bypass network restrictions.
-- [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
-- [cockroachdb/pebble](https://github.com/cockroachdb/pebble) - RocksDB/LevelDB inspired key-value database in Go
-- [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
-- [rongcloud/server-sdk-go](https://github.com/rongcloud/server-sdk-go) - RongCloud Server SDK in Go.
-- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
-- [ent/ent](https://github.com/ent/ent) - An entity framework for Go
-- [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
-- [DNSCrypt/dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
-- [operator-framework/operator-sdk](https://github.com/operator-framework/operator-sdk) - SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding.
-- [imdario/mergo](https://github.com/imdario/mergo) - Mergo: merging Go structs and maps since 2013
-- [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) - Gatekeeper - Policy Controller for Kubernetes
-- [aws/copilot-cli](https://github.com/aws/copilot-cli) - The AWS Copilot CLI is a tool for developers to build, release and operate production ready containerized applications on AWS App Runner or Amazon ECS on AWS Fargate.
-- [stashed/stash](https://github.com/stashed/stash) - 🛅 Backup your Kubernetes Stateful Applications
-- [argoproj-labs/argo-workflows-catalog](https://github.com/argoproj-labs/argo-workflows-catalog) - Argo Workflows Catalog
-- [mergestat/mergestat-lite](https://github.com/mergestat/mergestat-lite) - Query git repositories with SQL. Generate reports, perform status checks, analyze codebases. 🔍 📊
-- [goplus/gop](https://github.com/goplus/gop) - The Go+ programming language is designed for engineering, STEM education, and data science.
-- [shuveb/containers-the-hard-way](https://github.com/shuveb/containers-the-hard-way) - Learning about containers and how they work by creating them the hard way
-- [mongodb/mongo-go-driver](https://github.com/mongodb/mongo-go-driver) - The Official Golang driver for MongoDB
-- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
-- [googleapis/google-api-go-client](https://github.com/googleapis/google-api-go-client) - Auto-generated Google APIs for Go.
-- [go-playground/validator](https://github.com/go-playground/validator) - :100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
-- [hashicorp/nomad](https://github.com/hashicorp/nomad) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and sc
-- [gardener/gardener](https://github.com/gardener/gardener) - Kubernetes-native system managing the full lifecycle of conformant Kubernetes clusters as a service on Alicloud, AWS, Azure, GCP, OpenStack, vSphere, KubeVirt, Hetzner, EquinixMetal, MetalStack, and O
-- [mmcdole/gofeed](https://github.com/mmcdole/gofeed) - Parse RSS, Atom and JSON feeds in Go
-- [douyu/jupiter](https://github.com/douyu/jupiter) - Jupiter: Governance-oriented Microservice Framework.
-- [prometheus/node_exporter](https://github.com/prometheus/node_exporter) - Exporter for machine metrics
-- [google/gops](https://github.com/google/gops) - A tool to list and diagnose Go processes currently running on your system
-- [cortexproject/cortex](https://github.com/cortexproject/cortex) - A horizontally scalable, highly available, multi-tenant, long term Prometheus.
-- [milvus-io/milvus](https://github.com/milvus-io/milvus) - A cloud-native vector database, storage for next generation AI applications
-- [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler) - Descheduler for Kubernetes
-- [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
-- [pingcap/parser](https://github.com/pingcap/parser) - A MySQL Compatible SQL Parser
-- [casbin/casbin](https://github.com/casbin/casbin) - An authorization library that supports access control models like ACL, RBAC, ABAC in Golang
-- [argoproj/argo-events](https://github.com/argoproj/argo-events) - Event-driven automation framework
-- [google/go-containerregistry](https://github.com/google/go-containerregistry) - Go library and CLIs for working with container registries
-- [containerd/containerd](https://github.com/containerd/containerd) - An open and reliable container runtime
-- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative continuous deployment for Kubernetes.
-- [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob
-- [kubereboot/kured](https://github.com/kubereboot/kured) - Kubernetes Reboot Daemon
-- [rivo/tview](https://github.com/rivo/tview) - Terminal UI library with rich, interactive widgets — written in Golang
-- [claudiodangelis/qrcp](https://github.com/claudiodangelis/qrcp) - :zap: Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
-- [volcano-sh/volcano](https://github.com/volcano-sh/volcano) - A Cloud Native Batch System (Project under CNCF)
-- [spf13/afero](https://github.com/spf13/afero) - A FileSystem Abstraction System for Go
-- [WireGuard/wireguard-go](https://github.com/WireGuard/wireguard-go) - Mirror only. Official repository is at https://git.zx2c4.com/wireguard-go
-- [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow engine for Kubernetes
-- [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability
-- [crossplane/crossplane](https://github.com/crossplane/crossplane) - Cloud Native Control Planes
-- [ionorg/ion](https://github.com/ionorg/ion) - Real-Distributed  RTC System by pure Go and Flutter
-- [xtaci/kcptun](https://github.com/xtaci/kcptun) - A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC. Available for ARM, MIPS, 386 and AMD64。N:M 多重化と FEC を備えた KCP に基づく安定した安全なトンネル。 N:M 다중화 및 FEC를 사용하는 KCP 기반의 안정적이고 안전한 터널입니다.  Un tunn
-- [ginuerzh/gost](https://github.com/ginuerzh/gost) - GO Simple Tunnel - a simple tunnel written in golang
-- [Dreamacro/clash](https://github.com/Dreamacro/clash) - A rule-based tunnel in Go.
-- [stakater/Reloader](https://github.com/stakater/Reloader) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you're usin
-- [pingcap/tiup](https://github.com/pingcap/tiup) - A component manager for TiDB
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) - Terraform AWS provider
-- [guonaihong/gout](https://github.com/guonaihong/gout) - gout to become the Swiss Army Knife of the http client @^^@---&gt;  gout 是http client领域的瑞士军刀，小巧，强大，犀利。具体用法可看文档，如使用迷惑或者API用得不爽都可提issues
-- [sideshow/apns2](https://github.com/sideshow/apns2) - ⚡ HTTP/2 Apple Push Notification Service (APNs) push provider for Go — Send push notifications to iOS, tvOS, Safari and OSX apps, using the APNs HTTP/2 protocol.
-- [dosco/graphjin](https://github.com/dosco/graphjin) - GraphJin - Build NodeJS / GO APIs in 5 minutes not weeks
-- [goproxyio/goproxy](https://github.com/goproxyio/goproxy) - A global proxy for Go modules.
-- [google/uuid](https://github.com/google/uuid) - Go package for UUIDs based on RFC 4122 and DCE 1.1: Authentication and Security Services.
-- [ory/keto](https://github.com/ory/keto) - Open Source (Go) implementation of "Zanzibar: Google's Consistent, Global Authorization System". Ships gRPC, REST APIs, newSQL, and an easy and granular permission language. Supports ACL, RBAC, and ot
-- [ory/kratos](https://github.com/ory/kratos) - Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, TOTP, WebAuthn, profile management, identity schemas, social sign in, registration, account recover
-- [fluxcd/flagger](https://github.com/fluxcd/flagger) - Progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments)
-- [kyleconroy/sqlc](https://github.com/kyleconroy/sqlc) - Generate type-safe code from SQL
-- [jackc/pgx](https://github.com/jackc/pgx) - PostgreSQL driver and toolkit for Go
-- [tidwall/tile38](https://github.com/tidwall/tile38) - Real-time Geospatial and Geofencing
-- [bufbuild/buf](https://github.com/bufbuild/buf) - A new way of working with Protocol Buffers.
-- [Shopify/sarama](https://github.com/Shopify/sarama) - Sarama is a Go library for Apache Kafka.
-- [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
-- [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) - Git extension for versioning large files
-- [go-sql-driver/mysql](https://github.com/go-sql-driver/mysql) - Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package
-- [prometheus/blackbox_exporter](https://github.com/prometheus/blackbox_exporter) - Blackbox prober exporter
-- [alberliu/gim](https://github.com/alberliu/gim) - golang写的IM服务器(服务组件形式)
-- [k3d-io/k3d](https://github.com/k3d-io/k3d) - Little helper to run CNCF's k3s in Docker
-- [rancher/local-path-provisioner](https://github.com/rancher/local-path-provisioner) - Dynamically provisioning persistent local storage with Kubernetes
-- [fullstorydev/grpcurl](https://github.com/fullstorydev/grpcurl) - Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers
-- [chaos-mesh/chaos-mesh](https://github.com/chaos-mesh/chaos-mesh) - A Chaos Engineering Platform for Kubernetes.
-- [gwuhaolin/livego](https://github.com/gwuhaolin/livego) - live video streaming server in golang
-- [GoogleCloudPlatform/spark-on-k8s-operator](https://github.com/GoogleCloudPlatform/spark-on-k8s-operator) - Kubernetes operator for managing the lifecycle of Apache Spark applications on Kubernetes.
-- [openkruise/kruise](https://github.com/openkruise/kruise) - Automated management of large-scale applications on Kubernetes (project under CNCF)
-- [bfenetworks/bfe](https://github.com/bfenetworks/bfe) - A modern layer 7 load balancer from baidu
-- [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
-- [dapr/dapr](https://github.com/dapr/dapr) - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
-- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters Runner for Go
-- [runatlantis/atlantis](https://github.com/runatlantis/atlantis) - Terraform Pull Request Automation
-- [traefik/yaegi](https://github.com/traefik/yaegi) - Yaegi is Another Elegant Go Interpreter
-- [google/wire](https://github.com/google/wire) - Compile-time Dependency Injection for Go
-- [onsi/ginkgo](https://github.com/onsi/ginkgo) - A Modern Testing Framework for Go
-- [anacrolix/torrent](https://github.com/anacrolix/torrent) - Full-featured BitTorrent client package and utilities
-- [kubevirt/kubevirt](https://github.com/kubevirt/kubevirt) - Kubernetes Virtualization API and runtime in order to define and manage virtual machines.
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-- [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
-- [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) - Official Go implementation of the Ethereum protocol
-- [quii/learn-go-with-tests](https://github.com/quii/learn-go-with-tests) - Learn Go with test-driven development
-- [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
-- [vmware-archive/octant](https://github.com/vmware-archive/octant) - Highly extensible platform for developers to better understand the complexity of Kubernetes clusters.
-- [urfave/cli](https://github.com/urfave/cli) - A simple, fast, and fun package for building command line apps in Go
-- [elves/elvish](https://github.com/elves/elvish) - Elvish = Expressive Programming Language + Versatile Interactive Shell
-- [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language. Build infrastructure intuitively on any cloud using familiar languages 🚀
-- [valyala/fasthttp](https://github.com/valyala/fasthttp) - Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible
-- [ksync/ksync](https://github.com/ksync/ksync) - Sync files between your local system and a kubernetes cluster.
-- [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
-- [opencontainers/runc](https://github.com/opencontainers/runc) - CLI tool for spawning and running containers according to the OCI specification
-- [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) - Autoscaling components for Kubernetes
-- [stretchr/testify](https://github.com/stretchr/testify) - A toolkit with common assertions and mocks that plays nicely with the standard library
-- [talkgo/night](https://github.com/talkgo/night) - Weekly Go Online Meetup via Bilibili｜Go 夜读｜通过 bilibili 在线直播的方式分享 Go 相关的技术话题，每天大家在微信/telegram/Slack 上及时沟通交流编程技术话题。
-- [kubernetes-sigs/sig-storage-local-static-provisioner](https://github.com/kubernetes-sigs/sig-storage-local-static-provisioner) - Static provisioner of local volumes
-- [vmware-tanzu/sonobuoy](https://github.com/vmware-tanzu/sonobuoy) - Sonobuoy is a diagnostic tool that makes it easier to understand the state of a Kubernetes cluster by running a set of Kubernetes conformance tests and other plugins in an accessible and non-destructi
-- [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
-- [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
-- [rancher/rke](https://github.com/rancher/rke) - Rancher Kubernetes Engine (RKE), an extremely simple, lightning fast Kubernetes distribution that runs entirely within containers.
-- [ory/oathkeeper](https://github.com/ory/oathkeeper) - A cloud native Identity & Access Proxy / API (IAP) and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP(s) requests. Inspired by the BeyondCorp / Zero Trust white 
-- [hashicorp/vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
-- [gorilla/websocket](https://github.com/gorilla/websocket) - A fast, well-tested and widely used WebSocket implementation for Go.
-- [go-kit/kit](https://github.com/go-kit/kit) - A standard library for microservices.
-- [kubernetes/kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) - Add-on agent to generate and expose cluster-level metrics.
-- [projectcontour/contour](https://github.com/projectcontour/contour) - Contour is a Kubernetes ingress controller using Envoy proxy.
-- [dexidp/dex](https://github.com/dexidp/dex) - OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
-- [kyma-project/kyma](https://github.com/kyma-project/kyma) - A flexible and easy way to connect and extend enterprise applications in a cloud-native world
-- [open-policy-agent/opa](https://github.com/open-policy-agent/opa) - An open source, general-purpose policy engine.
-- [kubernetes-sigs/krew](https://github.com/kubernetes-sigs/krew) - 📦 Find and install kubectl plugins
-- [ahmetb/kubectx](https://github.com/ahmetb/kubectx) - Faster way to switch between clusters and namespaces in kubectl
-- [google/mtail](https://github.com/google/mtail) - extract internal monitoring data from application logs for collection in a timeseries database
-- [nsqio/nsq](https://github.com/nsqio/nsq) - A realtime distributed messaging platform
-- [pion/webrtc](https://github.com/pion/webrtc) - Pure Go implementation of the WebRTC API
-- [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) - Kubebuilder - SDK for building Kubernetes APIs using CRDs
-- [google/trillian](https://github.com/google/trillian) - A transparent, highly scalable and cryptographically verifiable data store.
-- [esimov/caire](https://github.com/esimov/caire) - Content aware image resize library
-- [spf13/viper](https://github.com/spf13/viper) - Go configuration with fangs
-- [kedacore/keda](https://github.com/kedacore/keda) - KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
-- [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) - The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️
-- [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
-- [cri-o/cri-o](https://github.com/cri-o/cri-o) - Open Container Initiative-based implementation of Kubernetes Container Runtime Interface
-- [rancher/rancher](https://github.com/rancher/rancher) - Complete container management platform
-- [google/pprof](https://github.com/google/pprof) - pprof is a tool for visualization and analysis of profiling data
-- [x-motemen/gore](https://github.com/x-motemen/gore) - Yet another Go REPL that works nicely. Featured with line editing, code completion, and more.
-- [gcla/termshark](https://github.com/gcla/termshark) - A terminal UI for tshark, inspired by Wireshark
-- [containerd/cgroups](https://github.com/containerd/cgroups) - cgroups package for Go
-- [kubernetes/dashboard](https://github.com/kubernetes/dashboard) - General-purpose web UI for Kubernetes clusters
-- [go-kratos/kratos](https://github.com/go-kratos/kratos) - Your ultimate Go microservices framework for the cloud-native era.
-- [opencost/opencost](https://github.com/opencost/opencost) - Cross-cloud cost allocation models for Kubernetes workloads
-- [databus23/helm-diff](https://github.com/databus23/helm-diff) - A helm plugin that shows a diff explaining what a helm upgrade would change
-- [MariaLetta/free-gophers-pack](https://github.com/MariaLetta/free-gophers-pack) - ✨ This pack of 100+ gopher pictures and elements will help you to build own design of almost anything related to Go Programming Language: presentations, posts in blogs or social media, courses, videos
-- [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst
-- [uber/cadence](https://github.com/uber/cadence) - Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.
-- [kubeedge/kubeedge](https://github.com/kubeedge/kubeedge) - Kubernetes Native Edge Computing Framework (project under CNCF)
-- [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
-- [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) - Customization of kubernetes YAML configurations
-- [aquasecurity/kube-bench](https://github.com/aquasecurity/kube-bench) - Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark
-- [tektoncd/pipeline](https://github.com/tektoncd/pipeline) - A cloud-native Pipeline resource.
-- [smallnest/1m-go-tcp-server](https://github.com/smallnest/1m-go-tcp-server) - benchmarks for implementation of servers which support 1 million connections
-- [GoogleContainerTools/container-diff](https://github.com/GoogleContainerTools/container-diff) - container-diff: Diff your Docker containers
-- [eranyanay/1m-go-websockets](https://github.com/eranyanay/1m-go-websockets) - handling 1M websockets connections in Go
-- [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
-- [elastic/go-elasticsearch](https://github.com/elastic/go-elasticsearch) - The official Go client for Elasticsearch
-- [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
-- [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes
-- [hyperledger/fabric](https://github.com/hyperledger/fabric) - Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use 
-- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
-- [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes
-- [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker&Container technologies, with real DevOps practice!
-- [tsenart/vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It's over 9000!
-- [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
-- [maxmcd/webtty](https://github.com/maxmcd/webtty) - Share a terminal session over WebRTC
-- [vmware-tanzu/velero](https://github.com/vmware-tanzu/velero) - Backup and migrate Kubernetes applications and their persistent volumes
-- [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
-- [quic-go/quic-go](https://github.com/quic-go/quic-go) - A QUIC implementation in pure go
-- [XiaoMi/soar](https://github.com/XiaoMi/soar) - SQL Optimizer And Rewriter
-- [dgraph-io/badger](https://github.com/dgraph-io/badger) - Fast key-value DB in Go.
-- [MontFerret/ferret](https://github.com/MontFerret/ferret) - Declarative web scraping
-- [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content.
-- [tianon/gosu](https://github.com/tianon/gosu) - Simple Go-based setuid+setgid+setgroups+exec
-- [nats-io/nats-server](https://github.com/nats-io/nats-server) - High-Performance server for NATS.io, the cloud and edge native messaging system.
-- [gomods/athens](https://github.com/gomods/athens) - A Go module datastore and proxy
-- [m3db/m3](https://github.com/m3db/m3) - M3 monorepo - Distributed TSDB, Aggregator and Query Engine, Prometheus Sidecar, Graphite Compatible, Metrics Platform
-- [kiali/kiali](https://github.com/kiali/kiali) - Kiali project, observability for the Istio service mesh
-- [gravitational/teleport](https://github.com/gravitational/teleport) - The easiest, most secure way to access infrastructure.
-- [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
-- [influxdata/telegraf](https://github.com/influxdata/telegraf) - The plugin-driven server agent for collecting & reporting metrics.
-- [knative/serving](https://github.com/knative/serving) - Kubernetes-based, scale-to-zero, request-driven compute
-- [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
-- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes
-- [minio/minio](https://github.com/minio/minio) - High Performance Object Storage for AI
-- [ory/hydra](https://github.com/ory/hydra) - OpenID Certified™ OpenID Connect and OAuth Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language. Works with Hardware Security 
-- [tidwall/gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go
-- [tidwall/buntdb](https://github.com/tidwall/buntdb) - BuntDB is an embeddable, in-memory key/value database for Go with custom indexing and geospatial support
-- [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
-- [hashicorp/consul](https://github.com/hashicorp/consul) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
-- [json-iterator/go](https://github.com/json-iterator/go) - A high-performance 100% compatible drop-in replacement of "encoding/json"
-- [thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
-- [openfaas/faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
-- [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) - Local development against a remote Kubernetes or OpenShift cluster
-- [go-pg/pg](https://github.com/go-pg/pg) - Golang ORM with focus on PostgreSQL features and performance
-- [google/gvisor](https://github.com/google/gvisor) - Application Kernel for Containers
-- [kubernetes/client-go](https://github.com/kubernetes/client-go) - Go client for Kubernetes.
-- [coredns/coredns](https://github.com/coredns/coredns) - CoreDNS is a DNS server that chains plugins
-- [GoogleContainerTools/kaniko](https://github.com/GoogleContainerTools/kaniko) - Build Container Images In Kubernetes
-- [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
-- [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://tidbcloud.com/free-trial
-- [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) - Ingress-NGINX Controller for Kubernetes
-- [rook/rook](https://github.com/rook/rook) - Storage Orchestration for Kubernetes
-- [GoogleContainerTools/skaffold](https://github.com/GoogleContainerTools/skaffold) - Easy and Repeatable Kubernetes Development
-- [shirou/gopsutil](https://github.com/shirou/gopsutil) - psutil for golang
-- [grpc-ecosystem/go-grpc-middleware](https://github.com/grpc-ecosystem/go-grpc-middleware) - Golang gRPC Middlewares: interceptor chaining, auth, logging, retries and more.
-- [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
-- [redis/go-redis](https://github.com/redis/go-redis) - Redis Go client
-- [helm/helm](https://github.com/helm/helm) - The Kubernetes Package Manager
-- [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform
-- [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
-- [lib/pq](https://github.com/lib/pq) - Pure Go Postgres driver for database/sql
-- [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub v3 API
-- [julienschmidt/httprouter](https://github.com/julienschmidt/httprouter) - A high performance HTTP request router that scales well
-- [ipfs/kubo](https://github.com/ipfs/kubo) - An IPFS implementation in Go
-- [appleboy/gorush](https://github.com/appleboy/gorush) - A push notification server written in Go (Golang).
-- [go-delve/delve](https://github.com/go-delve/delve) - Delve is a debugger for the Go programming language.
-- [grpc-ecosystem/grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway) - gRPC to JSON proxy generator following the gRPC HTTP spec
-- [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
-- [astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) - A golang ebook intro how to build a web with golang
-- [unknwon/the-way-to-go_ZH_CN](https://github.com/unknwon/the-way-to-go_ZH_CN) - 《The Way to Go》中文译本，中文正式名《Go 入门指南》
-- [buger/goreplay](https://github.com/buger/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in
-- [sirupsen/logrus](https://github.com/sirupsen/logrus) - Structured, pluggable logging for Go.
-- [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
-- [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) - Native GraphQL Database with graph backend
-- [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
-- [etcd-io/etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system
-- [sosedoff/pgweb](https://github.com/sosedoff/pgweb) - Cross-platform client for PostgreSQL databases
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
-- [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB - the open source, cloud-native distributed SQL database.
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
-- [joewalnes/websocketd](https://github.com/joewalnes/websocketd) - Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets.
-- [golang/go](https://github.com/golang/go) - The Go programming language
+- [Intaco/yt-audio-telegram-bot](https://github.com/Intaco/yt-audio-telegram-bot) - A simple youtube video-to-audio converter bot for telegram with chat filtering support
+
+## HCL 
+
+- [JaderDias/gcloud-telegram-bot](https://github.com/JaderDias/gcloud-telegram-bot) - 
 
 ## HTML 
 
-- [observablehq/plot](https://github.com/observablehq/plot) - A concise API for exploratory data visualization
-- [Instruction-Tuning-with-GPT-4/GPT-4-LLM](https://github.com/Instruction-Tuning-with-GPT-4/GPT-4-LLM) - Instruction Tuning with GPT-4
-- [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
-- [LianjiaTech/BELLE](https://github.com/LianjiaTech/BELLE) - BELLE: Be Everyone's Large Language model Engine（开源中文对话大模型）
+- [ZapperDJ/DiogenesList](https://github.com/ZapperDJ/DiogenesList) - Multiplatform HTML directory listing creator
+- [deanmalmgren/textract](https://github.com/deanmalmgren/textract) - extract text from any document. no muss. no fuss.
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
-- [TedGoas/Cerberus](https://github.com/TedGoas/Cerberus) - A few simple, but solid patterns for responsive HTML email templates and newsletters. Even in Outlook and Gmail.
-- [microlinkhq/metascraper](https://github.com/microlinkhq/metascraper) - Get unified metadata from websites using Open Graph, Microdata, RDFa, Twitter Cards, JSON-LD, HTML, and more.
-- [phil-opp/blog_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust
-- [ZutJoe/Koala_hacker_news](https://github.com/ZutJoe/Koala_hacker_news) - Koala hacker news 周报内容 每周二0点左右自动更新
-- [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南
-- [docker/docs](https://github.com/docker/docs) - Source repo for Docker's Documentation
-- [delta-io/delta](https://github.com/delta-io/delta) - An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs
-- [cncf/glossary](https://github.com/cncf/glossary) - The CNCF Cloud Native Glossary Project aims to define cloud native concepts in clear and simple language, making them accessible to anyone —  whether they have a technical background or not (https://g
-- [google/styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
-- [alufers/mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger) - Automagically reverse-engineer REST APIs via capturing traffic
-- [qiangmzsx/Software-Engineering-at-Google](https://github.com/qiangmzsx/Software-Engineering-at-Google) - 《Software Engineering at Google》的中英文对译版本
-- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).
-- [alpinejs/alpine](https://github.com/alpinejs/alpine) - A rugged, minimal framework for composing JavaScript behavior in your markup.
-- [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk) - 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
-- [linkedin/school-of-sre](https://github.com/linkedin/school-of-sre) - At LinkedIn, we are using this curriculum for onboarding our entry-level talents into the SRE role.
-- [wsvincent/awesome-django](https://github.com/wsvincent/awesome-django) - A curated list of awesome things related to Django
-- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
-- [seasonZhu/SwiftUI-WeChat](https://github.com/seasonZhu/SwiftUI-WeChat) - 一个微信SwiftUI编写,在原作者的基础上面修改学习
-- [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
-- [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-- [laalaguer/ethereum-compass](https://github.com/laalaguer/ethereum-compass) - 《以太坊的指南针》 一本写给普通人看的以太坊区块链技术书。A Book of Ethereum in Chinese.
-- [rootsongjc/eng-practices](https://github.com/rootsongjc/eng-practices) - 谷歌工程实践文档 - https://jimmysong.io/eng-practices
-- [goproxy/goproxy.cn](https://github.com/goproxy/goproxy.cn) - The most trusted Go module proxy in China.
-- [rootsongjc/awesome-cloud-native](https://github.com/rootsongjc/awesome-cloud-native) - A curated list for awesome cloud native tools, software and tutorials.  - https://jimmysong.io/awesome-cloud-native/
-- [microsoft/language-server-protocol](https://github.com/microsoft/language-server-protocol) - Defines a common protocol for language servers.
-- [mattmakai/fullstackpython.com](https://github.com/mattmakai/fullstackpython.com) - Full Stack Python source with Pelican, Bootstrap and Markdown.
-
-## Handlebars 
-
-- [chai2010/advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book) - :books: 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题(完稿)
-
-## Haskell 
-
-- [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
-- [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
-- [github/semantic](https://github.com/github/semantic) - Parsing, analyzing, and comparing source code across many languages
-- [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
+- [GoFarsi/book](https://github.com/GoFarsi/book) - کتاب آزاد  (آنلاین/آفلاین) زبان برنامه‌نویسی گو فارسی
+- [khuyentran1401/top-github-scraper](https://github.com/khuyentran1401/top-github-scraper) - Scape top GitHub repositories and users based on keywords
+- [AhmadIbrahiim/Website-downloader](https://github.com/AhmadIbrahiim/Website-downloader) - 💡  Download the complete source code of any website (including all assets). [ Javascripts, Stylesheets, Images ]  using Node.js
+- [divideprojects/ping-back](https://github.com/divideprojects/ping-back) - A simple tool made to ping the URL specified in URL parameters when sending a hit to API 🌐
+- [lukasbm/chief-video](https://github.com/lukasbm/chief-video) - Simple website for videos playing hosted videos
+- [abenassi/Google-Search-API](https://github.com/abenassi/Google-Search-API) - Python based api for searching google web, images, calc, and currency conversion.
+- [khalby786/REHeader](https://github.com/khalby786/REHeader) - Generate beautiful header images for your GitHub profile READMEs.
+- [GameGenesis/Youtube-Video-Downloader](https://github.com/GameGenesis/Youtube-Video-Downloader) - Convert a YouTube video or playlist to an MP3 audio or MP4 video format. Includes conversion history when signed in.
+- [AnonC0DER/NovaFilm](https://github.com/AnonC0DER/NovaFilm) - A django movie website.
+- [elthondsaraujo/railway-drive](https://github.com/elthondsaraujo/railway-drive) - 
+- [ImJanindu/imjanindu.github.io](https://github.com/ImJanindu/imjanindu.github.io) - Simple portfolio website
+- [donno2048/win95.exe](https://github.com/donno2048/win95.exe) - Microsoft Windows 95 as an executable (using python and pyinstaller)
+- [DustbinServer/Dustbin](https://github.com/DustbinServer/Dustbin) - Just Another Text Storage Service.
+- [PersianHodHod/PersianHodHod.github.io](https://github.com/PersianHodHod/PersianHodHod.github.io) - Persian HodHod website
+- [Ah00ra/ah00ra.ir](https://github.com/Ah00ra/ah00ra.ir) - 
+- [li195111/li195111.github.io](https://github.com/li195111/li195111.github.io) - Some Note Here
+- [zappycode/portfolio-project](https://github.com/zappycode/portfolio-project) - 
+- [taneliang/lifespan](https://github.com/taneliang/lifespan) - Website which counts up from your birthday down to your death
+- [ChankitSaini/redirector](https://github.com/ChankitSaini/redirector) - 
+- [viperadnan-git/wallpaper-api](https://github.com/viperadnan-git/wallpaper-api) - An api which can use different sites to scrape images and serve them through API
+- [b00f/lilak](https://github.com/b00f/lilak) - Persian Spell Checking Dictionary
+- [ArdeshirV/resources](https://github.com/ArdeshirV/resources) - My resources such as images for using in README file(s) of github
+- [dailydotdev/daily-scraper](https://github.com/dailydotdev/daily-scraper) - Fetches information about every webpage 🤖
+- [abhint/tg-session-string](https://github.com/abhint/tg-session-string) - 
+- [oliverfei/babylonjs-easyrtc-test](https://github.com/oliverfei/babylonjs-easyrtc-test) - 
+- [Jigarvarma2005/Video-Player](https://github.com/Jigarvarma2005/Video-Player) - 
+- [tuhinpal/dynamic-image](https://github.com/tuhinpal/dynamic-image) - Dynamically generate images for open-graph or website
+- [InFoTelbot/subcounter-public](https://github.com/InFoTelbot/subcounter-public) - #1 realtime subscriber counter for Telegram which supports multiple groups and channels
+- [SakshayMahna/WebScraping](https://github.com/SakshayMahna/WebScraping) - Trying out web scraping using different techniques
+- [AbirHasan2005/ShellPhish](https://github.com/AbirHasan2005/ShellPhish) - Modded version of shellphish. Mod Features are Colourized Text, Animations, In built setup for Termux, Extra features, More improvements, Bugs cleared, Fixed URL not showing.
 
 ## Java 
 
-- [alibaba/Chat2DB](https://github.com/alibaba/Chat2DB) - 🔥 🔥 🔥 An intelligent and versatile general-purpose SQL client and reporting tool for databases which integrates ChatGPT capabilities.(智能的通用数据库SQL客户端和报表工具)
-- [google/tink](https://github.com/google/tink) - Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
-- [apache/dolphinscheduler](https://github.com/apache/dolphinscheduler) - Apache DolphinScheduler is the modern data orchestration platform. Agile to create high performance workflow with low-code
-- [turms-im/turms](https://github.com/turms-im/turms) - 🕊️ The world's most advanced open source instant messaging engine for 100K~10M concurrent users https://turms-im.github.io/docs
-- [alibaba/canal](https://github.com/alibaba/canal) - 阿里巴巴 MySQL binlog 增量订阅&消费组件
-- [phodal/migration](https://github.com/phodal/migration) - 《系统重构与迁移指南》手把手教你分析、评估现有系统、制定重构策略、探索可行重构方案、搭建测试防护网、进行系统架构重构、服务架构重构、模块重构、代码重构、数据库重构、重构后的架构守护
-- [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
-- [TechEmpower/FrameworkBenchmarks](https://github.com/TechEmpower/FrameworkBenchmarks) - Source for the TechEmpower Framework Benchmarks project
-- [doocs/leetcode](https://github.com/doocs/leetcode) - 😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解
-- [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) - 🔎 Open source distributed and RESTful search engine.
-- [trinodb/trino](https://github.com/trinodb/trino) - Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)
-- [didi/KnowStreaming](https://github.com/didi/KnowStreaming) - 一站式云原生实时流数据平台，通过0侵入、插件化构建企业级Kafka服务，极大降低操作、存储和管理实时流数据门槛
-- [apache/flink](https://github.com/apache/flink) - Apache Flink
-- [oracle/graal](https://github.com/oracle/graal) - GraalVM: Run Programs Faster Anywhere :rocket:
-- [apache/pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system
-- [bazelbuild/bazel](https://github.com/bazelbuild/bazel) - a fast, scalable, multi-language and extensible build system
-- [apache/zeppelin](https://github.com/apache/zeppelin) - Web-based notebook that enables data-driven, interactive data analytics and collaborative documents with SQL, Scala and more.
-- [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open, Distributed, RESTful Search Engine
+- [oussamabonnor1/TelegramClone](https://github.com/oussamabonnor1/TelegramClone) - JetGram is an open source desktop app Telegram clone made with JavaFx.
+- [OwlGramDev/OwlGram](https://github.com/OwlGramDev/OwlGram) - OwlGram is an unofficial messaging app that uses Telegram's API.
+- [jitnegii/Telegram-bot](https://github.com/jitnegii/Telegram-bot) - Telegram bot to download songs from Spotify and YouTube URL.
+- [ivan909020/shop-telegram-bot](https://github.com/ivan909020/shop-telegram-bot) - Java shop chatbot for Telegram
+- [MonsterDeveloper/java-telegram-bot-tutorial](https://github.com/MonsterDeveloper/java-telegram-bot-tutorial) - Java Telegram Bot Tutorial. Feel free to submit issue if you found a mistake.
+- [markfront/SinglePageFullHtml](https://github.com/markfront/SinglePageFullHtml) - 
+- [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem.
+- [xditya/ContactAdder](https://github.com/xditya/ContactAdder) - 
 
 ## JavaScript 
 
-- [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
-- [ciaochaos/qrbtf](https://github.com/ciaochaos/qrbtf) - An art QR code (qrcode) beautifier.  艺术二维码生成器。https://qrbtf.com
-- [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化爬虫软件，可以无代码图形化的设计和执行爬虫任务
-- [TheRamU/Fay](https://github.com/TheRamU/Fay) - Fay是一个完整的开源项目，包含Fay控制器及数字人模型，可灵活组合出不同的应用场景：虚拟主播、现场推销货、商品导购、语音助理、远程语音助理、数字人互动、数字人面试官及心理测评、贾维斯、Her。 开源项目，非产品试用！！！
-- [daodao97/chatdoc](https://github.com/daodao97/chatdoc) - Chat with your doc by openai
-- [dice2o/BingGPT](https://github.com/dice2o/BingGPT) - Desktop application of new Bing's AI-powered chat (Windows, macOS and Linux)
-- [Postcatlab/postcat](https://github.com/Postcatlab/postcat) - Postcat 是一个可扩展的 API 工具平台。集合基础的 API 管理和测试功能，并且可以通过插件简化你的 API 开发工作，让你可以更快更好地创建 API。An extensible API tool.
-- [VirgilClyne/iRingo](https://github.com/VirgilClyne/iRingo) - 解锁完整的 Apple功能和集成服务
+- [justpy-org/justpy](https://github.com/justpy-org/justpy) - An object oriented high-level Python Web Framework that requires no frontend programming
+- [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
+- [tuhinpal/imdb-api](https://github.com/tuhinpal/imdb-api) - Serverless IMDB API powered by Cloudflare Worker
+- [webrecorder/pywb](https://github.com/webrecorder/pywb) - Core Python Web Archiving Toolkit for replay and recording of web archives
+- [AnotiaWang/AntiChannelSpammersBot](https://github.com/AnotiaWang/AntiChannelSpammersBot) - A Telegram bot that can delete messages from users appearing as channels, also messages from anonymous admins and the linked channels.
+- [ChankitSaini/InstaChat](https://github.com/ChankitSaini/InstaChat) - 
+- [Keylogger-hash/Videoeditor-with-screen-recorder](https://github.com/Keylogger-hash/Videoeditor-with-screen-recorder) - This a videoeditor with screen-recorder
+- [parnexcodes/yt-dl-api](https://github.com/parnexcodes/yt-dl-api) - A Youtube-DL API Made in NodeJS.
+- [mamal72/telegram-github-search-bot](https://github.com/mamal72/telegram-github-search-bot) - :octocat: A Github search bot for Telegram
+- [sa-akhavani/video-streamer](https://github.com/sa-akhavani/video-streamer) - Node.js Video File Streamer
+- [1995parham/github-do-not-ban-us](https://github.com/1995parham/github-do-not-ban-us) - GitHub do not ban us from open source world :iran:
+- [theofficialvkr/VKRdownloader](https://github.com/theofficialvkr/VKRdownloader) - Vkrdownloader: All in one Video Downloader - Download videos from facebook twitter youtube tiktok and 1000+ other sites . YouTube downloader , facebook downloader . made by Vijay Kumar
+- [Kunal-Diwan/FileSearchBot](https://github.com/Kunal-Diwan/FileSearchBot) - Telegram Inline Files Search Bot made using JS by @Kunal-Diwan
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
-- [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
-- [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
-- [sql-js/sql.js](https://github.com/sql-js/sql.js) - A javascript library to run SQLite on the web.
-- [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
-- [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies (jobs) in tech.
-- [carbon-design-system/carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM
-- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
-- [easychen/checkchan-dist](https://github.com/easychen/checkchan-dist) - Check酱：监测网页内容变化，并发送异动到微信。亦支持http status、json和rss监测。配合自架云端，关电脑后也能运行。
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
-- [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
-- [krisk/Fuse](https://github.com/krisk/Fuse) - Lightweight fuzzy-search, in JavaScript
-- [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
-- [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
-- [facebook/lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
-- [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible
-- [feeddd/feeds](https://github.com/feeddd/feeds) - 免费的公众号 RSS，支持扩展任意 APP
-- [Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines) - A curated list of high quality coding style conventions and standards.
-- [frappe/charts](https://github.com/frappe/charts) - Simple, responsive, modern SVG Charts with zero dependencies
-- [google/zx](https://github.com/google/zx) - A tool for writing better scripts
-- [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
-- [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets and gRPC.
-- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
-- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
-- [r-spacex/SpaceX-API](https://github.com/r-spacex/SpaceX-API) - :rocket: Open Source REST API for SpaceX launch, rocket, core, capsule, starlink, launchpad, and landing pad data.
-- [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com
-- [resume/resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
-- [SocialSisterYi/bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) - 哔哩哔哩-API收集整理【不断更新中....】
-- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
-- [twbs/icons](https://github.com/twbs/icons) - Official open source SVG icon library for Bootstrap.
-- [novnc/noVNC](https://github.com/novnc/noVNC) - VNC client web application
-- [plasma-umass/scalene](https://github.com/plasma-umass/scalene) - Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python with AI-powered optimization proposals
-- [modood/Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China) - 中华人民共和国行政区划：省级（省份）、 地级（城市）、 县级（区县）、 乡级（乡镇街道）、 村级（村委会居委会） ，中国省市区镇村二级三级四级五级联动地址数据。
-- [appium/appium](https://github.com/appium/appium) - Cross-platform automation framework for all kinds of your apps built on top of W3C WebDriver protocol
-- [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
-- [ryanhanwu/How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) - 本文原文由知名 Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
-- [grpc/grpc-web](https://github.com/grpc/grpc-web) - gRPC for Web Clients
-- [stephentian/33-js-concepts](https://github.com/stephentian/33-js-concepts) - :scroll: 每个 JavaScript 工程师都应懂的33个概念 @leonardomso
-- [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
-- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
-- [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
-- [elasticsearch-dump/elasticsearch-dump](https://github.com/elasticsearch-dump/elasticsearch-dump) - Import and export tools for elasticsearch
-- [apexcharts/apexcharts.js](https://github.com/apexcharts/apexcharts.js) - 📊 Interactive JavaScript Charts built on SVG
-- [mapbox/mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js) - Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL
-- [shimohq/chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) - 中国程序员容易发音错误的单词
-- [remarkjs/react-markdown](https://github.com/remarkjs/react-markdown) - Markdown component for React
-- [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
-- [swagger-api/swagger-editor](https://github.com/swagger-api/swagger-editor) - Swagger Editor
-- [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - The OpenAPI Specification Repository
-- [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
-- [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short code snippets for all your development needs
-- [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
-- [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web
-- [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) - 🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦
-- [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui) - Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
-- [mozilla/pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
-- [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
-- [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
-- [websockets/ws](https://github.com/websockets/ws) - Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js
-- [quilljs/quill](https://github.com/quilljs/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility.
-- [denysdovhan/bash-handbook](https://github.com/denysdovhan/bash-handbook) - :book: For those who wanna learn Bash
-- [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js) - JavaScript syntax highlighter with language auto-detection and zero dependencies.
-- [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 video player
-- [chartjs/Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the &lt;canvas&gt; tag
-- [webrtc/samples](https://github.com/webrtc/samples) - WebRTC Web demos and samples
+- [NextVisionDevelopers/30-Days-Of-JavaScript](https://github.com/NextVisionDevelopers/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace.
+- [axrav/WebSSBot](https://github.com/axrav/WebSSBot) - A Simple Telegram Bot To Capture Web Screenshots around the Globe
+- [suhasa010/reddgram-telegram-bot](https://github.com/suhasa010/reddgram-telegram-bot) - Browse Reddit on Telegram
+- [suhasa010/simpletimer-telegram-bot](https://github.com/suhasa010/simpletimer-telegram-bot) - Simple Timer Bot for Telegram, created using TelegrafJS.
+- [DIBgram/DIBgram](https://github.com/DIBgram/DIBgram) - An unofficial Telegram web app which looks like Telegram Desktop
+- [patheticGeek/ping-pong-bot](https://github.com/patheticGeek/ping-pong-bot) - A bot to ping site periodically to keep it alive on heroku
+- [sabermazoji/sabermazoji.github.io](https://github.com/sabermazoji/sabermazoji.github.io) - 
+- [vrumger/DiscussUnpinBot](https://github.com/vrumger/DiscussUnpinBot) - A Telegram bot to unpin/repin messages in your group when you post on the connected channel.
+- [ArdeshirV/SampleQRCodeJS](https://github.com/ArdeshirV/SampleQRCodeJS) - Generate QR code and present on a dynamic HTML web page using qrcodejs library.
+- [sampotts/plyr](https://github.com/sampotts/plyr) - A simple HTML5, YouTube and Vimeo player
+- [msaaddev/who-unfollowed-me](https://github.com/msaaddev/who-unfollowed-me) - 🙁 A CLI that tells you who recently unfollowed you on GitHub
+- [JinsoRaj/TorrentConverter](https://github.com/JinsoRaj/TorrentConverter) - A Telegram bot to convert Torrent files -&gt; magnet links & vice versa.
+- [oliverfei/flood-it](https://github.com/oliverfei/flood-it) - Fork of ddycai/flood-it for the CSI4105 course project. Implements astar search with a naive admissible heuristic and a non-admissible heuristic.
+- [oliverfei/close_combat](https://github.com/oliverfei/close_combat) - A-Frame VR two player game.
+- [oliverfei/MazeEscape](https://github.com/oliverfei/MazeEscape) - A 2-player WebVR co-op game built with A-Frame.
+- [oliverfei/networked-aframe](https://github.com/oliverfei/networked-aframe) - A web framework for building multi-user virtual reality experiences.
+- [oliverfei/WebSpeechAframe](https://github.com/oliverfei/WebSpeechAframe) - 
+- [oliverfei/TerribleHack2018](https://github.com/oliverfei/TerribleHack2018) - WebVR circlejerk simulator
+- [oliverfei/TechniqueXR](https://github.com/oliverfei/TechniqueXR) - 
+- [oliverfei/snackreviews](https://github.com/oliverfei/snackreviews) - A website for snack reviews
+- [oliverfei/random-objects](https://github.com/oliverfei/random-objects) - A tool for generating random 3d scenes and capturing the images for object detection purposes.
+- [oliverfei/automation-center-sdk-samples](https://github.com/oliverfei/automation-center-sdk-samples) - Samples for the Trend Micro Deep Security SDK
+- [oliverfei/osu-parser-web](https://github.com/oliverfei/osu-parser-web) - converts osu files into javascript objects
+- [oliverfei/CadenzaEditor](https://github.com/oliverfei/CadenzaEditor) - A tool for creating/editing beatmaps for Cadenza!!
+- [hsdeckviewer/hsdeckviewer.github.io](https://github.com/hsdeckviewer/hsdeckviewer.github.io) - A simple viewer for multiple Hearthstone decks used for sharing deck lineups.
+- [Kikobeats/twdown](https://github.com/Kikobeats/twdown) - Get MP4/MP3 video url from any Twitter video
+- [OwenRay/srt-to-ass](https://github.com/OwenRay/srt-to-ass) - Convert subtitles (SRT) to Advanced Substation Alpha (ASS)
+- [civodulab/srt2ass](https://github.com/civodulab/srt2ass) - srt2ass est un outil permettant de transformer un document srt (SubRip) en ass (Advanced Sub Station).
+- [khrj/teledrive](https://github.com/khrj/teledrive) - TeleDrive lets you automatically backup all your files to telegram saved messages - this means FREE, UNLIMITED storage
+- [s0ftik3/catcapture-bot](https://github.com/s0ftik3/catcapture-bot) - 😺 Just a simple Telegram bot. Capture screenshots of any website.
+- [manglaneso/tmdb_bot](https://github.com/manglaneso/tmdb_bot) - IMDB Telegram bot clone using TMDB to get info about movies and TV shows.
+- [wjclub/telegram-bot-removekeyboard](https://github.com/wjclub/telegram-bot-removekeyboard) - Telegram bot to remove nasty keyboards from groups. https://t.me/RemoveKeyboardBot
+- [kodjunkie/beetube-bot](https://github.com/kodjunkie/beetube-bot) - 🤖 A telegram bot for music, movies, anime, torrent, EDM tracks, series downloads, files, and more...
+- [AkhileshNS/heroku-deploy](https://github.com/AkhileshNS/heroku-deploy) - A simple github action that dynamically deploys an app to heroku
+- [yarnpkg/yarn](https://github.com/yarnpkg/yarn) - The 1.x line is frozen - features and bugfixes now happen on https://github.com/yarnpkg/berry
 
 ## Jinja 
 
-- [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
-- [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
+- [ssc-public/Web-Workshop](https://github.com/ssc-public/Web-Workshop) - Angular, Ansible, CI/CD, Flutter, ElasticSearch, Redis, NSQ, RabbitMQ,  Jenkins, Jest, React, Redux, TypeScript, Django, GraphQL, Rest Framework, Docker and Kubernetes Tutorial
 
 ## Jupyter Notebook 
 
-- [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
-- [sanchit-gandhi/whisper-jax](https://github.com/sanchit-gandhi/whisper-jax) - JAX implementation of OpenAI's Whisper model for up to 70x speed-up on TPU.
-- [microsoft/guidance](https://github.com/microsoft/guidance) - A guidance language for controlling large language models.
-- [datawhalechina/prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers) - 吴恩达大模型系列课程中文版，包括《Prompt Engineering》、《Building System》和《LangChain》
-- [tloen/alpaca-lora](https://github.com/tloen/alpaca-lora) - Instruct-tune LLaMA on consumer hardware
-- [datawhalechina/hugging-llm](https://github.com/datawhalechina/hugging-llm) - HuggingLLM, Hugging Future.
-- [geekyutao/Inpaint-Anything](https://github.com/geekyutao/Inpaint-Anything) - Inpaint anything using Segment Anything and inpainting models.
-- [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
-- [Stability-AI/StableLM](https://github.com/Stability-AI/StableLM) - StableLM: Stability AI Language Models
-- [IDEA-Research/Grounded-Segment-Anything](https://github.com/IDEA-Research/Grounded-Segment-Anything) - Grounded-SAM: Marrying Grounding DINO with Segment Anything & Stable Diffusion & Recognize Anything - Automatically Detect , Segment and Generate Anything
-- [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything) - The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
-- [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
-- [camenduru/stable-diffusion-webui-colab](https://github.com/camenduru/stable-diffusion-webui-colab) - stable diffusion webui colab
-- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
-- [prompt-engineering/understand-prompt](https://github.com/prompt-engineering/understand-prompt) - 【🔞🔞🔞 内含不适合未成年人阅读的图片】基于我擅长的编程、绘画、写作展开的 AI 探索和总结：StableDiffusion 是一种强大的图像生成模型，能够通过对一张图片进行演化来生成新的图片。ChatGPT 是一个基于 Transformer 的语言生成模型，它能够自动为输入的主题生成合适的文章。而 Github Copilot 是一个智能编程助手，能够加速日常编程活动。
-- [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
-- [MLEveryday/100-Days-Of-ML-Code](https://github.com/MLEveryday/100-Days-Of-ML-Code) - 100-Days-Of-ML-Code中文版
-- [spmallick/learnopencv](https://github.com/spmallick/learnopencv) - Learn OpenCV  : C++ and Python Examples
-- [tensorflow/models](https://github.com/tensorflow/models) - Models and examples built with TensorFlow
-- [GoogleCloudPlatform/python-docs-samples](https://github.com/GoogleCloudPlatform/python-docs-samples) - Code samples used on cloud.google.com
-- [intel-analytics/analytics-zoo](https://github.com/intel-analytics/analytics-zoo) - Distributed Tensorflow, Keras and PyTorch on Apache Spark/Flink & Ray
-- [intel-analytics/BigDL](https://github.com/intel-analytics/BigDL) - Fast, distributed, secure AI for Big Data
-- [selfteaching/the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching) - One has no future if one couldn't teach themself.
-- [yidao620c/python3-cookbook](https://github.com/yidao620c/python3-cookbook) - 《Python Cookbook》 3rd Edition Translation
+- [Pouyaexe/Farsi_PDF](https://github.com/Pouyaexe/Farsi_PDF) - Make editable Persian(Farsi) PDF from Non-Editable ones, using OCR.
+- [pyannote/pyannote-audio](https://github.com/pyannote/pyannote-audio) - Neural building blocks for speaker diarization: speech activity detection, speaker change detection, overlapped speech detection, speaker embedding
+- [MahmoudAshraf97/whisper-diarization](https://github.com/MahmoudAshraf97/whisper-diarization) - Automatic Speech Recognition with Speaker Diarization based on OpenAI Whisper
+- [karim23657/Persian-tts-coqui](https://github.com/karim23657/Persian-tts-coqui) - Persian/Farsi text to speech(TTS) training using coqui tts
+- [152334H/tortoise-tts-fast](https://github.com/152334H/tortoise-tts-fast) - Fast TorToiSe inference (5x or your money back!)
+- [akiomik/pilgram](https://github.com/akiomik/pilgram) - A python library for instagram filters
+- [jamesturk/jellyfish](https://github.com/jamesturk/jellyfish) - 🪼 a python library for doing approximate and phonetic matching of strings.
+- [AmirAbaskohi/Automatic-Speech-recognition-for-Speech-Assessment-of-Persian-Preschool-Children](https://github.com/AmirAbaskohi/Automatic-Speech-recognition-for-Speech-Assessment-of-Persian-Preschool-Children) - Preschool evaluation is crucial because it gives teachers and parents influential knowledge about children's growth and development. The COVID-19 pandemic has highlighted the necessity of online asses
+- [Ah00ra/car-price-prediction](https://github.com/Ah00ra/car-price-prediction) - predict a car price by multiple linear regression
+- [Dadmatech/FaREX](https://github.com/Dadmatech/FaREX) - Farsi Relation Extraction
+- [schoobani/persian-generative-chatbot](https://github.com/schoobani/persian-generative-chatbot) - A repo dedicated to different approaches in building a Persian Generative Chatbot.
+- [sajjjadayobi/PersianQA](https://github.com/sajjjadayobi/PersianQA) - Persian (Farsi) Question Answering Dataset (+ Models)
+- [sajjjadayobi/CLIPfa](https://github.com/sajjjadayobi/CLIPfa) - CLIPfa: Connecting Farsi Text and Images
+- [TheCaduceus/Multi-Cloud-Transfer-Tool](https://github.com/TheCaduceus/Multi-Cloud-Transfer-Tool) - The most advanced yet simple Jupyter Notebook to transfer/manage your data from/to any cloud remotely based on Rclone and other engines.⚡
+- [volom/PornStarSimilarity](https://github.com/volom/PornStarSimilarity) - Search the most similar face porn actress for your input photo from more than 5k available photos. Fetching porn stars photos, extraction, and embedding their faces for the next cosine similarity esti
+- [TheCaduceus/Link-Bypasser](https://github.com/TheCaduceus/Link-Bypasser) - Lets Bypass Adfly, GP LINKS, GDTOT Links, Sharer.pw, DropLink, AppDrive or DriveApp and LinkVertise Links within Seconds!🔥
+- [pszemraj/vid2cleantxt](https://github.com/pszemraj/vid2cleantxt) - Python API & command-line tool to easily transcribe speech-based video files into clean text
+- [volom/Message_Scraper_Classifier](https://github.com/volom/Message_Scraper_Classifier) - Fetching messages from Telegram chats and classifying its text using the Data Science model
+- [EMUNES/Auto-Subtitle-File-Generation](https://github.com/EMUNES/Auto-Subtitle-File-Generation) - Generate subtitle files with timelines in an automatic way.
+- [shahriarshakil0/Text-to-Speech](https://github.com/shahriarshakil0/Text-to-Speech) - 
+- [Sundar0989/Speech-to-text](https://github.com/Sundar0989/Speech-to-text) - 
+- [hoco1/TASNIM-News-Web-Scraping](https://github.com/hoco1/TASNIM-News-Web-Scraping) - Web Scraping TASNIM news
+- [hoco1/Semi-Intelligent-Telegram-BOT](https://github.com/hoco1/Semi-Intelligent-Telegram-BOT) - Machine learning and Deep learning models, deploy on telegram (the best social media)
+- [chododom/Image-and-Video-Super-Resolution](https://github.com/chododom/Image-and-Video-Super-Resolution) - 
+- [TheCaduceus/WARP-UNLIMITED-ADVANCED](https://github.com/TheCaduceus/WARP-UNLIMITED-ADVANCED) - Get unlimited amount of data in Cloudflare's WARP VPN🔥
+- [amirshnll/Persian-Swear-Words](https://github.com/amirshnll/Persian-Swear-Words) - Persian Swear Dataset - you can use in your production to filter unwanted content.  دیتاست کلمات نامناسب و بد فارسی برای فیلتر کردن متن ها
+- [larymak/Python-project-Scripts](https://github.com/larymak/Python-project-Scripts) - This repositories contains a list of python scripts projects from beginner level advancing slowly. More code snippets to be added soon. feel free to clone this repo
+- [egaraev/robocar](https://github.com/egaraev/robocar) - Repo for robotic car
+- [San-B-09/Speech-Recognition](https://github.com/San-B-09/Speech-Recognition) - This repository contains python code to convert audio to text. This system is codded using API as well as without using API.
+- [abbycabs/Tutorial-train-dutch-model](https://github.com/abbycabs/Tutorial-train-dutch-model) - Using Mozilla's DeepSpeech and Common Voice to train a Dutch speech-to-text model.
+- [MhmdFneish/similar-images](https://github.com/MhmdFneish/similar-images) - Similar images using python and tensorflow
+- [duckydares/mood-music-generator](https://github.com/duckydares/mood-music-generator) - A simple playlist generator for moods
+- [Jessica0008/Object-Detection-Telegram-Bot](https://github.com/Jessica0008/Object-Detection-Telegram-Bot) - Telegram Bot that detects cars and road defects on uploaded images
+- [mgeier/python-audio](https://github.com/mgeier/python-audio) - Some Jupyter notebooks about audio signal processing with Python
+- [alphacep/vosk-api](https://github.com/alphacep/vosk-api) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
+- [HussamCheema/speech_to_text](https://github.com/HussamCheema/speech_to_text) - Noise Reduction, Signal Enhancement - VAD - Wave2Vec - Speech to Text
+- [neelshah2409/Bot-Collection](https://github.com/neelshah2409/Bot-Collection) - A collection of bots which will help to automate everything
+- [shirooo39/MiXLab](https://github.com/shirooo39/MiXLab) - Just another multi-purpose Colab Notebook
+- [Nishk23/TextBlob-Spelling-Correction](https://github.com/Nishk23/TextBlob-Spelling-Correction) - 
+- [avinashkranjan/Amazing-Python-Scripts](https://github.com/avinashkranjan/Amazing-Python-Scripts) - 🚀 Curated collection of Amazing Python scripts from Basics to Advance with automation task scripts.
+- [AlisterTA/Persian-text-to-speech](https://github.com/AlisterTA/Persian-text-to-speech) - 
+- [hemanshanand/Movie-Genre-Prediction](https://github.com/hemanshanand/Movie-Genre-Prediction) - Movie Genre Prediction using Natural Language Processing(NLP)
+- [shenasa-ai/speech2text](https://github.com/shenasa-ai/speech2text) - A Deep-Learning-Based Persian Speech Recognition System
+- [oliverfei/videocr-PaddleOCR](https://github.com/oliverfei/videocr-PaddleOCR) - Extract hardcoded subtitles from videos using machine learning
+- [surajbahadur591/Google-Colab-Scripts](https://github.com/surajbahadur591/Google-Colab-Scripts) - Really useful google colab script for file transfer
+- [DeyDipankar/Web-Scraping](https://github.com/DeyDipankar/Web-Scraping) - This repository contains all the web scraping techniques
+- [MaartenGr/Reviewer](https://github.com/MaartenGr/Reviewer) - Tool for extracting and analyzing IMDB reviews
 
 ## Kotlin 
 
-- [pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder) - 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是
-- [alibaba/p3c](https://github.com/alibaba/p3c) - Alibaba Java Coding Guidelines pmd implements and IDE plugin
-- [android/compose-samples](https://github.com/android/compose-samples) - Official Jetpack Compose samples.
-
-## Lua 
-
-- [apache/apisix](https://github.com/apache/apisix) - The Cloud-Native API Gateway
-- [koreader/koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
-- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim/neovim distribution - The ultimate vimrc
-
-## MDX 
-
-- [lvwzhen/law-cn-ai](https://github.com/lvwzhen/law-cn-ai) - ⚖️ AI 法律助手
+- [persian-calendar/persian-calendar](https://github.com/persian-calendar/persian-calendar) - Android Persian Calendar / تقویم فارسی اندروید
 
 ## Makefile 
 
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
-- [gocn/styleguide](https://github.com/gocn/styleguide) - 翻译 https://google.github.io/styleguide/go/index
-- [serverlessworkflow/specification](https://github.com/serverlessworkflow/specification) - Serverless Workflow Specification
-- [frida/frida](https://github.com/frida/frida) - Clone this repo to build Frida
-- [uber-go/guide](https://github.com/uber-go/guide) - The Uber Go Style Guide.
-- [open-telemetry/opentelemetry-specification](https://github.com/open-telemetry/opentelemetry-specification) - Specifications for OpenTelemetry
-- [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
-
-## Markdown 
-
-- [apple/swift-book](https://github.com/apple/swift-book) - The Swift Programming Language book
-- [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
-- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Free uptime monitor and status page powered by GitHub
-- [MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs) - Open source documentation of Microsoft Azure
-- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
-
-## Mustache 
-
-- [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts
-
-## OCaml 
-
-- [facebook/pyre-check](https://github.com/facebook/pyre-check) - Performant type-checking for python.
+- [aio-libs/aiohttp-demos](https://github.com/aio-libs/aiohttp-demos) - Demos for aiohttp project
 
 ## Objective-C 
 
-- [Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful macOS desktop automation with Lua
-- [MustangYM/WeChatExtension-ForMac](https://github.com/MustangYM/WeChatExtension-ForMac) - Mac微信功能拓展/微信插件/微信小助手(A plugin for Mac WeChat)
-- [darlinghq/darling](https://github.com/darlinghq/darling) - Darwin/macOS emulation layer for Linux
-- [sparkle-project/Sparkle](https://github.com/sparkle-project/Sparkle) - A software update framework for macOS
-- [realm/realm-swift](https://github.com/realm/realm-swift) - Realm is a mobile database: a replacement for Core Data & SQLite
+- [shaahin/PersianSubtitleFixer](https://github.com/shaahin/PersianSubtitleFixer) - This app corrects Persian ".srt" subtitle files so they can be shown correctly on almost every video player. Available for free on the Mac App Store.
+- [ahmadhashemi/SubFixer](https://github.com/ahmadhashemi/SubFixer) - Fix Persian SRT subtitles to show characters in the correct form
 
 ## Others 
 
-- [intel/intel-one-mono](https://github.com/intel/intel-one-mono) - Intel One Mono font repository
-- [2004content/rarbg](https://github.com/2004content/rarbg) - Backup of magnets from RARBG
-- [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers & Linux machines for macOS
-- [kyrolabs/awesome-langchain](https://github.com/kyrolabs/awesome-langchain) - 😎 Awesome list of tools and projects with the awesome LangChain framework
-- [XingangPan/DragGAN](https://github.com/XingangPan/DragGAN) - Code for DragGAN (SIGGRAPH 2023)
-- [brexhq/prompt-engineering](https://github.com/brexhq/prompt-engineering) - Tips and tricks for working with Large Language Models like OpenAI's GPT-4.
-- [eugeneyan/open-llms](https://github.com/eugeneyan/open-llms) - 📋 A list of open LLMs available for commercial use.
-- [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
-- [XiaoGerGer/zimuzu-yyets-resourcelist](https://github.com/XiaoGerGer/zimuzu-yyets-resourcelist) - 人人影视资源列表，排序如下
-- [ai-collection/ai-collection](https://github.com/ai-collection/ai-collection) - The Generative AI Landscape - A Collection of Awesome Generative AI Applications
-- [Kimentanm/aptv](https://github.com/Kimentanm/aptv) - 📺 A tool for playing m3u8 file
-- [eon01/awesome-chatgpt](https://github.com/eon01/awesome-chatgpt) - 🧠 A curated list of awesome ChatGPT resources, including libraries, SDKs, APIs, and more. 🌟 Please consider supporting this project by giving it a star.
-- [AUTOMATIC1111/stable-diffusion-webui-feature-showcase](https://github.com/AUTOMATIC1111/stable-diffusion-webui-feature-showcase) - Feature showcase for stable-diffusion-webui
-- [yzfly/awesome-chatgpt-zh](https://github.com/yzfly/awesome-chatgpt-zh) - ChatGPT 中文指南🔥，ChatGPT 中文调教指南，指令指南，应用开发指南，精选资源清单，更好的使用 chatGPT 让你的生产力 up up up! 🚀
-- [willwulfken/MidJourney-Styles-and-Keywords-Reference](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference) - A reference containing Styles and Keywords that you can use with MidJourney AI. There are also pages showing resolution comparison, image weights, and much more!
-- [Yue-Yang/ChatGPT-Siri](https://github.com/Yue-Yang/ChatGPT-Siri) - Shortcuts for Siri using ChatGPT API gpt-3.5-turbo & gpt-4 model, supports continuous conversations, configure the API key & save chat records. 由 ChatGPT API gpt-3.5-turbo & gpt-4 模型驱动的智能 Siri，支持连续对话，
-- [getcursor/cursor](https://github.com/getcursor/cursor) - An editor made for programming with AI 🤖
-- [nichtdax/awesome-totally-open-chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt) - A list of totally open alternatives to ChatGPT
-- [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
-- [eugeneyan/applied-ml](https://github.com/eugeneyan/applied-ml) - 📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.
-- [mli/paper-reading](https://github.com/mli/paper-reading) - 深度学习经典、新论文逐段精读
-- [Haxxnet/Compose-Examples](https://github.com/Haxxnet/Compose-Examples) - Various Docker Compose examples of selfhosted FOSS and proprietary projects.
-- [eliaszon/Programmers-Overseas-Job-Interview-Handbook](https://github.com/eliaszon/Programmers-Overseas-Job-Interview-Handbook) - 🏂🏻 程序员海外工作/英文面试手册
-- [android/architecture-templates](https://github.com/android/architecture-templates) - 
-- [xiaolincoder/CS-Base](https://github.com/xiaolincoder/CS-Base) - 图解计算机网络、操作系统、计算机组成、数据库，共 1000 张图 + 50 万字，破除晦涩难懂的计算机基础知识，让天下没有难懂的八股文！🚀 在线阅读：https://xiaolincoding.com
-- [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
-- [pingcap/awesome-database-learning](https://github.com/pingcap/awesome-database-learning) - A list of learning materials to understand databases internals
-- [Azure/azure-rest-api-specs](https://github.com/Azure/azure-rest-api-specs) - The source for REST API specifications for Microsoft Azure.
-- [k88hudson/git-flight-rules](https://github.com/k88hudson/git-flight-rules) - Flight rules for git
-- [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews
-- [jorgef/engineeringladders](https://github.com/jorgef/engineeringladders) - A framework for Engineering Managers
-- [taowen/awesome-lowcode](https://github.com/taowen/awesome-lowcode) - 国内低代码平台从业者交流
-- [bagder/http3-explained](https://github.com/bagder/http3-explained) - A document describing the HTTP/3 and QUIC protocols
-- [matheusfelipeog/beautiful-docs](https://github.com/matheusfelipeog/beautiful-docs) - Pointers to useful, well-written, and otherwise beautiful documentation.
-- [asyncapi/spec](https://github.com/asyncapi/spec) - The AsyncAPI specification allows you to create machine-readable definitions of your asynchronous APIs.
-- [awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of HQ open datasets.
-- [The-Run-Philosophy-Organization/run](https://github.com/The-Run-Philosophy-Organization/run) - 润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。
-- [imDazui/Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8) - 直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵
-- [yifeikong/reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh) - 技术面试最后反问面试官的话
-- [dreamhead/patterns-of-distributed-systems](https://github.com/dreamhead/patterns-of-distributed-systems) - 《Patterns of Distributed Systems》中文版
-- [weartist/computer-book-list](https://github.com/weartist/computer-book-list) - 一个综合了豆瓣，goodreads综合评分的计算机书籍书单
-- [shengcaishizhan/kkndme_tianya](https://github.com/shengcaishizhan/kkndme_tianya) - 天涯 kkndme 神贴聊房价
-- [taowen/modularization-examples](https://github.com/taowen/modularization-examples) - 代码防腐实用技术
-- [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
-- [Tencent/secguide](https://github.com/Tencent/secguide) - 面向开发人员梳理的代码安全指南
-- [AboutRSS/ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS) - A list of RSS related stuff: tools, services, communities and tutorials, etc.
-- [easychen/one-person-businesses-methodology](https://github.com/easychen/one-person-businesses-methodology) - 一人公司方法论
-- [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
-- [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google
-- [HackerNews/API](https://github.com/HackerNews/API) - Documentation and Samples for the Official HN API
-- [mzlogin/awesome-adb](https://github.com/mzlogin/awesome-adb) - ADB Usage Complete / ADB 用法大全
-- [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
+- [karim23657/ParsiGoo](https://github.com/karim23657/ParsiGoo) - ParsiGoo is a Persian multispeaker dataset for text-to-speech purposes. It includes recordings from different speakers and is designed to be used for training and evaluating text-to-speech models.
+- [mmasoudih/javascript.info](https://github.com/mmasoudih/javascript.info) - آموزش جاوا اسکریپت به صورت فارسی از مقدماتی تا پیشرفته
+- [persiandataset/PersianSpeech](https://github.com/persiandataset/PersianSpeech) - Persian ASR dataset
+- [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
+- [MEgooneh/awesome-Iran-datasets](https://github.com/MEgooneh/awesome-Iran-datasets) - Iranian/Persian Datasets. دیتاست‌های فارسی و ایرانی
+- [yazdan/career-path](https://github.com/yazdan/career-path) - اینجا سعی دارد با کمک دیگران به شما کمک کند که چگونه مسیر شغلی خود را انتخاب کنید
+- [maxbachmann/python-Levenshtein](https://github.com/maxbachmann/python-Levenshtein) - The Levenshtein Python C extension module contains functions for fast computation of Levenshtein distance and string similarity
+- [Hameds/APIs-made-in-Iran](https://github.com/Hameds/APIs-made-in-Iran) - A list of APIs from Iran
+- [alipyth/Aparat_bot](https://github.com/alipyth/Aparat_bot) - ربات افزایش فالورر و بازدید آپارات . این ربات کاملا طبیعی عمل میکنه و خبری از ربات فالوور فیک نیست .
+- [MrYazdan/IranianProxyList](https://github.com/MrYazdan/IranianProxyList) - :globe_with_meridians: The best proxies that can be used in Iranian ISPs
+- [dkncus/CrowdRemoval](https://github.com/dkncus/CrowdRemoval) - 
+- [Cozy-Tech/regex_tutorial_and_examples](https://github.com/Cozy-Tech/regex_tutorial_and_examples) - 
+- [Hameds/IranCountryDivisions](https://github.com/Hameds/IranCountryDivisions) - Iran Country Divisions - کلیه تقسیمات کشوری ایران تا سطح آبادی بر اساس اطلاعات مرکز آمار ایران
+- [MrBotDeveloper/This-Repo-Has-108-Stars](https://github.com/MrBotDeveloper/This-Repo-Has-108-Stars) - Yes it's true :broken_heart:, currently it has 108 stars ⭐ and 25 forks 🍴.
+- [Alir3z4/stop-words](https://github.com/Alir3z4/stop-words) - List of common stop words in various languages.
+- [ahmadazizi/iran-cities](https://github.com/ahmadazizi/iran-cities) - The most accurate database of city, county, village and province names of Iran.
+- [iranremote/awesome-iran-remote](https://github.com/iranremote/awesome-iran-remote) - A list of remote-friendly or full-remote companies that targets iranian talents.
+- [Blatzar/scraping-tutorial](https://github.com/Blatzar/scraping-tutorial) - Tutorial for scraping streaming sites
+- [DentiAssist/change-extension](https://github.com/DentiAssist/change-extension) - To change the extention of all files in a folder, this method is used.
+- [iamvs-2002/Understand-PR-and-Github](https://github.com/iamvs-2002/Understand-PR-and-Github) - A repository to understand PR and GitHub
+- [OverFlowData/NER-](https://github.com/OverFlowData/NER-) - The list of Persian Name
+- [sepandhaghighi/python-questions](https://github.com/sepandhaghighi/python-questions) - نمونه سوال های برنامه نویسی پایتون
+- [ziaa/Persian-stopwords-collection](https://github.com/ziaa/Persian-stopwords-collection) - A collection of Persian stopwords - فهرست کلمات ایست فارسی
+- [vahidbaghi/GoogleDrive](https://github.com/vahidbaghi/GoogleDrive) - تبدیل گوگل درایو به هاست دانلود با دامنه اختصاصی
+- [MrBotDeveloper/API](https://github.com/MrBotDeveloper/API) - A Multi-Functional API by @MrBotDeveloper which let's you do many interesting things
+- [Toukacloud/TGFlix](https://github.com/Toukacloud/TGFlix) - Yet Another Idea 💡 | TGFlix - Use Telegram as your Drive & stream.
+- [Clinton-Abraham/SPACE-X-BOTS](https://github.com/Clinton-Abraham/SPACE-X-BOTS) - SpaceX Telegram Bots ⚡
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
-- [resumejob/interview-questions](https://github.com/resumejob/interview-questions) - Interview Questions for Google, Amazon, Apple, etc. 根据超过 2000 篇真实面经整理的腾讯，阿里，字节跳动，Shopee，美团，滴滴高频面试题
-- [timofurrer/awesome-asyncio](https://github.com/timofurrer/awesome-asyncio) - A curated list of awesome Python asyncio frameworks, libraries, software and resources
-- [iggredible/Learn-Vim](https://github.com/iggredible/Learn-Vim) - Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for 📖
-- [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
-- [grpc-ecosystem/awesome-grpc](https://github.com/grpc-ecosystem/awesome-grpc) - A curated list of useful resources for gRPC
-- [cncf/wg-serverless](https://github.com/cncf/wg-serverless) - CNCF Serverless WG
-- [Tim9Liu9/TimLiu-iOS](https://github.com/Tim9Liu9/TimLiu-iOS) - iOS开发常用三方库、插件、知名博客等等
-- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs) - The Microsoft community Windows Package Manager manifest repository
-- [ruanyf/weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布
-- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
-- [izackwu/TeachYourselfCS-CN](https://github.com/izackwu/TeachYourselfCS-CN) - TeachYourselfCS 的中文翻译 |  A Chinese translation of TeachYourselfCS
-- [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
-- [tidb-incubator/tidb-in-action](https://github.com/tidb-incubator/tidb-in-action) - TiDB In Action: based on 4.0
-- [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview
-- [microsoft/api-guidelines](https://github.com/microsoft/api-guidelines) - Microsoft REST API Guidelines
-- [shieldfy/API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) - Checklist of the most important security countermeasures when designing, testing, and releasing your API
-- [google/eng-practices](https://github.com/google/eng-practices) - Google's Engineering Practices documentation
-- [piglei/one-python-craftsman](https://github.com/piglei/one-python-craftsman) - 来自一位 Pythonista 的编程经验分享，内容涵盖编码技巧、最佳实践与思维模式等方面。
-- [nusr/hacker-laws-zh](https://github.com/nusr/hacker-laws-zh) - 💻📖对开发人员有用的定律、理论、原则和模式。(Laws, Theories, Principles and Patterns that developers will find useful.)
-- [Alikhll/golang-developer-roadmap](https://github.com/Alikhll/golang-developer-roadmap) - Roadmap to becoming a Go developer in 2020
-- [RomuloOliveira/commit-messages-guide](https://github.com/RomuloOliveira/commit-messages-guide) - A guide to understand the importance of commit messages and how to write them well
-- [996icu/996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
-- [kenwoodjw/python_interview_question](https://github.com/kenwoodjw/python_interview_question) - 关于python的面试题
-- [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
-- [VincentSit/ChinaMobilePhoneNumberRegex](https://github.com/VincentSit/ChinaMobilePhoneNumberRegex) - Regular expressions that match the mobile phone number in mainland China. / 一组匹配中国大陆手机号码的正则表达式。
-- [jamiehannaford/what-happens-when-k8s](https://github.com/jamiehannaford/what-happens-when-k8s) - 🤔  What happens when I type kubectl run?
-- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL
-- [xingshaocheng/architect-awesome](https://github.com/xingshaocheng/architect-awesome) - 后端架构师技术图谱
-- [DocsHome/microservices](https://github.com/DocsHome/microservices) - Microservices from Design to Deployment 中文版 《微服务：从设计到部署》
-- [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
-- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
-- [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
-- [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
-- [mbeaudru/modern-js-cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet) - Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.
+- [ChankitSaini/TelegramScrapper](https://github.com/ChankitSaini/TelegramScrapper) - Telegram member scrapper script
+- [mishakorzik/MailFinder](https://github.com/mishakorzik/MailFinder) - OSINT tool for finding email by first and last name
+- [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template) - An awesome README template to jumpstart your projects!
+- [Single-Developers/The_Shazam_BOT](https://github.com/Single-Developers/The_Shazam_BOT) - 🌷 This is Most Advanced Music Finder BOT 🎧, Keyword Searchers & Also 🎙 Voice Searchers Supported 🎵
+- [gautamajay52/TransloaderBot](https://github.com/gautamajay52/TransloaderBot) - SooN
+- [Mahmood-Taghavi/eSpeakPlus](https://github.com/Mahmood-Taghavi/eSpeakPlus) - eSpeakPlus is a free Text To Speech (TTS) engine for Persian and other languages in Windows which supports SAPI 5 speech driver. It is based on the legacy espeak TTS and the Mbrola voices.
+- [Ambrose114/TelegramForwardTagRemover](https://github.com/Ambrose114/TelegramForwardTagRemover) - 
+- [asyraffff/readme-with-video](https://github.com/asyraffff/readme-with-video) - 
+- [m1guelpf/readme-with-video](https://github.com/m1guelpf/readme-with-video) - An example of a repo with a video on its README
+- [DevelopersTree/awesome-kurds](https://github.com/DevelopersTree/awesome-kurds) - A curated list of awesome Kurds.
 - [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
-- [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
-- [skyline75489/what-happens-when-zh_CN](https://github.com/skyline75489/what-happens-when-zh_CN) - What-happens-when 的中文翻译，原仓库 https://github.com/alex/what-happens-when
-- [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript) - 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.
-- [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
-- [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
-- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
+- [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
+- [reza-tanha/aparat_api](https://github.com/reza-tanha/aparat_api) - راهنمای استفاده از خدمات اپارات
+- [oppsec/extensions-wordlist](https://github.com/oppsec/extensions-wordlist) - 🔍 Improve your files enumeration with specific extensions!
+- [m4mallu/clonebot-ui](https://github.com/m4mallu/clonebot-ui) - Redirecting link to the original and latest clonebot repository.
+- [PredatorHackerzZ/Renamer-Bot](https://github.com/PredatorHackerzZ/Renamer-Bot) - Best & Fastest Renamer Bot By @Clinton-Abraham & @PredatorHackerzZ. Star and Fork the repo if you like it else you are Gay!...  @TeamTeleRoid
+- [oliverfei/fbx_files](https://github.com/oliverfei/fbx_files) - 
+- [oliverfei/a-frame-playground](https://github.com/oliverfei/a-frame-playground) - 
+- [oliverfei/spring-cloud-config-basics-repo](https://github.com/oliverfei/spring-cloud-config-basics-repo) - Repo holding the configuration settings used by the spring-cloud-config-basics demo
+- [oliverfei/videocr-app](https://github.com/oliverfei/videocr-app) - Desktop application for extracting text/hard-coded subtitles from videos.
+- [shahind/Persian-Words-Database](https://github.com/shahind/Persian-Words-Database) - About 700,000 Persian(Farsi) Words
+- [subinps/Any-repo](https://github.com/subinps/Any-repo) - Any Repo
+- [sahadz/FileConvertRobot](https://github.com/sahadz/FileConvertRobot) - 
+- [ashkanRmk/awesome-persian-podcasts](https://github.com/ashkanRmk/awesome-persian-podcasts) - لیست بهترین پادکست‌های فارسی زبان :sound:
+- [MysteryBots/ID-Bot](https://github.com/MysteryBots/ID-Bot) - https://github.com/StarkBotsIndustries/ID-Bot
+- [QueraTeam/git-ninjas](https://github.com/QueraTeam/git-ninjas) - This repo is about our Practical Git course, and contains a list of users that successfully finished the course.
+- [jainamoswal/IDC](https://github.com/jainamoswal/IDC) - A new LICENSE template for IDC (I Don't Care).
+- [jainamoswal/mail-bot](https://github.com/jainamoswal/mail-bot) - A fake-mail bot made by a noob
+- [jainamoswal/GitMojis](https://github.com/jainamoswal/GitMojis) - A place where you can find all emojis provided by GitHub.com
+- [nuhmanpk/The-Repo](https://github.com/nuhmanpk/The-Repo) - All Repository from BugHunterBots
+- [nuhmanpk/Simple-Telegram-Bots](https://github.com/nuhmanpk/Simple-Telegram-Bots) - Simple Telegram bots using Pyrogram, Getting so many Requests regarding building Bot in Telegram, so I Decided to Create a Code Incubation.  Code Incubator will help You make a Bot Yourself and unders
+- [Itz-fork/My-Python-Libs](https://github.com/Itz-fork/My-Python-Libs) - List of Python Libraries made by me
+- [cassidoo/scrapers](https://github.com/cassidoo/scrapers) - A list of scrapers from around the web.
+- [RajatVarshney18/Movie_Describer](https://github.com/RajatVarshney18/Movie_Describer) - Its a basic PWA single page web application which searches for a movie using the OMDb API call and gives all the info related to that movie such as genre, release date, producer name etc.
+- [SpEcHiDe/IMDbOT](https://github.com/SpEcHiDe/IMDbOT) - The Telegram IMDbOT
+- [isaacxbt/TransfershAPI](https://github.com/isaacxbt/TransfershAPI) - Transfer.sh API Wrapper
+- [isaacxbt/AnonfilesAPI](https://github.com/isaacxbt/AnonfilesAPI) - Anonfiles.com API Wrapper
+- [m4mallu/inline-tube-mate](https://github.com/m4mallu/inline-tube-mate) - An Inline Telegram YouTube downloader bot with custom, permanent thumbnail support, force subscription and cancel upload facility. The bot can send or broadcast messages to the users.
+- [aahnik/tgcf-on-gh-action](https://github.com/aahnik/tgcf-on-gh-action) - Running tgcf periodically in past mode for free using GitHub Actions.
 
 ## PHP 
 
-- [RSS-Bridge/rss-bridge](https://github.com/RSS-Bridge/rss-bridge) - The RSS feed for websites missing it
-- [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable aggregator…
-- [easychen/howto-make-more-money](https://github.com/easychen/howto-make-more-money) - 程序员如何优雅的挣零花钱，2.0版，升级为小书了。Most of this not work outside China , so no English translate
-- [the-benchmarker/web-frameworks](https://github.com/the-benchmarker/web-frameworks) - Which is the fastest web framework?
+- [Smartproxy/Social-Media-Scraping-API](https://github.com/Smartproxy/Social-Media-Scraping-API) - Social Media Scraping API code examples for Python, PHP and Node.js
+- [alikm6/chToolsBot](https://github.com/alikm6/chToolsBot) - Telegram Bot to Help Channel Administrators
+- [bluedreamcoder/createyourbot](https://github.com/bluedreamcoder/createyourbot) - Code Examples for createyourbot telegram bots
+- [ErfanBahramali/Telegram-Bot-PHP](https://github.com/ErfanBahramali/Telegram-Bot-PHP) - Telegram-Bot-PHP is a PHP library for interacting with the official Telegram Bot API
+- [abbas-oveissi/MoviesApi_ir](https://github.com/abbas-oveissi/MoviesApi_ir) - Source to www.moviesapi.ir
+- [SpEcHiDe/PublicStream](https://github.com/SpEcHiDe/PublicStream) - Instant Stream Link Generator of Telegram Files, powered by @MadeLineProto
+- [zaselalk/img_uploader](https://github.com/zaselalk/img_uploader) - Simple php image uploader
+- [SaeedZareen/Heroku-PHP-Bot-Base](https://github.com/SaeedZareen/Heroku-PHP-Bot-Base) - A Telegram BaseCode For PHP Bots To Run in Heroku Services
+- [NabiKAZ/filimo-downloader](https://github.com/NabiKAZ/filimo-downloader) - Download movies from filimo.com | لینک جایگزین جهت احتیاط: https://gitlab.com/NabiKAZ/filimo-downloader
+- [JayRizzo/Random_Scripts](https://github.com/JayRizzo/Random_Scripts) - My Own Creations & Stack Overflow Answers To Questions
+- [NabiKAZ/fetch-telegram](https://github.com/NabiKAZ/fetch-telegram) - Fetch and download all video contents of channels telegram by PHP (Not used Bot API, Core API, or not need any authenticate telegram! It's anonymouse downloader!)
+- [koel/koel](https://github.com/koel/koel) - 🐦 A personal music streaming server that works.
+- [YOURLS/YOURLS](https://github.com/YOURLS/YOURLS) - 🔗 The de facto standard self hosted URL shortener in PHP
+- [tginfo/Telegram-Limits](https://github.com/tginfo/Telegram-Limits) - This project describes Telegram limitations
+- [shetabit/payment](https://github.com/shetabit/payment) - simple laravel payment package , supports multiple drivers
+- [shahind/Persian-Spell-Corrector-PHP](https://github.com/shahind/Persian-Spell-Corrector-PHP) - a PHP Script for correcting Persian Spell
+- [NeleB54Gold/NeleBotX](https://github.com/NeleB54Gold/NeleBotX) - PHP Framework for Telegram Bot API
+- [nimah79/Subscene-API-PHP](https://github.com/nimah79/Subscene-API-PHP) - REST API for Subscene subtitle service, written in PHP
+- [SpEcHiDe/Zedge-Images-Bot](https://github.com/SpEcHiDe/Zedge-Images-Bot) - can be found on telegram as https://t.me/ZedgeImagesBot
+- [NeleB54Gold/MasterPollBot](https://github.com/NeleB54Gold/MasterPollBot) - Create and manage advanced polls with this Telegram Bot which has many features available!
+- [avipatilpro/JioTV](https://github.com/avipatilpro/JioTV) - 🤩 JioTV Play is script for Streaming LiveTV on Indian Server or LocalHost
+- [avipatilpro/MXPlayer-API](https://github.com/avipatilpro/MXPlayer-API) - 😈 It's MX Player API Get All Data In JSON From MxPlayer
+- [wjclub/telegram-bot-tokenextract](https://github.com/wjclub/telegram-bot-tokenextract) - A telegram chat bot which extracts the bot token from the message @botfather sends you
+- [ahbanavi/subland](https://github.com/ahbanavi/subland) - A Robot for finding subtitles on telegram.
+- [kihanb/TelegramPublicSearch](https://github.com/kihanb/TelegramPublicSearch) - Telegram Public Post Searcher
 
-## PLpgSQL 
+## Pascal 
 
-- [zombodb/zombodb](https://github.com/zombodb/zombodb) - Making Postgres and Elasticsearch work together like it's 2023
+- [Erfaniaa/Persian-OCR](https://github.com/Erfaniaa/Persian-OCR) - Optical character recognition of Farsi and Arabic letters
+- [KhassTeam/Persian-CAPTCHA](https://github.com/KhassTeam/Persian-CAPTCHA) - Simple Persian CAPTCHA generator
 
 ## Perl 
 
-- [AlDanial/cloc](https://github.com/AlDanial/cloc) - cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.
+- [kiamazi/kateb](https://github.com/kiamazi/kateb) - Install and update free Farsi fonts
 
 ## PowerShell 
 
-- [actions/runner-images](https://github.com/actions/runner-images) - GitHub Actions runner images
+- [alexandrosk0/GorpoMergeAndEncode](https://github.com/alexandrosk0/GorpoMergeAndEncode) - Gorpo multiple files merge and encode done with Powershell using MKVToolNix and Handbrake
+
+## Procfile 
+
+- [PR0FESS0R-99/INFORMATION-BOT](https://github.com/PR0FESS0R-99/INFORMATION-BOT) - Telegram Id Bot
 
 ## Python 
 
-- [KurtBestor/Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - :cake: Desktop utility to download images/videos/music/text from various websites, and more.
-- [mljar/mercury](https://github.com/mljar/mercury) - Convert Jupyter Notebooks to Web Apps
-- [psycopg/psycopg](https://github.com/psycopg/psycopg) - New generation PostgreSQL database adapter for the Python programming language
-- [baichuan-inc/baichuan-7B](https://github.com/baichuan-inc/baichuan-7B) - A large-scale 7B pretraining language model developed by BaiChuan-Inc.
-- [facebookresearch/ijepa](https://github.com/facebookresearch/ijepa) - Official codebase for I-JEPA, the Image-based Joint-Embedding Predictive Architecture. First outlined in the CVPR paper, "Self-supervised learning from images with a joint-embedding predictive archite
-- [facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft) - Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable mu
-- [SysCV/sam-hq](https://github.com/SysCV/sam-hq) - Segment Anything in High Quality
-- [dsdanielpark/Bard-API](https://github.com/dsdanielpark/Bard-API) - The unofficial python package that returns response of Google Bard through cookie value.
-- [reactive-python/reactpy](https://github.com/reactive-python/reactpy) - It's React, but in Python
-- [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
-- [lucidrains/soundstorm-pytorch](https://github.com/lucidrains/soundstorm-pytorch) - Implementation of SoundStorm, Efficient Parallel Audio Generation from Google Deepmind, in Pytorch
-- [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
-- [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - &lt;⚡️&gt; SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
-- [OpenBMB/CPM-Bee](https://github.com/OpenBMB/CPM-Bee) - 百亿参数的中英文双语基座大模型
-- [dongrixinyu/JioNLP](https://github.com/dongrixinyu/JioNLP) - 中文 NLP 预处理、解析工具包，准确、高效、易用 A Chinese NLP Preprocessing & Parsing Package www.jionlp.com
-- [s0md3v/roop](https://github.com/s0md3v/roop) - one-click deepfake (face swap)
-- [geohot/tinygrad](https://github.com/geohot/tinygrad) - You like pytorch? You like micrograd? You love tinygrad! ❤️
-- [iperov/DeepFaceLive](https://github.com/iperov/DeepFaceLive) - Real-time face swap for PC streaming or video calls
-- [Azure-Samples/azure-search-openai-demo](https://github.com/Azure-Samples/azure-search-openai-demo) - A sample app for the Retrieval-Augmented Generation pattern running in Azure, using Azure Cognitive Search for retrieval and Azure OpenAI large language models  to power ChatGPT-style and Q&A experien
-- [facebookresearch/ImageBind](https://github.com/facebookresearch/ImageBind) - ImageBind One Embedding Space to Bind Them All
-- [ricklamers/gpt-code-ui](https://github.com/ricklamers/gpt-code-ui) - An open source implementation of OpenAI's ChatGPT Code interpreter
-- [Zeqiang-Lai/DragGAN](https://github.com/Zeqiang-Lai/DragGAN) - Unofficial Implementation of DragGAN - "Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold" （DragGAN 全功能实现，在线Demo，本地部署试用，代码、模型已全部开源，支持Windows, macOS, Linux）
-- [JiauZhang/DragGAN](https://github.com/JiauZhang/DragGAN) - Implementation of DragGAN: Interactive Point-based Manipulation on the Generative Image Manifold
-- [pengxiao-song/LaWGPT](https://github.com/pengxiao-song/LaWGPT) - 🎉 Repo for LaWGPT, Chinese-Llama tuned with Chinese Legal knowledge. 基于中文法律知识的大语言模型
-- [NotJoeMartinez/yt-fts](https://github.com/NotJoeMartinez/yt-fts) - Youtube Full Text Search - Search all of a YouTube channel's subtitles from the command line
-- [voicepaw/so-vits-svc-fork](https://github.com/voicepaw/so-vits-svc-fork) - so-vits-svc fork with realtime support, improved interface and more features.
-- [openai/plugins-quickstart](https://github.com/openai/plugins-quickstart) - Get a ChatGPT plugin up and running in under 5 minutes!
-- [csunny/DB-GPT](https://github.com/csunny/DB-GPT) - Revolutionizing Database Interactions with Private LLM Technology
-- [RaRe-Technologies/gensim](https://github.com/RaRe-Technologies/gensim) - Topic Modelling for Humans
-- [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact privately with your documents using the power of GPT, 100% privately, no data leaks
-- [svc-develop-team/so-vits-svc](https://github.com/svc-develop-team/so-vits-svc) - SoftVC VITS Singing Voice Conversion
-- [SCUTlihaoyu/open-chat-video-editor](https://github.com/SCUTlihaoyu/open-chat-video-editor) - Open source short video automatic generation tool
-- [opengeos/segment-geospatial](https://github.com/opengeos/segment-geospatial) - A Python package for segmenting geospatial data with the Segment Anything Model (SAM)
-- [openai/shap-e](https://github.com/openai/shap-e) - Generate 3D objects conditioned on text or images
-- [deep-floyd/IF](https://github.com/deep-floyd/IF) - 
-- [lamini-ai/lamini](https://github.com/lamini-ai/lamini) - 
-- [Plutoisy/so-vits-svc](https://github.com/Plutoisy/so-vits-svc) - Forked from innnky so-vits-svc
-- [bigcode-project/starcoder](https://github.com/bigcode-project/starcoder) - Home of StarCoder: fine-tuning & inference!
-- [richardyc/Chrome-GPT](https://github.com/richardyc/Chrome-GPT) - An AutoGPT agent that controls Chrome on your desktop
-- [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai) - Pandas AI is a Python library that integrates generative artificial intelligence capabilities into Pandas, making dataframes conversational
-- [replit/ReplitLM](https://github.com/replit/ReplitLM) - Inference code and configs for the ReplitLM model family
-- [AIGC-Audio/AudioGPT](https://github.com/AIGC-Audio/AudioGPT) - AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head
-- [UX-Decoder/Segment-Everything-Everywhere-All-At-Once](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once) - Official implementation of the paper "Segment Everything Everywhere All at Once"
-- [gaomingqi/Track-Anything](https://github.com/gaomingqi/Track-Anything) - Track-Anything is a flexible and interactive tool for video object tracking and segmentation, based on Segment Anything, XMem, and E2FGVI.
+- [mo1ein/Golchin](https://github.com/mo1ein/Golchin) - Golchin is a telegram bot that extract English words from file and translate it to Persian.
+- [mo1ein/TelegramArchive](https://github.com/mo1ein/TelegramArchive) - Export telegram chats.
+- [TheRealNE0/Ne0-Subfixer](https://github.com/TheRealNE0/Ne0-Subfixer) - Fix your Persian subtitles
 - [rany2/edge-tts](https://github.com/rany2/edge-tts) - Use Microsoft Edge's online text-to-speech service from Python WITHOUT needing Microsoft Edge or Windows or an API key
-- [bhaskatripathi/pdfGPT](https://github.com/bhaskatripathi/pdfGPT) - PDF GPT allows you to chat with the contents of your PDF file by using GPT capabilities. The only open source solution to turn your pdf files in a chatbot!
-- [xtekky/chatgpt-clone](https://github.com/xtekky/chatgpt-clone) - ChatGPT interface with better UI
-- [OpenBMB/BMTools](https://github.com/OpenBMB/BMTools) - Tool Learning for Big Models, Open-Source Solutions of ChatGPT-Plugins
-- [LawRefBook/Laws](https://github.com/LawRefBook/Laws) - 
-- [OpenLMLab/MOSS](https://github.com/OpenLMLab/MOSS) - An open-source tool-augmented conversational language model from Fudan University
-- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - decentralising the Ai Industry, just some language model api's...
-- [muellerberndt/mini-agi](https://github.com/muellerberndt/mini-agi) - MiniAGI is a minimal general-purpose autonomous agent based on GPT-3.5 / GPT-4. Can analyze stock prices, perform network security tests, create art, and order pizza.
-- [togethercomputer/RedPajama-Data](https://github.com/togethercomputer/RedPajama-Data) - The RedPajama-Data repository contains code for preparing large datasets for training large language models.
-- [Vision-CAIR/MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) - MiniGPT-4: Enhancing Vision-language Understanding with Advanced Large Language Models
-- [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache) - Semantic cache for LLMs. Fully integrated with LangChain and llama_index.
-- [ading2210/poe-api](https://github.com/ading2210/poe-api) - A reverse engineered Python API wrapper for Quora's Poe, which provides free access to ChatGPT, GPT-4, and Claude.
-- [acheong08/Bard](https://github.com/acheong08/Bard) - Python SDK/API for reverse engineered Google Bard
-- [facebookresearch/AnimatedDrawings](https://github.com/facebookresearch/AnimatedDrawings) - Code to accompany "A Method for Animating Children's Drawings of the Human Figure"
-- [everythingishacked/Semaphore](https://github.com/everythingishacked/Semaphore) - A full-body keyboard using gestures to type through computer vision
-- [openai/consistency_models](https://github.com/openai/consistency_models) - Official repo for consistency models.
-- [biobootloader/wolverine](https://github.com/biobootloader/wolverine) - 
-- [ravenscroftj/turbopilot](https://github.com/ravenscroftj/turbopilot) - Turbopilot is an open source large-language-model based code completion engine that runs locally on CPU
-- [Vaayne/notionai-py](https://github.com/Vaayne/notionai-py) - Unofficial Python SDK for NotionAI
-- [THUDM/ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) - ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型
-- [project-baize/baize-chatbot](https://github.com/project-baize/baize-chatbot) - Let ChatGPT teach your own chatbot in hours with a single GPU!
-- [OptimalScale/LMFlow](https://github.com/OptimalScale/LMFlow) - An Extensible Toolkit for Finetuning and Inference of Large Foundation Models. Large Model for All.
-- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A gradio web UI for running Large Language Models like LLaMA, llama.cpp, GPT-J, Pythia, OPT, and GALACTICA.
-- [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
-- [emcf/engshell](https://github.com/emcf/engshell) - An English-language shell for any OS, powered by LLMs
-- [yoheinakajima/babyagi](https://github.com/yoheinakajima/babyagi) - 
-- [imClumsyPanda/langchain-ChatGLM](https://github.com/imClumsyPanda/langchain-ChatGLM) - langchain-ChatGLM, local knowledge based ChatGLM with langchain ｜ 基于本地知识库的 ChatGLM 问答
-- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
-- [chroma-core/chroma](https://github.com/chroma-core/chroma) - the AI-native open-source embedding database
-- [Rapptz/discord.py](https://github.com/Rapptz/discord.py) - An API wrapper for Discord written in Python.
-- [microsoft/JARVIS](https://github.com/microsoft/JARVIS) - JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf
-- [piglei/ai-vocabulary-builder](https://github.com/piglei/ai-vocabulary-builder) - 一个使用了 AI 技术的智能生词本工具，特色功能：自动添加生词、读故事助记单词。
-- [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - A batteries-included library for building AI-powered software
-- [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and FastChat-T5.
-- [twitter/the-algorithm-ml](https://github.com/twitter/the-algorithm-ml) - Source code for Twitter's Recommendation Algorithm
-- [twitter/communitynotes](https://github.com/twitter/communitynotes) - Documentation and source code powering Twitter's Community Notes
-- [OpenGVLab/LLaMA-Adapter](https://github.com/OpenGVLab/LLaMA-Adapter) - Fine-tuning LLaMA to follow Instructions within 1 Hour and 1.2M Parameters
-- [ymcui/Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca) - 中文LLaMA&Alpaca大语言模型+本地CPU/GPU训练部署 (Chinese LLaMA & Alpaca LLMs)
-- [Kent0n-Li/ChatDoctor](https://github.com/Kent0n-Li/ChatDoctor) - 
-- [Lightning-AI/lit-llama](https://github.com/Lightning-AI/lit-llama) - Implementation of the LLaMA language model based on nanoGPT. Supports flash attention, Int8 and GPTQ 4bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-licensed.
-- [zhayujie/bot-on-anything](https://github.com/zhayujie/bot-on-anything) - Connect AI models (like ChatGPT-3.5/4.0, Baidu Yiyan, New Bing, Bard) to apps (like Wechat, public account, DingTalk, Telegram,  QQ).  将 ChatGPT、必应、文心一言、谷歌Bard 等对话模型连接各类应用，如微信、公众号、QQ、Telegram、Gmail、Sl
-- [hwchase17/langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡
-- [clue-ai/ChatYuan](https://github.com/clue-ai/ChatYuan) - ChatYuan: Large Language Model for Dialogue in Chinese and English
-- [showlab/Tune-A-Video](https://github.com/showlab/Tune-A-Video) - Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation
-- [binary-husky/gpt_academic](https://github.com/binary-husky/gpt_academic) - 为ChatGPT/GLM提供图形交互界面，特别优化论文阅读润色体验，模块化设计支持自定义快捷按钮&函数插件，支持代码块表格显示，Tex公式双显示，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持清华chatglm等本地模型。兼容复旦MOSS, llama, rwkv, 盘古, newbing, claude等
-- [sahil280114/codealpaca](https://github.com/sahil280114/codealpaca) - 
-- [Picsart-AI-Research/Text2Video-Zero](https://github.com/Picsart-AI-Research/Text2Video-Zero) - Text-to-Image Diffusion Models are Zero-Shot Video Generators
-- [gd3kr/BlenderGPT](https://github.com/gd3kr/BlenderGPT) - Use commands in English to control Blender with OpenAI's GPT-4
-- [databrickslabs/dolly](https://github.com/databrickslabs/dolly) - Databricks’ Dolly, a large language model trained on the Databricks Machine Learning Platform
-- [jerryjliu/llama_index](https://github.com/jerryjliu/llama_index) - LlamaIndex (GPT Index) is a data framework for your LLM applications
-- [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in natural language.
-- [tmbo/questionary](https://github.com/tmbo/questionary) - Python library to build pretty command line user prompts ✨Easy to use multi-select lists, confirmations, free text prompts ...
-- [serge-chat/serge](https://github.com/serge-chat/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
-- [madawei2699/myGPTReader](https://github.com/madawei2699/myGPTReader) - A community-driven way to read and chat with AI bots - powered by chatGPT.
-- [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals) - 🌸 Run large language models at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
-- [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
-- [modelscope/modelscope](https://github.com/modelscope/modelscope) - ModelScope: bring the notion of Model-as-a-Service to life.
-- [gradio-app/gradio](https://github.com/gradio-app/gradio) - Create UIs for your machine learning model in Python in 3 minutes
-- [apache/tvm](https://github.com/apache/tvm) - Open deep learning compiler stack for cpu, gpu and specialized accelerators
-- [lllyasviel/ControlNet](https://github.com/lllyasviel/ControlNet) - Let us control diffusion models!
-- [microsoft/TaskMatrix](https://github.com/microsoft/TaskMatrix) - 
-- [acheong08/EdgeGPT](https://github.com/acheong08/EdgeGPT) - Reverse engineered API of Microsoft's Bing Chat AI
-- [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
-- [tatsu-lab/stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca) - Code and documentation to train Stanford's Alpaca models, and generate the data.
-- [GanymedeNil/document.ai](https://github.com/GanymedeNil/document.ai) - 基于向量数据库与GPT3.5的通用本地知识库方案(A universal local knowledge base solution based on vector database and GPT3.5)
-- [microsoft/unilm](https://github.com/microsoft/unilm) - Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities
-- [openai/openai-python](https://github.com/openai/openai-python) - The OpenAI Python library provides convenient access to the OpenAI API from applications written in the Python language.
-- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
-- [facebookresearch/llama](https://github.com/facebookresearch/llama) - Inference code for LLaMA models
-- [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch
-- [jaymody/picoGPT](https://github.com/jaymody/picoGPT) - An unnecessarily tiny implementation of GPT-2 in NumPy.
-- [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) - Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.
-- [gaogaotiantian/viztracer](https://github.com/gaogaotiantian/viztracer) - VizTracer is a low-overhead logging/debugging/profiling tool that can trace and visualize your python code execution.
-- [pynecone-io/pynecone](https://github.com/pynecone-io/pynecone) - 🕸 Web apps in pure Python 🐍
-- [Owez/yark](https://github.com/Owez/yark) - YouTube archiving made simple.
-- [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible
-- [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
-- [apple/ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion) - Stable Diffusion with Core ML on Apple Silicon
-- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is an Open Source Security tool for AWS, Azure and GCP to perform Cloud Security best practices assessments, audits, incident response, compliance, continuous monitoring, hardening and forensi
-- [openai/point-e](https://github.com/openai/point-e) - Point cloud diffusion for 3D model synthesis
-- [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - SkyPilot is a framework for easily running machine learning workloads on any cloud through a unified interface.
-- [google/osv.dev](https://github.com/google/osv.dev) - Open source vulnerability DB and triage service.
-- [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
-- [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background
-- [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot) - FauxPilot - an open-source alternative to GitHub Copilot server
-- [jupyterhub/binderhub](https://github.com/jupyterhub/binderhub) - Run your code in the cloud, with technology so advanced, it feels like magic!
-- [jupyterhub/zero-to-jupyterhub-k8s](https://github.com/jupyterhub/zero-to-jupyterhub-k8s) - Helm Chart & Documentation for deploying JupyterHub on Kubernetes
-- [facebookresearch/ParlAI](https://github.com/facebookresearch/ParlAI) - A framework for training and evaluating AI models on a variety of openly available dialogue datasets.
-- [dagster-io/dagster](https://github.com/dagster-io/dagster) - An orchestration platform for the development, production, and observation of data assets.
-- [tkem/cachetools](https://github.com/tkem/cachetools) - Extensible memoizing collections and decorators
-- [mli/autocut](https://github.com/mli/autocut) - 用文本编辑器剪视频
-- [Sanster/lama-cleaner](https://github.com/Sanster/lama-cleaner) - Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
-- [amueller/word_cloud](https://github.com/amueller/word_cloud) - A little word cloud generator in Python
-- [matplotlib/matplotlib](https://github.com/matplotlib/matplotlib) - matplotlib: plotting with Python
-- [mwaskom/seaborn](https://github.com/mwaskom/seaborn) - Statistical data visualization in Python
-- [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
-- [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - MindsDB is a Server for Artificial Intelligence Logic. Enabling developers to ship to production AI powered projects (from the latest LLMs, vector operations, state of the art time-series forecasting 
-- [facundoolano/software-papers](https://github.com/facundoolano/software-papers) - 📚 A curated list of papers for Software Engineers
-- [tobymao/sqlglot](https://github.com/tobymao/sqlglot) - Python SQL Parser and Transpiler
-- [Miksus/rocketry](https://github.com/Miksus/rocketry) - Modern scheduling library for Python
-- [nolar/kopf](https://github.com/nolar/kopf) - A Python framework to write Kubernetes operators in just a few lines of code
-- [grafana/oncall](https://github.com/grafana/oncall) - Developer-friendly incident response with brilliant Slack integration
-- [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
-- [scrapy/parsel](https://github.com/scrapy/parsel) - Parsel lets you extract data from XML/HTML documents using XPath or CSS selectors
-- [Textualize/textual](https://github.com/Textualize/textual) - Textual is a Rapid Application Development framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and (coming soon) a web browser!
-- [ctripcorp/flybirds](https://github.com/ctripcorp/flybirds) - 基于自然语言的，跨端跨框架 BDD UI 自动化测试方案，BDD testing, Python style, Present by Trip Flight
-- [pyscript/pyscript](https://github.com/pyscript/pyscript) - Home Page: https://pyscript.net  Examples: https://pyscript.net/examples
-- [microsoft/playwright-python](https://github.com/microsoft/playwright-python) - Python version of the Playwright testing and automation library.
-- [reloadware/reloadium](https://github.com/reloadware/reloadium) - ChatGPT,​ Hot Reloading and Profiling for Python
-- [getmoto/moto](https://github.com/getmoto/moto) - A library that allows you to easily mock out tests based on AWS infrastructure.
-- [flyteorg/flyte](https://github.com/flyteorg/flyte) - Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.
-- [PaddlePaddle/PaddleNLP](https://github.com/PaddlePaddle/PaddleNLP) - 👑 Easy-to-use and powerful NLP library with 🤗 Awesome model zoo, supporting wide-range of NLP tasks from research to industrial applications, including 🗂Text Classification,  🔍 Neural Search, ❓ Questi
-- [PaddlePaddle/PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech) - Easy-to-use Speech Toolkit including Self-Supervised Learning model, SOTA/Streaming ASR with punctuation, Streaming TTS with text frontend, Speaker Verification System, End-to-End Speech Translation a
-- [LKI/chinese-calendar](https://github.com/LKI/chinese-calendar) - 判断一天是不是法定节假日/法定工作日（查看节假日安排）
-- [kedro-org/kedro](https://github.com/kedro-org/kedro) - Kedro is a toolbox for production-ready data science. It uses software engineering best practices to help you create data engineering and data science pipelines that are reproducible, maintainable, an
-- [bloomberg/memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python
-- [tgbot-collection/YYeTsBot](https://github.com/tgbot-collection/YYeTsBot) - 🎬 人人影视 机器人和网站，包含人人影视全部资源以及众多网友的网盘分享
-- [httpie/httpie](https://github.com/httpie/httpie) - 🥧 HTTPie for Terminal — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
-- [wgpsec/ENScan](https://github.com/wgpsec/ENScan) - 基于各大API的一款企业信息查询工具，为了更快速的获取企业的信息，省去收集的麻烦过程，web端于plat平台上线
-- [argoproj-labs/hera](https://github.com/argoproj-labs/hera) - Hera is an Argo Python SDK. Hera aims to make construction and submission of various Argo Project resources easy and accessible to everyone! Hera abstracts away low-level setup details while still mai
-- [al-one/hass-xiaomi-miot](https://github.com/al-one/hass-xiaomi-miot) - Automatic integrate all Xiaomi devices to HomeAssistant via miot-spec, support Wi-Fi, BLE, ZigBee devices. 小米米家智能家居设备接入Hass集成
-- [openairplay/airplay2-receiver](https://github.com/openairplay/airplay2-receiver) - AirPlay 2 Receiver - Python implementation
-- [pdm-project/pdm](https://github.com/pdm-project/pdm) - A modern Python package and dependency manager supporting the latest PEP standards
-- [Mayandev/where-is-douban250](https://github.com/Mayandev/where-is-douban250) - 🐛 一个爬虫程序，整理了腾讯视频、爱奇艺、优酷、哔哩哔哩等视频网站中，能够观看的「豆瓣电影 Top250 榜单」影片。
-- [davidaurelio/hashids-python](https://github.com/davidaurelio/hashids-python) - Implementation of hashids (http://hashids.org) in Python. Compatible with Python 2 and Python 3
-- [redis/redis-om-python](https://github.com/redis/redis-om-python) - Object mapping, and more, for Redis and Python
-- [vishnubob/wait-for-it](https://github.com/vishnubob/wait-for-it) - Pure bash script to test and wait on the availability of a TCP host and port
-- [kserve/kserve](https://github.com/kserve/kserve) - Standardized Serverless ML Inference Platform on Kubernetes
-- [pyauth/pyotp](https://github.com/pyauth/pyotp) - Python One-Time Password Library
-- [strawberry-graphql/strawberry](https://github.com/strawberry-graphql/strawberry) - A GraphQL library for Python that leverages type annotations 🍓
-- [networkx/networkx](https://github.com/networkx/networkx) - Network Analysis in Python
-- [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
-- [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
-- [jina-ai/jina](https://github.com/jina-ai/jina) - 🔮 Build multimodal AI services via cloud native technologies
-- [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.4, 3.5, 3.6, 3.7, 3.8, 3.9, 3.10, and 3.11. You feed it your Python app, it does a lot of clever things, a
-- [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) - A modular SQL linter and auto-formatter with support for multiple dialects and templated code.
-- [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research for Everyone, Everywhere.
-- [burnash/gspread](https://github.com/burnash/gspread) - Google Sheets Python API
-- [aleimu/asyncio_different](https://github.com/aleimu/asyncio_different) - go与python的协程对比,以及python中协程的改进历史,和示例代码
-- [pallets/flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
-- [arrow-py/arrow](https://github.com/arrow-py/arrow) - 🏹 Better dates & times for Python
-- [pywebio/PyWebIO](https://github.com/pywebio/PyWebIO) - Write interactive web app in script way.
-- [dbader/schedule](https://github.com/dbader/schedule) - Python job scheduling for humans.
-- [Vonng/ddia](https://github.com/Vonng/ddia) - 《Designing Data-Intensive Application》DDIA中文翻译
-- [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
-- [picklepete/pyicloud](https://github.com/picklepete/pyicloud) - A Python + iCloud wrapper to access iPhone and Calendar data.
-- [yikeke/zh-style-guide](https://github.com/yikeke/zh-style-guide) - An open-source style guide for writing Chinese technical documents: https://zh-style-guide.readthedocs.io
-- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 200 supported car makes and models.
-- [GeneralNewsExtractor/GeneralNewsExtractor](https://github.com/GeneralNewsExtractor/GeneralNewsExtractor) - 新闻网页正文通用抽取器 Beta 版.
-- [TensorSpeech/TensorFlowTTS](https://github.com/TensorSpeech/TensorFlowTTS) - :stuck_out_tongue_closed_eyes: TensorFlowTTS: Real-Time State-of-the-art Speech Synthesis for Tensorflow 2 (supported including English, French, Korean, Chinese, German and Easy to adapt for other lan
-- [PaddlePaddle/PaddleHub](https://github.com/PaddlePaddle/PaddleHub) - Awesome pre-trained models toolkit based on PaddlePaddle. (400+ models including Image, Text, Audio, Video and Cross-Modal with Easy Inference & Serving)
-- [danielgtaylor/python-betterproto](https://github.com/danielgtaylor/python-betterproto) - Clean, modern, Python 3.6+ code generator & library for Protobuf 3 and async gRPC
-- [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - The easiest way to orchestrate and observe your data pipelines
-- [jpadilla/pyjwt](https://github.com/jpadilla/pyjwt) - JSON Web Token implementation in Python
-- [kurtmckee/feedparser](https://github.com/kurtmckee/feedparser) - Parse feeds in Python
-- [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and de
+- [hynek/environ-config](https://github.com/hynek/environ-config) - Python Application Configuration With Environment Variables
+- [hynek/structlog](https://github.com/hynek/structlog) - Simple, powerful, and fast logging for Python.
+- [pikpikcu/js-finding](https://github.com/pikpikcu/js-finding) - JS Finding can be used to extract JavaScript (JS) files from either a single domain URL or a list of domains. The tool supports various extraction methods and provides additional options for file down
+- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
+- [metachris/logzero](https://github.com/metachris/logzero) - Robust and effective logging for Python 2 and 3.
+- [saizk/auto-selenium](https://github.com/saizk/auto-selenium) - Automatic download of Selenium Web Drivers for all browsers
+- [kotttee/pyrogram_patch](https://github.com/kotttee/pyrogram_patch) - pyrogram_patch is a Python library this is a library that adds middlewares and fsm to pyrogram.
+- [AlirezaTheH/medicure](https://github.com/AlirezaTheH/medicure) - A cosmetic treatment for your media files: movies, tv shows  and also their subtitles.
+- [baxtree/subaligner](https://github.com/baxtree/subaligner) - Automatically synchronize and translate subtitles, or create new ones by transcribing, using pre-trained DNNs, Forced Alignments and Transformers. https://subaligner.readthedocs.io/
+- [xditya/GetRestrictedMessages](https://github.com/xditya/GetRestrictedMessages) - Copy messages from telegram chats with forward restrictions enabled.
+- [am-mohammadi/NameGenderFA](https://github.com/am-mohammadi/NameGenderFA) - Detecting gender of Persian names with auto cleaning the input
+- [yehuda-lev/Get_Chat_ID_Bot](https://github.com/yehuda-lev/Get_Chat_ID_Bot) - A bot to receive the id of every Telegram chat
+- [OwO-Network/PyDeepLX](https://github.com/OwO-Network/PyDeepLX) - A Python package for unlimited DeepL translation
+- [kaixxx/noScribe](https://github.com/kaixxx/noScribe) - Cutting edge AI technology for automated audio transcription. A nice GUI for OpenAIs Whisper and pyannote (speaker identification)
+- [jepbura/potplayer-english-to-persian-translator](https://github.com/jepbura/potplayer-english-to-persian-translator) - Potplayer in normal mode can translate all subtitles simultaneously and provide word translations in the browser, which can be time-consuming. However, EnToFa, a Python code, enables instant English t
+- [zeoses/persian-gender-detection](https://github.com/zeoses/persian-gender-detection) - A simple python package to detect gender by Persian first name. (With more than 19K names)
+- [dsymbol/decipher](https://github.com/dsymbol/decipher) - Effortlessly add AI-generated transcription subtitles to your videos
+- [dsymbol/selench](https://github.com/dsymbol/selench) - Selenium WebDriver wrapper for Python
+- [dsymbol/yt-dlp-gui](https://github.com/dsymbol/yt-dlp-gui) - A cross-platform GUI wrapper for yt-dlp written in PySide6
+- [mkaz/termgraph](https://github.com/mkaz/termgraph) - a python command-line tool which draws basic graphs in the terminal
+- [mkaz/oneliner](https://github.com/mkaz/oneliner) - A command-line tool for saving one line notes in plain text files.
+- [pylover/sqlalchemy-media](https://github.com/pylover/sqlalchemy-media) - Another attachment extension for SqlAlchemy to manage assets which are associated with database models but you don't want to store them into the database
+- [thenaterhood/python-autocite](https://github.com/thenaterhood/python-autocite) - Automatically generate citations from URLs
+- [romanin-rf/pciw.py](https://github.com/romanin-rf/pciw.py) - Python module for system information
+- [romanin-rf/avplib](https://github.com/romanin-rf/avplib) - AVP - ASCII Video Player. Allows you to play any video as ASCII-art.
+- [zackees/net_image_2_movie](https://github.com/zackees/net_image_2_movie) - Uses python to fetch an image and then shell utility to create an mp4 via ffmeg
+- [jmaupetit/md2pdf](https://github.com/jmaupetit/md2pdf) - Markdown to PDF conversion tool
+- [EDM115/unzip-bot](https://github.com/EDM115/unzip-bot) - Telegram bot deployable to heroku that can extract every archive !
+- [graynk/voicos](https://github.com/graynk/voicos) - Simple Telegram bot that converts voice messages to text using Google Speech.
 - [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
-- [altair-viz/altair](https://github.com/altair-viz/altair) - Declarative statistical visualization library for Python
-- [open-mmlab/mmdetection](https://github.com/open-mmlab/mmdetection) - OpenMMLab Detection Toolbox and Benchmark
-- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
-- [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
-- [octodns/octodns](https://github.com/octodns/octodns) - Tools for managing DNS across multiple providers
-- [jschneier/django-storages](https://github.com/jschneier/django-storages) - https://django-storages.readthedocs.io/
-- [aiortc/aioquic](https://github.com/aiortc/aioquic) - QUIC and HTTP/3 implementation in Python
-- [huashengdun/webssh](https://github.com/huashengdun/webssh) - :seedling: Web based ssh client
-- [Zulko/moviepy](https://github.com/Zulko/moviepy) - Video editing with Python
-- [jd/tenacity](https://github.com/jd/tenacity) - Retrying library for Python
-- [sshuttle/sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.  Forwards over ssh.  Doesn't require admin.  Works with Linux and MacOS.  Supports DNS tunneling.
-- [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
-- [pawamoy/aria2p](https://github.com/pawamoy/aria2p) - Command-line tool and library to interact with an aria2c daemon process with JSON-RPC.
-- [vnpy/vnpy](https://github.com/vnpy/vnpy) - 基于Python的开源量化交易平台开发框架
-- [jupyterhub/jupyterhub](https://github.com/jupyterhub/jupyterhub) - Multi-user server for Jupyter notebooks
-- [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
-- [OpenMined/PySyft](https://github.com/OpenMined/PySyft) - Perform data science on data that remains in someone else's server
-- [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
-- [laixintao/iredis](https://github.com/laixintao/iredis) - Interactive Redis: A Terminal Client for Redis with AutoCompletion and Syntax Highlighting.
-- [modin-project/modin](https://github.com/modin-project/modin) - Modin: Scale your Pandas workflows by changing a single line of code
-- [aws/serverless-application-model](https://github.com/aws/serverless-application-model) - The AWS Serverless Application Model (AWS SAM) transform is a AWS CloudFormation macro that transforms SAM templates into CloudFormation templates.
-- [pythonprofilers/memory_profiler](https://github.com/pythonprofilers/memory_profiler) - Monitor Memory usage of Python code
-- [sqlalchemy/alembic](https://github.com/sqlalchemy/alembic) - A database migrations tool for SQLAlchemy.
-- [ownthink/KnowledgeGraphData](https://github.com/ownthink/KnowledgeGraphData) - 史上最大规模1.4亿中文知识图谱开源下载
-- [open-telemetry/opentelemetry-python](https://github.com/open-telemetry/opentelemetry-python) - OpenTelemetry Python API and SDK
-- [facebookresearch/detectron2](https://github.com/facebookresearch/detectron2) - Detectron2 is a platform for object detection, segmentation and other visual recognition tasks.
-- [google/jax](https://github.com/google/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
-- [kivy/kivy](https://github.com/kivy/kivy) - Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS
-- [openatx/uiautomator2](https://github.com/openatx/uiautomator2) - Android Uiautomator2 Python Wrapper
-- [30-seconds/30-seconds-of-python](https://github.com/30-seconds/30-seconds-of-python) - Short Python code snippets for all your development needs
-- [streamlink/streamlink](https://github.com/streamlink/streamlink) - Streamlink is a CLI utility which pipes video streams from various services into a video player
-- [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - Open-source cron job and background task monitoring service, written in Python & Django
-- [containers/podman-compose](https://github.com/containers/podman-compose) - a script to run docker-compose.yml using podman
-- [jiaaro/pydub](https://github.com/jiaaro/pydub) - Manipulate audio with a simple and easy high level interface
-- [boppreh/keyboard](https://github.com/boppreh/keyboard) - Hook and simulate global keyboard events on Windows and Linux.
-- [google/pybadges](https://github.com/google/pybadges) - A Python library for creating Github-style badges
-- [graphql-python/graphene-sqlalchemy](https://github.com/graphql-python/graphene-sqlalchemy) - Graphene SQLAlchemy integration
-- [pytest-dev/pytest](https://github.com/pytest-dev/pytest) - The pytest framework makes it easy to write small tests, yet scales to support complex functional testing
-- [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy
-- [dask/distributed](https://github.com/dask/distributed) - A distributed task scheduler for Dask
-- [facebookresearch/fairseq](https://github.com/facebookresearch/fairseq) - Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
-- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
-- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
-- [microsoft/recommenders](https://github.com/microsoft/recommenders) - Best Practices on Recommendation Systems
-- [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
-- [encode/httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋
-- [cloudevents/spec](https://github.com/cloudevents/spec) - CloudEvents Specification
-- [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) - The Database Toolkit for Python
-- [google/pytype](https://github.com/google/pytype) - A static type analyzer for Python code
-- [edgedb/edgedb](https://github.com/edgedb/edgedb) - A graph-relational database with declarative schema, built-in migration system, and a next-generation query language
-- [xiaolai/public-speaking-with-meaning](https://github.com/xiaolai/public-speaking-with-meaning) - 《我也有话要说》—— 普通人的当众讲话技能
-- [python/mypy](https://github.com/python/mypy) - Optional static typing for Python
-- [tqdm/tqdm](https://github.com/tqdm/tqdm) - A Fast, Extensible Progress Bar for Python and CLI
-- [fighting41love/funNLP](https://github.com/fighting41love/funNLP) - 中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名
-- [aiven/pghoard](https://github.com/aiven/pghoard) - PostgreSQL® backup and restore service
-- [kkroening/ffmpeg-python](https://github.com/kkroening/ffmpeg-python) - Python bindings for FFmpeg - with complex filtering support
-- [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) - Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.
-- [iterative/dvc](https://github.com/iterative/dvc) - 🦉 Data Version Control | Git for Data & Models | ML Experiments Management
-- [encode/databases](https://github.com/encode/databases) - Async database support for Python. 🗄
-- [gto76/python-cheatsheet](https://github.com/gto76/python-cheatsheet) - Comprehensive Python Cheatsheet
-- [python-jsonschema/jsonschema](https://github.com/python-jsonschema/jsonschema) - An implementation of the JSON Schema specification for Python
-- [plotly/dash](https://github.com/plotly/dash) - Data Apps & Dashboards for Python. No JavaScript Required.
-- [jhao104/proxy_pool](https://github.com/jhao104/proxy_pool) - Python爬虫代理IP池(proxy pool)
-- [pyeve/eve](https://github.com/pyeve/eve) - REST API framework designed for human beings
-- [deepfakes/faceswap](https://github.com/deepfakes/faceswap) - Deepfakes Software For All
-- [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
-- [tortoise/tortoise-orm](https://github.com/tortoise/tortoise-orm) - Familiar asyncio ORM for python, built with relations in mind
-- [Delgan/loguru](https://github.com/Delgan/loguru) - Python logging made (stupidly) simple
-- [marteinn/The-Big-Username-Blocklist](https://github.com/marteinn/The-Big-Username-Blocklist) - This is a opinionated blocklist of words that you might not like to see used as usernames in your service.
-- [leisurelicht/wtfpython-cn](https://github.com/leisurelicht/wtfpython-cn) - wtfpython的中文翻译/施工结束/ 能力有限，欢迎帮我改进翻译
-- [LonamiWebs/Telethon](https://github.com/LonamiWebs/Telethon) - Pure Python 3 MTProto API Telegram client library, for bots too!
-- [GeneralMills/pytrends](https://github.com/GeneralMills/pytrends) - Pseudo API for Google Trends
-- [s0md3v/XSStrike](https://github.com/s0md3v/XSStrike) - Most advanced XSS scanner.
-- [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
-- [django-extensions/django-extensions](https://github.com/django-extensions/django-extensions) - This is a repository for collecting global custom management extensions for the Django Framework.
-- [encode/starlette](https://github.com/encode/starlette) - The little ASGI framework that shines. 🌟
-- [aws/chalice](https://github.com/aws/chalice) - Python Serverless Microframework for AWS
-- [laixintao/python-parallel-programming-cookbook-cn](https://github.com/laixintao/python-parallel-programming-cookbook-cn) - 📖《Python Parallel Programming Cookbook》中文版
-- [abhinavsingh/proxy.py](https://github.com/abhinavsingh/proxy.py) - ⚡ Fast • 🪶 Lightweight • 0️⃣ Dependency • 🔌 Pluggable • 😈 TLS interception • 🔒 DNS-over-HTTPS • 🔥 Poor Man's VPN • ⏪ Reverse & ⏩ Forward • 👮🏿 "Proxy Server" framework • 🌐 "Web Server" framework • ➵ ➶ 
-- [un33k/python-slugify](https://github.com/un33k/python-slugify) - Returns unicode slugs
-- [devpi/devpi](https://github.com/devpi/devpi) - Python PyPi staging server and packaging, testing, release tool
-- [aio-libs/aioredis-py](https://github.com/aio-libs/aioredis-py) - asyncio (PEP 3156) Redis support
-- [pyodide/pyodide](https://github.com/pyodide/pyodide) - Pyodide is a Python distribution for the browser and Node.js based on WebAssembly
-- [pwxcoo/chinese-xinhua](https://github.com/pwxcoo/chinese-xinhua) - :orange_book: 中华新华字典数据库。包括歇后语，成语，词语，汉字。
-- [spyder-ide/spyder](https://github.com/spyder-ide/spyder) - Official repository for Spyder - The Scientific Python Development Environment
-- [python-websockets/websockets](https://github.com/python-websockets/websockets) - Library for building WebSocket servers and clients in Python
-- [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
-- [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data validation using Python type hints
-- [dbcli/mycli](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
-- [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
-- [imWildCat/scylla](https://github.com/imWildCat/scylla) - Intelligent proxy pool for Humans™
-- [boto/boto3](https://github.com/boto/boto3) - AWS SDK for Python
-- [kubernetes-client/python](https://github.com/kubernetes-client/python) - Official Python client library for kubernetes
-- [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
-- [codelucas/newspaper](https://github.com/codelucas/newspaper) - News, full-text, and article metadata extraction in Python 3. Advanced docs:
-- [lepture/authlib](https://github.com/lepture/authlib) - The ultimate Python library in building OAuth, OpenID Connect clients and servers. JWS,JWE,JWK,JWA,JWT included.
-- [oauthlib/oauthlib](https://github.com/oauthlib/oauthlib) - A generic, spec-compliant, thorough implementation of the OAuth request-signing logic
-- [kragniz/python-etcd3](https://github.com/kragniz/python-etcd3) - Python client for the etcd API v3
-- [ray-project/ray](https://github.com/ray-project/ray) - Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a toolkit of libraries (Ray AIR) for accelerating ML workloads.
-- [postmanlabs/httpbin](https://github.com/postmanlabs/httpbin) - HTTP Request & Response Service, written in Python + Flask.
-- [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3
-- [graphql-python/graphene-django](https://github.com/graphql-python/graphene-django) - Build powerful, efficient, and flexible GraphQL APIs with seamless Django integration.
-- [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
-- [ansible/awx](https://github.com/ansible/awx) - AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform.
-- [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱
-- [google/budou](https://github.com/google/budou) - Budou is an automatic organizer tool for beautiful line breaking in CJK (Chinese, Japanese, and Korean).
-- [uqfoundation/dill](https://github.com/uqfoundation/dill) - serialize all of python
-- [getsentry/responses](https://github.com/getsentry/responses) - A utility for mocking out the Python Requests library.
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome Machine Learning frameworks, libraries and software.
-- [bokeh/bokeh](https://github.com/bokeh/bokeh) - Interactive Data Visualization in the browser, from  Python
-- [julien-duponchelle/python-mysql-replication](https://github.com/julien-duponchelle/python-mysql-replication) - Pure Python Implementation of MySQL replication protocol build on top of PyMYSQL
-- [graphql-python/graphene](https://github.com/graphql-python/graphene) - GraphQL framework for Python
-- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
-- [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
-- [google/python-fire](https://github.com/google/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
-- [mozillazg/python-pinyin](https://github.com/mozillazg/python-pinyin) - 汉字转拼音(pypinyin)
-- [python/cpython](https://github.com/python/cpython) - The Python programming language
-- [pypa/pipenv](https://github.com/pypa/pipenv) - Python Development Workflow for Humans.
-- [python-pillow/Pillow](https://github.com/python-pillow/Pillow) - Python Imaging Library (Fork)
-- [scikit-image/scikit-image](https://github.com/scikit-image/scikit-image) - Image processing in Python
-- [Suor/django-cacheops](https://github.com/Suor/django-cacheops) - A slick ORM cache with automatic granular event-driven invalidation.
-- [sdispater/pendulum](https://github.com/sdispater/pendulum) - Python datetimes made easy
-- [keras-team/keras](https://github.com/keras-team/keras) - Deep Learning for humans
-- [lk-geimfari/mimesis](https://github.com/lk-geimfari/mimesis) - Mimesis is a powerful Python library that empowers developers to generate massive amounts of synthetic data efficiently.
-- [dask/dask](https://github.com/dask/dask) - Parallel computing with task scheduling
-- [locustio/locust](https://github.com/locustio/locust) - Write scalable load tests in plain Python 🚗💨
-- [giampaolo/psutil](https://github.com/giampaolo/psutil) - Cross-platform lib for process and system monitoring in Python
-- [wechatpy/wechatpy](https://github.com/wechatpy/wechatpy) - WeChat SDK for Python
-- [elastic/elasticsearch-dsl-py](https://github.com/elastic/elasticsearch-dsl-py) - High level Python client for Elasticsearch
-- [lepture/mistune](https://github.com/lepture/mistune) - A fast yet powerful Python Markdown parser with renderers and plugins.
-- [marshmallow-code/marshmallow](https://github.com/marshmallow-code/marshmallow) - A lightweight library for converting complex objects to and from simple Python datatypes.
-- [daviddrysdale/python-phonenumbers](https://github.com/daviddrysdale/python-phonenumbers) - Python port of Google's libphonenumber
-- [x-hw/amazing-qr](https://github.com/x-hw/amazing-qr) - 💮 amazing QRCode generator in Python (supporting animated gif) - Python amazing 二维码生成器（支持 gif 动态图片二维码）
-- [MagicStack/asyncpg](https://github.com/MagicStack/asyncpg) - A fast PostgreSQL Database Client Library for Python/asyncio.
-- [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud 
-- [gitpython-developers/GitPython](https://github.com/gitpython-developers/GitPython) - GitPython is a python library used to interact with Git repositories.
-- [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
-- [aio-libs/aiohttp](https://github.com/aio-libs/aiohttp) - Asynchronous HTTP client/server framework for asyncio and Python
-- [andialbrecht/sqlparse](https://github.com/andialbrecht/sqlparse) - A non-validating SQL parser module for Python
-- [certbot/certbot](https://github.com/certbot/certbot) - Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
-- [prompt-toolkit/python-prompt-toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit) - Library for building powerful interactive command line applications in Python
-- [ipython/ipython](https://github.com/ipython/ipython) - Official repository for IPython itself. Other repos in the IPython organization contain things like the website, documentation builds, etc.
-- [pandas-dev/pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
-- [gorakhargosh/watchdog](https://github.com/gorakhargosh/watchdog) - Python library and shell utilities to monitor filesystem events.
-- [nltk/nltk](https://github.com/nltk/nltk) - NLTK Source
-- [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn) - scikit-learn: machine learning in Python
-- [pallets/jinja](https://github.com/pallets/jinja) - A very fast and expressive template engine.
-- [joke2k/faker](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you.
-- [faif/python-patterns](https://github.com/faif/python-patterns) - A collection of design patterns/idioms in Python
-- [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
-- [paramiko/paramiko](https://github.com/paramiko/paramiko) - The leading native Python SSHv2 protocol library.
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
-- [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
+- [moi15moi/FontCollector](https://github.com/moi15moi/FontCollector) - FontCollector for Advanced SubStation Alpha file.
+- [WheneverDev/fontmerge](https://github.com/WheneverDev/fontmerge) - Automatically merge fonts used in a Matroska file.
+- [moi15moi/VideoSubOCR](https://github.com/moi15moi/VideoSubOCR) - OCR automation for VideoSubFinder
+- [kinite-gp/connect-to-wifi-with-python](https://github.com/kinite-gp/connect-to-wifi-with-python) - script for connect wifi in windows with python (pywifi)
+- [awkman/pywifi](https://github.com/awkman/pywifi) - A cross-platform module for manipulating WiFi devices.
+- [stefanodvx/epyrogram](https://github.com/stefanodvx/epyrogram) - EPyrogram: extend the functionality of Pyrogram by enhancing it with new features.
+- [elevenlabs/elevenlabs-python](https://github.com/elevenlabs/elevenlabs-python) - The official Python API for ElevenLabs text-to-speech.
+- [guillaumekln/faster-whisper](https://github.com/guillaumekln/faster-whisper) - Faster Whisper transcription with CTranslate2
 - [pallets/click](https://github.com/pallets/click) - Python composable command line interface toolkit
-- [fxsjy/jieba](https://github.com/fxsjy/jieba) - 结巴中文分词
-- [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring
-- [redis/redis-py](https://github.com/redis/redis-py) - Redis Python Client
+- [hay/facetool](https://github.com/hay/facetool) - Command line utility to manipulate faces in videos and images
+- [hay/dataknead](https://github.com/hay/dataknead) - Effortless conversion between data formats like JSON, XML and CSV
+- [hay/audio2text](https://github.com/hay/audio2text) - Python command line utility wrappers for Whispercpp and other speech-to-text utilities
+- [Topping1/whispercppGUI](https://github.com/Topping1/whispercppGUI) - GUI for whispercpp, a high performance C++ port of OpenAI's whisper
+- [chriskiehl/Gooey](https://github.com/chriskiehl/Gooey) - Turn (almost) any Python command line program into a full GUI application with one line
+- [zackees/video-subtitles](https://github.com/zackees/video-subtitles) - Makes video subtitles for a video
+- [bndr/pipreqs](https://github.com/bndr/pipreqs) - pipreqs - Generate pip requirements.txt file based on imports of any project. Looking for maintainers to move this project forward.
+- [stlukey/whispercpp.py](https://github.com/stlukey/whispercpp.py) - Python bindings for whisper.cpp
+- [kfatehi/persian-tts-server](https://github.com/kfatehi/persian-tts-server) - Simple HTTP server wrapping Coqui TTS
+- [Greymattersbot/public-forward-bot](https://github.com/Greymattersbot/public-forward-bot) - 
+- [MiguelX413/IgTgBot](https://github.com/MiguelX413/IgTgBot) - Let's me post Instagram posts on Telegram.
+- [dory111111/Pengenuity](https://github.com/dory111111/Pengenuity) - Pengunuity is an experimental open-source autonomous AI Agent that aims to replicate the structure of human memory.
+- [amirhoseinsb/Cloud_Player_V2](https://github.com/amirhoseinsb/Cloud_Player_V2) - You can use the cloudplayer tool to listen to the music of the singer you want without going to a specific website and at a very high speed.
+- [viperadnan-git/bdsm-typer](https://github.com/viperadnan-git/bdsm-typer) - 
+- [m1guelpf/yt-whisper](https://github.com/m1guelpf/yt-whisper) - Using OpenAI's Whisper to automatically generate YouTube subtitles
+- [yoshiko2/Movie_Data_Capture](https://github.com/yoshiko2/Movie_Data_Capture) - Local Movies Organizer
+- [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
+- [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - A batteries-included library for building AI-powered software
+- [Textualize/frogmouth](https://github.com/Textualize/frogmouth) - A Markdown browser for your terminal
+- [gleitz/howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
+- [darrenburns/kupo](https://github.com/darrenburns/kupo) - A terminal file browser, kupo!
+- [Textualize/textual](https://github.com/Textualize/textual) - Textual is a Rapid Application Development framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and (coming soon) a web browser!
+- [ar-ekt/Google-Translator-Bot](https://github.com/ar-ekt/Google-Translator-Bot) - Telegram bot to translate messages and files
+- [ar-ekt/IncognitoBot](https://github.com/ar-ekt/IncognitoBot) - یه بات تلگرام که پیام‌ها رو به‌صورت ناشناس داخل کانال قرار میده.
+- [reza00farjam/rjdl](https://github.com/reza00farjam/rjdl) - Python package to download Music, Video, Album, Podcast & Playlists from www.RadioJavan.com
+- [Smartproxy/Python-scraper-tutorial](https://github.com/Smartproxy/Python-scraper-tutorial) - Short introduction to scraping with given steps an example of a scraper
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
+- [spatialaudio/python-sounddevice](https://github.com/spatialaudio/python-sounddevice) - :sound: Play and Record Sound with Python :snake:
+- [ultrafunkamsterdam/undetected-chromedriver](https://github.com/ultrafunkamsterdam/undetected-chromedriver) - Custom Selenium Chromedriver | Zero-Config | Passes ALL bot mitigation systems (like Distil / Imperva/ Datadadome / CloudFlare IUAM)
+- [frgt10/dvdremuxer](https://github.com/frgt10/dvdremuxer) - Remuxer DVD to MKV
+- [Simatwa/yt5](https://github.com/Simatwa/yt5) - Download YouTube Videos and Audios
+- [tiangolo/asyncer](https://github.com/tiangolo/asyncer) - Asyncer, async and await, focused on developer experience.
+- [sail-sg/EditAnything](https://github.com/sail-sg/EditAnything) - Edit anything in images  powered by segment-anything, ControlNet, StableDiffusion, etc.
+- [mamadgeek/mobile_price_prediction_farsi_scraping](https://github.com/mamadgeek/mobile_price_prediction_farsi_scraping) - 
+- [rQBx91/Pydowner](https://github.com/rQBx91/Pydowner) - A multithreaded terminal downloader writen in Python
+- [sinedie/SRTranslator](https://github.com/sinedie/SRTranslator) - SRT files translator
+- [CrypticSignal/better-ffmpeg-progress](https://github.com/CrypticSignal/better-ffmpeg-progress) - A Python package that allows you to run an FFmpeg command & see percentage progress, ETA, etc.
+- [jlw4049/FFMPEG-Audio-Encoder](https://github.com/jlw4049/FFMPEG-Audio-Encoder) - A powerful FFMPEG audio encoder GUI
+- [jlw4049/MP4-Mux-Tool](https://github.com/jlw4049/MP4-Mux-Tool) - Mp4Box GUI
+- [jlw4049/Youtube-DL-GUI](https://github.com/jlw4049/Youtube-DL-GUI) - Graphical User Interace built around youtube-dl CLI
+- [alisharify7/Programming-Questions](https://github.com/alisharify7/Programming-Questions) - Solve Some Programming Question || سوالات برنامه نویسی به همراه جواب
+- [funnyzak/pyproject-starter](https://github.com/funnyzak/pyproject-starter) - A template for the python project. It uses poetry for dependency management and tox for testing.
+- [nordmtr/cinemabot](https://github.com/nordmtr/cinemabot) - Asynchronous Telegram movie bot written on aiogram
+- [python-ffmpegio/python-ffmpegio](https://github.com/python-ffmpegio/python-ffmpegio) - Python package to read/write media files with FFmpeg
+- [radinshayanfar/TGCopyBot](https://github.com/radinshayanfar/TGCopyBot) - A python script to copy telegram messages to another chat (without forwarding)
+- [rsharifnasab/create_word_cloud](https://github.com/rsharifnasab/create_word_cloud) - create word clouds with wrodcloud-fa for twitter and telegram chat
+- [TheCaduceus/tg-upload](https://github.com/TheCaduceus/tg-upload) - An open-source Python program or a CLI Tool to upload/download files/folder to/from Telegram effortlessly.
+- [jorisschellekens/borb](https://github.com/jorisschellekens/borb) - borb is a library for reading, creating and manipulating PDF files in python.
+- [scrapinghub/number-parser](https://github.com/scrapinghub/number-parser) - Parse numbers written in natural language
+- [calcoloergosum/video-watching-acceleration](https://github.com/calcoloergosum/video-watching-acceleration) - 
+- [RyoniCho/subtitle_maker](https://github.com/RyoniCho/subtitle_maker) - make subtitle via OpenAI API
+- [acheong08/Bard](https://github.com/acheong08/Bard) - Python SDK/API for reverse engineered Google Bard
+- [LibreTranslate/LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) - Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.
+- [Dadangdut33/Screen-Translate](https://github.com/Dadangdut33/Screen-Translate) - A Screen Translator/OCR Translator made by using Python and Tesseract, the user interface are made using Tkinter. All code written in python.
+- [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate) - A realtime speech transcription and translation application using Whisper OpenAI and free translation API. Interface made using Tkinter. Code written fully in Python.
+- [josch/img2pdf](https://github.com/josch/img2pdf) - mirror of https://gitlab.mister-muffin.de/josch/img2pdf for Travis and appveyor CI
+- [pikepdf/pikepdf](https://github.com/pikepdf/pikepdf) - A Python library for reading and writing PDF, powered by qpdf
+- [5yutan5/PyQtDarkTheme](https://github.com/5yutan5/PyQtDarkTheme) - A flat dark theme for PySide and PyQt.
+- [unmade/audiomatch](https://github.com/unmade/audiomatch) - Find similar audio files easily
+- [tusharsadhwani/zxpy](https://github.com/tusharsadhwani/zxpy) - Shell scripts made simple 🐚
+- [Steve-Shambles/bg-remover-GUI](https://github.com/Steve-Shambles/bg-remover-GUI) - A Tkinter GUI for BackgroundRemover
+- [chapig/speakscribe](https://github.com/chapig/speakscribe) - Speakscribe is a web application that allows users to transcribe audios using OpenAI and also interact with a chat bot. The web application is created in Python using NiceGUI.
+- [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
+- [huggingface/speechbox](https://github.com/huggingface/speechbox) - 
 - [psf/requests](https://github.com/psf/requests) - A simple, yet elegant, HTTP library.
-- [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
+- [TheOpponent/mr-otcs](https://github.com/TheOpponent/mr-otcs) - Automated video looping, streaming, and schedule generation
+- [NishantGhanate/PythonScripts](https://github.com/NishantGhanate/PythonScripts) - Fun with python automation , web , UI
+- [NeuralNine/vidstream](https://github.com/NeuralNine/vidstream) - Streaming video data via networks
+- [viduxsh/screenstream](https://github.com/viduxsh/screenstream) - A simple python script to stream your desktop to another pc.
+- [python019/voice-chat-python](https://github.com/python019/voice-chat-python) - 
+- [FZGbzuw412/Python-RAT](https://github.com/FZGbzuw412/Python-RAT) - Remote Administration tool for Windows Systems written in pure Python
+- [alanhamlett/pip-update-requirements](https://github.com/alanhamlett/pip-update-requirements) - Update the packages in a requirements.txt file.
+- [ElSnoMan/pyleniumio](https://github.com/ElSnoMan/pyleniumio) - Bring the best of Selenium and Cypress into a single Python package
+- [felvin-search/gpt-repository-loader](https://github.com/felvin-search/gpt-repository-loader) - 
+- [zackees/open-webdriver](https://github.com/zackees/open-webdriver) - Yet another web driver wrapper for python. But this one has cross platform tests!
+- [zackees/playaudio](https://github.com/zackees/playaudio) - Easiest way to play a sound in a cross platform way
+- [WhyNotHugo/python-barcode](https://github.com/WhyNotHugo/python-barcode) - ㊙️ Create standard barcodes with Python. No external dependencies. 100% Organic Python.
+- [xhtml2pdf/xhtml2pdf](https://github.com/xhtml2pdf/xhtml2pdf) - A library for converting HTML into PDFs using ReportLab
+- [narbehaj/telegram-audio-download](https://github.com/narbehaj/telegram-audio-download) - Download forwarded audio files to your bot from Telegram and store them in their related directory.
+- [horsy-ml/horsy](https://github.com/horsy-ml/horsy) - The best open source package manager on Python
+- [BarsTiger/TeleDiffusionBot](https://github.com/BarsTiger/TeleDiffusionBot) - Easy-to-administrate big and complex telegram bot to generate images using Stable Diffusion WebUI with database of generations, image info, saving and restoring prompts from pictures and many other fe
+- [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
+- [jsvine/pdfplumber](https://github.com/jsvine/pdfplumber) - Plumb a PDF for detailed information about each char, rectangle, line, et cetera — and easily extract text and tables.
+- [jina-ai/executor-pdfsegmenter](https://github.com/jina-ai/executor-pdfsegmenter) - Jina Executor used for extracting images and text as chunks from PDF data
+- [encode/databases](https://github.com/encode/databases) - Async database support for Python. 🗄
+- [bipinkrish/File-Converter-Bot](https://github.com/bipinkrish/File-Converter-Bot) - File Converter Telegram Bot that can Convert Images, Videos, Audios, Fonts, Documents and Ebooks
+- [uktrade/stream-zip](https://github.com/uktrade/stream-zip) - Python function to construct a ZIP archive on the fly - without having to store the entire ZIP in memory or disk
+- [frostming/marko](https://github.com/frostming/marko) - A markdown parser with high extensibility.
+- [frostming/unearth](https://github.com/frostming/unearth) - A utility to fetch and download python packages
+- [nuhmanpk/Webtrench](https://github.com/nuhmanpk/Webtrench) - A powerful and easy-to-use web scrapper for collecting data from the web. Supports scraping of images, text, videos, meta data, and more. Ideal for machine learning and deep learning engineers. Downlo
+- [flyingcircusio/pycountry](https://github.com/flyingcircusio/pycountry) - A Python library to access ISO country, subdivision, language, currency and script definitions and their translations.
+- [sloria/environs](https://github.com/sloria/environs) - simplified environment variable parsing
+- [mabedis/movie-py-cli](https://github.com/mabedis/movie-py-cli) - A simple script for fetching movie details right from the terminal
+- [clarketm/mergedeep](https://github.com/clarketm/mergedeep) - A deep merge function for 🐍.
+- [speechmatics/speechmatics-python](https://github.com/speechmatics/speechmatics-python) - Python library and CLI for Speechmatics
+- [zevaverbach/tatt](https://github.com/zevaverbach/tatt) - Transcribe All The Things™ is a CLI for creating and managing speech-to-text transcripts.
+- [MaxAFriedrich/pdfParser](https://github.com/MaxAFriedrich/pdfParser) - This program converts one or multiple PDFs to easily readable plain text. Unlike other programs like Poppler's pdftotext, it not only converts the PDF to plain text, but also improves readability by r
+- [MaxAFriedrich/txt_server](https://github.com/MaxAFriedrich/txt_server) - Reads a plain text file and inserts it into as html template, serves it on localhost and opens it in the defualt web-browser.
+- [Harmix/harmix-chatbot](https://github.com/Harmix/harmix-chatbot) - 🤖 Harmix™ Telegram ChatBot – an intelligent service that automatically selects the right music for your video
+- [Felflare/rpunct](https://github.com/Felflare/rpunct) - 📝An easy-to-use package to restore punctuation of the text.
+- [nitanmarcel/sydney-telegram](https://github.com/nitanmarcel/sydney-telegram) - Telegram Bot to connect to Sydney Chat and GPT4
+- [nitanmarcel/PipTUI](https://github.com/nitanmarcel/PipTUI) - Pip UI in your terminal!
+- [Qiamast/Directory-Video-Duration-Calculator](https://github.com/Qiamast/Directory-Video-Duration-Calculator) - A script that calculates the total duration of all videos in a directory
+- [AbirHasan2005/PyVideoEditor](https://github.com/AbirHasan2005/PyVideoEditor) - In Development
+- [hwchase17/langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡
+- [explosion/wasabi](https://github.com/explosion/wasabi) - 🍣 A lightweight console printing and formatting toolkit
+- [miyuchina/mistletoe](https://github.com/miyuchina/mistletoe) - A fast, extensible and spec-compliant Markdown parser in pure Python.
+- [javadr/picofile-dl](https://github.com/javadr/picofile-dl) - Picofile.com Downloader
+- [nadermx/backgroundremover](https://github.com/nadermx/backgroundremover) - Background Remover lets you Remove Background from images and video using AI with a simple command line interface that is free and open source.
+- [prateekralhan/Speech2Text-for-Long-Audio-Files](https://github.com/prateekralhan/Speech2Text-for-Long-Audio-Files) - Perform SOTA Speech2Text on Long Audio Files with/without diarization Using Google Cloud Speech API
+- [VoXera/VoXera](https://github.com/VoXera/VoXera) - An Open-Source Persian Language Techs Toolkit with Python
+- [jumon/whisper-finetuning](https://github.com/jumon/whisper-finetuning) - [WIP] Scripts for fine-tuning Whisper
+- [jumon/whisper-punctuator](https://github.com/jumon/whisper-punctuator) - Zero-shot multimodal punctuation insertion and truecasing using Whisper
+- [danb27/chat-toolkit](https://github.com/danb27/chat-toolkit) - Extensible package for creating machine learning powered chatbots.
+- [Nemo2011/PyFDown](https://github.com/Nemo2011/PyFDown) - A fast downloader with Python
+- [LpCodes/View_Wifi_Passwords](https://github.com/LpCodes/View_Wifi_Passwords) - Simple syntax to view Saved WiFi Passwords on Windows machine
+- [LpCodes/LP-All-Images-Downloader](https://github.com/LpCodes/LP-All-Images-Downloader) - A simple package to download all Images from the url provided
+- [LpCodes/pypackageinspector](https://github.com/LpCodes/pypackageinspector) - pyCryptobox is a package in Python that inspects a Python package and prints out all the functions and methods defined in that package. It takes a single argument, package, which is a string represent
+- [LpCodes/Remove-Duplicate](https://github.com/LpCodes/Remove-Duplicate) - This Python script removes duplicate files from a given directory. It prompts the user to select a folder and then uses the MD5 hashing algorithm to check if any files have the same hash value. If it 
+- [anformatic/Finder](https://github.com/anformatic/Finder) - finding strings in text file
+- [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz) - Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.
+- [zackees/gptrepo](https://github.com/zackees/gptrepo) - 
+- [jianfch/stable-ts](https://github.com/jianfch/stable-ts) - ASR with reliable word-level timestamps using OpenAI's Whisper
+- [mps-youtube/yewtube](https://github.com/mps-youtube/yewtube) - yewtube, forked from mps-youtube , is a Terminal based YouTube player and downloader. No Youtube API key required.
+- [linto-ai/whisper-timestamped](https://github.com/linto-ai/whisper-timestamped) - Multilingual Automatic Speech Recognition with word-level timestamps and confidence
+- [Raychanan/ChatGPT-for-Translation](https://github.com/Raychanan/ChatGPT-for-Translation) - Use Python and ChatGPT for translation. 利用Python和ChatGPT完成翻译。
+- [reorx/awesome-chatgpt-api](https://github.com/reorx/awesome-chatgpt-api) - Curated list of apps and tools that not only use the new ChatGPT API, but also allow users to configure their own API keys, enabling free and on-demand usage of their own quota.
+- [yufeikang/ai-cli](https://github.com/yufeikang/ai-cli) - This CLI tool allows you to easily use chatGPT in the command line. You can chat with it, ask it questions, and get text translations. It also supports rendering Markdown in the terminal.
+- [apockill/clai](https://github.com/apockill/clai) - Command Line AI- this tool lets you call ChatGPT from a CLI
+- [asweigart/pyperclip](https://github.com/asweigart/pyperclip) - Python module for cross-platform clipboard functions.
+- [asmeurer/removestar](https://github.com/asmeurer/removestar) - Tool to automatically replace 'import *' in Python files with explicit imports
+- [n3d1117/chatgpt-telegram-bot](https://github.com/n3d1117/chatgpt-telegram-bot) - 🤖 A Telegram bot that integrates with OpenAI's official ChatGPT APIs to provide answers, written in Python
+- [mayiprint/tg-remove-duplicate-file](https://github.com/mayiprint/tg-remove-duplicate-file) - Automatic deletion of duplicate files from telegram groups.
+- [dimitryzub/youtube-mention-tracker](https://github.com/dimitryzub/youtube-mention-tracker) - Find target keyword mention(s) from YouTube videos. Similar to Mention but for videos. Sponsored by SerpApi.
+- [mpoon/gpt-repository-loader](https://github.com/mpoon/gpt-repository-loader) - Convert code repos into an LLM prompt-friendly format. Mostly built by GPT-4.
+- [styczynski/chatdb](https://github.com/styczynski/chatdb) - ChatGPT-based database, wait... WHAT?
+- [horse-3903/google-reverse-image-search](https://github.com/horse-3903/google-reverse-image-search) - Package to obtain image information for things like data collection, or searching for higher resolution images
+- [blackary/st_pages](https://github.com/blackary/st_pages) - An experimental version of Streamlit Multi-Page Apps
+- [amineboutarfi/google_maps_scraper](https://github.com/amineboutarfi/google_maps_scraper) - 
+- [eggplants/deepl-cli](https://github.com/eggplants/deepl-cli) - DeepL Translator CLI (without API Key)
+- [microsoft/playwright-python](https://github.com/microsoft/playwright-python) - Python version of the Playwright testing and automation library.
+- [hellvesper/telethon-openai](https://github.com/hellvesper/telethon-openai) - openai telegram api bot
+- [Anjok07/ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui) - GUI for a Vocal Remover that uses Deep Neural Networks.
+- [samim23/polymath](https://github.com/samim23/polymath) - Convert any music library into a music production sample-library with ML
+- [bmcfee/pyrubberband](https://github.com/bmcfee/pyrubberband) - python wrapper for rubberband
+- [KurtBestor/Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - :cake: Desktop utility to download images/videos/music/text from various websites, and more.
+- [Omrani-Sina/VoiceGenerator](https://github.com/Omrani-Sina/VoiceGenerator) - Voice Generator
+- [Omrani-Sina/VoiceGenerator-Persian](https://github.com/Omrani-Sina/VoiceGenerator-Persian) - Voice Generator Persian
+- [0xdolan/wordcloud-for-kurdish-poems](https://github.com/0xdolan/wordcloud-for-kurdish-poems) - Word-cloud for Kurdish Poems
+- [neelabalan/GistOfGists](https://github.com/neelabalan/GistOfGists) - Creates a gist of Github Gists in markdown table
+- [talmago/spacy_ke](https://github.com/talmago/spacy_ke) - Keyword extraction with spaCy
+- [tomchang25/whisper-auto-transcribe](https://github.com/tomchang25/whisper-auto-transcribe) - Auto transcribe tool based on whisper
+- [coala/coala](https://github.com/coala/coala) - coala provides a unified command-line interface for linting and fixing all your code, regardless of the programming languages you use.
+- [crisbal/album-splitter](https://github.com/crisbal/album-splitter) - Split single-file MP3 albums into separate tracks. Downloads from YouTube supported.
+- [Ch00k/ffmpy](https://github.com/Ch00k/ffmpy) - Pythonic interface for FFmpeg/FFprobe command line
+- [Pavitra122/Multi-Threaded-File-Downloader](https://github.com/Pavitra122/Multi-Threaded-File-Downloader) - A multithreaded, resumable file downloader tool
+- [pcattori/maps](https://github.com/pcattori/maps) - Maps: Python's missing mappings
+- [garyvdm/htmlwrite](https://github.com/garyvdm/htmlwrite) - Python html writing tool
+- [kuzmoyev/google-calendar-simple-api](https://github.com/kuzmoyev/google-calendar-simple-api) - Pythonic wrapper for the Google Calendar API
+- [vpoulailleau/simplelogging](https://github.com/vpoulailleau/simplelogging) - Logging made easy, no excuse for any debug print call.
+- [kuzmoyev/beautiful-date](https://github.com/kuzmoyev/beautiful-date) - Simple and beautiful way to create date and datetime objects in Python.
+- [jurakin/parallel-downloader](https://github.com/jurakin/parallel-downloader) - Downloads file using parallel downloading (if range header is supported otherwise downloads normally).
+- [insolor/async-tkinter-loop](https://github.com/insolor/async-tkinter-loop) - Asynchronous mainloop implementation for tkinter. Makes it possible to use async functions as event handlers and widget commands.
+- [adamchainz/time-machine](https://github.com/adamchainz/time-machine) - Travel through time in your tests.
+- [PhongCode/Facebook-Image-Backup](https://github.com/PhongCode/Facebook-Image-Backup) - You can download all user's images on Facebook with the amazing application.
+- [tvey/usefulness](https://github.com/tvey/usefulness) - Various utils and snippets proved useful :wrench:
+- [ZutrixPog/youtube-comments-extractor](https://github.com/ZutrixPog/youtube-comments-extractor) - Persian youtube comments dataset
+- [mrunderline/cli-progressbar](https://github.com/mrunderline/cli-progressbar) - lightweight library to print progress bar in cli
+- [p-ranav/PhotoLab](https://github.com/p-ranav/PhotoLab) - AI-Powered Photo Editor (Python, PyQt6, PyTorch)
+- [WoeUSB/WoeUSB-ng](https://github.com/WoeUSB/WoeUSB-ng) - WoeUSB-ng is a simple tool that enable you to create your own usb stick windows installer from an iso image or a real DVD. This is a rewrite of original WoeUSB.
+- [compsup/FileServer](https://github.com/compsup/FileServer) - FileServer is a fileserver website where people can upload files and give people access to them.
+- [binh-vu/hugedict](https://github.com/binh-vu/hugedict) - A drop-in replacement for dictionary objects that are too big to fit in memory
+- [daijro/SearchifyX](https://github.com/daijro/SearchifyX) - Fast flashcard searcher
+- [somnathrakshit/geograpy3](https://github.com/somnathrakshit/geograpy3) - Extract place names from a URL or text, and add context to those names -- for example distinguishing between a country, region or city.
+- [elyase/geotext](https://github.com/elyase/geotext) - Geotext extracts country and city mentions from text
+- [elyase/locasticsearch](https://github.com/elyase/locasticsearch) - Serverless full text search in Python
+- [desprit/tg-ai-connector](https://github.com/desprit/tg-ai-connector) - This package can be used to connect Telegram bot to AI engines such as OpenAI ChatGPT, Dall-E, Midjourney, Stable Diffusion, etc.
+- [martin-majlis/Wikipedia-API](https://github.com/martin-majlis/Wikipedia-API) - Python wrapper for Wikipedia
+- [Delgan/loguru](https://github.com/Delgan/loguru) - Python logging made (stupidly) simple
+- [RhetTbull/dirsnapshot](https://github.com/RhetTbull/dirsnapshot) - Diff for directories; create snapshots of directories and compare/diff these to the directory or another snapshot
+- [FKLC/AnyAPI](https://github.com/FKLC/AnyAPI) - AnyAPI is a library that helps you to write any API wrapper with ease and in pythonic way.
+- [tmbo/questionary](https://github.com/tmbo/questionary) - Python library to build pretty command line user prompts ✨Easy to use multi-select lists, confirmations, free text prompts ...
+- [jamilkarami/wikipediasummary](https://github.com/jamilkarami/wikipediasummary) - Utility package to fetch Wikipedia page summaries
+- [NatLee/Blur-Generator](https://github.com/NatLee/Blur-Generator) - Generate blur image with 3 types of blur `motion`, `lens`, and `gaussian` by using OpenCV.
+- [tropicoo/yt-dlp-bot](https://github.com/tropicoo/yt-dlp-bot) - Self-hosted YouTube Download Telegram Bot 🇺🇦
+- [NatLee/Batch-crop-images](https://github.com/NatLee/Batch-crop-images) - A tool for cropping similar images in a batch with an interface.
+- [yerodin/requester](https://github.com/yerodin/requester) - Python tool to download web resources (bye bye wget & curl)
+- [labteral/chatgpt-python](https://github.com/labteral/chatgpt-python) - Unofficial Python SDK for OpenAI's ChatGPT
+- [mmabrouk/chatgpt-wrapper](https://github.com/mmabrouk/chatgpt-wrapper) - API for interacting with ChatGPT and GPT4 using Python and from Shell.
+- [venthur/gscholar](https://github.com/venthur/gscholar) - Query Google Scholar with Python
+- [Nv7-GitHub/googlesearch](https://github.com/Nv7-GitHub/googlesearch) - A Python library for scraping the Google search engine.
+- [opsdisk/yagooglesearch](https://github.com/opsdisk/yagooglesearch) - Yet another googlesearch - A Python library for executing intelligent, realistic-looking, and tunable Google searches.
+- [jerryjliu/llama_index](https://github.com/jerryjliu/llama_index) - LlamaIndex (GPT Index) is a data framework for your LLM applications
+- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
+- [najafiseo/OpenAI-tool](https://github.com/najafiseo/OpenAI-tool) - This is a tool that you can use to do different things, such as writing articles in bulk
+- [ninjakx/youtube-video2ppt](https://github.com/ninjakx/youtube-video2ppt) - Turning the video explanation to ppt using opencv.
+- [dataplayer12/shavenet](https://github.com/dataplayer12/shavenet) - Predict when you last shaved with machine learning
+- [woefe/ytcc](https://github.com/woefe/ytcc) - Command line tool to keep track of your favorite playlists on YouTube and many other places.
+- [newtoallofthis123/ytps](https://github.com/newtoallofthis123/ytps) - A Beautiful YouTube Search CLI
+- [kanjieater/AudiobookTextSync](https://github.com/kanjieater/AudiobookTextSync) - 📖🎧 Generate Subtitles from Audio and Sync Them to a Transcript. Kind of like the Kindle's Immersion Reading
+- [namngh/auto-gui](https://github.com/namngh/auto-gui) - Better auto GUI
+- [theovercomer8/captionr](https://github.com/theovercomer8/captionr) - GIT/BLIP/CLIP Caption tool
+- [maxbachmann/JaroWinkler](https://github.com/maxbachmann/JaroWinkler) - Python library for fast approximate string matching using Jaro and Jaro-Winkler similarity
+- [whtsky/pixelmatch-py](https://github.com/whtsky/pixelmatch-py) - A fast pixel-level image comparison library, originally created to compare screenshots in tests.
+- [MrMKN/PyLeaves](https://github.com/MrMKN/PyLeaves) - 🌿 python package for tools of pyrogram
+- [JorianWoltjer/AutoCaptions](https://github.com/JorianWoltjer/AutoCaptions) - A GUI tool that uses OpenAIs Whisper to transcribe text from an audio/video file, into a Premiere Pro sequence to automate the creation of subtitles.
+- [ratoaq2/knowit](https://github.com/ratoaq2/knowit) - Know better your media files
+- [guessit-io/guessit](https://github.com/guessit-io/guessit) - GuessIt is a python library that extracts as much information as possible from a video filename.
+- [ratoaq2/cleanit](https://github.com/ratoaq2/cleanit) - Subtitles extremely clean
+- [vevv/subby](https://github.com/vevv/subby) - Advanced subtitle converter and processor
+- [botbahlul/autosrt](https://github.com/botbahlul/autosrt) - A python script COMMAND LINE utility to AUTO GENERATE SUBTITLE FILE (using free Google Speech Recognition API) and TRANSLATED SUBTITLE FILE (using unofficial online Google Translate API) for any video
+- [botbahlul/PyAutoSRT](https://github.com/botbahlul/PyAutoSRT) - PySimpleGUI based DESKTOP APP to AUTO GENERATE SUBTITLE FILE (using free Google Speech Recognition API) and TRANSLATED SUBTITLE FILE (using unofficial online Google Translate API) for any video or aud
+- [byroot/pysrt](https://github.com/byroot/pysrt) - Python parser for SubRip (srt) files
+- [dsholes/python-warpdrive](https://github.com/dsholes/python-warpdrive) - Sync audio from multiple sources using Dynamic Time Warping
+- [amirldn/rtx-voice-script](https://github.com/amirldn/rtx-voice-script) - A python script that takes an input MP3/FLAC and outputs an acapella/background noise stripped WAV using the power of NVIDIA's RTX Voice
+- [sdushantha/qr-filetransfer](https://github.com/sdushantha/qr-filetransfer) - Transfer files over WiFi between your computer and your smartphone from the terminal
+- [sdushantha/wifi-password](https://github.com/sdushantha/wifi-password) - Quickly fetch your WiFi password and if needed, generate a QR code of your WiFi to allow phones to easily connect
+- [Jake10131/StreamFlix](https://github.com/Jake10131/StreamFlix) - Stream any movies on your browser.
+- [stanvanrooy/instauto](https://github.com/stanvanrooy/instauto) - Simple to use wrapper around the private Instagram API, written in Python.
+- [gaoyunzhi/link_extractor](https://github.com/gaoyunzhi/link_extractor) - Extract Links from news source, ranked by importance
+- [onionj/smsboomber](https://github.com/onionj/smsboomber) - sms boomber for Iran!
+- [jsavargas/telethon_downloader](https://github.com/jsavargas/telethon_downloader) - 
+- [mandrelbrotset/same-network-group-chat](https://github.com/mandrelbrotset/same-network-group-chat) - GUI group chat for computers in the same network. The server and the client program both have a GUI.
+- [skorokithakis/shortuuid](https://github.com/skorokithakis/shortuuid) - A generator library for concise, unambiguous and URL-safe UUIDs.
+- [ludgerradke/PyPDFMerger](https://github.com/ludgerradke/PyPDFMerger) - PyPDFMerger is a Python-based application that allows users to merge multiple PDF files into a single document using a drag-and-drop interface.
+- [genius-codes/telegram-adder-tool](https://github.com/genius-codes/telegram-adder-tool) - FREE TOOL
+- [karfly/chatgpt_telegram_bot](https://github.com/karfly/chatgpt_telegram_bot) - 
+- [armanyazdi/emailtools](https://github.com/armanyazdi/emailtools) - A Python library for email suggestions and validations.
+- [theos-ai/easy-paddle-ocr](https://github.com/theos-ai/easy-paddle-ocr) - This a clean and easy-to-use implementation of Paddle OCR. Made with ❤️ by Theos AI.
+- [vi/mkvparse](https://github.com/vi/mkvparse) - Simple Python matroska (mkv) reading library, also mkv2xml and xml2mkv
+- [ALIILAPRO/yun-ir](https://github.com/ALIILAPRO/yun-ir) - A Python client for https://Yun.ir URL shortener API.
+- [rspeer/langcodes](https://github.com/rspeer/langcodes) - A Python library for working with and comparing language codes.
+- [akhalili-me/movie-organizer](https://github.com/akhalili-me/movie-organizer) - A script to organize new downloaded movies in separate folders and then download Farsi subtitle for each of them.
+- [MahziyarAdine/File_Artist](https://github.com/MahziyarAdine/File_Artist) - I can process subtitles and PDF files and translate them from English to Persian
+- [5j9/num2fawords](https://github.com/5j9/num2fawords) - Takes a number and converts it to Persian word form
+- [armanyazdi/persian-names](https://github.com/armanyazdi/persian-names) - A Python library for generating random Persian (Farsi) names.
+- [dadashzadeh/separating-words-stuck-together](https://github.com/dadashzadeh/separating-words-stuck-together) - Separating words stuck together for Persian language and en
+- [M4hbod/UniversalGeneratorBot](https://github.com/M4hbod/UniversalGeneratorBot) - Pyrogram and Telethon String Session Generator - Persian
+- [PyImageSearch/imutils](https://github.com/PyImageSearch/imutils) - A series of convenience functions to make basic image processing operations such as translation, rotation, resizing, skeletonization, and displaying Matplotlib images easier with OpenCV and Python.
+- [SerpentAI/D3DShot](https://github.com/SerpentAI/D3DShot) - Extremely fast and robust screen capture on Windows with the Desktop Duplication API
+- [Shravan-1908/pyscreenrec](https://github.com/Shravan-1908/pyscreenrec) - A small python library for recording screen.
+- [asweigart/pyscreeze](https://github.com/asweigart/pyscreeze) - PyScreeze is a simple, cross-platform screenshot module for Python 2 and 3.
+- [techboy-coder/mmdl](https://github.com/techboy-coder/mmdl) - MMDL (Mega Music Downloader) - A tool to easily download music.
+- [18520339/facebook-data-extraction](https://github.com/18520339/facebook-data-extraction) - Experiences in extracting data from Facebook with these 3 methods: Facebook Graph API, Automation tools, DevTools Console
+- [18520339/image-search-downloader](https://github.com/18520339/image-search-downloader) - Download images including URLs from Google, Bing, Flickr and Instagram hashtags with given keyword
+- [kaboussi/Botflix](https://github.com/kaboussi/Botflix) - 🎥 Stream your favorite movie from the terminal!
+- [mherrmann/selenium-python-helium](https://github.com/mherrmann/selenium-python-helium) - Selenium-python but lighter: Helium is the best Python library for web automation.
+- [namuan/tele-tube-rider](https://github.com/namuan/tele-tube-rider) - Telegram Bot 🤖 to download videos from Youtube, Reddit and Twitter and send it back to you.
+- [namuan/bin-utils](https://github.com/namuan/bin-utils) - Utility scripts / apps
+- [soxoj/maigret-tg-bot](https://github.com/soxoj/maigret-tg-bot) - Maigret Telegram bot
+- [matthiasmiller/ezvirtualenv](https://github.com/matthiasmiller/ezvirtualenv) - easy tool to run Python applications in virtual environments
+- [rajatomar788/pywebcopy](https://github.com/rajatomar788/pywebcopy) - Locally saves webpages to your hard disk with images, css, js & links as is.
+- [riasati/google_scraper](https://github.com/riasati/google_scraper) - 
+- [AmirhosseinAbutalebi/Pysubdl](https://github.com/AmirhosseinAbutalebi/Pysubdl) - python subtitle downloder.start webscrape with python and maybe use pyqt5 for it
+- [JustCoww/musicvideos](https://github.com/JustCoww/musicvideos) - Old slowedvideos now musicvideos, Various scripts from justcow.
+- [AmirMohammad2003/soundcloud-downloader](https://github.com/AmirMohammad2003/soundcloud-downloader) - Soundcloud Downloader implemented in python
+- [AmirHosseinCV/UpdateFromGithub](https://github.com/AmirHosseinCV/UpdateFromGithub) - Update projects automatically from GitHub
+- [AmirHosseinCV/PdfSearcher](https://github.com/AmirHosseinCV/PdfSearcher) - Search texts within images or locked PDFs using tesseract OCR
+- [amirhnir/sang-kaghaz-gheychi](https://github.com/amirhnir/sang-kaghaz-gheychi) - سورس پایتون بازی سنگ کاغذ قیچی
+- [AmoabaKelvin/saints-bot-public](https://github.com/AmoabaKelvin/saints-bot-public) - Repository for Saints Bot
+- [johnbumgarner/wordhoard](https://github.com/johnbumgarner/wordhoard) - This Python module can be used to obtain antonyms, synonyms, hypernyms, hyponyms, homophones and definitions.
+- [Prgckwb/ImageExtractor](https://github.com/Prgckwb/ImageExtractor) - ImageExtractor extracts images from a video at intervals of a specified number of frames and creates a PDF file by merging them together.
+- [Py-Contributors/Site-Cloner](https://github.com/Py-Contributors/Site-Cloner) - Quick & simple Python tool to clone website
+- [Py-Contributors/PyEmailer](https://github.com/Py-Contributors/PyEmailer) - Send Emails In One Click With Python.
+- [epassaro/yt_clipper](https://github.com/epassaro/yt_clipper) - Easily make audio/video/gif clips from YouTube URLs
+- [Imangazaliev/syntax-highligter-bot](https://github.com/Imangazaliev/syntax-highligter-bot) - A Telegram bot for generating screenshots with highlighted code
+- [weilueluo/pyfallback](https://github.com/weilueluo/pyfallback) - Fallback for python objects
+- [ermakovpetr/tg_tqdm](https://github.com/ermakovpetr/tg_tqdm) - Extension for tqdm progressbar in Telegram
+- [EFord36/normalise](https://github.com/EFord36/normalise) - A module for normalising text.
+- [habitual69/cutimagebg_bot](https://github.com/habitual69/cutimagebg_bot) - Background Remover Bot. A Telegram bot that uses AI image processing to remove the background from images.
+- [rtcq/ezweb](https://github.com/rtcq/ezweb) - Easy to use web page analyzer
+- [rtcq/audiowave](https://github.com/rtcq/audiowave) - Generate a waveform image from an audio
+- [gnai/Audio-Chunking-Tool](https://github.com/gnai/Audio-Chunking-Tool) - An audio tool using pydubs library with python to chunk your audio content into your desired length, and parameters to tune.
+- [jcavalin/earll_bot](https://github.com/jcavalin/earll_bot) - Earll is a telegram bot that helps you with some kinds of messages.
+- [0xdolan/pyroj](https://github.com/0xdolan/pyroj) - Converting Gregorian and Solar dates to Kurdish date
+- [0xdolan/Subtitle-Fixer](https://github.com/0xdolan/Subtitle-Fixer) - The Subtitle Fixer is a simple tool that helps you fix subtitles in Kurdish (ckb), Persian, and Arabic
+- [Bricio/ChatToSub](https://github.com/Bricio/ChatToSub) - Convert Extracted Chat From YT Into Subtitle (.srt)
+- [donno2048/link2mp4](https://github.com/donno2048/link2mp4) - Download videos as MP4 files
+- [donno2048/yt2mp4](https://github.com/donno2048/yt2mp4) - Download YouTube videos and playlists as MP4 files (and other formats)
+- [darideveloper/phone-emails-scraper-multithreading](https://github.com/darideveloper/phone-emails-scraper-multithreading) - Project for extract emails and phones from a list of web pages, with multithreading, using requests, bs4, regex and selenium for get more data.
+- [gaoyunzhi/telegram_channel_subscription_v3](https://github.com/gaoyunzhi/telegram_channel_subscription_v3) - Channel Subscription for channels and groups. Bot needs to be in the subscribed channel.
+- [gaoyunzhi/telegram_web_to_album_bot](https://github.com/gaoyunzhi/telegram_web_to_album_bot) - Export Album from url. @web2album_bot
+- [gaoyunzhi/web_subscription_bot](https://github.com/gaoyunzhi/web_subscription_bot) - Telegram subscription for web (e.g. bbc, matters, etc.)
+- [Py-Contributors/awesomeScripts](https://github.com/Py-Contributors/awesomeScripts) - A Collection of Awesome Scripts in Python to Ease Daily-Life. Create an issue If you have some great ideas for the new script. Leave a :star:
+- [pythontester192/Download-Youtube-Videos-EditClips-Auto-Upload-To-TikTok-Twitter-Instagram](https://github.com/pythontester192/Download-Youtube-Videos-EditClips-Auto-Upload-To-TikTok-Twitter-Instagram) - Use This FREE BOT to Download Youtube Videos, Edit The Clip with MoviePy, & Auto Upload The Generated Final Video to Tiktok, Twitter, & Instagram..Using Clicknium Chrome Extension (Used for CPA & Affi
+- [ChocolateApp/Chocolate](https://github.com/ChocolateApp/Chocolate) - The future of media manager
+- [BashirAljounaidy/ytd-bot](https://github.com/BashirAljounaidy/ytd-bot) - 
+- [MossabDiae/Subtitles-Renamer](https://github.com/MossabDiae/Subtitles-Renamer) - Renames Subtitles to match the videos naming pattern.
+- [MossabDiae/instaReelPy](https://github.com/MossabDiae/instaReelPy) - Generating Instagram reels from image frames and video cuts.
+- [aahashemi/URL_Shotener](https://github.com/aahashemi/URL_Shotener) - 
+- [aahashemi/fake-user-bot](https://github.com/aahashemi/fake-user-bot) - This is a telegram bot made with python which generates fake user data
+- [musikalkemist/prophet](https://github.com/musikalkemist/prophet) - 
+- [eight04/pip-outdated](https://github.com/eight04/pip-outdated) - Find outdated dependencies in your requirements.txt or setup.cfg file. Report missing/outdated/incompatible packages with table and colors.
+- [ToshY/mkvextract-subs](https://github.com/ToshY/mkvextract-subs) - Docker image for extracting subtitle tracks, attachments, chapters and tags using MKVextract.
+- [danielhoherd/plexdl](https://github.com/danielhoherd/plexdl) - A plex direct downloader, with an emphasis on fetching media that has not been modified.
+- [noprobelm/tempy](https://github.com/noprobelm/tempy) - A simple, visually pleasing weather report in your terminal.
+- [PabloLec/website-to-gif](https://github.com/PabloLec/website-to-gif) - Turn your website into a GIF :camera:
+- [PabloLec/RecoverPy](https://github.com/PabloLec/RecoverPy) - Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal
+- [niradler/simple-image-editor](https://github.com/niradler/simple-image-editor) - 
+- [redboo/tgbot_rmbg](https://github.com/redboo/tgbot_rmbg) - 
+- [Prakashdeveloper03/Image-Enhancer](https://github.com/Prakashdeveloper03/Image-Enhancer) - This repository contains source code for Image enhancer can perform various image effects created  using OpenCV.
+- [vovavili/rembg_gui](https://github.com/vovavili/rembg_gui) - A simple PyQT6 GUI for rembg.
+- [haoheliu/voicefixer](https://github.com/haoheliu/voicefixer) - General Speech Restoration
+- [jaketae/storyteller](https://github.com/jaketae/storyteller) - Multimodal AI Story Teller, built with Stable Diffusion, GPT, and neural text-to-speech
+- [oliverguhr/wav2vec2-live](https://github.com/oliverguhr/wav2vec2-live) - A live speech recognition using Facebooks wav2vec 2.0 model.
+- [sanjit-sinha/PyBypass](https://github.com/sanjit-sinha/PyBypass) - A python library to bypass various type of links.
+- [sanjit-sinha/Tg-MediaInfoBot](https://github.com/sanjit-sinha/Tg-MediaInfoBot) - Telegram Bot for generating Mediainfo, Screenshots and Video sample from Direct Download links,  Google Drive links or Telegram files.
+- [sanjit-sinha/TelegramBot-Boilerplate](https://github.com/sanjit-sinha/TelegramBot-Boilerplate) - Create Telegram Bot with this friendly python boilerplate using pyrogram framework.
+- [1plus1is3/kindle-translator](https://github.com/1plus1is3/kindle-translator) - A tool to convert foreign books to PDF written in your native language.
+- [SeroviICAI/Movie_Recommender](https://github.com/SeroviICAI/Movie_Recommender) - This program recommends you a movie for any genre, scraping data from IMDb. This project is done for educational purposes.
+- [mnsalimi/PersianSpellChecker](https://github.com/mnsalimi/PersianSpellChecker) - 
+- [mnsalimi/persian-speech2text](https://github.com/mnsalimi/persian-speech2text) - 
+- [Alir3z4/html2text](https://github.com/Alir3z4/html2text) - Convert HTML to Markdown-formatted text.
+- [khoben/telemirror](https://github.com/khoben/telemirror) - Telegram message forwarder (client API)
+- [kkrypt0nn/Python-Discord-Bot-Template](https://github.com/kkrypt0nn/Python-Discord-Bot-Template) - 🐍 A simple template to start to code your own and personalized discord bot in Python programming language.
+- [fascot/Media-Download-Tool](https://github.com/fascot/Media-Download-Tool) - This is a Media Download Tool which can get videos from Youtube, Pornhub and many other sites.
+- [piriyaraj/shortsMobileSpeci](https://github.com/piriyaraj/shortsMobileSpeci) - automatic youtube video uploading script. it's able to scrap web content and make it a youtube short video and upload it on youtube automatically.
+- [gergovari/lazyshorts-py](https://github.com/gergovari/lazyshorts-py) - Create short videos, like a lazy person.
+- [MHadiS/port-scanner](https://github.com/MHadiS/port-scanner) - A port scanner made with python socket
+- [DanielJDufour/date-extractor](https://github.com/DanielJDufour/date-extractor) - Extract dates from text
+- [Taiko2k/Avvie](https://github.com/Taiko2k/Avvie) - A GTK app for quick image cropping :flower_playing_cards:
+- [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
+- [graphific/DeepDreamVideo](https://github.com/graphific/DeepDreamVideo) - implementing deep dream on video
+- [danielgatis/docscan](https://github.com/danielgatis/docscan) - Docscan is a document scanner. Take a photo of your documents and frame it.
+- [NicolasCwy/Stitch-Telegram-Bot](https://github.com/NicolasCwy/Stitch-Telegram-Bot) - 
+- [eddieoz/youtube-clips-automator](https://github.com/eddieoz/youtube-clips-automator) - MARCELO: an AI powered bot to automate the editing and thumbnail creation for your Youtube clips channel
+- [Alyetama/Ray-Image](https://github.com/Alyetama/Ray-Image) - Fast image compression for large number of images with Ray library
+- [Alyetama/internetarchive-youtube](https://github.com/Alyetama/internetarchive-youtube) - 🚀 GitHub Action and CLI tool to archive YouTube channels by uploading the channel's videos to archive.org
+- [YuliangXiu/ICON](https://github.com/YuliangXiu/ICON) - [CVPR'22] ICON: Implicit Clothed humans Obtained from Normals
+- [mpotane/PythonScriptPH](https://github.com/mpotane/PythonScriptPH) - 🤖🕹💸A collection of Python scripts to help you learn the language. 🇵🇭.
+- [ThioJoe/Auto-Synced-Translated-Dubs](https://github.com/ThioJoe/Auto-Synced-Translated-Dubs) - Automatically translates the text of a video based on a subtitle file, and also uses AI voice to dub the video, and synced using the subtitle's timings
+- [dothq/lexicon](https://github.com/dothq/lexicon) - Translate text between languages with high-accuracy using artificial intelligence.
+- [ekm507/araste](https://github.com/ekm507/araste) - آراسته: تبدیل متن فارسی به هنر اسکی
+- [danielsoheil/ariana-discord-bot](https://github.com/danielsoheil/ariana-discord-bot) - این ربات آریانا در دیسکورد است، آریانا یک موتور تبدیل نوشتار به گفتار فارسی است
+- [mevdschee/fakeflac](https://github.com/mevdschee/fakeflac) - A command-line tool to detect "fake" FLAC files
+- [moerv9/chatgpt-telegram-bot](https://github.com/moerv9/chatgpt-telegram-bot) - A telegram bot that allows you to chat with ChatGPT.
+- [baruchel/txt2pdf](https://github.com/baruchel/txt2pdf) - Text to PDF converter with Unicode support
+- [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background
+- [sourabhkv/ytdl](https://github.com/sourabhkv/ytdl) - A GUI web media downloader program that runs on top of youtube-dl/yt-dlp  and ffmpeg to download videos and audio
+- [soheilRdev/melovy.ir_page_music_dowloader](https://github.com/soheilRdev/melovy.ir_page_music_dowloader) - A code to download all musics in melovy.ir website page
+- [sinajet/FarsiNevis](https://github.com/sinajet/FarsiNevis) - 
+- [alipyth/Bama_Car_Data_Scraper](https://github.com/alipyth/Bama_Car_Data_Scraper) - Scraping Card Data with Scrapy Python From "Bama.ir".
+- [Shahnazi2002/shaba-validation](https://github.com/Shahnazi2002/shaba-validation) - تشخیص صحت شماره «شبا» با پایتون
+- [amir-ma71/translator_h](https://github.com/amir-ma71/translator_h) - Persian translator based on Argostranslate
+- [argosopentech/argos-translate](https://github.com/argosopentech/argos-translate) - Open-source offline translation library written in Python
+- [goldaaa/kivyir](https://github.com/goldaaa/kivyir) - kivy persian | kivy فارسی
+- [HamidRezaAttar/Persian-OCR-Streamlit](https://github.com/HamidRezaAttar/Persian-OCR-Streamlit) - Persian OCR allows users to scan documents and extract text from scanned image.
+- [minasmz/Persian-Summarization](https://github.com/minasmz/Persian-Summarization) - Statistical and Semantical Text Summarizer in Persian Language
+- [nima-sa/persian-subtitle-fixer](https://github.com/nima-sa/persian-subtitle-fixer) - Fixes cp1256-encoded Persian subtitles by converting them to UTF-8. Like a piece of cake.
+- [Kourva/ChNumber](https://github.com/Kourva/ChNumber) - Python module that formats Persian number to Latin
+- [majidAdibian77/persian_fastpitch](https://github.com/majidAdibian77/persian_fastpitch) - Training FastPitch for Persian language as a Persian text-to-speech
+- [H-MAli/persian-localizations](https://github.com/H-MAli/persian-localizations) - A Python package to facilitate Persian language localizations
+- [altryne/chatGPT-telegram-bot](https://github.com/altryne/chatGPT-telegram-bot) - This is a very early attempt at having chatGPT work within a telegram bot
+- [pdfarranger/pdfarranger](https://github.com/pdfarranger/pdfarranger) - Small python-gtk application, which helps the user to merge or split PDF documents and rotate, crop and rearrange their pages using an interactive and intuitive graphical interface.
+- [Forden/aiogram-bot-template](https://github.com/Forden/aiogram-bot-template) - Template for creating scalable bots with aiogram
+- [Toufool/AutoSplit](https://github.com/Toufool/AutoSplit) - Easy to use image comparison based auto splitter for speedrunning on console or PC.
+- [WeAreMahsaAmini/FreeInternet](https://github.com/WeAreMahsaAmini/FreeInternet) - Women, Life, Freedom. The goal of this project is to provide free internet access to Iranian people by any means. #MahsaAmini
+- [WyattBlue/auto-editor](https://github.com/WyattBlue/auto-editor) - Auto-Editor: Effort free video editing!
+- [subinps/InstaFeed](https://github.com/subinps/InstaFeed) - get your Instagram feeds on your telegram channel
+- [TronUb/Tron](https://github.com/TronUb/Tron) - A modern telegram userbot based on pyrogram, light weight and smooth
+- [alvicsam/ytap-python](https://github.com/alvicsam/ytap-python) - 
+- [Masterolic/Spotify-Downloader](https://github.com/Masterolic/Spotify-Downloader) - A telegram bot to download Spotify songs from yt and saavn
+- [Matin-B/TwiDLBot](https://github.com/Matin-B/TwiDLBot) - A simple Telegram bot for downloading tweets from Twitter (Based on TwiGram library).
+- [TheCaduceus/CloneBot_V2](https://github.com/TheCaduceus/CloneBot_V2) - The Powerful Telegram Bot based on Gclone to clone Google Drive's Shared Drive data easily.🔥
+- [platelminto/parse-torrent-title](https://github.com/platelminto/parse-torrent-title) - Extract media information from a torrent-like filename
+- [nktknshn/tgmount](https://github.com/nktknshn/tgmount) - Mount Telegram dialogs and channels as a Virtual File System.
+- [akai10tsuki/mkvbatchmultiplex](https://github.com/akai10tsuki/mkvbatchmultiplex) - Batch multiplex video files using MKVToolnix generated command line
+- [Paco8/ttml2ssa](https://github.com/Paco8/ttml2ssa) - Convert TTML/XML/DFXP/VTT/SRT subtitles used by Netflix, HBO, Disney+, Prime Video and others to SRT or SSA/ASS format.
+- [bunnykek/MultiUpload](https://github.com/bunnykek/MultiUpload) - Telegram bot to upload your GDrive/DDL/Telegram files to 10+ free hosting services
+- [bunnykek/WeTransferTool](https://github.com/bunnykek/WeTransferTool) - WeTransfer unofficial API wrapper written in python for anonymous upload and download of files and folders.
+- [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
+- [Altruix/Altruix](https://github.com/Altruix/Altruix) - Modern and Minimalistic Telegram UserBot based on Pyrogram
+- [mahsaghn/Auto_Speech_Recognition_Persian](https://github.com/mahsaghn/Auto_Speech_Recognition_Persian) - Automatic Speech Recognition
+- [m4mallu/Pyrogram-V2-SessionStringMaker](https://github.com/m4mallu/Pyrogram-V2-SessionStringMaker) - V2 pyrogram compatible session string maker script.
+- [sepandhaghighi/art](https://github.com/sepandhaghighi/art) - 🎨 ASCII art library for Python
+- [sepandhaghighi/samila](https://github.com/sepandhaghighi/samila) - Generative Art Generator
+- [pourmand1376/PersianCrawler](https://github.com/pourmand1376/PersianCrawler) - Open source crawler for Persian websites.
+- [rahulps1000/pyropatch](https://github.com/rahulps1000/pyropatch) - An advanced monkeypatcher add-on for Pyrogram. Docs : https://rahulps1000.gitbook.io/pyropatch
+- [kiasar/Dictionary_crawler](https://github.com/kiasar/Dictionary_crawler) - This is a python code based on Scrapy package to crawl famous online dictionaries like Oxford, Longman, Cambridge, Webster, and Collins to make a dataset
+- [salsina/Persian-syllable-counter](https://github.com/salsina/Persian-syllable-counter) - Persian words phonetics dataset
+- [salsina/persian-fluency-detector](https://github.com/salsina/persian-fluency-detector) - This library calculates the fluency factors of a given audio file
+- [ali-zahedi/az-iranian-bank-intro](https://github.com/ali-zahedi/az-iranian-bank-intro) - محاسبه شماره شبا، اعتبار سنجی کارت ها و شماره شبا بانک های مختلف مانند شبا بانک ملی، بانک صادرات، بانک سپه، بانک سامان، و ....
+- [Khodnevis-Research-Lab/khoshnevis](https://github.com/Khodnevis-Research-Lab/khoshnevis) - Khodnevis Normalizer: A Python library for Persian text preprocessing.
+- [NajmeHabibi/Context-aware-Persian-Spell-Checker-for-OCR-post-processing](https://github.com/NajmeHabibi/Context-aware-Persian-Spell-Checker-for-OCR-post-processing) - 
+- [dolph/dictionary](https://github.com/dolph/dictionary) - A list of the most popular English words.
+- [wkentaro/gdown](https://github.com/wkentaro/gdown) - Download a large file from Google Drive  (curl/wget fails because of the security notice).
+- [amirhoseinsb/musicfinder](https://github.com/amirhoseinsb/musicfinder) - A script to find and download music fast
+- [UNICT-Fake-Audio/fake-audio-detector](https://github.com/UNICT-Fake-Audio/fake-audio-detector) - Simple fake audio detector
+- [Coolshanlan/HighlightTranslator](https://github.com/Coolshanlan/HighlightTranslator) - Highlight Translator can help you to translate the words quickly and accurately. By only highlighting, copying, or screenshoting the content you want to translate anywhere on your computer (ex. PDF, P
+- [sadegh-masoumi/persian-ocr-pdf-to-word](https://github.com/sadegh-masoumi/persian-ocr-pdf-to-word) - persian ocr pdf to word
+- [petez-sufe/timelapse_slicer](https://github.com/petez-sufe/timelapse_slicer) - This script is for photographers to do timeslice with one click.
+- [kastaid/getter](https://github.com/kastaid/getter) - Get and put users (scraping) to the target group/channel efficiently, correctly and safety.
+- [kiahamedi/zirnevis](https://github.com/kiahamedi/zirnevis) - download subtitle only with movies name
+- [kiahamedi/ConvertSrt2Per](https://github.com/kiahamedi/ConvertSrt2Per) - Convert English subtitle to Persian subtitle
+- [nashviamir/py-persian-sms](https://github.com/nashviamir/py-persian-sms) - 
+- [aytenstudio/persian-holidays](https://github.com/aytenstudio/persian-holidays) - Persian Holidays data scrapped from time.ir website
+- [BufferingIO/film2subtitle](https://github.com/BufferingIO/film2subtitle) - A REST API for film2subtitle.com website written in Python and FastAPI ⚡
+- [yaser01/mkv-muxing-batch-gui](https://github.com/yaser01/mkv-muxing-batch-gui) - App to muxing videos with audios/subtitles with so many options!
+- [iterative/PyDrive2](https://github.com/iterative/PyDrive2) - Google Drive API Python wrapper library. Maintained fork of PyDrive.
+- [yunemse48/403bypasser](https://github.com/yunemse48/403bypasser) - 
+- [XSharifi/Persian-letter-OCR](https://github.com/XSharifi/Persian-letter-OCR) - An OCR for Persian characters using 3 different Deep Neural Network models: 1. Multi Layer Perceptron(MLP) 2. Autoencoder 3. Convolutional Neural Network
+- [prashantsengar/ArrangePy](https://github.com/prashantsengar/ArrangePy) - Organizes files in folders and helps you to clean your PC
+- [dhruvSHA256/instaquotebot](https://github.com/dhruvSHA256/instaquotebot) - Instagram Quote Bot
+- [divideprojects/VidMergeBot](https://github.com/divideprojects/VidMergeBot) - 🤖 Telegram Bot which can merge multiple 🎥 video files into one.
+- [aliie62/preper](https://github.com/aliie62/preper) - A Persian (Farsi) Preprocessing Python Module
+- [de-mh/persian_phonemizer](https://github.com/de-mh/persian_phonemizer) - A tool for translating Persian text to IPA (International Phonetic Alphabet).
+- [Djdefrag/NiceScaler](https://github.com/Djdefrag/NiceScaler) - NiceScaler - image/video deeplearning upscaler (OpenCV)
+- [Djdefrag/QualityScaler](https://github.com/Djdefrag/QualityScaler) - QualityScaler - image/video AI upscaler app (BSRGAN)
+- [aflorithmic/viseme-to-video](https://github.com/aflorithmic/viseme-to-video) - Creates video from TTS output and viseme images.
+- [nikhilkumarsingh/content-downloader](https://github.com/nikhilkumarsingh/content-downloader) - Python package to download files on any topic in bulk.
+- [zackees/gen-rss](https://github.com/zackees/gen-rss) - Generates an RSS feed, as sampled from wordpress sites
+- [zackees/vidcrawler](https://github.com/zackees/vidcrawler) - Crawls videos for content and exports the results as a json
+- [amishbni/dpern](https://github.com/amishbni/dpern) - Describe PERsian Numbers
+- [scrapinghub/dateparser](https://github.com/scrapinghub/dateparser) - python parser for human readable dates
+- [J-Rios/multicolorcaptcha](https://github.com/J-Rios/multicolorcaptcha) - Python random image-captcha generator library.
+- [ponty/EasyProcess](https://github.com/ponty/EasyProcess) - Easy to use python subprocess interface
+- [ponty/pyscreenshot](https://github.com/ponty/pyscreenshot) - Python screenshot library, replacement for the Pillow ImageGrab module on Linux.
+- [CT83/SmoothStream](https://github.com/CT83/SmoothStream) - Webcam, PiCamera streaming over the network with Python made easy.
+- [Parth0105/Auto_Module_Installer](https://github.com/Parth0105/Auto_Module_Installer) - python project to install modules
+- [buurro/spotify-now-playing-telegram](https://github.com/buurro/spotify-now-playing-telegram) - Share what you're playing on Spotify
+- [eriknyquist/tones](https://github.com/eriknyquist/tones) - Pure-python library for generating audio tones, with support for polyphony, pitch-bending and vibrato
+- [kul-sudo/Screened](https://github.com/kul-sudo/Screened) - Screened - Quick and Easy Screen Capturing
+- [kamyabzad/break-spotify](https://github.com/kamyabzad/break-spotify) - A workaround for Spotify's 403 error in Iran
+- [ali-hv/AvaFarsi](https://github.com/ali-hv/AvaFarsi) - AvaFarsi is an open-source graphical app which helps you to download the songs of iranian singers easily
+- [ricardojoserf/instagram-followers-bot](https://github.com/ricardojoserf/instagram-followers-bot) - A bot for Instagram. You can follow users using a tag or in a specific location, unfollow those who dont follow-you-back, and follow-back those who follow you
+- [buddhhu/localdb.json](https://github.com/buddhhu/localdb.json) - 
+- [SpEcHiDe/Media-Search-bot](https://github.com/SpEcHiDe/Media-Search-bot) - Inline bot for channels and groups
+- [zackees/vids-db](https://github.com/zackees/vids-db) - 
+- [X-Gorn/Spotify-Loader](https://github.com/X-Gorn/Spotify-Loader) - Telegram bot download spotify playlist/artist/album/track music
+- [jusidama18/Gist-Telegram-Bot](https://github.com/jusidama18/Gist-Telegram-Bot) - 
+- [Itz-fork/Nexa-API](https://github.com/Itz-fork/Nexa-API) - Simple, Free and Easy to use Public api
+- [nodiscc/github-stars-backup](https://github.com/nodiscc/github-stars-backup) - [mirror] Backup a list of github starred repositories for the specified user.
+- [ErfanPY/aparatPlayListDownloader](https://github.com/ErfanPY/aparatPlayListDownloader) - دانلود ویدئو های پلی لیست آپارات
+- [dozheiny/alaatvDownloader](https://github.com/dozheiny/alaatvDownloader) - this program will download your allatv playlist you choose .
+- [Altabeh/tesseract-ocr-wrapper](https://github.com/Altabeh/tesseract-ocr-wrapper) - This is a highly efficient python wrapper for tesseract-ocr.
+- [DavideGalilei/gpytranslate](https://github.com/DavideGalilei/gpytranslate) - A Python3 library for translating text using Google Translate API.
+- [ShivangKakkar/googletrans](https://github.com/ShivangKakkar/googletrans) - Fork of py-googletrans to use newer versions of httpx
+- [emkademy/jumpcutter](https://github.com/emkademy/jumpcutter) - Automatically jump-cut silent parts of your videos using Python
+- [flying-sheep/get_version](https://github.com/flying-sheep/get_version) - Automatically use the latest “vX.X.X” tag as version in your Python package
+- [rk0n/yttv](https://github.com/rk0n/yttv) - Python API for YouTubeTV
+- [SaeidJavadi/Advanced-WhatsApp-Sender](https://github.com/SaeidJavadi/Advanced-WhatsApp-Sender) - The app sends text and image messages to bulk lists in WhatsApp
+- [fredlarkins/webp-convert](https://github.com/fredlarkins/webp-convert) - Convert PNG and JPG images into WEBP images automatically.
+- [swaaz/InstaBot](https://github.com/swaaz/InstaBot) - Instagram bot built using Python and Selenium
+- [rzashakeri/instagram-getter](https://github.com/rzashakeri/instagram-getter) - Download anything from Instagram with this robot 📥
+- [Gumbraise/instagram-bomber](https://github.com/Gumbraise/instagram-bomber) - An open-source project. Instagram Messages Spammer/Bomber
+- [gerald-lnj/duplicate-video-finder](https://github.com/gerald-lnj/duplicate-video-finder) - A python module to detect duplicate videos in a directory.
+- [ICRAR/ijson](https://github.com/ICRAR/ijson) - Iterative JSON parser with Pythonic interfaces
+- [Alir3z4/negar-cli](https://github.com/Alir3z4/negar-cli) - Negar Command Line Interface
+- [javadr/negar-gui](https://github.com/javadr/negar-gui) - Graphical User Interface for Negar -- Persian Text Editor
+- [pytitle/PyTitle-cli](https://github.com/pytitle/PyTitle-cli) - Command line tool for editing and manipulating subtitles.
+- [skyme5/deepgram-cli](https://github.com/skyme5/deepgram-cli) - Python CLI for bulk transcribing audio files/urls using deepgram.com
+- [deepgram/deepgram-python-sdk](https://github.com/deepgram/deepgram-python-sdk) - Official Python SDK for Deepgram's automated speech recognition APIs.
+- [quodlibet/mutagen](https://github.com/quodlibet/mutagen) - Python module for handling audio metadata
+- [diprajpatra/selenium-stealth](https://github.com/diprajpatra/selenium-stealth) - Trying to make python selenium more stealthy.
+- [zuruoke/watermark-removal](https://github.com/zuruoke/watermark-removal) - a machine learning image inpainting task that instinctively removes watermarks from image indistinguishable from the ground truth image
+- [Dhravya/DeepDubber](https://github.com/Dhravya/DeepDubber) - Dubs the video in another language, Powered by Deepgram API and Google Translate.
+- [willianantunes/transcriber-wrapper](https://github.com/willianantunes/transcriber-wrapper) - Wrapper of well-known transcribers that transform text into phoneme codes
+- [JacobChesslo/pymorse](https://github.com/JacobChesslo/pymorse) - Python based Morse Code Translator
+- [ShivangKakkar/VideoStickerBot](https://github.com/ShivangKakkar/VideoStickerBot) - 
+- [luckydonald/pytgbot](https://github.com/luckydonald/pytgbot) - python module to access the telegram bot api.
+- [persian-tools/py-persian-tools](https://github.com/persian-tools/py-persian-tools) - An anthology of a variety of tools for the Persian language in Python
+- [elektito/finglish](https://github.com/elektito/finglish) - A Finglish to Persian converter.
+- [alighazi/price_alert_bot](https://github.com/alighazi/price_alert_bot) - Telegram bot to set price alerts and get charts and useful information about cryptocurrencies
+- [tweak1337/telegram_parser-v.2---Telethon](https://github.com/tweak1337/telegram_parser-v.2---Telethon) - Second version of public channels parser in telegram using Telethon library. (Postgresql)
+- [tweak1337/telegrabber](https://github.com/tweak1337/telegrabber) - To parse telegram public channels and reply it to your public and rec to DB
+- [AndydeCleyre/colorcodebot](https://github.com/AndydeCleyre/colorcodebot) - A simple Telegram bot for syntax highlighting
+- [iniridwanul/Ridogram](https://github.com/iniridwanul/Ridogram) - Ridogram is an advanced multi-featured Telegram UserBot.
+- [New-dev0/Telethon-Patch](https://github.com/New-dev0/Telethon-Patch) - Wrap over telethon with additional upgrades
+- [mahyadnet/telegram-auto-forwarder](https://github.com/mahyadnet/telegram-auto-forwarder) - Telegram Auto Forwarder
+- [JKhakpour/petit](https://github.com/JKhakpour/petit) - Persian text -&gt; integer, ineteger -&gt; text converter
+- [Ahmadrezadl/MovieSorter](https://github.com/Ahmadrezadl/MovieSorter) - 
+- [xenova/chat-downloader](https://github.com/xenova/chat-downloader) - A simple tool used to retrieve chat messages from livestreams, videos, clips and past broadcasts. No authentication needed!
+- [psyk3r/psybot](https://github.com/psyk3r/psybot) - Telegram self account bot
+- [karkason/pywinsandbox](https://github.com/karkason/pywinsandbox) - Windows Sandbox Utillities Python Package
+- [munro/python-selenium-async](https://github.com/munro/python-selenium-async) - Wrapper for Selenium to make it easy, with asyncio support!
+- [mohammad-aq1996/persian-todolist](https://github.com/mohammad-aq1996/persian-todolist) - Simple to do list in Farsi
+- [mohammad-sky/WhatsApp-Messenger](https://github.com/mohammad-sky/WhatsApp-Messenger) - Send each user's file to his WhatsApp account or send a file to a large number of users
+- [dan-da/py2php](https://github.com/dan-da/py2php) - py2php is a utility that will auto-translate python code into PHP code.
+- [hastagAB/Awesome-Python-Scripts](https://github.com/hastagAB/Awesome-Python-Scripts) - A Curated list of Awesome Python Scripts that Automate Stuffs.
+- [AliEslah/subtitle-translator](https://github.com/AliEslah/subtitle-translator) - Collective translation of subtitles of a folder and its sub-categories into Persian
+- [AndersonFrossard/whatsapp-video](https://github.com/AndersonFrossard/whatsapp-video) - 
+- [gbstack/ffprobe-python](https://github.com/gbstack/ffprobe-python) - A wrapper of ffprobe command to extract metadata from media files.
+- [clagiordano/python3-logger](https://github.com/clagiordano/python3-logger) - Library for logging facility
+- [nickumia/web-search-dictionary](https://github.com/nickumia/web-search-dictionary) - A Definition Lookup API based on Google Search Results
+- [DeekshithSH/TG-FileStreamBot](https://github.com/DeekshithSH/TG-FileStreamBot) - A Telegram bot to stream files to web.(Inactive for some months)
+- [eteamin/async_faspell](https://github.com/eteamin/async_faspell) - Farsi spellchecker
+- [meyt/linkpreview](https://github.com/meyt/linkpreview) - Get link preview in python
+- [mohadese-yousefi/spell-correction](https://github.com/mohadese-yousefi/spell-correction) - Simple autocorrect misspelled word base on distance.
+- [barseghyanartur/pif](https://github.com/barseghyanartur/pif) - Public IP address checker.
+- [owncloud/pyocclient](https://github.com/owncloud/pyocclient) - ownCloud client library for Python
+- [mrwunderbar666/py_wayback_downloader](https://github.com/mrwunderbar666/py_wayback_downloader) - Python Implementation of a web.archive.org downloader
+- [Axelancerr/spoti-py](https://github.com/Axelancerr/spoti-py) - An async wrapper for the Spotify API.
+- [mkly/youtube-closed-captions](https://github.com/mkly/youtube-closed-captions) - Python library for downloading closed captions(subtitles) from Youtube
+- [mitmul/burn-captions](https://github.com/mitmul/burn-captions) - Burn captions (.srt) into videos
+- [spirali/nedoc](https://github.com/spirali/nedoc) - Generator of API documentation for Python
+- [gavento/gamegym](https://github.com/gavento/gamegym) - A game theory framework with examples and algorithms
+- [eggplants/wbsv-cli](https://github.com/eggplants/wbsv-cli) - CLI for archiving pages and its all links to Wayback Machine
+- [BlackIQ/Hello-World](https://github.com/BlackIQ/Hello-World) - Hello World in different languages !
+- [mmahdibarghi/pdf2txt](https://github.com/mmahdibarghi/pdf2txt) - python program which could change Persian pdfs with any format (absolutely pdfs which created by images) to text file
+- [saeed-raeisi/num2words](https://github.com/saeed-raeisi/num2words) - Read me this number python  -- Convert number to Persian  -- تبدیل عدد به فارسی
+- [garpozir/Translation_video](https://github.com/garpozir/Translation_video) - ساخت خودکار زیرنویس فارسی برای ویدیوهای انگلیسی زبان
+- [LordArma/My-Cloud-of-Words](https://github.com/LordArma/My-Cloud-of-Words) - مثال استفاده از ماژول ابر کلمات در زبان‌های گیلکی، فارسی، عربی و غیره
+- [motahharm/verbs](https://github.com/motahharm/verbs) - تولید فعل های فارسی/عربی/انگلیسی
+- [AbRamazani/mahab](https://github.com/AbRamazani/mahab) - نرم افزار محافظ باتری محاب(فارسی)
+- [herotux/mozilla-voice-fa](https://github.com/herotux/mozilla-voice-fa) - مجموعه ای از جملات به زبان فارسی برای پروژه common voice موزیلا
+- [AmirRedHat/Search_Subtitle](https://github.com/AmirRedHat/Search_Subtitle) - search and download multiple subtitle in one command and a few time (persian)
+- [AshkanArabim/persian-word-extractor](https://github.com/AshkanArabim/persian-word-extractor) - This script creates a list of unique words from Persian text. Words can be sorted by frequency or alphabetical order. This is a new project, there could be major bugs in the code.
+- [Athirst1998/number_to_alphabet](https://github.com/Athirst1998/number_to_alphabet) - convert number to Persian alphabet
+- [adrian-kalinin/CheckNicknameBot](https://github.com/adrian-kalinin/CheckNicknameBot) - Telegram bot where you can check the availability of nicknames in various social networks
+- [teletips/DATE_TIME_USERBOT-TeLeTiPs](https://github.com/teletips/DATE_TIME_USERBOT-TeLeTiPs) - Powerful Telegram userbot to turn your PROFILE PICTURE & LAST NAME into a real time clock & to change your BIO automatically.
+- [CuriousYoda/tiktok-downloader](https://github.com/CuriousYoda/tiktok-downloader) - Downloads TikTok videos for a given user without water marks
+- [davidteather/TikTok-Api](https://github.com/davidteather/TikTok-Api) - The Unofficial TikTok API Wrapper In Python
+- [kootenpv/textsearch](https://github.com/kootenpv/textsearch) - Find strings/words in text; convenience and C speed :fireworks:
+- [spirali/elsie](https://github.com/spirali/elsie) - Python framework for making slides
+- [schollz/pywebsitechanges](https://github.com/schollz/pywebsitechanges) - Change detection with a simple Python script to email you whenever a website changes.
+- [kootenpv/yagmail](https://github.com/kootenpv/yagmail) - Send email in Python conveniently for gmail using yagmail
+- [kootenpv/just](https://github.com/kootenpv/just) - Just is a wrapper to automagically read/write a file based on extension
+- [gruns/furl](https://github.com/gruns/furl) - 🌐 URL parsing and manipulation made easy.
+- [mikf/gallery-dl](https://github.com/mikf/gallery-dl) - Command-line program to download image galleries and collections from several image hosting sites
+- [wudududu/extract-video-ppt](https://github.com/wudududu/extract-video-ppt) - extract the ppt in the video
+- [schlopp96/PyLoadBar](https://github.com/schlopp96/PyLoadBar) - Customizeable loading sequence/progress bar generator, enabling users to customize start/finish messages, toggle sequence type, and set total iterations among other features.
+- [schlopp96/V2Mp3](https://github.com/schlopp96/V2Mp3) - Compact video-to-audio conversion tool with built-in YouTube video/audio download functionality. Currently only compatible with Windows-based systems.
+- [wanghaisheng/tiktoka-studio-uploader](https://github.com/wanghaisheng/tiktoka-studio-uploader) - Schedule and Publish contents erverywhere.Bulk auto video upload and Scheduling & Publishing Effortless for You & Your Entire Team. batch headless upload  all major social networks using this ultimate
+- [pycdr/WM](https://github.com/pycdr/WM) - WM (Watch Movie) is a video player that show it on the terminal as a text!
+- [setanarut/fif](https://github.com/setanarut/fif) - A command line tool for embedding any file into PNG, GIF, WAV file formats and decoding back.
+- [Numenorean/ShazamAPI](https://github.com/Numenorean/ShazamAPI) - Fully reverse engeenired shazam api
+- [hyugogirubato/SubFormator](https://github.com/hyugogirubato/SubFormator) - You downloaded a video with subtitles that don’t match the ones you want to use, so you downloaded subtitles in the language you want to use, except that, unfortunately, they don’t connect with the sp
+- [Threezh1/JSFinder](https://github.com/Threezh1/JSFinder) - JSFinder is a tool for quickly extracting URLs and subdomains from JS files on a website.
+- [hyugogirubato/AsyncFFmpegHelper](https://github.com/hyugogirubato/AsyncFFmpegHelper) - Helper for FFmpeg allowing multi-threaded downloading of M3U8 video streams
+- [mevellea/telegram_menu](https://github.com/mevellea/telegram_menu) - A python library to generate navigation menus using Telegram Bot API
+- [samanvp/persian-lexicon](https://github.com/samanvp/persian-lexicon) - A lexicon of 70K unique Persian (Farsi) words.
+- [Alir3z4/python-short_url](https://github.com/Alir3z4/python-short_url) - Python implementation for generating Tiny URL- and bit.ly-like URLs.
+- [Alir3z4/python-stop-words](https://github.com/Alir3z4/python-stop-words) - Get list of common stop words in various languages in Python
+- [narfman0/youtube-scraper](https://github.com/narfman0/youtube-scraper) - Scrape metadata from youtube videos/urls
+- [pooya-mohammadi/persian-spell-checker-kenlm](https://github.com/pooya-mohammadi/persian-spell-checker-kenlm) - A complete instruction for training a Persian spell checker and a language model based on SymSpell and KenLM, respectively using Wikipedia dataset.
+- [aleksve/ischedule](https://github.com/aleksve/ischedule) - Open source, single-thread interval scheduler
+- [iluvcapra/wavinfo](https://github.com/iluvcapra/wavinfo) - Probe WAVE Files for iXML, ADM, Broadcast-WAVE and other metadata
+- [t0mer/ttsbot](https://github.com/t0mer/ttsbot) - ttsbot is a Telepot powerd, easy to use Telegram bot allowing you to convert text to speech using Reverso Translations.
+- [frederikwillersinn/google_drive_data_transfer](https://github.com/frederikwillersinn/google_drive_data_transfer) - Python Package Development | Google Drive File Transfer | PyDrive
+- [MarkSnaile/telegram-channel-views-boost](https://github.com/MarkSnaile/telegram-channel-views-boost) - A Python3 script built to increase post views on Telegram channels.
+- [Kraymer/flinck](https://github.com/Kraymer/flinck) - Sort your movies on filesystem by dates, ratings, etc using symlinks.
+- [sajjjadayobi/FaceLib](https://github.com/sajjjadayobi/FaceLib) - Face Analysis: Detection, Age Gender Estimation & Recognition
+- [raryelcostasouza/pyTranscriber](https://github.com/raryelcostasouza/pyTranscriber) - pyTranscriber can be used to generate automatic transcription / automatic subtitles for audio/video files through a friendly graphical user interface.
+- [pandamoon21/pythOCR](https://github.com/pandamoon21/pythOCR) - 
+- [baconismycopilot/imgconvert](https://github.com/baconismycopilot/imgconvert) - 
+- [AliRn76/rubika-bot](https://github.com/AliRn76/rubika-bot) - Rubika Bot Library
+- [Latand/Passcypher_bot](https://github.com/Latand/Passcypher_bot) - Bot for password and files encryption in Telegram
+- [allerter/spotify-telegram-sync](https://github.com/allerter/spotify-telegram-sync) - A userbot that syncs your Spotify playlist with your Telegram channel, and displays your current playback on Telegram.
+- [allerter/geniust](https://github.com/allerter/geniust) - A Telegram bot that provides song and album lyrics along with their annotations on Genius.
+- [felixvor/pytabber](https://github.com/felixvor/pytabber) - Shows ALT-TAB Like window on every monitor
+- [Hiyorimi/car_recognition_bot](https://github.com/Hiyorimi/car_recognition_bot) - Car Recognition Bot
+- [JustinTheWhale/PDF-Dark-Mode](https://github.com/JustinTheWhale/PDF-Dark-Mode) - Converts PDF's to have a grey background to be easier on the eyes
+- [Bahman-Ahmadi/rubika](https://github.com/Bahman-Ahmadi/rubika) - this is a unofficial library for making bots in rubika. using this library you can make your own rubika bot and control that
+- [sankalpjonn/timeloop](https://github.com/sankalpjonn/timeloop) - An elegant periodic task executor
+- [tasos-py/Search-Engines-Scraper](https://github.com/tasos-py/Search-Engines-Scraper) - Search google, bing, yahoo, and other search engines with python
+- [kryzhikov/Pixit](https://github.com/kryzhikov/Pixit) - 
+- [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
+- [baychimo/pictobot](https://github.com/baychimo/pictobot) - A chatbot to use as a basic universal translator. If you can't say it, show it!
+- [0xallie/telegram-logger](https://github.com/0xallie/telegram-logger) - Telegram chat logger
+- [fasilminale/ExportTelegramUsers](https://github.com/fasilminale/ExportTelegramUsers) - A Python script that exports users from one Telegram group to another using one or more concurrent user bots.
+- [camelot-dev/camelot](https://github.com/camelot-dev/camelot) - A Python library to extract tabular data from PDFs
+- [AndreMiras/tubedl](https://github.com/AndreMiras/tubedl) - Online video downloader
+- [justin8/convert_videos](https://github.com/justin8/convert_videos) - 
+- [coignetp/uploadBot](https://github.com/coignetp/uploadBot) - A telegram bot in python which upload the photos on Google Drive in a group conversation.
+- [undrcrxwn/hide-this-bot](https://github.com/undrcrxwn/hide-this-bot) - An inline Telegram bot to keep your private messages hidden from prying eyes.
+- [classabbyamp/vidifierbot](https://github.com/classabbyamp/vidifierbot) - A telegram bot for getting videos from URLs with yt-dlp
+- [Animewala/gppass-telegram-bot](https://github.com/Animewala/gppass-telegram-bot) - 
+- [codenamewei/youtube2text](https://github.com/codenamewei/youtube2text) - Converts Youtube URLs to Text with Speech Recognition
+- [FastestMolasses/fBrowser](https://github.com/FastestMolasses/fBrowser) - Helpful Selenium functions to make web-scraping easier and faster
+- [wkentaro/video-cli](https://github.com/wkentaro/video-cli) - Command line tools for quick video editing.
+- [sina-e/aiogram-template](https://github.com/sina-e/aiogram-template) - A bootstrap template for building Telegram bots with Aiogram
+- [ZenMaxe/GeckoDriver-Downlaoder](https://github.com/ZenMaxe/GeckoDriver-Downlaoder) - Cross Platform Geckodriver Downloader
+- [aiombots/Renamer-Bot](https://github.com/aiombots/Renamer-Bot) - Best & Fastest Renamer Bot By @Clinton-Abraham & @PredatorHackerzZ. Star and Fork the repo if you like it else you are Gay!...  @TeamTeleRoid
+- [back-to/generic](https://github.com/back-to/generic) - generic streamlink plugin
+- [back-to/liveproxy](https://github.com/back-to/liveproxy) - LiveProxy can redirect Livestreams to your favorite player
+- [deepjyoti30/ytmdl](https://github.com/deepjyoti30/ytmdl) - A simple app to get songs from YouTube in mp3 format with artist name, album name etc from sources like iTunes, Spotify, LastFM, Deezer, Gaana etc.
+- [deepjyoti30/downloader-cli](https://github.com/deepjyoti30/downloader-cli) - A simple downloader written in Python with an awesome customizable progressbar.
+- [BufferingIO/PyTitle](https://github.com/BufferingIO/PyTitle) - Subtitle manipulation library for Python.
+- [amirho3inf/meeseeks_assistant](https://github.com/amirho3inf/meeseeks_assistant) - A personal VoiceAssistant
+- [amirho3inf/aiogram-structured](https://github.com/amirho3inf/aiogram-structured) - Code your aiogram bot faster, easier & modular.
+- [iraj-jelo/srtmerger](https://github.com/iraj-jelo/srtmerger) - subtitle merger is a tool for merging two or more subtitles for videos.
+- [kotnid/Youtube_Bot](https://github.com/kotnid/Youtube_Bot) - Download YouTube video by just typing commands in Telegram
+- [rain2wood/spotBot-OSS](https://github.com/rain2wood/spotBot-OSS) - // Download FLAC / MP3 from Spotify via Telegram Bot //
+- [jakob-bagterp/browserist](https://github.com/jakob-bagterp/browserist) - 👩‍💻 Extension for the Selenium web driver that makes browser automation even easier 👨‍💻
+- [jakob-bagterp/timer-for-python](https://github.com/jakob-bagterp/timer-for-python) - ⏳ Lightweight Python package that makes it easy to measure how much time it takes to run Python programs and gauge performance of multiple, smaller bits of code ⌛️
+- [TeaByte/Telegram-search](https://github.com/TeaByte/Telegram-search) - Simple web scrapping to search from telegram
+- [uktrade/stream-unzip](https://github.com/uktrade/stream-unzip) - Python function to stream unzip all the files in a ZIP archive - without loading the entire ZIP file or any of its files into memory at once
+- [language-ml/parsi.io](https://github.com/language-ml/parsi.io) - 
+- [haraai/ParsiNorm](https://github.com/haraai/ParsiNorm) - 
+- [CharlesPikachu/pytools](https://github.com/CharlesPikachu/pytools) - Pytools: Some useful tools written by pure python.
+- [CharlesPikachu/imagecompressor](https://github.com/CharlesPikachu/imagecompressor) - ImageCompressor: Image compressors written by pure python.
+- [Dadmatech/Nevise](https://github.com/Dadmatech/Nevise) - Bert-Based persian spell-checker
+- [zackmark29/python-idm-helper](https://github.com/zackmark29/python-idm-helper) - Use IDM (Internet Download Manager) Api in python.
+- [kverpoorten/TelegramChannelAggregator](https://github.com/kverpoorten/TelegramChannelAggregator) - Allows you to filter messages from several telegram chats and send only the messages you are interested in to another aggregation channel
+- [MarcoDiFrancesco/InternetArchiveUpdater](https://github.com/MarcoDiFrancesco/InternetArchiveUpdater) - Save web pages in Internet Archive on schedule using Heroku free tier
+- [karunakaran186/KAVI-voice-Assitant](https://github.com/karunakaran186/KAVI-voice-Assitant) - source code
+- [zaironjacobs/get-gecko-driver](https://github.com/zaironjacobs/get-gecko-driver) - A tool to download and install GeckoDriver.
+- [zaironjacobs/get-chrome-driver](https://github.com/zaironjacobs/get-chrome-driver) - A tool to download and install ChromeDriver.
+- [myNameArnav/randomImageMaker](https://github.com/myNameArnav/randomImageMaker) - It makes random images with random words
+- [shawnrivers/gif-compressor](https://github.com/shawnrivers/gif-compressor) - This is a little program to help compress your .mp4 or gif into a smaller .gif which has a size smallar than 1 MB.
+- [IDN-C-X/IDN-GDrive-Bot](https://github.com/IDN-C-X/IDN-GDrive-Bot) - A Telegram bot to upload files from Telegram or Direct links to Google Drive.
+- [UserLazy/TG-YoutubeDL](https://github.com/UserLazy/TG-YoutubeDL) - Youtube Downloader and Converter
+- [Kenshin9977/video-dl](https://github.com/Kenshin9977/video-dl) - A GUI for yt-dlp that aims to simplify its usage.
+- [kyng-cytro/Screen-Time-Bot](https://github.com/kyng-cytro/Screen-Time-Bot) - Telegram bot to get Movies and TV-Shows updates
+- [tlylt/teaa_bot](https://github.com/tlylt/teaa_bot) - Go to telegram and chat with @teaabot_bot
+- [artyom-ar/TelegramLinkChecker](https://github.com/artyom-ar/TelegramLinkChecker) - 
+- [VladikaAndrii/Telegram_bot_for_films](https://github.com/VladikaAndrii/Telegram_bot_for_films) - 
+- [sskender/pornhub-api](https://github.com/sskender/pornhub-api) - Unofficial API for PornHub.com in Python
+- [prokunal/Smart-Youtube-Playlist-Downloader](https://github.com/prokunal/Smart-Youtube-Playlist-Downloader) - Download all videos from YouTube playlist.
+- [prokunal/Video-Watch-Time-Counter](https://github.com/prokunal/Video-Watch-Time-Counter) - This script will help you to find the length of the all videos in seconds, minutes and hours to track the total time to be consumed on a particular course.
+- [ImAyrix/Voice-Assistant](https://github.com/ImAyrix/Voice-Assistant) - 🎙️ Your personal voice assistant
+- [Chivier/enview](https://github.com/Chivier/enview) - 
+- [pashmaklang/pashmak](https://github.com/pashmaklang/pashmak) - The Pashmak Programming Language
+- [themixray/pygwin](https://github.com/themixray/pygwin) - A library for creating Python applications.
+- [themixray/install-pyaudio](https://github.com/themixray/install-pyaudio) - fast install pyaudio
+- [Alireza013/Persian_Recaptcha](https://github.com/Alireza013/Persian_Recaptcha) - Persian Recaptcha using python
+- [atikh/JalaliDatePicker](https://github.com/atikh/JalaliDatePicker) - Jalali (shamsi or persian) calendar DatePicker
+- [majidAdibian77/telegram_bot](https://github.com/majidAdibian77/telegram_bot) - Simple telegram bot implemented by python to send some information such as news.
+- [amirkaveh/persian-words](https://github.com/amirkaveh/persian-words) - 
+- [kargaranamir/parstdex](https://github.com/kargaranamir/parstdex) - A package that extracts Persian time and date markers by applying regexes.
+- [amirkho-py/ip2geo](https://github.com/amirkho-py/ip2geo) - 
+- [amirkho-py/any2persian](https://github.com/amirkho-py/any2persian) - 
+- [abhiTronix/deffcode](https://github.com/abhiTronix/deffcode) - A cross-platform High-performance FFmpeg based Real-time Video Frames Decoder in Pure Python 🎞️⚡
+- [AliRezaBeigy/Gitools](https://github.com/AliRezaBeigy/Gitools) - A handy tool to modify git history
+- [dolphinorg/pydolphin](https://github.com/dolphinorg/pydolphin) - a convenient solution to heroku web apps / APIs.
+- [wingxel/SimpleDirectoryServer](https://github.com/wingxel/SimpleDirectoryServer) - Serves a directory through HTTP on LAN.
+- [FrozenYogurtPuff/Telegram-ASR-Bot](https://github.com/FrozenYogurtPuff/Telegram-ASR-Bot) - A telegram ASR (Speech Recognition, or Speech-to-Text) bot based on python-telegram-bot and Google Cloud Speech.
+- [ghorbani-mohammad/persian-text-analyzer](https://github.com/ghorbani-mohammad/persian-text-analyzer) - Persian text NER,Sentiment,Classification analyzer by using prepared Pytorch model with Django APP.
+- [shaqayeql/Notq](https://github.com/shaqayeql/Notq) - 
+- [yshalsager/wit_transcriber](https://github.com/yshalsager/wit_transcriber) - أداة لتحويل الصوتيات إلى كلام باستخدام خدمة wit.ai
+- [JustCoww/slowedvideos](https://github.com/JustCoww/slowedvideos) - Big big scripts crazy
+- [Dhravya/DeepSubtitles](https://github.com/Dhravya/DeepSubtitles) - A Python script that generates subtitles and renders them onto the video.
+- [volom/Telegram_Scraper_Sender](https://github.com/volom/Telegram_Scraper_Sender) - Retrieving members' info from your telegram chats. Sending messages to a group of receivers
+- [volom/Telegram_Message_Scraper](https://github.com/volom/Telegram_Message_Scraper) - Fetching messages from individual and group chats in telegram
+- [vishal2376/telegram-bot](https://github.com/vishal2376/telegram-bot) - A telegram bot which can be used for github clones,  stackoverflow search,  codeforces problem etc...
+- [Nekmo/telegram-upload](https://github.com/Nekmo/telegram-upload) - Upload and download files from Telegram up to 2GiB using your account
+- [omrawal/QURL](https://github.com/omrawal/QURL) - A web app To Create and decode QR codes and shorten URL
+- [me-rakib/fetch-quote-and-make-image](https://github.com/me-rakib/fetch-quote-and-make-image) - 
+- [volom/MassReportTelegram](https://github.com/volom/MassReportTelegram) - Mass report on telegram accounts based on a given list
+- [lucascalheiros/filter-messages-telegram-bot](https://github.com/lucascalheiros/filter-messages-telegram-bot) - 
+- [AndreaTuci/excelToPDFConverter](https://github.com/AndreaTuci/excelToPDFConverter) - Excel - PDF converter for Windows
+- [Toxic-Noob/EmailTools](https://github.com/Toxic-Noob/EmailTools) - This Tool Has Some Email Tools. Such as, Email Spoofer, Email Bomber, Temp Mail Generator.
+- [mohdsaqibhbi/easy_images](https://github.com/mohdsaqibhbi/easy_images) - Download hundreds of images from Google. Do image post processing later.
+- [kyclark/excel2txt-py](https://github.com/kyclark/excel2txt-py) - Excel to delimited text (Python version)
+- [Sumegh20/Wikipedia-Scraper](https://github.com/Sumegh20/Wikipedia-Scraper) - 
+- [QianyanTech/Image-Downloader](https://github.com/QianyanTech/Image-Downloader) - Download images from Google, Bing, Baidu. 谷歌、百度、必应图片下载.
+- [roniemartinez/dude](https://github.com/roniemartinez/dude) - dude uncomplicated data extraction: A simple framework for writing web scrapers using Python decorators
+- [iamtalhaasghar/gmailnotipy](https://github.com/iamtalhaasghar/gmailnotipy) - A command line tool which will notify when an email arrives in your Gmail inbox.
+- [ytdl-patched/ytdl-patched](https://github.com/ytdl-patched/ytdl-patched) - yt-dlp fork with some more features
+- [codingdudepy/Tik-Tok-Downloader](https://github.com/codingdudepy/Tik-Tok-Downloader) - 📱Download Tik Tok Videos Without Watermark in flask
+- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
+- [CrispenGari/python-and-flask](https://github.com/CrispenGari/python-and-flask) - 💎 A quick start for web server development using python flask.
+- [harshitbansall/InstagramBOT](https://github.com/harshitbansall/InstagramBOT) - Script for Instagram to Download Posts, Profile Images and Hashtag Pictures. Will post and Manage images also in future.
+- [Koushikphy/TeleSpy](https://github.com/Koushikphy/TeleSpy) - Take Photo/Audio/Video from webcam by remotely controlling it using a Telegram bot.
+- [Fsunroo/PowerPointVoiceExtract](https://github.com/Fsunroo/PowerPointVoiceExtract) - this will extract voice from power points
+- [Abu3safeer/subscene-user-subtitle-downloader](https://github.com/Abu3safeer/subscene-user-subtitle-downloader) - Download all subtitles from subscene user profile.
+- [Abu3safeer/image-ocr-google-docs-srt](https://github.com/Abu3safeer/image-ocr-google-docs-srt) - OCR images exported by VideoSubFinder using Google docs OCR then export the result as srt file.
+- [johnkryptochain/TelegramScraper2022](https://github.com/johnkryptochain/TelegramScraper2022) - Scraper and adder for Telegram supporting multiple accounts at the same time. Adds via Telegram API and only by username. For adding via ID and not needing Telgram API contact me.
+- [berkaymizrak/Instagram-Followings-Followers-Bot](https://github.com/berkaymizrak/Instagram-Followings-Followers-Bot) - Find people that you follow but doesn't follow back to you.
+- [SzymekN/auto_ss](https://github.com/SzymekN/auto_ss) - Taking screenshots automatically everytime something changes over some area
+- [Nisheet-Patel/Mini-Projects](https://github.com/Nisheet-Patel/Mini-Projects) - Mini Projects in different programming languages and Frameworks
+- [erfannoury/pcrawler](https://github.com/erfannoury/pcrawler) - Persian Twitter crawler
+- [AzamRabiee/Persian_G2P](https://github.com/AzamRabiee/Persian_G2P) - Persian Grapheme-to-Phoneme (G2P) converter
+- [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
+- [m3hrdadfi/zabanshenas](https://github.com/m3hrdadfi/zabanshenas) - Zabanshenas is a solution for identifying the most likely language of a piece of written text. Demo (👇 )
+- [erastusnzula/face_recognition](https://github.com/erastusnzula/face_recognition) - 
+- [erastusnzula/emaileasily](https://github.com/erastusnzula/emaileasily) - 
+- [shangar21/anime_upscaler](https://github.com/shangar21/anime_upscaler) - My usage of Real-ESRGAN to upscale anime, some test and results in the test_img folder
+- [meti-94/divar-scrapy](https://github.com/meti-94/divar-scrapy) - 
+- [Dadmatech/DadmaTools](https://github.com/Dadmatech/DadmaTools) - DadmaTools is a Persian NLP tools developed by Dadmatech Co.
+- [abolfazlnasr/ankaboot](https://github.com/abolfazlnasr/ankaboot) - crawl a page and get some useful textual analysis
+- [arushadev/piraye](https://github.com/arushadev/piraye) - 
+- [softrebel/googleMapCrawler](https://github.com/softrebel/googleMapCrawler) - Crawler for google map using selenium driver
+- [97shivank/Hotel-Site-with-Django](https://github.com/97shivank/Hotel-Site-with-Django) - 
+- [mr-tafreshi/fbl](https://github.com/mr-tafreshi/fbl) - FBL is tool to find broken links in articles and files
+- [iamvee/karafs](https://github.com/iamvee/karafs) - تولید اسم های رندوم فینگیلیش
+- [erfansaberi/Startup-wallpaper-creator---Jalali-calendar-and-Persian-poem](https://github.com/erfansaberi/Startup-wallpaper-creator---Jalali-calendar-and-Persian-poem) - این برنامه موقع بالا اومدن ویندوز با توجه به تنظیماتی که به برنامه دادین یه والپیپر میسازه و ست میکنه روی صفحتون شامل تاریخ شمسی، میلادی، شعر و عکس بکگراند رندوم
+- [turotakun98/WebmToGifTelegram](https://github.com/turotakun98/WebmToGifTelegram) - 
+- [MrCharouon/Spotify-downloader-python](https://github.com/MrCharouon/Spotify-downloader-python) - 
+- [SepehrRasouli/DigikalaWebScraper](https://github.com/SepehrRasouli/DigikalaWebScraper) - Digikala Webscraper Connected to excel
+- [kordaki/IRFriendsTelBot](https://github.com/kordaki/IRFriendsTelBot) - Fun telegram bot for IRFriends telegram group :)
+- [calganaygun/YoutubeTranscriber](https://github.com/calganaygun/YoutubeTranscriber) - Easily find words in YouTube videos.
+- [jyotidabass/document_text_recognition](https://github.com/jyotidabass/document_text_recognition) - 
+- [mindee/doctr](https://github.com/mindee/doctr) - docTR (Document Text Recognition) - a seamless, high-performing & accessible library for OCR-related tasks powered by Deep Learning.
+- [iamtalhaasghar/youtube-playlists-downloader](https://github.com/iamtalhaasghar/youtube-playlists-downloader) - A terminal based tool to scrap list of all videos of a youtube channel since it was created.
+- [iamtalhaasghar/whats-trending](https://github.com/iamtalhaasghar/whats-trending) - A simple Python CLI tool using which you can see Twitter Top trends of any country in your Terminal.
+- [iamtalhaasghar/googleweather](https://github.com/iamtalhaasghar/googleweather) - A simple Python CLI tool using which you can see current weather of any city (in the world) in your Terminal.
+- [nemec/snapchat-map-scraper](https://github.com/nemec/snapchat-map-scraper) - 
+- [bellingcat/instagram-location-search](https://github.com/bellingcat/instagram-location-search) - Finds Instagram location IDs near a specified latitude and longitude.
+- [bellingcat/telegram-phone-number-checker](https://github.com/bellingcat/telegram-phone-number-checker) - This script lets you check whether a specific phone number is connected to a Telegram account.
+- [JBornman/telegram-inspire-bot](https://github.com/JBornman/telegram-inspire-bot) - A telegram bot that takes quotes and makes inspirational quote wallpapers
+- [rehmanali1337/instagram-to-telegram](https://github.com/rehmanali1337/instagram-to-telegram) - This bot scrapes the posts from specific instagram account and sends these posts(Images, Videos) to a telegram group.
+- [rehmanali1337/discord-telegram-bot](https://github.com/rehmanali1337/discord-telegram-bot) - Simple discord to telegram messages forward bot. It receives messages from filtered discord servers and channels and forward these messages to specified telegram channel using telegram api.
+- [Artis7eeR/ForwardTagRemoverBot](https://github.com/Artis7eeR/ForwardTagRemoverBot) - A Telegram Bot To Hide Forward Source
+- [Ah00ra/btc-price](https://github.com/Ah00ra/btc-price) - Get the price of bitcoin and insert it into a database
+- [StarkGang/RTMP-TG](https://github.com/StarkGang/RTMP-TG) - play your streams directly to telegram
+- [milahu/speech_recognition](https://github.com/milahu/speech_recognition) - Speech recognition module for Python, supporting several engines and APIs, online and offline.
+- [milahu/autosub-by-abhirooptalasila](https://github.com/milahu/autosub-by-abhirooptalasila) - A CLI script to generate subtitle files (SRT/VTT/TXT) for any video using either DeepSpeech or Coqui
+- [alinerguio/vosk-transcript-tool](https://github.com/alinerguio/vosk-transcript-tool) - The goal is to transcript audios already processed using the Vosk API to transcript audios.
+- [anvaari/instagram_follow_bot](https://github.com/anvaari/instagram_follow_bot) - توی این پروژه به کمک پایتون و سلنیوم یک ربات توسعه دادم که وارد اینستاگرام بشه و فالور های یک یا چند اکانت رو به تعداد خواسته شده فالو کنه.
+- [anvaari/BarnameKon](https://github.com/anvaari/BarnameKon) - Barname Kon is telegram bot which create "Add to Calendar" link (Google Calendat) and file (.ics)  for your events.
+- [imalirezapy/selenium-instagram-bot](https://github.com/imalirezapy/selenium-instagram-bot) - get instagram likers
+- [pytopia/stackoverflow-telegram-bot](https://github.com/pytopia/stackoverflow-telegram-bot) - Stackoverflow Telegram Bot
+- [gbagush/TikTokDownloaderBot](https://github.com/gbagush/TikTokDownloaderBot) - 
+- [4myr/tabchi](https://github.com/4myr/tabchi) - Advertimenter Telegram Cli Bot
+- [nathom/streamrip](https://github.com/nathom/streamrip) - A scriptable music downloader for Qobuz, Tidal, SoundCloud, and Deezer
+- [PasaOpasen/TranslatorBot](https://github.com/PasaOpasen/TranslatorBot) - Telegram bot for translation messages to certain languages
+- [m-nt/Farsi-To-Finglish](https://github.com/m-nt/Farsi-To-Finglish) - Farsi to Finglish Translate and vice versa
+- [amingheibi/AWS_transcribe_client](https://github.com/amingheibi/AWS_transcribe_client) - To send and receive ASR requests to AWS transcribe
+- [ahmadiphy/Fa2Fi](https://github.com/ahmadiphy/Fa2Fi) - Convert Farsi (Persian) to English
+- [PasaOpasen/PersianG2Pbot](https://github.com/PasaOpasen/PersianG2Pbot) - Farsi grapheme to phoneme converter bot
+- [mehdiFeghhi/BahamFood](https://github.com/mehdiFeghhi/BahamFood) - In this project I work on telegram bot for one person Who want to know how many people want the food of day
+- [mohamad-dehghani/crawler](https://github.com/mohamad-dehghani/crawler) - crawl the information of persian songs lyrics
+- [Ali-Mahdiyanjoo/Fingilish_2_farsi](https://github.com/Ali-Mahdiyanjoo/Fingilish_2_farsi) - 
+- [MiKoronjoo/instagram-telegram-bot](https://github.com/MiKoronjoo/instagram-telegram-bot) - A bot for download instagram posts, stories, lives, etc.
+- [aminAghayani/handwriteToText](https://github.com/aminAghayani/handwriteToText) - persian/farsi handwrite to text with keras and data extraction
+- [ihosseinu/quote_scraper](https://github.com/ihosseinu/quote_scraper) - Scrapes farsi quotes from www.time.ir
+- [mnosrati/Google-Translate-Farsi](https://github.com/mnosrati/Google-Translate-Farsi) - The provided code translates the English words to Persian and returns the details such as English and Persian definitions, parts of speech, examples, and synonyms. For using this code, you need to ins
+- [hoco1/InstaBot](https://github.com/hoco1/InstaBot) - Instagram Bot with python
+- [ALIILAPRO/unofficial-api-tiktok](https://github.com/ALIILAPRO/unofficial-api-tiktok) - Download from unofficial api tiktok
+- [dev-zarir/Messenger-For-PC](https://github.com/dev-zarir/Messenger-For-PC) - Special Featured Messenger for PC
+- [appheap/PyGithub](https://github.com/appheap/PyGithub) - A Python Client for the GitHub REST API
+- [itsMatiYo/Wikipedia-pictures-downloader-bot](https://github.com/itsMatiYo/Wikipedia-pictures-downloader-bot) - A python script for downloading high quality pictures from english wikipedia pages.
+- [hrishikeshrt/requests_downloader](https://github.com/hrishikeshrt/requests_downloader) - Python package to download files
+- [hrishikeshrt/google_drive_ocr](https://github.com/hrishikeshrt/google_drive_ocr) - Perform OCR using Google's Drive API v3
+- [dkmlv/countdown-tg-bot](https://github.com/dkmlv/countdown-tg-bot) - A very simple countdown Telegram bot
+- [andrewyazura/save-olegator-bot](https://github.com/andrewyazura/save-olegator-bot) - Compressing videos for people with slow internet connection
+- [Dragon-Born/avaland](https://github.com/Dragon-Born/avaland) - Avaland, Persian Music Downloader
+- [codehub-ir/codehub](https://github.com/codehub-ir/codehub) - :lion: Django Persian Pastebin Service + :zap: RESTful APIs
+- [ArminGh02/hafez-poems-bot](https://github.com/ArminGh02/hafez-poems-bot) - A simple Telegram bot implemented in Python.
+- [mmdbalkhi/Sansorchi](https://github.com/mmdbalkhi/Sansorchi) - Remove Persian (Farsi) Swear Words
+- [pylover/khayyam](https://github.com/pylover/khayyam) - A Persian Date & Time (aka: Jalali Calendar) library with timezone, DST (daylight-saving), full formatting & parsing support for python 2.x & 3.x.
+- [alihoseiny/word_cloud_fa](https://github.com/alihoseiny/word_cloud_fa) - A wrapper for wordcloud module for creating Persian word clouds.
+- [rezakamalifard/SubFixer](https://github.com/rezakamalifard/SubFixer) - Command-line subtitle fixer
+- [rezakamalifard/persian](https://github.com/rezakamalifard/persian) - Simple Python tool for Persian language localization.
+- [amir-saniyan/HodaDatasetReader](https://github.com/amir-saniyan/HodaDatasetReader) - Python code for reading Hoda farsi digit dataset.
+- [ICTRC/Parsivar](https://github.com/ICTRC/Parsivar) - A Language Processing Toolkit for Persian
+- [AlirezaTheH/perke](https://github.com/AlirezaTheH/perke) - A keyphrase extractor for Persian
+- [afshinrudgar/Finglish2FarsiTelegramBot](https://github.com/afshinrudgar/Finglish2FarsiTelegramBot) - This is a Finglish to Farsi telegram bot
+- [roshan-research/moratab](https://github.com/roshan-research/moratab) - Persian markdown editor.
+- [roshan-research/hazm](https://github.com/roshan-research/hazm) - Persian NLP Toolkit
+- [vahidbaghi/telegram_file_manager_bot](https://github.com/vahidbaghi/telegram_file_manager_bot) - Telegram File Manager Bot
+- [IHosseini083/froidapi](https://github.com/IHosseini083/froidapi) - Froid API is an unofficial RESTful API for farsroid.com written in Python and FastAPI framework.
+- [voidful/telenotify](https://github.com/voidful/telenotify) - 
+- [timweri/deal-watcher](https://github.com/timweri/deal-watcher) - Watch subreddits and RSS for new posts
+- [TechiError/GadgetsAPI](https://github.com/TechiError/GadgetsAPI) - 
+- [UsergeTeam/Loader](https://github.com/UsergeTeam/Loader) - Userge Loader
+- [Jigarvarma2005/HelperScript-V2](https://github.com/Jigarvarma2005/HelperScript-V2) - 
+- [nishantssoni/Qt-tic-tac-toe](https://github.com/nishantssoni/Qt-tic-tac-toe) - A GUI Tic-Tac-Toe game between player and computer using python and PyQt5.
+- [BenyaminZojaji/versatile-bot](https://github.com/BenyaminZojaji/versatile-bot) - You can check the bot using this link https://t.me/versatile-bot
+- [BenyaminZojaji/Python-Assignments](https://github.com/BenyaminZojaji/Python-Assignments) - Python exercises.
+- [MaryamBoneh/Vehicle-Detection](https://github.com/MaryamBoneh/Vehicle-Detection) - Vehicle Detection Using Deep Learning and YOLO Algorithm
+- [MehrdadNajafi/CAPTCHA-Generator](https://github.com/MehrdadNajafi/CAPTCHA-Generator) - 
+- [hatienl0i261299/cmdown](https://github.com/hatienl0i261299/cmdown) - CMdown - A tool for Multi-threaded download.
+- [hatienl0i261299/Soundcloud](https://github.com/hatienl0i261299/Soundcloud) - Soundcloud - A tool for download track Soundcloud.
+- [morucci/repoxplorer](https://github.com/morucci/repoxplorer) - RepoXplorer - Git stats explorer
+- [saket13/youtube_fetch](https://github.com/saket13/youtube_fetch) - API to get latest videos of certain topic from Youtube (fetched from the Youtube Data API)
+- [elastic/elasticsearch-py](https://github.com/elastic/elasticsearch-py) - Official Python client for Elasticsearch
+- [Dhrumil-Zion/Mini-Python-Utilites](https://github.com/Dhrumil-Zion/Mini-Python-Utilites) - This repository contains utilities that are often used in web development.
+- [awhipp/generated-short-story-videos](https://github.com/awhipp/generated-short-story-videos) - Randomly Generates and Publishes Short Story Videos to YT
+- [arny-wilk/codewars](https://github.com/arny-wilk/codewars) - My progress so far in Problem solving with Python
+- [hwpoison/voice-assistant](https://github.com/hwpoison/voice-assistant) - a offline small voice desktop assistant written on a booring sunday afternoon, uses autoit for automatitation, vosk for voice recognition a gtts for speech synth.
+- [TaylorSMarks/playsound](https://github.com/TaylorSMarks/playsound) - Pure Python, cross platform, single function module with no dependencies for playing sounds.
+- [palahsu/Image-Compressed](https://github.com/palahsu/Image-Compressed) - GUI Based Image Compressor. Fastly, image size reducer.
+- [palahsu/ScraperImages](https://github.com/palahsu/ScraperImages) - Simple Web Images Scraper From Websites!
+- [palahsu/Insta-follow-bot](https://github.com/palahsu/Insta-follow-bot) - insta follower bot by python with selenium.
+- [korneevm/simplebot](https://github.com/korneevm/simplebot) - 
+- [dnovikov/tryvoha-bot](https://github.com/dnovikov/tryvoha-bot) - Plays air warning sound when detects a certain phrase or a word in a specified Telegram chat.
+- [HeimanPictures/Feedback-bot](https://github.com/HeimanPictures/Feedback-bot) - In Short This is An Personalized Livegram Bot Made Using Python.. Follow Me @HeimanPictures & Star This Repo
+- [pejmanS21/PDF2TEXT](https://github.com/pejmanS21/PDF2TEXT) - 
+- [persepolisdm/persepolis](https://github.com/persepolisdm/persepolis) - Persepolis Download Manager is a GUI for aria2.
+- [sina-e/twitter2telegram](https://github.com/sina-e/twitter2telegram) - A simple script to post tweets from Twitter to Telegram
+- [sina-e/subscene-api](https://github.com/sina-e/subscene-api) - A simple and unofficial API for subscene.com written in python.
+- [sina-e/sufix](https://github.com/sina-e/sufix) - a simple and fully functional subtitle fixer for persian subtitles!
+- [abtinmo/faker_bill](https://github.com/abtinmo/faker_bill) - Faker provider for bill.
+- [numb95/yaldasho-bot](https://github.com/numb95/yaldasho-bot) - A Telegram bot to attach a banner about Yalda on your avatar.
+- [aliva/SubtitleFixer](https://github.com/aliva/SubtitleFixer) - fixes persian subtitles encoding
+- [Erfaniaa/persian-digits-recognition](https://github.com/Erfaniaa/persian-digits-recognition) - Identification of Farsi (Arabic) Scanned Handwritten Digits
+- [hadi-gharibi/irholiday](https://github.com/hadi-gharibi/irholiday) - Time.ir data extractor for python
+- [rajabzz/digikala-crawler](https://github.com/rajabzz/digikala-crawler) - 🕷️ A crawler to collect comments and product information on digikala.com
+- [htaghizadeh/PersianStemmer-Python](https://github.com/htaghizadeh/PersianStemmer-Python) - PersianStemmer-Python
+- [szbots/Image-Tool](https://github.com/szbots/Image-Tool) - Image Tooᥣs Bot I specialize for logo design  Services with Amazing logo  Creator Platform and  more tools
+- [Crazy-Marvin/QRTelegramBot](https://github.com/Crazy-Marvin/QRTelegramBot) - A bot for Telegram that can create and read QR codes
+- [mehotkhan/persian-word-cloud](https://github.com/mehotkhan/persian-word-cloud) - Persian Word Cloud generator
+- [Qiamast/ImarchBot](https://github.com/Qiamast/ImarchBot) - I'm ImarchBot 👋🏻😎 Image + Search  . a inline image searching tool for Telegram and  use Google Api for image  Searching.
+- [Qiamast/IGSEBot](https://github.com/Qiamast/IGSEBot) - inline Google searching tool for Telegram
+- [coder2020official/telebot_template](https://github.com/coder2020official/telebot_template) - Template for synchronous implementation of telebot
+- [coder2020official/asynctelebot_template](https://github.com/coder2020official/asynctelebot_template) - Template for asynchronous implementation of telebot.
+- [AnonC0DER/NovaMusic](https://github.com/AnonC0DER/NovaMusic) - A music sharing telegram robot using Redis (PostgreSQL in new version) database and Telebot python library.
+- [J-Rios/TLG_JoinCaptchaBot](https://github.com/J-Rios/TLG_JoinCaptchaBot) - Telegram Bot to verify if users joining a group are human. The Bot sends an image captcha for each new user and kicks any of them who can't solve the captcha in a specified time.
+- [AlexMetsai/computer-vision-utils](https://github.com/AlexMetsai/computer-vision-utils) - Various scripts that may be useful, mostly python and bash scripts.
+- [SuperKogito/pydiogment](https://github.com/SuperKogito/pydiogment) - :mega: Python library for audio augmentation
+- [SblipDev/PyServed](https://github.com/SblipDev/PyServed) - A beautiful cli with network transfer/hosting utilities to make life easier.
+- [kimhan1113/voice_recognition](https://github.com/kimhan1113/voice_recognition) - 
+- [parsapoorsh/Troll-Maker-tg-bot](https://github.com/parsapoorsh/Troll-Maker-tg-bot) - Troll Make Telegram Bot Source code. Thanks to skgsergio/dogefy-tg-bot
+- [pyroaddon/pyroaddon](https://github.com/pyroaddon/pyroaddon) - A monkeypatcher add-on for Pyrogram
+- [nishantssoni/KiloBot](https://github.com/nishantssoni/KiloBot) - a chatting bot which can download song.
+- [nishantssoni/Wats2PDF](https://github.com/nishantssoni/Wats2PDF) - convert whatsapp exported chat(without media) into a readable pdf format
+- [Zlopez/telegram_upload_bot](https://github.com/Zlopez/telegram_upload_bot) - Simple telegram bot to upload files to chats
+- [mechnicov/colorizer-bot](https://github.com/mechnicov/colorizer-bot) - Photo colorizer bot
+- [mechnicov/sex-photo-classifier-bot](https://github.com/mechnicov/sex-photo-classifier-bot) - Telegram bot for sex recognition by photo
+- [San-B-09/Telegram-Bot-Base](https://github.com/San-B-09/Telegram-Bot-Base) - This repo contains code for building a base telegram bot. Furthermore, on top of the base bot, you can add your own customization accordingly.
+- [New-dev0/Bing-ChatBot](https://github.com/New-dev0/Bing-ChatBot) - Chat bot based on Bing web ai bot.
+- [ksra7900/instagram_followers_scraping](https://github.com/ksra7900/instagram_followers_scraping) - This project is to extract the followers of an Instagram page
+- [AstroBolo/Xplore](https://github.com/AstroBolo/Xplore) - a python based web browser
+- [ThePro-CoderZ/Image2PdfBot](https://github.com/ThePro-CoderZ/Image2PdfBot) - A bot to convert Img2Pdf
+- [Amirjan2808/amir_weatherbot](https://github.com/Amirjan2808/amir_weatherbot) - 
+- [l3v11/SearchX](https://github.com/l3v11/SearchX) - The Ultimate Telegram Bot for Google Drive
+- [mrismanaziz/File-Sharing-Man](https://github.com/mrismanaziz/File-Sharing-Man) - File Sharing Flexibel Multi Force Subs Channel and Group
+- [mrismanaziz/Man-Userbot](https://github.com/mrismanaziz/Man-Userbot) - This is UserBot Telegram with many cool modules. Written in Python with Telethon and Py-Tgcalls.
+- [DenizShabani/SimpleTelegramScraper](https://github.com/DenizShabani/SimpleTelegramScraper) - 
+- [DenizShabani/TelegramMassDMBot](https://github.com/DenizShabani/TelegramMassDMBot) - Python script that can connect with multiple accounts via Telegram API, can scrape members from public groups and send messages via username to the scraped members. To be able to connect only via phon
+- [DenizShabani/telegramscraper](https://github.com/DenizShabani/telegramscraper) - Scraper and adder for Telegram supporting multiple accounts at the same time. Adds via Telegram API and only by username. For adding via ID and not needing Telgram API contact me.
+- [marquesgabriel/bot-xvideos-telegram](https://github.com/marquesgabriel/bot-xvideos-telegram) - Chatbot para telegram que puxa cometnarios aleatorios do xvideos
+- [MaxxRider/Leech-Pro](https://github.com/MaxxRider/Leech-Pro) - This is a Telegram Leech / Mirror Bot . Based on Python . 👉support of uploading files and foder to gdrive or any drive rclone.org support. Like onedrive, mega and so on. Now supports Unzip, unrar, unt
+- [samadii/Message-Merger-Bot](https://github.com/samadii/Message-Merger-Bot) - A simple telegram bot to concatenate and split message content. Heroku deployable
+- [jusidama18/GDriveBot](https://github.com/jusidama18/GDriveBot) - 
+- [Edresson/VoiceSplit](https://github.com/Edresson/VoiceSplit) - VoiceSplit: Targeted Voice Separation by Speaker-Conditioned Spectrogram
+- [Aghajari/One-Line-Art](https://github.com/Aghajari/One-Line-Art) - One-Line Art with Python =)
+- [zackees/capturing_process](https://github.com/zackees/capturing_process) - A subprocess type that streams out stdout/stderr easily
+- [ocatias/AutoMash](https://github.com/ocatias/AutoMash) - Automatically create YouTube mashups. Given videos and a text, AutoMash will cut the videos together so the speakers in the video appears to says the given text.
+- [NathaliaBarreiros/audio_transcription_deepspeech](https://github.com/NathaliaBarreiros/audio_transcription_deepspeech) - Transcription .wav audio files with DeepSpeech library
+- [Arcadia2142/voice-recognize](https://github.com/Arcadia2142/voice-recognize) - 
+- [zackees/transcribe-anything](https://github.com/zackees/transcribe-anything) - Input a local file or url and this service will transcribe it using Whisper AI. Completely private and Free 🤯🤯🤯
+- [zackees/make_venv](https://github.com/zackees/make_venv) - Super easy script that can make a virtual env
+- [zackees/static_ffmpeg](https://github.com/zackees/static_ffmpeg) - Installs FFMPEG On Win32/Ubuntu/MacOS
+- [revolter/FileConvertBot](https://github.com/revolter/FileConvertBot) - Telegram Bot that converts some file types to native photo, audio or video Telegram messages.
+- [rozari0/NeedMusicRobot](https://github.com/rozari0/NeedMusicRobot) - A Simple Music Downloader Bot For Telegram with Youtube Music, Spotify & Deezer Support.
+- [abnatal/botobot](https://github.com/abnatal/botobot) - 🐬 BotoBot is an easy to configure menu-based chatbot for Whatsapp / Telegram.
+- [oohwooh/github-telegram-bot](https://github.com/oohwooh/github-telegram-bot) - A telegram bot to interact with GitHub
+- [KristianAskk/Mp4-to-terminal](https://github.com/KristianAskk/Mp4-to-terminal) - A program that displays mp4 videos in the terminal.
+- [ArjunSahlot/vidmaker](https://github.com/ArjunSahlot/vidmaker) - A python library which simplifies creating and exporting videos.
+- [esaatci/rescale_crawler](https://github.com/esaatci/rescale_crawler) - 
+- [srstevenson/keyword-extractor](https://github.com/srstevenson/keyword-extractor) - Extract keywords from plain text documents
+- [JerrickLiu/Mask-generator](https://github.com/JerrickLiu/Mask-generator) - Various functions to generate masks for images and replace the background of images with some other image of your choosing
+- [BigweldIndustries/DownTube](https://github.com/BigweldIndustries/DownTube) - A simple GUI wrapper for yt-dlp that allows you to easily archive youtube channels
+- [skr1405/Feedback-and-Request-Bot-TG](https://github.com/skr1405/Feedback-and-Request-Bot-TG) - Telegram Bot to Request Content and Give Feedback
+- [manuelscurti/palette-bot](https://github.com/manuelscurti/palette-bot) - A Telegram bot which extracts the main color components from pictures
+- [Sigari-Dev/Self-Userbot](https://github.com/Sigari-Dev/Self-Userbot) - Userbot for telegram with pyrogram[Multi-plugin]
+- [doGior/Telegram-Media-Downloader](https://github.com/doGior/Telegram-Media-Downloader) - A bot that will download all the media from a given Telegram chat
+- [iShauny/TGFloofBot](https://github.com/iShauny/TGFloofBot) - Floofbot Telegram Bot
+- [zackees/ytclip](https://github.com/zackees/ytclip) - Downloads and clips videos from youtube, rumble, bitchute (using yt-dlp) and clips the video using ffmpeg.
+- [Zefty/YouTube2Spotify](https://github.com/Zefty/YouTube2Spotify) - A simple script for converting YouTube playlists to local files for Spotify offline play
+- [xaviruvpadhiyar98/YoutubeTitleUpdate](https://github.com/xaviruvpadhiyar98/YoutubeTitleUpdate) - This will update the youtube title with likes and views
+- [ResupinePuma/SUS](https://github.com/ResupinePuma/SUS) - Simple Universal Scraper for parsing reddit, telegram or rss links
+- [ResupinePuma/BF_AntiCrasher](https://github.com/ResupinePuma/BF_AntiCrasher) - Script to prevent people crash your server
+- [Single-Developers/TikTok-DL-BOT](https://github.com/Single-Developers/TikTok-DL-BOT) - 🏖 TikTok Download URL Generator API Example 🏖
+- [foevil/unf0llowers](https://github.com/foevil/unf0llowers) - 
+- [Sarmadzandi/instagrambot](https://github.com/Sarmadzandi/instagrambot) - 
+- [italankin/samplevoicebot](https://github.com/italankin/samplevoicebot) - TTS Telegram bot
+- [italankin/telegram-bot-template](https://github.com/italankin/telegram-bot-template) - A basic template for my telegram bots
+- [zenwarr/telegram-feed-bot](https://github.com/zenwarr/telegram-feed-bot) - Posts rss feeds or top reddit posts to telegram channels
+- [otherJL0/taxi_data](https://github.com/otherJL0/taxi_data) - 
+- [NyamekyeOCR/datageneration](https://github.com/NyamekyeOCR/datageneration) - datageneration
+- [chiragarora01/Visual-Speech-To-Text-Team_Voyage](https://github.com/chiragarora01/Visual-Speech-To-Text-Team_Voyage) - 
+- [scrazzz/imgbbpy](https://github.com/scrazzz/imgbbpy) - An Asynchronous and Synchronous API Wrapper for the Imgbb API.
+- [Matin-B/ReadInTelegramBot](https://github.com/Matin-B/ReadInTelegramBot) - Access stored data in Pocket (GetPocket) via Telegram Bot
+- [cinemagoer/cinemagoer](https://github.com/cinemagoer/cinemagoer) - Cinemagoer is a Python package useful to retrieve and manage the data of the IMDb (to which we are not affiliated in any way) movie database about movies, people, characters and companies
+- [kaarne/splitgram](https://github.com/kaarne/splitgram) - Telegram bot for cost splitting
+- [GameGodS3/rSlashBot](https://github.com/GameGodS3/rSlashBot) - Send name of a subreddit, and this Telegram bot will fetch you the latest post in it.
+- [ItsNotGoodName/email-to-telegram](https://github.com/ItsNotGoodName/email-to-telegram) - Telegram bot that reads a mail file and forwards to Telegram chat.
+- [Suvimal-Kundu/Ytdownloder-Progress-Bar](https://github.com/Suvimal-Kundu/Ytdownloder-Progress-Bar) - This is project in which Python uses pytube module to download videos available in YouTube with progress bar.
+- [toutpuissantged/SlimTik](https://github.com/toutpuissantged/SlimTik) - simple and fast text editor
+- [toutpuissantged/BestOfWeb](https://github.com/toutpuissantged/BestOfWeb) - find the best streaming and download sites in one click
+- [kernoeb/telegram-bot-removebg](https://github.com/kernoeb/telegram-bot-removebg) - Telegram Bot that replace background of a photo with random picture from google keyword
+- [david-lev/TelegraphSearchBot](https://github.com/david-lev/TelegraphSearchBot) - 📃 This telegram bot is used to search for articles in a telegra.ph account
+- [david-lev/CapsLockBot](https://github.com/david-lev/CapsLockBot) - 🔠 Telegram bot to fix capslock messages
+- [david-lev/SamsungApkDownloader](https://github.com/david-lev/SamsungApkDownloader) - ⬇️ Python script to download samsung APK's
+- [YeudaBy/Friends-Search](https://github.com/YeudaBy/Friends-Search) - 
+- [ManaanAnsari/rasa_telegram](https://github.com/ManaanAnsari/rasa_telegram) - 
+- [lyz-code/autoimport](https://github.com/lyz-code/autoimport) - Autoimport automatically fixes wrong import statements.
+- [tqdm/tqdm](https://github.com/tqdm/tqdm) - A Fast, Extensible Progress Bar for Python and CLI
+- [Reiqy/document-scanner](https://github.com/Reiqy/document-scanner) - Document Scanner application in Python
+- [TheBobTheBlob/cbPDF](https://github.com/TheBobTheBlob/cbPDF) - cbPDF is a command line tool to convert a folder or compressed archive containing images into a PDF.
+- [joshbduncan/word-search-generator](https://github.com/joshbduncan/word-search-generator) - Make awesome Word Search puzzles!
+- [jakedegiovanni/pdfmergeandnumber](https://github.com/jakedegiovanni/pdfmergeandnumber) - Merge PDFs together and add page numbers to the footer
+- [HEGADE/ProfileMaker](https://github.com/HEGADE/ProfileMaker) - python cli which takes a github username as argument and generate a profile from it
+- [Chan-Bill/wiki-pdf-gen](https://github.com/Chan-Bill/wiki-pdf-gen) - Scrape Wikipedia articles and generate PDF files.
+- [xuan-practice-coding/websiteCrawler](https://github.com/xuan-practice-coding/websiteCrawler) - 
+- [ritzballares/foto2pdf](https://github.com/ritzballares/foto2pdf) - A CLI tool for converting images into a PDF
+- [PyFPDF/fpdf2](https://github.com/PyFPDF/fpdf2) - Simple PDF generation for Python
+- [kernoeb/Telegramusic](https://github.com/kernoeb/Telegramusic) - Python Telegram Bot to download music from Deezer and YouTube (Heroku, Docker)
+- [Bricio/yt-dlp](https://github.com/Bricio/yt-dlp) - A youtube-dl fork with additional features and fixes
+- [vokimon/python-wavefile](https://github.com/vokimon/python-wavefile) - Pythonic access to audio files
+- [audeering/audiofile](https://github.com/audeering/audiofile) - Handling audio files in Python
+- [samadii/Transcript-Extractor-Bot](https://github.com/samadii/Transcript-Extractor-Bot) - Yet another Telegram Voice Recognition bot but using vosk and supports 20+ languages.
+- [bastibe/python-soundfile](https://github.com/bastibe/python-soundfile) - SoundFile is an audio library based on libsndfile, CFFI, and NumPy
+- [hyPnOtICDo0g/rss-chan](https://github.com/hyPnOtICDo0g/rss-chan) - A telegram RSS feed reader bot, written using python and feedparser.
+- [diwu1989/Fake-Headers](https://github.com/diwu1989/Fake-Headers) - Simple headers generator for requests lib
+- [superdima05/deezer-grabber](https://github.com/superdima05/deezer-grabber) - Download any track from deezer in CD quality
+- [devalv/repo-cloner](https://github.com/devalv/repo-cloner) - 
+- [Faouzizi/Insta_logo_finder](https://github.com/Faouzizi/Insta_logo_finder) - 
+- [solankiravi/Python](https://github.com/solankiravi/Python) - 
+- [rohwid/learn-database-python](https://github.com/rohwid/learn-database-python) - My personal notes when learn Databases
+- [r0han99/activity-logger-py](https://github.com/r0han99/activity-logger-py) - A basic Activity Logging Script to keep track of your learning.
+- [msalhab96/Listen-Attend-and-Spell](https://github.com/msalhab96/Listen-Attend-and-Spell) - PyTorch implementation of Listen, Attend and Spell (LAS) speech recognition paper
+- [Jerry288/NameAPI](https://github.com/Jerry288/NameAPI) - A API that can return random names, last names, and full names.
+- [netsuileo/youtube-music-migrator](https://github.com/netsuileo/youtube-music-migrator) - A set of tools to migrate from spotify to Youtube.Music
+- [Dineshkarthik/pinterest-telegram-bot](https://github.com/Dineshkarthik/pinterest-telegram-bot) - Downloads Pinterest image from the given Pinterest shared URL and sends it back in telegram
+- [Dineshkarthik/telegram_media_downloader](https://github.com/Dineshkarthik/telegram_media_downloader) - Download media files from a telegram conversation/chat/channel up to 2GiB per file
+- [haloboy777/wav-to-pcm](https://github.com/haloboy777/wav-to-pcm) - This contains python scripts for converting wav files to pcm data for further processing.
+- [andrew-ld/smart-tv-telegram](https://github.com/andrew-ld/smart-tv-telegram) - stream movies from telegram to smart tv over http using upnp and dlna (and chromecast)
+- [alfem/telegram-download-daemon](https://github.com/alfem/telegram-download-daemon) - A simple script to automate telegram download of big files
+- [noob-hackers/ipdrone](https://github.com/noob-hackers/ipdrone) - Track Location With Live Address And Accuracy In Termux
+- [Shashwat-Shukla/mdisk-ultra-bot](https://github.com/Shashwat-Shukla/mdisk-ultra-bot) - An Advanced Telegram Bot 🤗  written in Python to Auto Post and convert MDisk Links
+- [suhasa010/rewordlebot](https://github.com/suhasa010/rewordlebot) - 
+- [SpEcHiDe/MyTelegramOrgRoBot](https://github.com/SpEcHiDe/MyTelegramOrgRoBot) - 
+- [ZauteKm/URL-Uploader](https://github.com/ZauteKm/URL-Uploader) - 
+- [samadii/YT-Channel-DL](https://github.com/samadii/YT-Channel-DL) - A Telegram bot to download youtube channel contents and upload them to telegram. Heroku deployable
+- [jxmorris12/language_tool_python](https://github.com/jxmorris12/language_tool_python) - a free python grammar checker 📝✅
+- [GopalSaraf/TorrentLeechBot](https://github.com/GopalSaraf/TorrentLeechBot) - A powerful telegram mirror bot..
+- [xHossein/radiojavanapi](https://github.com/xHossein/radiojavanapi) - Fast and effective Radio Javan API wrapper
+- [xHossein/PyPasser](https://github.com/xHossein/PyPasser) - Bypassing reCaptcha V3 by sending HTTP requests & solving reCaptcha V2 using speech to text engine.
+- [viperadnan-git/emailer-py](https://github.com/viperadnan-git/emailer-py) - Emailer API built using FastAPI and smtplib
+- [vstavrinov/streamlink-service](https://github.com/vstavrinov/streamlink-service) - video streaming service based on streamlink  project (https://github.com/streamlink/streamlink)
+- [matbgn/auto-scan](https://github.com/matbgn/auto-scan) - Auto-scan is a tool to automatically scan documents from printer/scanner, OCR files, optimize and rotate it and finally send it by email as attachment.
+- [matbgn/transcript-extractor](https://github.com/matbgn/transcript-extractor) - Extract transcript from a video or audio file (offline)
+- [subhsamal/Python-Programming](https://github.com/subhsamal/Python-Programming) - This repo contains interesting python programs I have come across.
+- [bluec/telegram-word-bot](https://github.com/bluec/telegram-word-bot) - A simple Telegram bot that analyses a given word, built with python-telegram-bot
+- [DebXD/link-media-scraper-bot](https://github.com/DebXD/link-media-scraper-bot) - Scraper of  cyberdrop, bunkr, streamtape links, Supports Streamtape uploading, Made Using Pyrogram Framework
+- [XDBots/Word-Of-The-Day-TGBot](https://github.com/XDBots/Word-Of-The-Day-TGBot) - Warning : Not Maintained, A Telegram Bot To send Scheduled Message at every morning or any time with the word of the day with meanings and Pronounciation.
+- [ArnabXD/GmailBomber](https://github.com/ArnabXD/GmailBomber) - A Simple Tool To Bomb Emails using Your Gmail .
+- [MontyIOX/HowFarBot](https://github.com/MontyIOX/HowFarBot) - A telegram bot that determines the user's distance form a requested place utilizing the Nomatim geocoding API
+- [tgbot-collection/ytdlbot](https://github.com/tgbot-collection/ytdlbot) - Download videos from Youtube and other platforms through a Telegram Bot
+- [AulaMaroon/Proxy-Scrapper](https://github.com/AulaMaroon/Proxy-Scrapper) - 
+- [DaCapo7/PyPiano](https://github.com/DaCapo7/PyPiano) - Synthesia but open source, made in python and free
+- [Avnsx/fansly-downloader](https://github.com/Avnsx/fansly-downloader) - Executable Downloader App - a absolute must-have for Fansly enthusiasts. With this easy-to-use content downloading tool, you can download all your favorite content from fansly.com. No more manual down
+- [geekcomputers/Python](https://github.com/geekcomputers/Python) - My Python Examples
+- [KamiTopalyan/AutoClicker](https://github.com/KamiTopalyan/AutoClicker) - 
+- [isayakhov/duplicate-stickers-remover-bot](https://github.com/isayakhov/duplicate-stickers-remover-bot) - Bot can find and remove duplicates stickers from different sticker sets
+- [isayakhov/duty-schedule-bot](https://github.com/isayakhov/duty-schedule-bot) - Bot sends into your Telegram group who is on duty today, tomorrow and also sends schedule for the next week.
+- [tsepanx/state-bot](https://github.com/tsepanx/state-bot) - A telegram bot uses transitions python module
+- [sam5epi0l/BotTuber](https://github.com/sam5epi0l/BotTuber) - Fully Automated YouTube Channel ▶️with Added Extra Features (Automated Title, Description, Tags, Watermark and much more)
+- [nathan-149/automated_youtube_channel](https://github.com/nathan-149/automated_youtube_channel) - Automated youtube that can scrape content, edit a compilation, and upload to youtube daily.
+- [SafaSafari/proxydocker](https://github.com/SafaSafari/proxydocker) - 
+- [xcscxr/gplinks-bypass](https://github.com/xcscxr/gplinks-bypass) - gplinks Bypasser
+- [miloszowi/everyone-mention-telegram-bot](https://github.com/miloszowi/everyone-mention-telegram-bot) - Mention everyone user for telegram group!
+- [donno2048/zipbomb](https://github.com/donno2048/zipbomb) - Create zipbombs using python
+- [mackorone/spotify-playlist-archive](https://github.com/mackorone/spotify-playlist-archive) - Daily snapshots of public Spotify playlists
+- [valenbar/wordle-telegram-bot](https://github.com/valenbar/wordle-telegram-bot) - 
+- [ali-mmagneto/imdbbot](https://github.com/ali-mmagneto/imdbbot) - İmdb'den veri çekmeye yarayan Bot
+- [shabane/countdown-vi](https://github.com/shabane/countdown-vi) - telegram bot which programed to countdown.
+- [subinps/tglogging](https://github.com/subinps/tglogging) - A python package to send your app logs to a telegram chat in realtime.
+- [jakkemomo/twalker](https://github.com/jakkemomo/twalker) - 
+- [alcortazzo/tg-message-forwarder](https://github.com/alcortazzo/tg-message-forwarder) - Telegram bot for inline forwarding (specified user's) messages from one chat (or channel) to another.
+- [alcortazzo/vktgbot](https://github.com/alcortazzo/vktgbot) - Telegram Bot for reposting from VKontakte to Telegram channel
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
+- [suhasa010/securejoinbot](https://github.com/suhasa010/securejoinbot) - Secure Generation of Invite links for Private Telegram groups
+- [socialrupt/project1](https://github.com/socialrupt/project1) - Save to github
+- [Alan4747/instagram-auto-create-account](https://github.com/Alan4747/instagram-auto-create-account) - An automatic account creation bot script for Instagram.
+- [YazdanRa/django-itelegram](https://github.com/YazdanRa/django-itelegram) - It's a library for building Telegram bot on Django with extra built-in features
+- [alinri/telegram-contacts-to-vcf-converter](https://github.com/alinri/telegram-contacts-to-vcf-converter) - A useful script to convert telegram contacts to vcf for import to phone.
+- [jadijadi/digikala_history](https://github.com/jadijadi/digikala_history) - Extract and analyze the history of your purchases on Digikala
+- [pokurt/nekobinpy](https://github.com/pokurt/nekobinpy) - Asynchronous Nekobin API Wrapper for Python3
+- [tyalie/telegram-video-download-bot](https://github.com/tyalie/telegram-video-download-bot) - Youtube DLP based telegram bot to download videos from diverse sides
+- [Student2506/telegram_speech_bot](https://github.com/Student2506/telegram_speech_bot) - 
+- [venomsnake/Gdrive_Search_BoT](https://github.com/venomsnake/Gdrive_Search_BoT) - G-drive Search Bot that can be deployed on Github workflow.
+- [mohamedeid5/Algorithms](https://github.com/mohamedeid5/Algorithms) - 
+- [hhalaby/web-crawling-automation](https://github.com/hhalaby/web-crawling-automation) - Educational example codes for web crawling and web monitoring
+- [Lonami/autoit](https://github.com/Lonami/autoit) - Automate it with Python
+- [TechiError/TG-searcherBot](https://github.com/TechiError/TG-searcherBot) - Search any channel/chat from keyword.
+- [zavidnyi/telegram-scheduler-bot](https://github.com/zavidnyi/telegram-scheduler-bot) - Telegram Bot built with aiogram to schedule the events!
+- [notthebee/ytdl-explorer](https://github.com/notthebee/ytdl-explorer) - Download videos from YouTube/Twitch/Twitter right in the Windows Explorer, without installing any shady shareware apps
+- [SNFernandes24/AutomaticVideoUploader](https://github.com/SNFernandes24/AutomaticVideoUploader) - 
+- [un1cum/Beast_Bomber](https://github.com/un1cum/Beast_Bomber) - The best open source bomber / Лучший open source бомбер
+- [ibrdrahim/telegram-auto-reply](https://github.com/ibrdrahim/telegram-auto-reply) - Python script using telethon for auto replying telegram message
+- [conquistadorjd/python-01-utilities](https://github.com/conquistadorjd/python-01-utilities) - python-01-utilities
+- [YaleDHLab/intertext](https://github.com/YaleDHLab/intertext) - Detect and visualize text reuse
+- [buddhhu/YT-Channel-Downloader](https://github.com/buddhhu/YT-Channel-Downloader) - 
+- [Nukesor/archivebot](https://github.com/Nukesor/archivebot) - :floppy_disk: A telegram bot for backing up and collecting all kinds of media.
+- [vasusen-code/AutoApproveBot](https://github.com/vasusen-code/AutoApproveBot) - 
+- [sbraz/pymediainfo](https://github.com/sbraz/pymediainfo) - A Python wrapper around the MediaInfo library
+- [ramune0144/ocr_python](https://github.com/ramune0144/ocr_python) - 
+- [joelibaceta/video-to-ascii](https://github.com/joelibaceta/video-to-ascii) - It is a simple python package to play videos in the terminal using characters as pixels
+- [baardev/v3bot](https://github.com/baardev/v3bot) - 
+- [DogukanBas/wordle-bot](https://github.com/DogukanBas/wordle-bot) - A bot that plays wordle
+- [iamDyeus/KnickAI](https://github.com/iamDyeus/KnickAI) - Knick is an open-source Python AI assistant 🧠
+- [iamDyeus/python-screen-recorder](https://github.com/iamDyeus/python-screen-recorder) - a simple customizable screen recorder made in python 🐍
+- [Animenosekai/python-module-template](https://github.com/Animenosekai/python-module-template) - A template repository for Python modules
+- [Animenosekai/googlesearch](https://github.com/Animenosekai/googlesearch) - An unofficial Google Search Python API working by parsing the website
+- [Animenosekai/translate](https://github.com/Animenosekai/translate) - A module grouping multiple translation APIs
+- [althonos/ffpb](https://github.com/althonos/ffpb) - A progress bar for ffmpeg. Yay !
+- [xditya/captchaBot](https://github.com/xditya/captchaBot) - Telegram Captcha Bot
+- [olsihoxha/telegram-bot-serverless](https://github.com/olsihoxha/telegram-bot-serverless) - 
+- [TweetifyBot/Tweetify-Bot](https://github.com/TweetifyBot/Tweetify-Bot) - Telegram bot used to notify the the user whether a specified user in twitter tweets or replies to a tweet.
+- [Ah00ra/HoorChiBot](https://github.com/Ah00ra/HoorChiBot) - HoorChi bot can announce the latest currencies prices in Iran market. http://t.me/hoorchibot
+- [DarkoR12/python-telegram-bot-base](https://github.com/DarkoR12/python-telegram-bot-base) - 
+- [chriscpritchard/rgdl](https://github.com/chriscpritchard/rgdl) - A tool to download files using the rapidgator (premium) API
+- [mishakorzik/Free-Proxy](https://github.com/mishakorzik/Free-Proxy) - Hi there will be a lot of proxies here.
+- [vasusen-code/SaveRestrictedContentBot](https://github.com/vasusen-code/SaveRestrictedContentBot) - Stable telegram bot to save Restricted content with custom thumbnail support.
+- [moses-palmer/pynput](https://github.com/moses-palmer/pynput) - Sends virtual input commands
+- [tristanhdez/QR-Generator](https://github.com/tristanhdez/QR-Generator) - 
+- [AmirWolberg/Calculator](https://github.com/AmirWolberg/Calculator) - written in python 3.6
+- [GuilhermeSantosCoelho/insta_comment](https://github.com/GuilhermeSantosCoelho/insta_comment) - 
+- [ShihabYasin/ImportantCodes](https://github.com/ShihabYasin/ImportantCodes) - Some Repetative Important Code.
+- [jcconnol/home-server-bot](https://github.com/jcconnol/home-server-bot) - Personal home server bot for face recognition, speech commands and home automation
+- [NaskIII/Py-WhatsApp-Bot](https://github.com/NaskIII/Py-WhatsApp-Bot) - Py-WhatsApp-Bot is a library that allows you to automatically control various WhatsApp Web functions. In addition, the library allows you to receive messages and even images, without any manual intera
+- [JMANN240/screenex](https://github.com/JMANN240/screenex) - 
+- [webdeveloperkanai/python-assistant](https://github.com/webdeveloperkanai/python-assistant) - 
+- [skd1993/instagram-saved-scraper](https://github.com/skd1993/instagram-saved-scraper) - 
+- [Amh-42/Telegram-Outline-Bot](https://github.com/Amh-42/Telegram-Outline-Bot) - 
+- [tristanhdez/Python-Projects](https://github.com/tristanhdez/Python-Projects) - Python Projects is an Open Source to enhance your python skills!
+- [BerkOztaskin/InstagramPostScheduleBot](https://github.com/BerkOztaskin/InstagramPostScheduleBot) - 
+- [asweigart/PyGetWindow](https://github.com/asweigart/PyGetWindow) - A simple, cross-platform module for obtaining GUI information on applications' windows.
+- [SavinaRoja/PyUserInput](https://github.com/SavinaRoja/PyUserInput) - A module for cross-platform control of the mouse and keyboard in python that is simple to install and use.
+- [mo1ein/RenameIt](https://github.com/mo1ein/RenameIt) - Simple Python script to know when you took photos !!
+- [savoirfairelinux/num2words](https://github.com/savoirfairelinux/num2words) - Modules to convert numbers to words. 42 --&gt; forty-two
+- [0xdolan/kurdish](https://github.com/0xdolan/kurdish) - Kurdish Language Library for converting characters and digits in Persian, English and Arabic to Kurdish and vice versa.
+- [irexlist/telegram-bot](https://github.com/irexlist/telegram-bot) - 
+- [mhezarei/ai-bot](https://github.com/mhezarei/ai-bot) - 2020 AI bot challenge (ai-bot.ir) repository. This program answers a given question with a specific format and subject.
+- [Hesbadami/Footballemrooz](https://github.com/Hesbadami/Footballemrooz) - Scrape data on all soccer matches daily, and create a stylized image containing info on today's matches (e.g. kick-off time and broadcasters).
+- [boppreh/keyboard](https://github.com/boppreh/keyboard) - Hook and simulate global keyboard events on Windows and Linux.
+- [majiidd/persiantools](https://github.com/majiidd/persiantools) - Jalali date and datetime with other tools
+- [om1ji/autouploadbot](https://github.com/om1ji/autouploadbot) - Automatic YouTube media uploader. Sends audio files to user-defined Telegram channels
+- [Clinton-Abraham/pyrogram](https://github.com/Clinton-Abraham/pyrogram) - 
+- [kylepw/cropper](https://github.com/kylepw/cropper) - URL shortener API example in Django REST framework.
+- [flashdagger/ytdlp-plugins](https://github.com/flashdagger/ytdlp-plugins) - plugin manager for yt-dlp which enables releases of extractors as separate python package
+- [IsekaiBot/IsekaiMusicBot](https://github.com/IsekaiBot/IsekaiMusicBot) - Music Bot For Telegram, Deploy With Heroku
+- [Rahmanism/fetch_tweets](https://github.com/Rahmanism/fetch_tweets) - A simple python code for fetching tweets from twitter.com
+- [AnimeKaizoku/TelegramDB](https://github.com/AnimeKaizoku/TelegramDB) - A library that uses your telegram account as a database.
+- [SpEcHiDe/DeleteMessagesRoBot](https://github.com/SpEcHiDe/DeleteMessagesRoBot) - Watch https://youtu.be/RHQ-RP4_pKY, or Read the Code to know how to use this Telegram Bot.
+- [Deshdeepak1/TeleSendFolder](https://github.com/Deshdeepak1/TeleSendFolder) - Teleprojs
+- [cdown/srt](https://github.com/cdown/srt) - A simple library and set of tools for parsing, modifying, and composing SRT files.
+- [gsoosk/TelegramSpotifyDownloader](https://github.com/gsoosk/TelegramSpotifyDownloader) - This is a simple bot to download Spotify songs via url from youtube musics.
+- [khorammfar/Forward-to-channel](https://github.com/khorammfar/Forward-to-channel) - 
+- [Sallat-M/FileToLink](https://github.com/Sallat-M/FileToLink) - A Telegram Bot to generate permanent Stream and Download links for any Telegram file
+- [xditya/ViewCountBot](https://github.com/xditya/ViewCountBot) - 
+- [sohag02/Pornhub-Bot](https://github.com/sohag02/Pornhub-Bot) - 
+- [rubenandre/youtube-dl](https://github.com/rubenandre/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
+- [riz4d/TempMail-Bot](https://github.com/riz4d/TempMail-Bot) - A python oriented telegram bot for generating temporary Emails
+- [samadii/web2pdf-bot](https://github.com/samadii/web2pdf-bot) - A simple Telegram bot to download webpages as PDF
+- [sabamontazeri/selenium](https://github.com/sabamontazeri/selenium) - 
+- [diogenesc/shortcut-changelog-generator](https://github.com/diogenesc/shortcut-changelog-generator) - 
+- [GBakaev/twitter-telegram-forward](https://github.com/GBakaev/twitter-telegram-forward) - A Bot that Forwards Tweets to Telegram using Airtable as a database.
+- [FichteFoll/resumeback](https://github.com/FichteFoll/resumeback) - Python module for using callbacks to resume your code
+- [Sangwan5688/Telegram-request-bot](https://github.com/Sangwan5688/Telegram-request-bot) - 
+- [Poolitzer/spotify_telegram_bio_updater](https://github.com/Poolitzer/spotify_telegram_bio_updater) - This userbot updates the biography of a telegram user according to their current spotify playback.
+- [solution-pool/Download-page-as-pdf](https://github.com/solution-pool/Download-page-as-pdf) - 
+- [kiwi0fruit/pyppdf](https://github.com/kiwi0fruit/pyppdf) - Pyppeteer PDF. Print html sites and files to pdf via pyppeteer (uses patched pyppeteer that by default downloads updated Chromium revision via https with certifi).
+- [aish2002/Movie-Info-Telegram-Bot](https://github.com/aish2002/Movie-Info-Telegram-Bot) - A telegram bot which scrapes IMDb website to get details on movies and TV shows
+- [anasty17/mirror-leech-telegram-bot](https://github.com/anasty17/mirror-leech-telegram-bot) - Official Repository: Telegram bot which can download torrents, mega, google drive, telegram document, any file/folder from rclone supported clouds and direct links + all yt-dlp supported sites, then u
+- [mohammad3020/django-zibal](https://github.com/mohammad3020/django-zibal) - A Django app for bank payments by Zibal (https://zibal.ir/)
+- [Helias/EPUB-to-PDF](https://github.com/Helias/EPUB-to-PDF) - Telegram bot EPUB to PDF converter
+- [Saravana0910/instadpinfobot](https://github.com/Saravana0910/instadpinfobot) - to grap anyone's insta dp info
+- [buddhhu/Redis-Database-Manager](https://github.com/buddhhu/Redis-Database-Manager) - A Telegram Bot to manage Redis Database.
+- [albert-tomanek/bot-amr-downloader](https://github.com/albert-tomanek/bot-amr-downloader) - Telegram bot to download YouTube videos as highly compressed AMR audio files.
+- [Ismaeelhub/valyriadownloader_BOT](https://github.com/Ismaeelhub/valyriadownloader_BOT) - 
+- [elilcatness/google-index](https://github.com/elilcatness/google-index) - 
+- [Grim-es/telegram-likes-and-reviews-bot](https://github.com/Grim-es/telegram-likes-and-reviews-bot) - A simple Telegram bot to leave reviews about users and rate them
+- [rafaelximenez/bot-instagram](https://github.com/rafaelximenez/bot-instagram) - Script to follow and enjoy users' photos using hashtags
+- [avaakash/Tweet-From-Message](https://github.com/avaakash/Tweet-From-Message) - This application will tweet anything to forward to your Telegram bot
+- [hehpollon/Instagram-Crawler](https://github.com/hehpollon/Instagram-Crawler) - Non API. Crawling post (photo, likes, comments, date ...) by username, hashtags
+- [tuhinpal/audio-metatag-writer](https://github.com/tuhinpal/audio-metatag-writer) - Metatag writer with Mutagen
+- [sys113/negar](https://github.com/sys113/negar) - call negar in your python source code and write error log & text log to a file ...
+- [shahinism/python-negar](https://github.com/shahinism/python-negar) - Negar trying to be a spell corrector for persian language.
+- [yididiyan/amharic_spell_corrector](https://github.com/yididiyan/amharic_spell_corrector) - Amharic Spelling Corrector based on SymSpell - Spelling corrector which is  1 million times faster through Symmetric Delete spelling correction algorithm
+- [bhattbhavesh91/spell-correction-gingerit-demo](https://github.com/bhattbhavesh91/spell-correction-gingerit-demo) - Tutorial on creating a spelling correction Python application using Gingerit and Streamlit
+- [Vengixlabs/spellingcorrector](https://github.com/Vengixlabs/spellingcorrector) - This is an algorithm inspired from norvig.com , we loved this and taking it  to next level.
+- [aghriss/SymSpell](https://github.com/aghriss/SymSpell) - Python3 implementation of SymSpell
+- [pirate/spellchecker](https://github.com/pirate/spellchecker) - :book: A spell-checker extending Peter Norvig's with multi-typo correction, hamming distance weighting, and more.
+- [reza1615/Persian-Spell-checker](https://github.com/reza1615/Persian-Spell-checker) - 
+- [CyanBook/spotipy2](https://github.com/CyanBook/spotipy2) - The next generation Spotify Web API wrapper for Python 3.7+
+- [kalanakt/All-Url-Uploader](https://github.com/kalanakt/All-Url-Uploader) - A simple telegram Bot, Upload Media File| video To telegram using the direct download link. (youtube, Mediafire, google drive, mega drive, etc)
+- [subinps/pyrogram](https://github.com/subinps/pyrogram) - Telegram MTProto API Client Library and Framework in Pure Python for Users and Bots
+- [SamEdwardes/prettynum](https://github.com/SamEdwardes/prettynum) - Simple number formatting for python.
+- [SamEdwardes/pydatafaker](https://github.com/SamEdwardes/pydatafaker) - A python package to create fake data with relationships between tables.
+- [SamEdwardes/spacytextblob](https://github.com/SamEdwardes/spacytextblob) - A TextBlob sentiment analysis pipeline component for spaCy.
+- [sloria/TextBlob](https://github.com/sloria/TextBlob) - Simple, Pythonic, text processing--Sentiment analysis, part-of-speech tagging, noun phrase extraction, translation, and more.
+- [AmihayHassan/PTB_exchange_telegram_bot](https://github.com/AmihayHassan/PTB_exchange_telegram_bot) - 
+- [Nachtalb/DanbooruChannelBot](https://github.com/Nachtalb/DanbooruChannelBot) - Mirror Danbooru posts filtered or unflitered to any channel, group or private chat on Telegram. It is used to run @danbooru_dump which mirrors the complete Danbooru live.
+- [ctcq/newsbot](https://github.com/ctcq/newsbot) - 
+- [ArdeshirV/NumericFileSort](https://github.com/ArdeshirV/NumericFileSort) - Python script that sorts text file lines by floating point number at the start of each line of file. You can use it with a file as argument or with stdin with regular commands output.
+- [ArdeshirV/MyBinance](https://github.com/ArdeshirV/MyBinance) - Demonstrates specified cryptocurrency values by binance.com API
+- [ArdeshirV/Encrypt-String](https://github.com/ArdeshirV/Encrypt-String) - Encode string by XOR
+- [PhysicHybridTG/Telegram-bot-examples](https://github.com/PhysicHybridTG/Telegram-bot-examples) - 
+- [henriqueclaranhan/telegram-music-downloader-bot](https://github.com/henriqueclaranhan/telegram-music-downloader-bot) - YouTube Music Downloader Bot for Telegram
+- [nltk/nltk](https://github.com/nltk/nltk) - NLTK Source
+- [louiskwt/py_pdf_tools](https://github.com/louiskwt/py_pdf_tools) - 
+- [rpolana/pdf_to_searchable_pdf](https://github.com/rpolana/pdf_to_searchable_pdf) - Python command-line utility to convert any pdf having images or unsearchable text to a searchable pdf
+- [SnowDango/GithubReadmeTexView](https://github.com/SnowDango/GithubReadmeTexView) - 
+- [shade-tree-software/email_image_extractor](https://github.com/shade-tree-software/email_image_extractor) - 
+- [Belval/pdf2image](https://github.com/Belval/pdf2image) - A python module that wraps the pdftoppm utility to convert PDF to PIL Image object
+- [acgonzales/pydeezer](https://github.com/acgonzales/pydeezer) - A package to search and download musics on Deezer.
+- [AbirHasan2005/py-googletrans](https://github.com/AbirHasan2005/py-googletrans) - (unofficial) Googletrans: Free and Unlimited Google translate API for Python. Translates totally free of charge.
+- [witer33/Twithon](https://github.com/witer33/Twithon) - A python wrapper over Twitch API to build bots and applications.
+- [X-Gorn/X-URL-Uploader](https://github.com/X-Gorn/X-URL-Uploader) - Telegram bot to upload HTTP/HTTPS direct link & youtube-dl, clone of TG-URL-Uploader
+- [themixray/local-to-public-ip](https://github.com/themixray/local-to-public-ip) - This program will turn your local ip into a public one!
+- [donno2048/restricted-functions](https://github.com/donno2048/restricted-functions) - Restricted-functions is a package for Python that allows you to deny dangerous functions.
+- [donno2048/gitback](https://github.com/donno2048/gitback) - The easiest way to makes a backup of all your repositories and gists from GitHub using Python
+- [witer33/justmagic](https://github.com/witer33/justmagic) - 
+- [Vanessawhj/social-med-scraper](https://github.com/Vanessawhj/social-med-scraper) - 
+- [glebzhidkov/pygdrive](https://github.com/glebzhidkov/pygdrive) - Google Drive Python API v3
+- [fluks/youtube-dislikes-adder](https://github.com/fluks/youtube-dislikes-adder) - Add dislikes to the description of your YouTube videos.
+- [yalda-amirsoleymani/youtube-downloader-telegram-bot](https://github.com/yalda-amirsoleymani/youtube-downloader-telegram-bot) - A Telegram bot to download from YouTube and Instagram
+- [thelaycon/instagram-bot](https://github.com/thelaycon/instagram-bot) - An automated Instagram posting bot with Selenium.
+- [vscaleconsulting/Telegram-Bot](https://github.com/vscaleconsulting/Telegram-Bot) - 
+- [cchhaarroonn/Owersite](https://github.com/cchhaarroonn/Owersite) - 
+- [infinitecoder1729/screen-recorder-python](https://github.com/infinitecoder1729/screen-recorder-python) - A Screen Recorder built in Python
+- [python-geeks/Automation-scripts](https://github.com/python-geeks/Automation-scripts) - Repo for creating awesome automation scripts to make my panda lazier
+- [asweigart/pyautogui](https://github.com/asweigart/pyautogui) - A cross-platform GUI automation Python module for human beings. Used to programmatically control the mouse & keyboard.
+- [s18k/web_scraping_forall_info](https://github.com/s18k/web_scraping_forall_info) - A python program to scrap a webpage to gain meta information and all information about images,links,and text and export it to a csv file
+- [KiLJ4EdeN/Persian_Speech_To_Text](https://github.com/KiLJ4EdeN/Persian_Speech_To_Text) - Simple Speech to text prototype using google api
+- [nmaiss/bitcoin-wallet-bot](https://github.com/nmaiss/bitcoin-wallet-bot) - A telegram bot to create and manage a bitcoin wallet. Fast, open-source and commission-free !
+- [imba-tjd/pip-autoremove](https://github.com/imba-tjd/pip-autoremove) - Remove a package and its unused dependencies.
+- [enjoysoftware/pip3-autoremove](https://github.com/enjoysoftware/pip3-autoremove) - Remove a package and its unused dependencies(Supports Python3)
+- [invl/pip-autoremove](https://github.com/invl/pip-autoremove) - Remove a package and its unused dependencies.
+- [seatgeek/thefuzz](https://github.com/seatgeek/thefuzz) - Fuzzy String Matching in Python
+- [quarriedstone/VK-downloader-telegram-bot](https://github.com/quarriedstone/VK-downloader-telegram-bot) - Telegram bot for downloading small videos from VK. Can download public videos.
+- [alicenine/Anti-Channel-Bot](https://github.com/alicenine/Anti-Channel-Bot) - 
+- [nuhmanpk/autoban-Unban](https://github.com/nuhmanpk/autoban-Unban) - Code Incubation
+- [ShivangKakkar/DeleteAllBot](https://github.com/ShivangKakkar/DeleteAllBot) - 
+- [Syzygianinfern0/Delta-Bot](https://github.com/Syzygianinfern0/Delta-Bot) - 🤖 Telegram Bot deployable on Heroku for Scraping Magnets
+- [omidmt/scraper](https://github.com/omidmt/scraper) - Scrape retail sites for configured products and notify availability or price threshold
+- [ANGkeith/scraper](https://github.com/ANGkeith/scraper) - 
+- [clarcked/scraper](https://github.com/clarcked/scraper) - Python scraping bot...
+- [warneat/website-change](https://github.com/warneat/website-change) - get notified when website changes
+- [JoshKing56/web_monitor](https://github.com/JoshKing56/web_monitor) - Simple script for website monitoring
+- [rahiel/telegram-send](https://github.com/rahiel/telegram-send) - Send messages and files over Telegram from the command-line.
+- [yehuda100/anti-spam](https://github.com/yehuda100/anti-spam) - anti-spam telegram bot
+- [91DarioDev/forwardscoverbot](https://github.com/91DarioDev/forwardscoverbot) - telegram bot that echoes any message you send it or modify to anonymize messages
+- [alistvt/watermarker-bot](https://github.com/alistvt/watermarker-bot) - A bot to watermark photos, videos and GIFs by your logo.
+- [dbrennand/Feederbot](https://github.com/dbrennand/Feederbot) - An Atom, RSS, and JSON feed reading Telegram bot 🤖
+- [alexander-akhmetov/python-telegram](https://github.com/alexander-akhmetov/python-telegram) - Python client for the Telegram's tdlib
+- [VideoMasters/WebVideoPlayer](https://github.com/VideoMasters/WebVideoPlayer) - 
+- [cuamckuu/tg-inviter](https://github.com/cuamckuu/tg-inviter) - Generate personal invite links for Telegram channels
+- [freecontent/Mega.nz-Bot](https://github.com/freecontent/Mega.nz-Bot) - Simple Telegram Bot to Download Files From Mega.nz
+- [ShivangKakkar/pystark](https://github.com/ShivangKakkar/pystark) - Docs - https://pystark.codes
+- [baradhiren/libgen_telegram_bot](https://github.com/baradhiren/libgen_telegram_bot) - Create your own telegram bot to download books from libgen
+- [harrypython/fb-regex-scraper](https://github.com/harrypython/fb-regex-scraper) - Scrape Facebook Public Group Posts without using Facebook API using Selenium.
+- [jmcarp/robobrowser](https://github.com/jmcarp/robobrowser) - 
+- [lorien/grab](https://github.com/lorien/grab) - Web Scraping Framework
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
+- [slashmili/django-jalali](https://github.com/slashmili/django-jalali) - Jalali DateField support for Django model
+- [slashmili/python-jalali](https://github.com/slashmili/python-jalali) - Jalali calendar binding for Python based on Python's datetime module
+- [expectocode/telegram-export](https://github.com/expectocode/telegram-export) - Export Telegram chat data and history
+- [Anorov/cloudflare-scrape](https://github.com/Anorov/cloudflare-scrape) - A Python module to bypass Cloudflare's anti-bot page.
+- [vasusen-code/VIDEOconvertor](https://github.com/vasusen-code/VIDEOconvertor) - A stable and Fast telegram video convertor bot which can encode into different libs and resolution, compress videos, convert video into audio and other video formats, rename with thumbnail support, ge
+- [rahulps1000/ForwardBot](https://github.com/rahulps1000/ForwardBot) - 
+- [samadii/Telegraph-Bot](https://github.com/samadii/Telegraph-Bot) - An advanced telegram bot to upload media to telegraph, And also export webpages to telegraph archive.
+- [TeamZenX/TheVision](https://github.com/TeamZenX/TheVision) - Another secured and Yet Fastest telegram userbot, join @vision_support for help
+- [Phaust94/insta_to_tg](https://github.com/Phaust94/insta_to_tg) - Sending instagram stories to telegram
+- [dadolens/Website-Updater-Bot](https://github.com/dadolens/Website-Updater-Bot) - Telegram Bot that notify when a web page (or a piece of it) changes
+- [ohaval/auto-doh](https://github.com/ohaval/auto-doh) - A Python package which serves as an API client, with a scheduled task (cronjob) and a Telegram bot to automate the daily process of doh.
+- [Zycho-Dev-66/GiveawayZ](https://github.com/Zycho-Dev-66/GiveawayZ) - A Powerful telegram giveawayz bot based on the python-telegram-bot API. Powered by Team Zyntax and Team DFX
+- [contyadvait/AdvancedGoogleSearchDev](https://github.com/contyadvait/AdvancedGoogleSearchDev) - 
+- [kmille/deezer-downloader](https://github.com/kmille/deezer-downloader) - Download music from Deezer with a nice front end
+- [pythonecuador/pythonecuador.github.io](https://github.com/pythonecuador/pythonecuador.github.io) - Sitio web de la comunidad de Python del Ecuador
+- [cozy/cozy.github.io](https://github.com/cozy/cozy.github.io) - Official documentation for Cozy.
+- [zevtyardt/lk21](https://github.com/zevtyardt/lk21) - Cari anime dan film subtitle indonesia
+- [xditya/TelethonBot](https://github.com/xditya/TelethonBot) - Simple base for a telethon bot!
+- [tulir/Telethon](https://github.com/tulir/Telethon) - Pure Python 3 MTProto API Telegram client library, for bots too!
+- [charindithjaindu/InviteLinkGen](https://github.com/charindithjaindu/InviteLinkGen) - Invites link generator for telegram(made for channel referral links)
+- [nuuuwan/web_screen_scraper](https://github.com/nuuuwan/web_screen_scraper) - 
+- [H1M4N5HU0P/MAFIA-USERBOT](https://github.com/H1M4N5HU0P/MAFIA-USERBOT) - 
+- [Ximaz/megaloader](https://github.com/Ximaz/megaloader) - Megaloader is a project will make you smile. It allows you to use some download plugins for many websites such as Cyberdrop, Fanbox, GoFile, Pixiv, Rule34, Thotslife, and so on...
+- [k0rnh0li0/onlyfans-dl](https://github.com/k0rnh0li0/onlyfans-dl) - OnlyFans content downloader
+- [kantek/KanTeX](https://github.com/kantek/KanTeX) - 
+- [jayantkageri/tgEasy](https://github.com/jayantkageri/tgEasy) - tgEasy | Easy for a Brighter Shine | Monkey Patcher Addon for Pyrogram
+- [payamrastogi/imdb-telegram-bot](https://github.com/payamrastogi/imdb-telegram-bot) - 
+- [louisyoungx/dypend](https://github.com/louisyoungx/dypend) - Load dependent libraries dynamically.
+- [Jizzberry/Scrapers](https://github.com/Jizzberry/Scrapers) - 
+- [gil9red/SimplePyScripts](https://github.com/gil9red/SimplePyScripts) - Collection of various python script's.
+- [gil9red/telegram_notifications_bot](https://github.com/gil9red/telegram_notifications_bot) - Проект для уведомлений через бота телеграм
+- [RepoLink/superfclone-public](https://github.com/RepoLink/superfclone-public) - @superfclone-public
+- [JinnSulthan/Forward-Mess-Remover](https://github.com/JinnSulthan/Forward-Mess-Remover) - A Bot To remove forwarded messages.
+- [AsmSafone/MusicPlayer](https://github.com/AsmSafone/MusicPlayer) - A Telegram Music Bot written in Python using Pyrogram and Py-Tgcalls. This is Also The Source Code of The UserBot Which is Playing Music in @S1-BOTS Support Group ❤️
+- [Glyphack/spotify_telegram_bot](https://github.com/Glyphack/spotify_telegram_bot) - Telegram bot helps you to listen to songs from spotify
+- [pyppeteer/pyppeteer](https://github.com/pyppeteer/pyppeteer) - Headless chrome/chromium automation library (unofficial port of puppeteer)
+- [choldgraf/download](https://github.com/choldgraf/download) - A quick helper module to download files online.
+- [PredatorHackerzZ/DoodStreamVideoBot](https://github.com/PredatorHackerzZ/DoodStreamVideoBot) - Bot is Based on @PdiskVideoBot Repo
+- [GauthamramRavichandran/clearurls](https://github.com/GauthamramRavichandran/clearurls) - A telegram bot based on ClearURLs extension.
+- [HBNetwork/python-decouple](https://github.com/HBNetwork/python-decouple) - Strict separation of config from code.
+- [xditya/TelegraphUploader](https://github.com/xditya/TelegraphUploader) - 
+- [NullPointerMaker/webpage2telegraph.adapter](https://github.com/NullPointerMaker/webpage2telegraph.adapter) - Library Adapter: Transfer webpage to Telegraph archive.
+- [ShivangKakkar/TelegraphBot](https://github.com/ShivangKakkar/TelegraphBot) - https://t.me/StarkBots
+- [abhint/GroupChannelHandler](https://github.com/abhint/GroupChannelHandler) - This is a telegram bot. It does not allow channels to send messages to the telegram supergroup.
+- [gmrv/latbot](https://github.com/gmrv/latbot) - Telegram bot for managing a linux server
+- [lphey/twitterverse](https://github.com/lphey/twitterverse) - 
+- [Poolitzer/usernameToChatAPI](https://github.com/Poolitzer/usernameToChatAPI) - 
+- [tiararosebiezetta/HerokuDynoSwitcher](https://github.com/tiararosebiezetta/HerokuDynoSwitcher) - A little script and trick to make your heroku app run forever without being concerned about dyno hours.
+- [ImJanindu/ImageUploadBot](https://github.com/ImJanindu/ImageUploadBot) - 
+- [FayasNoushad/ISRO](https://github.com/FayasNoushad/ISRO) - Indian Space Research Organisation API
+- [AJBotVerse/ReactionButtonBot](https://github.com/AJBotVerse/ReactionButtonBot) - Adding automatically like & dislike buttons to documents.
+- [dakshy/droplink-bot](https://github.com/dakshy/droplink-bot) - Droplink URL Shortener Bot, deployable to Heroku and Railway.
+- [ijustbsd/instagram-saver-bot](https://github.com/ijustbsd/instagram-saver-bot) - This telegram bot can save photos, videos and post descriptions from Instagram.
+- [DIGITALCRIMINALS/UltimaScraper](https://github.com/DIGITALCRIMINALS/UltimaScraper) - Scrape content from OnlyFans and Fansly
+- [DIGITALCRIMINAL/OnlyFans](https://github.com/DIGITALCRIMINAL/OnlyFans) - Scrape all the media from an OnlyFans account - Updated regularly
+- [ImJanindu/47MusicPlayerBot](https://github.com/ImJanindu/47MusicPlayerBot) - A Telegram Music Bot written in Python with Pyrogram and Py-Tgcalls.
+- [m4mallu/tube](https://github.com/m4mallu/tube) - https://github.com/m4mallu/inline-tube-mate
+- [MlsterMass/telegram_autoreger](https://github.com/MlsterMass/telegram_autoreger) - Automation registration for Telegram
+- [PR0FESS0R-99/DonLee-Robot-V2](https://github.com/PR0FESS0R-99/DonLee-Robot-V2) - 
+- [abhint/Utube-dlAPI](https://github.com/abhint/Utube-dlAPI) - This is a youtube-dl link extractor API.
+- [TroJanzHEX/Auto-Filter-Bot-V2](https://github.com/TroJanzHEX/Auto-Filter-Bot-V2) - 
+- [viperadnan-git/force-subscribe-telegram-bot](https://github.com/viperadnan-git/force-subscribe-telegram-bot) - A Telegram bot to force members to join a specific channel before sending messages in a group.
+- [Kocarus/Manga-Translator-TesseractOCR](https://github.com/Kocarus/Manga-Translator-TesseractOCR) - Automatically translates manga pages with Tesseract-OCR and Google Translate API for Python
+- [MrMissx/UserButt](https://github.com/MrMissx/UserButt) - This project has been archived. Use the new developed userbot on the link bellow.
+- [userbotindo/caligo](https://github.com/userbotindo/caligo) - SelfBot for Telegram
+- [userbotindo/Anjani](https://github.com/userbotindo/Anjani) - 🤖 Telegram group management bot *with spam detection
+- [adekmaulana/aioaria2-mirror-bot](https://github.com/adekmaulana/aioaria2-mirror-bot) - This repo currently on working rebase version.
+- [instaloader/instaloader](https://github.com/instaloader/instaloader) - Download pictures (or videos) along with their captions and other metadata from Instagram.
+- [sajjadhossanshimanto/multitube](https://github.com/sajjadhossanshimanto/multitube) - 
+- [tokland/youtube-upload](https://github.com/tokland/youtube-upload) - Upload videos to Youtube from the command line
+- [jiaaro/pydub](https://github.com/jiaaro/pydub) - Manipulate audio with a simple and easy high level interface
+- [mmakarov/replicator](https://github.com/mmakarov/replicator) - Python script to merge a few video files, transparent overlay, text areas with mp3 audio track
+- [ahmedhagag900/MergeVideoandAudio-](https://github.com/ahmedhagag900/MergeVideoandAudio-) - This Repository contains script that's convert and merge the audio and video into mp4 video
+- [wahyubiman/Telebot-Tweet](https://github.com/wahyubiman/Telebot-Tweet) - 
+- [wahyubiman/DoodStream](https://github.com/wahyubiman/DoodStream) - Unofficial python api wrapper from doodstream api. DoodStream is a video hosting service were you can upload videos, share & make money.
+- [ShivangKakkar/InstagramBot](https://github.com/ShivangKakkar/InstagramBot) - Telegram Bot to download content from Instagram
+- [RobotTrick/WhatsApp-API-Bot](https://github.com/RobotTrick/WhatsApp-API-Bot) - This Telegram bot allows you to create direct links with pre-filled text to WhatsApp Chats
+- [ali-zahedi/az-iranian-bank-gateways](https://github.com/ali-zahedi/az-iranian-bank-gateways) - درگاه اتصال به بانک های ایرانی ( درگاه پرداخت بانک ملی ایران،بانک سامان، بانک ملت، درگاه پرداخت زرین پال و ... ) با استفاده از پایتون
+- [shimafallah/idPay-python](https://github.com/shimafallah/idPay-python) - idPay with python
+- [RobertoBochet/scraper-bot](https://github.com/RobertoBochet/scraper-bot) - A customizable web scraper which interfaces with telegram
+- [dtdoom2245/GD-to-Telegram](https://github.com/dtdoom2245/GD-to-Telegram) - 
+- [bytesuji/telegram-wget-bot](https://github.com/bytesuji/telegram-wget-bot) - Download resources from the Internet through Telegram
+- [hlabsdev/discuss-to-pdf](https://github.com/hlabsdev/discuss-to-pdf) - A Telegram bot for exporting your discussions into PDF
+- [hakizimana-fred/onlyfans-telegram-bot](https://github.com/hakizimana-fred/onlyfans-telegram-bot) - Telegram bot that scrapes onlyfans content
+- [JRomainG/PankoTelegramBot](https://github.com/JRomainG/PankoTelegramBot) - A Telegram bot to automatically notify when specific users upload new posts to Imgur
+- [Staninna/SpotiAFK](https://github.com/Staninna/SpotiAFK) - A simple AFK program that plays Spotify when you are not.
+- [SergSm/ptb-menu-pagination](https://github.com/SergSm/ptb-menu-pagination) - 🤖🧭Creates google-like navigation menu using python-telegram-bot wrapper
+- [wannabenormal/space-photos-tg-uploader](https://github.com/wannabenormal/space-photos-tg-uploader) - 
+- [Ashit-10/channel_chat_blocker_bot](https://github.com/Ashit-10/channel_chat_blocker_bot) - 
+- [Alexaalex93/web_scrapper_public](https://github.com/Alexaalex93/web_scrapper_public) - 
+- [python-telegram-bot/python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) - We have made you a wrapper you can't refuse
+- [gorbatovea/forwardgram](https://github.com/gorbatovea/forwardgram) - This script forwards messages through TG chats and channels. Backed by Telethon.
+- [hemantapkh/TorrentHunt](https://github.com/hemantapkh/TorrentHunt) - 🏴‍☠️ The ultimate torrent bot on telegram
+- [adarsh-goel/FileStreamBot-pro](https://github.com/adarsh-goel/FileStreamBot-pro) - A very fast file streaming bot  used for streaming and downloading movies. To get readymade bot click the link below
+- [ZauteKm/MusicPlayer](https://github.com/ZauteKm/MusicPlayer) - Telegram Bot to play music in VoiceChat with Channel Support and autostarts Radio.
+- [UsergeTeam/Userge](https://github.com/UsergeTeam/Userge) - Userge, Durable as a Serge
+- [TerminalWarlord/TikTok-Downloader-Bot](https://github.com/TerminalWarlord/TikTok-Downloader-Bot) - A Telegram bot to download TikTok videos without any watermark.
+- [byjokese/Generate-Index-Files](https://github.com/byjokese/Generate-Index-Files) - Auto generates recursively an index.html file indexing folder's content.
+- [BetaBotZ/auto-forward](https://github.com/BetaBotZ/auto-forward) - 
+- [FayasNoushad/Image-Search-Bot](https://github.com/FayasNoushad/Image-Search-Bot) - An image inline search telegram bot.
+- [FayasNoushad/YouTube-Search-Bot](https://github.com/FayasNoushad/YouTube-Search-Bot) - A youtube search telegram bot.
+- [AlbertEinsteinTG/Adv-Auto-Filter-Bot-V2](https://github.com/AlbertEinsteinTG/Adv-Auto-Filter-Bot-V2) - 
+- [Itz-fork/Yui](https://github.com/Itz-fork/Yui) - Simple Telegram AI Chat bot made using OpenAI and Luna API
+- [watson-developer-cloud/python-sdk](https://github.com/watson-developer-cloud/python-sdk) - :snake: Client library to use the IBM Watson services in Python and available in pip as watson-developer-cloud
+- [reza-tanha/Duplicate-Finder](https://github.com/reza-tanha/Duplicate-Finder) - With this tool you can find duplicate words in lines of a text file and display the number of duplicates. And cleans them if needed.
+- [Zylern/TGVid-Comp](https://github.com/Zylern/TGVid-Comp) - Video Encoder Telegram Bot Based On FFMPEG Can Generate Sample Videos Too!
+- [subinps/InterHelperBot](https://github.com/subinps/InterHelperBot) - 
+- [SpEcHiDe/UploadGram](https://github.com/SpEcHiDe/UploadGram) - https://pypi.org/project/uploadgram/
+- [AgentMaker/AgentOCR](https://github.com/AgentMaker/AgentOCR) - 一个多语言支持、易使用的 OCR 项目。An easy-to-use OCR project with multilingual support.
+- [anuragrana/Python-Scripts](https://github.com/anuragrana/Python-Scripts) - Collection of Python scripts
+- [Python-World/python-mini-projects](https://github.com/Python-World/python-mini-projects) - A collection of simple python mini projects to enhance your python skills
+- [PaulSonOfLars/telegram-bot-api-spec](https://github.com/PaulSonOfLars/telegram-bot-api-spec) - A simple JSON description of the telegram bot API which updates itself every day.
+- [aio-libs/aiohttp](https://github.com/aio-libs/aiohttp) - Asynchronous HTTP client/server framework for asyncio and Python
+- [SpEcHiDe/PublicLeech](https://github.com/SpEcHiDe/PublicLeech) - can be found on Telegram as https://telegram.dog/PublicLeechGroup
+- [Jigarvarma2005/Anti-Channel-bot](https://github.com/Jigarvarma2005/Anti-Channel-bot) - 
+- [SpEcHiDe/UniBorg](https://github.com/SpEcHiDe/UniBorg) - Pluggable Telegram bot and userbot based on Telethon
+- [udf/uniborg](https://github.com/udf/uniborg) - Pluggable Telegram bot and userbot based on Telethon
+- [xditya/BorgBot](https://github.com/xditya/BorgBot) - Pluggable Telegram bot and userbot based on Telethon
+- [paavampayyan/Media-Delete-Bot](https://github.com/paavampayyan/Media-Delete-Bot) - This bot delete all video files instantly.
+- [gurland/telegram-delete-all-messages](https://github.com/gurland/telegram-delete-all-messages) - Delete all your messages in groups / supergroups using this python script
+- [TeamYukki/YukkiMusicBot](https://github.com/TeamYukki/YukkiMusicBot) - Telegram Group Calls Streaming bot with some useful features, written in Python with Pyrogram and Py-Tgcalls. Supporting platforms like Youtube, Spotify, Resso, AppleMusic, Soundcloud and M3u8 Links.
+- [AbirHasan2005/Image-Exif](https://github.com/AbirHasan2005/Image-Exif) - A python script for extracting/removing exif data from images by @AbirHasan2005
+- [maizenalegal/media-quality-fucker](https://github.com/maizenalegal/media-quality-fucker) - A tool to fuck a video/audio quality using FFmpeg
+- [umutkonmus/InstagramPhotoDownloader](https://github.com/umutkonmus/InstagramPhotoDownloader) - Simple program for download any instagram profile photo
+- [duonglh711/python-video-downloader](https://github.com/duonglh711/python-video-downloader) - Download any video from website
+- [shabane/apd](https://github.com/shabane/apd) - Any Aparat link such as Playlist Or Normal video downloader
+- [R3flex212/Spotify-Downloader](https://github.com/R3flex212/Spotify-Downloader) - An autoamtic python script that downloads any audio in .mp3 from youtube and adds it to your Downlaods folder
+- [RazorKenway/All-Downloader](https://github.com/RazorKenway/All-Downloader) - You Can download any video/image in all social medias very easy and High Speed.
+- [bchen32/youtube-downloader](https://github.com/bchen32/youtube-downloader) - Small project to download youtube videos off a playlist and convert them to mp3 files
+- [LiuYuancheng/WebAttestation](https://github.com/LiuYuancheng/WebAttestation) - We want to check several batch of web URLs (1~100 K) and find the phishing website/URL among them. This module is designed to do the URL/web attestation by using the API from NUS-Phishperida-Project.
+- [yshalsager/ebook-converter-bot](https://github.com/yshalsager/ebook-converter-bot) - Convert ebooks with few clicks on Telegram!
+- [aryanvikash/Google-Drive-Uploader](https://github.com/aryanvikash/Google-Drive-Uploader) - Telegram bot To upload Files To Google Drive Remotely @gdriveupme_bot (outdated)
+- [samadii/WebDownloaderBot](https://github.com/samadii/WebDownloaderBot) - A Telegram bot to scrape and download all the components (.html, .css, img, xml, video, javascript..) from the URLs and send to you as an zip archive.
+- [iTaybb/pySmartDL](https://github.com/iTaybb/pySmartDL) - A Smart Download Manager for Python
+- [abhint/Telegram-URL-Upload](https://github.com/abhint/Telegram-URL-Upload) - This is a telegram bot. It will upload your file to Telegram using the link
+- [thesarthakjain/telegram_bot](https://github.com/thesarthakjain/telegram_bot) - This is a personal telegram bot. Hosted locally on a 'Raspberry Pi 4 Model-B 4GB' and an 'Android Mobile Device' (for battery backup).
+- [LiuYuancheng/WebDownloader](https://github.com/LiuYuancheng/WebDownloader) - We want to scrape and download all the components (.html, .css, img, xml, video, javascript ...) for several batch of webpages based on a list of URLs.
+- [pyload/pyload](https://github.com/pyload/pyload) - The free and open-source Download Manager written in pure Python
+- [nuhmanpk/Mp4-to-Mp3-Converter](https://github.com/nuhmanpk/Mp4-to-Mp3-Converter) - Code Incubation
+- [AnshumanFauzdar/telegram-bot-heroku-deploy](https://github.com/AnshumanFauzdar/telegram-bot-heroku-deploy) - Detailed guide to initially deploy a simple telegram python bot to heroku
+- [namuan/tele-vdo-rider](https://github.com/namuan/tele-vdo-rider) - Telegram bot to convert online videos to audio (mp3)
+- [ZauteKm/UsePyrogramBot](https://github.com/ZauteKm/UsePyrogramBot) - A Telegram bot 🤖 to Generate Pyrogram String Session.
+- [zankoAn/Pyrogram-Blog-Project](https://github.com/zankoAn/Pyrogram-Blog-Project) - pyrogram client bot  project
+- [Ns-Bots/TG-RENAMER-BOT](https://github.com/Ns-Bots/TG-RENAMER-BOT) - One of the best Telegram renamer bot with many new features
+- [Achu2234/String-gen](https://github.com/Achu2234/String-gen) - A Working repel to gen string
+- [pytgcalls/pytgcalls](https://github.com/pytgcalls/pytgcalls) - Async client API for the Telegram Group Calls
+- [XMYSTERlOUSX/mega-link-downloader-bot](https://github.com/XMYSTERlOUSX/mega-link-downloader-bot) - A telegram bot to download mega.nz links. (made with pyrogram).
+- [Nenirey/simplebot_tg](https://github.com/Nenirey/simplebot_tg) - 
+- [prxpostern/mp3_256k_extractor](https://github.com/prxpostern/mp3_256k_extractor) - 
+- [prxpostern/telegram-video-encoder-320p](https://github.com/prxpostern/telegram-video-encoder-320p) - 
+- [prxpostern/Audio-Subtitle-Extractor-Full](https://github.com/prxpostern/Audio-Subtitle-Extractor-Full) - Audio-Subtitle-Extractor-Full
+- [prxpostern/GDUPLOAD_BOT2](https://github.com/prxpostern/GDUPLOAD_BOT2) - Gdriver Upload Bot(Team Drive supported)
+- [prxpostern/MusicEditorBot001](https://github.com/prxpostern/MusicEditorBot001) - 
+- [prxpostern/TGFFmpeg001](https://github.com/prxpostern/TGFFmpeg001) - 
+- [Omkar47/AutoLeecher](https://github.com/Omkar47/AutoLeecher) - Telegram Torrent Leecher Bot
+- [m4mallu/voicebot](https://github.com/m4mallu/voicebot) - A simple telegram bot to recognize lengthy voice files to text and vice versa with multiple language support.
+- [TheHamkerCat/WilliamButcherBot](https://github.com/TheHamkerCat/WilliamButcherBot) - Telegram Group Manager Bot Written In Python Using Pyrogram.
+- [vstinner/hachoir](https://github.com/vstinner/hachoir) - Hachoir is a Python library to view and edit a binary stream field by field
+- [akshettrj/Access-Bot](https://github.com/akshettrj/Access-Bot) - Access Bot for telegram groups
+- [MsGsuite/CloneBot_Heroku](https://github.com/MsGsuite/CloneBot_Heroku) - A powerful bot to copy your google drive data to your team drive
+- [viperadnan-git/google-drive-telegram-bot](https://github.com/viperadnan-git/google-drive-telegram-bot) - A Google Drive Telegram Bot for managing, cloning files, uploading files on Google Drive
+- [GreatBahram/shecan-cli](https://github.com/GreatBahram/shecan-cli) - The Shecan CLI https://shecan.ir
+- [techwithtim/ColoredTextInPython](https://github.com/techwithtim/ColoredTextInPython) - How to print colored text in python!
+- [xAbhish3k/AmeliaRobot](https://github.com/xAbhish3k/AmeliaRobot) - An Anime Theme Telegram group management bot. With lot of features.
+- [xhrvan/EvilBot](https://github.com/xhrvan/EvilBot) - 
+- [WeebZoneIndia/Video-Encoder-Bot](https://github.com/WeebZoneIndia/Video-Encoder-Bot) - a telegram bot for compressing/encoding videos in h264 format.
+- [lazmol/vp9_encode_python](https://github.com/lazmol/vp9_encode_python) - python code wrapping ffmpeg for vp9 encoding
+- [EL-Coders/CopyBot](https://github.com/EL-Coders/CopyBot) - 
+- [M-fazin/Lyrics-Search-Bot](https://github.com/M-fazin/Lyrics-Search-Bot) - A Telegram Bot That Can Find Lyrics Of Song
+- [i-am-emilly/removeforwardtag](https://github.com/i-am-emilly/removeforwardtag) - 
+- [AJBotVerse/RequestTrackerBot](https://github.com/AJBotVerse/RequestTrackerBot) - This is RequestTrackerBot and it used for tracking request made by user in a group
+- [Itz-fork/Gitfetch](https://github.com/Itz-fork/Gitfetch) - Gitfetch is a simple tool to get github user details
+- [viperadnan-git/video-encoder-bot](https://github.com/viperadnan-git/video-encoder-bot) - A Telegram bot to encode videos files via ffmpeg.
+- [lepisma/pipwin](https://github.com/lepisma/pipwin) - Install compiled python libraries for windows provided by Christoph Gohlke
+- [Ns-AnoNymouS/TG-CONVERT-BOT](https://github.com/Ns-AnoNymouS/TG-CONVERT-BOT) - You can convert file to video or video to file
+- [ruslan-korneev/channel_admin_bot](https://github.com/ruslan-korneev/channel_admin_bot) - 
+- [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid) - Advanced Multi-Featured Telegram UserBot, Built in Python Using Telethon lib.
+- [jannikmi/timezonefinder](https://github.com/jannikmi/timezonefinder) - python package for finding the timezone of any point on earth (coordinates) offline
+- [toastdriven/pylev](https://github.com/toastdriven/pylev) - A pure Python Levenshtein implementation that's not freaking GPL'd.
+- [X-Gorn/TikTokDL](https://github.com/X-Gorn/TikTokDL) - Telegram bot to download tiktok video/audio
+- [X-Gorn/BulkLoader](https://github.com/X-Gorn/BulkLoader) - Telegram bot to bulk download list of direct download link and upload to telegram
+- [lzzy12/python-aria-mirror-bot](https://github.com/lzzy12/python-aria-mirror-bot) - A telegram bot for all your mirror needs | OG Repo
+- [MarshalX/tgcalls](https://github.com/MarshalX/tgcalls) - Voice chats, private incoming and outgoing calls in Telegram for Developers
+- [arun017s/FeedbackBot](https://github.com/arun017s/FeedbackBot) - 
+- [KangersHub/TorrentLeechX](https://github.com/KangersHub/TorrentLeechX) - A FORKED AND Modded version of TL:GD for 🅱️3R0K🧲support
+- [cmlburnett/mkvxmlmaker](https://github.com/cmlburnett/mkvxmlmaker) - Python module that makes XML files for feeding mkvmerge
+- [parnexcodes/pyretag](https://github.com/parnexcodes/pyretag) - Python retagging utility for mkv files using mkvmerge.
+- [divijbindlish/parse-torrent-name](https://github.com/divijbindlish/parse-torrent-name) - Extract media information from a filename
+- [UsergeTeam/Custom-Plugins](https://github.com/UsergeTeam/Custom-Plugins) - Custom Plugins for Userge
+- [DritiTannk/text-extaction-demo](https://github.com/DritiTannk/text-extaction-demo) - 
+- [odysseusmax/animated-lamp](https://github.com/odysseusmax/animated-lamp) - Telegram Bot For Screenshot Generation
+- [odysseusmax/utube](https://github.com/odysseusmax/utube) - Telegram Bot for Youtube upload
+- [UsergeTeam/Userge-Plugins](https://github.com/UsergeTeam/Userge-Plugins) - Plugins for Userge
+- [sadeghhosseini/spell_corrector_norvig](https://github.com/sadeghhosseini/spell_corrector_norvig) - This is a farsi/persian spell corrector based on norvig's spell corrector script, http://norvig.com/spell-correct.html
+- [soosk/persian-spelling-corrector](https://github.com/soosk/persian-spelling-corrector) - A simple spelling corrector for Persian language
+- [pooyaphoenix/PersianAutoCorrection](https://github.com/pooyaphoenix/PersianAutoCorrection) - Persian Auto Correction Source
+- [hg0428/Search-The-World](https://github.com/hg0428/Search-The-World) - A fast and secure search engine designed for privacy and power. Made for developers and engineered to fit your needs.
+- [filyp/autocorrect](https://github.com/filyp/autocorrect) - Spelling corrector in python
+- [SafaSafari/SafaSelf](https://github.com/SafaSafari/SafaSelf) - 
+- [Py-GapBot/GapBot](https://github.com/Py-GapBot/GapBot) - Gap Messenger Api Bot Library for Python
+- [m4mallu/link2PdfBot](https://github.com/m4mallu/link2PdfBot) - A simple Telegram bot can convert web docs,  Telegraph links, etc. to Pdf !
+- [oliverfei/BodyPoseEstimatorVR](https://github.com/oliverfei/BodyPoseEstimatorVR) - 
+- [oliverfei/TextRecognitionDataGenerator](https://github.com/oliverfei/TextRecognitionDataGenerator) - A synthetic data generator for text recognition
+- [lzzy12/youtube-clipper-bot](https://github.com/lzzy12/youtube-clipper-bot) - Telegram bot to clip youtube videos
+- [zehpatricio/videomerge_bot](https://github.com/zehpatricio/videomerge_bot) - Telegram bot made in Python to merge videos.
+- [DevsExpo/GitAlertBot](https://github.com/DevsExpo/GitAlertBot) - A Git Alert Bot - Github Integration for Pyrogram & Telethon
+- [subinps/Inline-YouTube-Trim-Bot](https://github.com/subinps/Inline-YouTube-Trim-Bot) - Telegram bot to trim and download videos from youtube.
+- [mozilla/DeepSpeech-examples](https://github.com/mozilla/DeepSpeech-examples) - Examples of how to use or integrate DeepSpeech
+- [SMAPPNYU/urlExpander](https://github.com/SMAPPNYU/urlExpander) - 🌬️urlExpander is a Python package for expanding shortened links (urls).
+- [narVidhai/Speech-Transcription-Benchmarking](https://github.com/narVidhai/Speech-Transcription-Benchmarking) - Example python scripts to evaluate various ASR methods
+- [Hiyorimi/speech2textbot](https://github.com/Hiyorimi/speech2textbot) - Speech2Text bot (Telethon, YandexSpeechKit API)
+- [ehsan957/mainwords](https://github.com/ehsan957/mainwords) - Collection of most repeated words in every languages
+- [shenasa-ai/persian-tts](https://github.com/shenasa-ai/persian-tts) - 
+- [zackees/pydeepspeech](https://github.com/zackees/pydeepspeech) - Easy setup for Mozillas Deepspeech transcriber
+- [emtheapprentice/VibeTranscribe](https://github.com/emtheapprentice/VibeTranscribe) - VibeTranscribe 0.1
+- [belushkin/speach2text](https://github.com/belushkin/speach2text) - 
+- [techytushar/voice2text](https://github.com/techytushar/voice2text) - Better and Smarter way to convert speech to text.
+- [arg-hya/VoiceToText](https://github.com/arg-hya/VoiceToText) - This is a sample module to record microphone sound and convert it into text. It stores the text in a Word Doc with voice controlled formatting enabled. Developed to be used to generate Word Doc simult
+- [wanyhamo/mp4box](https://github.com/wanyhamo/mp4box) - Python 3 port of the MP4Box tool
+- [abhijeetbhagat/mp4box](https://github.com/abhijeetbhagat/mp4box) - Python 3 port of the MP4Box tool
+- [derpferpmerp/ffmpeg-combine-directory](https://github.com/derpferpmerp/ffmpeg-combine-directory) - Combine all videos in current directory (Print out MP4Box Command)
+- [avilash/TikTokAPI-Python](https://github.com/avilash/TikTokAPI-Python) - TikTok API Python Wrapper
+- [adw0rd/instagrapi](https://github.com/adw0rd/instagrapi) - 🔥 The fastest and powerful Python library for Instagram Private API 2023
+- [yashrathi-git/vimeo_downloader](https://github.com/yashrathi-git/vimeo_downloader) - Downloads Vimeo videos and retrieve metadata such as views, likes, comments, duration of the video.
+- [Ousret/charset_normalizer](https://github.com/Ousret/charset_normalizer) - Truly universal encoding detector in pure Python
+- [RincemonReji/RSS-Feed](https://github.com/RincemonReji/RSS-Feed) - 
+- [piyx/YoutubeSpotifyDL](https://github.com/piyx/YoutubeSpotifyDL) - Youtube and Spotify music downloader with metadata.
+- [mps-youtube/pafy](https://github.com/mps-youtube/pafy) - Python library to download YouTube content and retrieve metadata
+- [NotYasho/Spotify_Playlist_Downloader](https://github.com/NotYasho/Spotify_Playlist_Downloader) - A python script to download spotify playlists from youtube.
+- [pytube/pytube](https://github.com/pytube/pytube) - A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.
+- [iamLiquidX/MirLeechX](https://github.com/iamLiquidX/MirLeechX) - 
+- [im-bb/PH-DL](https://github.com/im-bb/PH-DL) - Simple python-based script to download PH STUFF
+- [rojasleon/personal-video-merger](https://github.com/rojasleon/personal-video-merger) - A personal video merger that sometimes I use
+- [jeffanberg/AVMerger](https://github.com/jeffanberg/AVMerger) - Creates a simple video by merging audio with photo.
+- [hazybluedot/ffmpeg_split](https://github.com/hazybluedot/ffmpeg_split) - Split a video file using ffmpeg into separate audio-only and video-only segments based on an input file containg start/end times of each segment
+- [Nguh-Prince/video_trimmer](https://github.com/Nguh-Prince/video_trimmer) - a python script that trims a video file from arguments passed via the command line
+- [lcaputo/video_trimmer](https://github.com/lcaputo/video_trimmer) - Trim a video into multiple parts.
+- [Saadelk/youtube_trim](https://github.com/Saadelk/youtube_trim) - Python script that enables you to download a youtube video , and also a trimmed version of it.
+- [mrismanaziz/Scrap-Man](https://github.com/mrismanaziz/Scrap-Man) - Bot Scrap APP ID and API HASH Telegram
+- [tsweet64/vtrim](https://github.com/tsweet64/vtrim) - A Python script to trim silent parts from videos
+- [CodeWithAlvin/CloudTrim](https://github.com/CodeWithAlvin/CloudTrim) - A python package for trimming online video and download them
+- [dmingn/vtrim](https://github.com/dmingn/vtrim) - A python script to trim a video using ffmpeg.
+- [Akash006/telegramBot_videoEditor](https://github.com/Akash006/telegramBot_videoEditor) - Bot will collect all your picture then ask for youtube song fetch its audio, trim it and create a video using your pictures and trimmed audio.
+- [Guillermo-Hidalgo-Gadea/VideoPyToolbox](https://github.com/Guillermo-Hidalgo-Gadea/VideoPyToolbox) - Play, compress, trim and concatenate videos in python using FFmpeg
+- [diwash007/YouTube-video-trimmer-and-uploader](https://github.com/diwash007/YouTube-video-trimmer-and-uploader) - Python program for YouTube video trimming and uploading using YouTube Data API
+- [evliang/avel](https://github.com/evliang/avel) - Python ffmpeg wrapper for audio and video editing (trim, subtitles/overlay, concat, merge, & more!)
+- [sheldonkwoodward/pymkv](https://github.com/sheldonkwoodward/pymkv) - A Python wrapper for mkvmerge. It provides support for muxing, splitting, linking, chapters, tags, and attachments through the use of mkvmerge.
+- [Zulko/moviepy](https://github.com/Zulko/moviepy) - Video editing with Python
+- [rodriguezst/telethon_downloader](https://github.com/rodriguezst/telethon_downloader) - Telegram Bot on a Telethon client that auto downloads incoming media files.
+- [PuZhiweizuishuai/OCR-CopyText-And-Search](https://github.com/PuZhiweizuishuai/OCR-CopyText-And-Search) - 适用于一些单位组织的那种在专门的APP上答题，但是又有题库的开卷考试，方便搜索答案，基于PaddleOCR开发😂😂😂
+- [elahe-dastan/first-grade](https://github.com/elahe-dastan/first-grade) - OCR for Iranian national ID card, etc.
+- [Belval/TextRecognitionDataGenerator](https://github.com/Belval/TextRecognitionDataGenerator) - A synthetic data generator for text recognition
+- [RapidAI/RapidOCR](https://github.com/RapidAI/RapidOCR) - A cross platform OCR Library based on PaddleOCR & OnnxRuntime & OpenVINO.
+- [apm1467/videocr](https://github.com/apm1467/videocr) - Extract hardcoded subtitles from videos using machine learning
+- [SWHL/RapidVideOCR](https://github.com/SWHL/RapidVideOCR) - 视频硬字幕提取，自动生成对应srt文件。VideoSubFinder + RapidOCR结合，离线即可运行，更快更准更方便。
+- [krviolent/subtitles_extract](https://github.com/krviolent/subtitles_extract) - Tool for extraction hard-coded (hardsub) Chinese subtitles from video files with 720p resolution
+- [escape0707/extract-rename-subtitle](https://github.com/escape0707/extract-rename-subtitle) - 
+- [musa-42/stream-cloud](https://github.com/musa-42/stream-cloud) - Robot to convert files to direct links, hosting files on Telegram servers, unlimited and without restrictions
+- [X-Gorn/Flask-Heroku-Example](https://github.com/X-Gorn/Flask-Heroku-Example) - Example to deploy flask app on heroku
+- [Fillll/reddit2telegram](https://github.com/Fillll/reddit2telegram) - Bot to supply telegram channel with hot Reddit submissions.
+- [JinsoRaj/TelegramBots](https://github.com/JinsoRaj/TelegramBots) - This repository is for HacktoberFest 2022. Contribute Telegram bot source codes.
+- [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
+- [AJBotVerse/URL_Uploader_Bot](https://github.com/AJBotVerse/URL_Uploader_Bot) - This bot is created by AJTimePyro and It accepts direct downloading url & then return file as telegram file.
+- [arun017s/OMDb-Bot](https://github.com/arun017s/OMDb-Bot) - 
+- [parastooh79/python-simple-exmaples](https://github.com/parastooh79/python-simple-exmaples) - 
+- [parastooh79/database_python](https://github.com/parastooh79/database_python) - 
+- [parastooh79/web_scraping](https://github.com/parastooh79/web_scraping) - 
+- [TechHog8984/Python](https://github.com/TechHog8984/Python) - Python
+- [TimeInvestor/gdrive-duplicate-remover](https://github.com/TimeInvestor/gdrive-duplicate-remover) - Search and remove duplicate files in Google Drive.
+- [EvamariaTG/EvaMaria](https://github.com/EvamariaTG/EvaMaria) - 
+- [yashoswalyo/MERGE-BOT](https://github.com/yashoswalyo/MERGE-BOT) - A telegram video, audio, subtitle merge bot by @yashoswalyo | Supports 4GB
+- [m4mallu/mediaBuddy](https://github.com/m4mallu/mediaBuddy) - An inline real-time media searching robot without any database.
+- [Clinton-Abraham/STRING-GEN](https://github.com/Clinton-Abraham/STRING-GEN) - 
+- [FayasNoushad/Movie-Info-Bot](https://github.com/FayasNoushad/Movie-Info-Bot) - An advanced telegram movie information finder bot
+- [FayasNoushad/Translator-Bot-V3](https://github.com/FayasNoushad/Translator-Bot-V3) - An advanced telegram language translator bot
+- [Shiv-x/VCPvtBot](https://github.com/Shiv-x/VCPvtBot) - Telegram Group Music Bot Groups Music allows you to play music in your groups.
+- [Hidayathamir/forward-telegram-chat](https://github.com/Hidayathamir/forward-telegram-chat) - With this project, you can access telegram user and forward message from A,B,C,D,E to F,G,H,I,J.
+- [Hidayathamir/forward-telegram-chat-web](https://github.com/Hidayathamir/forward-telegram-chat-web) - Access telegram user and forward new message from A,B,C,D,E to F,G,H,I,J.
+- [RabbitFored/Dwindle-telegram-bot](https://github.com/RabbitFored/Dwindle-telegram-bot) - 
+- [FayasNoushad/Pixeldrain](https://github.com/FayasNoushad/Pixeldrain) - A pixeldrain python package
+- [nuhmanpk/Instant-Tag-Remover](https://github.com/nuhmanpk/Instant-Tag-Remover) - 
+- [RabbitFored/chat-archive-bot-unamed](https://github.com/RabbitFored/chat-archive-bot-unamed) - Telegram chat archiver
+- [samadii/VidSubExtract-Bot](https://github.com/samadii/VidSubExtract-Bot) - A simple script to extracting hard-coded subtitle from videos by your Telegram bot.
+- [Imyr/TeleRG](https://github.com/Imyr/TeleRG) - Grabs torrent or magnet links from feeds. Basically, an RSS bot. Has been modified to be used with Telegram Mirror Bot, as was it's intended purpose.
+- [AnjanaMadu/SeedrAPI](https://github.com/AnjanaMadu/SeedrAPI) - Unofficial API wrapper for seedr.cc
+- [PredatorHackerzZ/MessageSearchBot](https://github.com/PredatorHackerzZ/MessageSearchBot) - 
+- [Clinton-Abraham/UPLOADER-BOT](https://github.com/Clinton-Abraham/UPLOADER-BOT) - Advanced URL UPLOADER BOT  ⚡
+- [FayasNoushad/Click-Counter-Bot](https://github.com/FayasNoushad/Click-Counter-Bot) - A telegram bot for how to count total clicks on button.
+- [kokarare1212/librespot-python](https://github.com/kokarare1212/librespot-python) - Open Source Spotify Client
+- [TelegramTools/TLImporter](https://github.com/TelegramTools/TLImporter) - 📲 Telegram Chat Importer: Import chats from WhatsApp or other services into Telegram
+- [TelegramTools/TLMerger](https://github.com/TelegramTools/TLMerger) - 🔀 Telegram Chat Merger: Merge chats in Telegram
+- [stafazzoli/FarsiOCR](https://github.com/stafazzoli/FarsiOCR) - An OCR application for Farsi/ Persian documents.
+- [abhint/OxfordDictionariesTelegramBot](https://github.com/abhint/OxfordDictionariesTelegramBot) - This is a telegram bot built using the Oxford Dictionary API
+- [nuhmanpk/ReportBot](https://github.com/nuhmanpk/ReportBot) - 
+- [shamilhabeebnelli/TG-MegaBot](https://github.com/shamilhabeebnelli/TG-MegaBot) - A Modular All In One Telegram Bot (Rename, Trim, Cut, Screenshot, Url Uploader, Youtube, FFMPEG, etc)
+- [RobotTrick/Archive-bot](https://github.com/RobotTrick/Archive-bot) - A telegram bot that allows compression of multiple files into a ZIP archive
+- [cessen/subs_extract](https://github.com/cessen/subs_extract) - Extracts per-sentence subtitles + audio from a subtitle file + video file.
+- [fedecalendino/pysub-parser](https://github.com/fedecalendino/pysub-parser) - Library for extracting text and timestamps from multiple subtitle files (.ass, .ssa, .srt, .sub, .txt).
+- [m4mallu/compress-pdf-tg-bot](https://github.com/m4mallu/compress-pdf-tg-bot) - A Telegram bot can compress the size of PDF documents. Useful for digital documentations.
+- [FayasNoushad/Pixeldrain-Bot](https://github.com/FayasNoushad/Pixeldrain-Bot) - A telegram media to pixeldrain stream link bot
+- [AnjanaMadu/RenameBot](https://github.com/AnjanaMadu/RenameBot) - A simple rename bot for telegram
+- [Matin-B/Bazaar_DlBot](https://github.com/Matin-B/Bazaar_DlBot) - Simple Telegram bot for direct download applications from Cafe Bazaar (CafeBazaar.ir)
+- [Neeleshrj/Image-Colorization-API](https://github.com/Neeleshrj/Image-Colorization-API) - An API which would colorize a black and white image
+- [matplotlib/matplotlib](https://github.com/matplotlib/matplotlib) - matplotlib: plotting with Python
+- [adarsh-goel/filestreambot](https://github.com/adarsh-goel/filestreambot) - A very fast file streaming bot  used for streaming and downloading movies. To get readymade bot click the link below
+- [sahadz/simple-upload-bot](https://github.com/sahadz/simple-upload-bot) - 
+- [TeamUltroid/pyUltroid](https://github.com/TeamUltroid/pyUltroid) - [Ultroid] Base Library - Telethon
+- [prabhakar267/image2text](https://github.com/prabhakar267/image2text) - :clipboard: Python wrapper to grab text from images and save as text files using Tesseract Engine
+- [tisanyada/py-tests](https://github.com/tisanyada/py-tests) - This is an open source python repository for various python tests
+- [ribt/dtmf-decoder](https://github.com/ribt/dtmf-decoder) - Extract phone numbers from an audio recording of the dial tones.
+- [nuhmanpk/ban-bot](https://github.com/nuhmanpk/ban-bot) - Code incubation Day #7 - A simple bot to ban Members in a Group , know more about code incubation Here 👇
+- [HeimanPictures/Pdisk-Upload-Bot](https://github.com/HeimanPictures/Pdisk-Upload-Bot) - This is Pdisk Upload Bot made using Python with Pyrogram Framework. Its capable of uploading direct download link with thumbnail or without thumbnail & with Title Support.
+- [YaoFANGUK/video-subtitle-extractor](https://github.com/YaoFANGUK/video-subtitle-extractor) - 视频硬字幕提取，生成srt文件。无需申请第三方API，本地实现文本识别。基于深度学习的视频字幕提取框架，包含字幕区域检测、字幕内容提取。A GUI tool for extracting hard-coded subtitle (hardsub) from videos and generating srt files.
+- [duangsuse-valid-projects/extract-subtitles](https://github.com/duangsuse-valid-projects/extract-subtitles) - Extract Subtitles From Video 视频字幕提取 帧间差分法识别关键帧 OCR识别
+- [shawnsky/extract-subtitles](https://github.com/shawnsky/extract-subtitles) - Extract Subtitles From Video 视频字幕提取 帧间差分法识别关键帧 OCR识别
+- [iWumboUWumbo2/Hardsub2SRT](https://github.com/iWumboUWumbo2/Hardsub2SRT) - Get subtitles from a hardsubbed video using OCR
+- [prxpostern/URLtoTG001](https://github.com/prxpostern/URLtoTG001) - A Simple Telegram Bot to Upload Files From Direct Links and Google Drive Links and Youtube Links, Convert Document media to Video, and Rename Audio/Video/Document Files.
+- [Achu2234/ChannelVidioSteramberBot](https://github.com/Achu2234/ChannelVidioSteramberBot) - A telegram bot to steram youtube live yt vidio etc In My TG Channel VC
+- [eXtizi/SlamAutoDownload](https://github.com/eXtizi/SlamAutoDownload) - 
+- [1Danish-00/CompressorBot](https://github.com/1Danish-00/CompressorBot) - A python based Telegram Bot for Compressing Videos with negligible Quality change
+- [zeshuaro/telegram-pdf-bot](https://github.com/zeshuaro/telegram-pdf-bot) - A Telegram bot that can do a lot of things related to PDF files
+- [AbirHasan2005/Watermark-Bot](https://github.com/AbirHasan2005/Watermark-Bot) - A Telegram Video Watermark Adder Bot in Pyrogram by @AbirHasan2005
+- [AbirHasan2005/PDisk-Videos-Search](https://github.com/AbirHasan2005/PDisk-Videos-Search) - Telegram bot for searching videos in your PDisk account by @AbirHasan2005
+- [masudr4n4/ImageScraper](https://github.com/masudr4n4/ImageScraper) - This project for scaping image with movie title.
+- [dreygur/subscene-api](https://github.com/dreygur/subscene-api) - Unofficial SebScene api using Python3
+- [Diaoul/subliminal](https://github.com/Diaoul/subliminal) - Subtitles, faster than your thoughts
+- [Matin-B/TwitterMediaDownloaderBot](https://github.com/Matin-B/TwitterMediaDownloaderBot) - Twitter Media Downloader (Telegram Bot)
+- [Matin-B/AparatgramBot](https://github.com/Matin-B/AparatgramBot) - Simple Telegram bot for direct download video from Aparat (Aparat.com)
+- [alenpaulvarghese/Web-Screenshot-Bot](https://github.com/alenpaulvarghese/Web-Screenshot-Bot) - A simple telegram bot to take screenshot of a given website and upload it to telegram
+- [abhint/TGImageHosting](https://github.com/abhint/TGImageHosting) - This is a simple bot that can be used to upload images to a third-party cloud (image hosting). Currently, only the imgbb.com website supports the bot. I Will do future updates
+- [pystorage/pykeyboard](https://github.com/pystorage/pykeyboard) - Best Keyboard and Pagination for the Pyrogram Library.
+- [prgofficial/RenameBot-PermTB](https://github.com/prgofficial/RenameBot-PermTB) - Rename Bot with Permanent Thumbnail support
+- [SpaceLabLTD/session-conv-bot](https://github.com/SpaceLabLTD/session-conv-bot) - A Telegram bot which can convert string session.  Currently supports telethon and pyrogram.
+- [abhint/QRCode-Telegram-bot](https://github.com/abhint/QRCode-Telegram-bot) - This is a simple bot. You generate QRcode with this bot
+- [abhint/TelegramFilestoCloud](https://github.com/abhint/TelegramFilestoCloud) - This bot uploads telegram files to a third-party server. Usage: Send any file or bot. Then select the third-party Cloud you want to upload to.
+- [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) - A Telegram RSS bot that cares about your reading experience
+- [nuhmanpk/HandWriting-Bot](https://github.com/nuhmanpk/HandWriting-Bot) - Telegram Bot to convert text to Handwriting using pywhatkit.
+- [agentnova/SubtitleTranslator-Bot](https://github.com/agentnova/SubtitleTranslator-Bot) - Tg bot to translate subtitle files
+- [RashiKhannamb2/MirrorBot2-and-Leech](https://github.com/RashiKhannamb2/MirrorBot2-and-Leech) - 
+- [harshaveeturi/aganitha-cognitive](https://github.com/harshaveeturi/aganitha-cognitive) - Aganitha Congitive
+- [devanshg-ml/Subtitles-generator-using-DeepSpeech](https://github.com/devanshg-ml/Subtitles-generator-using-DeepSpeech) - The subtitles generator can be used to automatically generate the subtitles for audio and video files as well as for the youtube links.
+- [tanziczack/SpeechRecognition-subtitle-and-time-line](https://github.com/tanziczack/SpeechRecognition-subtitle-and-time-line) - use SpeechRecognition to generate subtitle and match the subtitle with time line automatically
+- [mdegans/substream](https://github.com/mdegans/substream) - Automatic audio transcription to .srt using Google's Speech to Text API
+- [MasterGroosha/my-id-bot](https://github.com/MasterGroosha/my-id-bot) - Telegram bot to get ID of some chats (including your own ID)
+- [smcclennon/SongID](https://github.com/smcclennon/SongID) - Music identification Telegram bot
+- [python273/telegraph](https://github.com/python273/telegraph) - Telegraph API wrapper | Telegra.ph
+- [lntechnical2/pdisk-bot](https://github.com/lntechnical2/pdisk-bot) - Pdisk Uploader Bot
+- [nuhmanpk/No-Link](https://github.com/nuhmanpk/No-Link) - Code Incubation Day #6
+- [hearot/pyrubrum](https://github.com/hearot/pyrubrum) - An intuitive framework for creating Telegram bots.
+- [hearot/telegram_me](https://github.com/hearot/telegram_me) - A simple scraper for getting information from t.me links.
+- [FichteFoll/Sushi](https://github.com/FichteFoll/Sushi) - Automatic subtitle shifter based on audio
+- [samadii/ChannelAutoCaption](https://github.com/samadii/ChannelAutoCaption) - A Telegram bot to add an auto caption and button to the medias in channel (With dynamic variables support).
+- [madmaze/pytesseract](https://github.com/madmaze/pytesseract) - A Python wrapper for Google Tesseract
+- [teletips/FileToLink](https://github.com/teletips/FileToLink) - 
+- [teletips/Powerful_BotStatus-TeLeTiPs](https://github.com/teletips/Powerful_BotStatus-TeLeTiPs) - Easy & powerful bot to check if your all Telegram bots are working or not. This bot status bot refreshes automatically & runs for 24x7 hours.
+- [codxmodsofc/Telegraph-Uploader-Bot](https://github.com/codxmodsofc/Telegraph-Uploader-Bot) - A simple telegram file or media to telegra.ph link uploader bot
+- [FayasNoushad/QR-Code-Bot](https://github.com/FayasNoushad/QR-Code-Bot) - An advanced QR Code telegram bot with more features.
+- [polak0v/ReSuber](https://github.com/polak0v/ReSuber) - 
+- [MrMissx/Telegram_Forwarder](https://github.com/MrMissx/Telegram_Forwarder) - Simple telegram bot to forward message form channel/gorup
+- [gurjeet29/telegram_members_scrapper](https://github.com/gurjeet29/telegram_members_scrapper) - Python Script to scrape members from a selected Telegram group.
+- [kawaiiDango/telegram-delete-logger](https://github.com/kawaiiDango/telegram-delete-logger) - Userbot to log deleted and edited messages on Telegram
+- [Reeshuxd/NightModeBot](https://github.com/Reeshuxd/NightModeBot) - A Telegram Bot to prevent Night Spams
+- [lostb053/anibot](https://github.com/lostb053/anibot) - Telegram anime bot that uses Anilist API
+- [ShivangKakkar/DeleteEventsBot](https://github.com/ShivangKakkar/DeleteEventsBot) - 
+- [ShivangKakkar/TimeBot](https://github.com/ShivangKakkar/TimeBot) - 
+- [ShivangKakkar/ID-Bot](https://github.com/ShivangKakkar/ID-Bot) - 
+- [AnjanaMadu/PyInsideTG](https://github.com/AnjanaMadu/PyInsideTG) - A simple bot to evaluate python codes and bash commands inside telegram.
+- [lntechnical2/webscrap-bot](https://github.com/lntechnical2/webscrap-bot) - Simple Telegram webscrap bot
+- [ShivangKakkar/ForceSubscribeBot](https://github.com/ShivangKakkar/ForceSubscribeBot) - 
+- [Itz-fork/Unzipper-Bot](https://github.com/Itz-fork/Unzipper-Bot) - Simple Telegram Bot to extract various types of archives from a telegram file or a direct link
+- [coder-pig/VideoSubtitleExtractTool](https://github.com/coder-pig/VideoSubtitleExtractTool) - 视频字幕提取工具
+- [hamsolo474/VideoSubFinder_ocr_path](https://github.com/hamsolo474/VideoSubFinder_ocr_path) - 
+- [AnjanaMadu/TGForward](https://github.com/AnjanaMadu/TGForward) - A script to forward mass number of media to another group/channel. Heroku deploy
+- [samadii/Speech2Sub-Bot](https://github.com/samadii/Speech2Sub-Bot) - A Telegram bot to generate subtitles based on the speeches in medias.
+- [ShivangKakkar/BrainyQuoteBot](https://github.com/ShivangKakkar/BrainyQuoteBot) - https://t.me/StarkBots
+- [ShivangKakkar/UrbanDictionaryBot](https://github.com/ShivangKakkar/UrbanDictionaryBot) - https://t.me/StarkBots
+- [ShivangKakkar/RenameTelegramBot](https://github.com/ShivangKakkar/RenameTelegramBot) - https://t.me/StarkBots
+- [ShivangKakkar/StickerToolsBot](https://github.com/ShivangKakkar/StickerToolsBot) - https://t.me/StarkBots
+- [ShivangKakkar/WhisperBot](https://github.com/ShivangKakkar/WhisperBot) - Telegram Whisper Bot https://t.me/StarkBots
+- [ShivangKakkar/StringSessionBot](https://github.com/ShivangKakkar/StringSessionBot) - Pyrogram and Telethon String Session Generator
+- [ShivangKakkar/PDFBot](https://github.com/ShivangKakkar/PDFBot) - 
+- [ShivangKakkar/AnonymousSenderBot](https://github.com/ShivangKakkar/AnonymousSenderBot) - https://t.me/StarkBots
+- [nuhmanpk/AudioBook](https://github.com/nuhmanpk/AudioBook) - A Telegram Bot which converts PDF TO Audio Using Pypdf2 and gTTS
+- [ewwink/python-srt2ass](https://github.com/ewwink/python-srt2ass) - Python Script to Convert Subtitle formats from .srt to .ass
+- [tkarabela/pysubs2](https://github.com/tkarabela/pysubs2) - A Python library for editing subtitle files
+- [pbs/pycaption](https://github.com/pbs/pycaption) - Python module to read/write popular video caption formats
+- [jainamoswal/ko-fi](https://github.com/jainamoswal/ko-fi) - An App to get Ko-Fi payment updates on Telegram.
+- [jainamoswal/GitHub-IDE](https://github.com/jainamoswal/GitHub-IDE) - A GitHub Action hosted Python IDE!
+- [jainamoswal/otp-scam](https://github.com/jainamoswal/otp-scam) - 
+- [jainamoswal/Flask-Example](https://github.com/jainamoswal/Flask-Example) - A short & simple flask example to get started with. 😎
+- [jainamoswal/IP-Details](https://github.com/jainamoswal/IP-Details) - Python Flask app to get the user IP address with some more details in your Telegram chat box.
+- [jainamoswal/PyTgAuth](https://github.com/jainamoswal/PyTgAuth) - A wrapper to authenticate Telegram data while web auth.
+- [jainamoswal/ForceHub](https://github.com/jainamoswal/ForceHub) - A Telegram bot to force the user to follow GitHub Profile.
+- [jainamoswal/PyTgAuth-example](https://github.com/jainamoswal/PyTgAuth-example) - An example repo for PyTgAuth module.
+- [jainamoswal/TelegramBot](https://github.com/jainamoswal/TelegramBot) - A simple template for Telethon bots.
+- [jainamoswal/BotStatus](https://github.com/jainamoswal/BotStatus) - An action to automatically update bot status at GitHub as well as in Telegram channel.
+- [davxiao/srt2ass](https://github.com/davxiao/srt2ass) - A revised version of original srt2ass to accommodate bi-lingual subtitles.
+- [eykei/srt2ass](https://github.com/eykei/srt2ass) - 
+- [nafnix/srt2ass](https://github.com/nafnix/srt2ass) - srt文件格式转换成ass格式
+- [Techcatchers/PyLyrics-Extractor](https://github.com/Techcatchers/PyLyrics-Extractor) - Get Lyrics for any songs by just passing in the song name (spelled or misspelled) in less than 2 seconds using this awesome Python Library.
+- [TeamUltroid/UltroidAddons](https://github.com/TeamUltroid/UltroidAddons) - Plugins repository. Read the readme for more!
+- [GitBib/pyasstosrt](https://github.com/GitBib/pyasstosrt) - Convert ASS subtitle to SRT format
+- [maxime1907/srt2ass](https://github.com/maxime1907/srt2ass) - Srt to ass
+- [azamaulanaaa/botkaca](https://github.com/azamaulanaaa/botkaca) - Bot that leech (re-upload) internet contents including torrent to telegram
+- [subinps/Forward_2.0](https://github.com/subinps/Forward_2.0) - A simple telegram bot to forward files from one channel to other.
+- [muhammedfurkan/pinterest_downloader_telegram](https://github.com/muhammedfurkan/pinterest_downloader_telegram) - Telegram bot download ability video and image from Pinterest
+- [muhammedfurkan/TelethonUserBot](https://github.com/muhammedfurkan/TelethonUserBot) - Modular Telegram UserBot. Fully MongoDB supported.
+- [dashezup/github-webhook-to-telegram](https://github.com/dashezup/github-webhook-to-telegram) - Receive GitHub webhook events and send to Telegram chats with AIOHTTP through Telegram Bot API
+- [nuhmanpk/AntiService-AntiCommand](https://github.com/nuhmanpk/AntiService-AntiCommand) - 
+- [nuhmanpk/PyttsBot](https://github.com/nuhmanpk/PyttsBot) - A Pyrogram Bot for gtts module, Text to speech Telegram bot.
+- [nuhmanpk/Command-Remover](https://github.com/nuhmanpk/Command-Remover) - 
+- [nuhmanpk/member-sticker-bot](https://github.com/nuhmanpk/member-sticker-bot) - A telegram bot Which sends Thank You Sticker to Members in channel and Group at specific member count
+- [nuhmanpk/SpeedtestBot-Telegram](https://github.com/nuhmanpk/SpeedtestBot-Telegram) - A Telegram Bot which returns Clients current Download / Upload Network speed
+- [viperadnan-git/rss-feed-telegram-bot](https://github.com/viperadnan-git/rss-feed-telegram-bot) - Post Messages to Channels or Groups through RSS Feed.
+- [AbirHasan2005/Heroku-app.json](https://github.com/AbirHasan2005/Heroku-app.json) - Telegram bot for making Heroku app.json by @AbirHasan2005
+- [nuhmanpk/Instant-Caption-Adder](https://github.com/nuhmanpk/Instant-Caption-Adder) - Code incubation Day #5 , Simple Telegram Bot to Add Caption to Media(File,Photo,Audio,Video) Instantly
+- [TerminalWarlord/GoGoAnime-API](https://github.com/TerminalWarlord/GoGoAnime-API) - This is a simple API made for https://t.me/JayBeeAnimeStash
+- [TerminalWarlord/Subtitle-Downloader-Bot](https://github.com/TerminalWarlord/Subtitle-Downloader-Bot) - A Telegram bot to download Subtitle for movies and tv shows.
+- [nuhmanpk/No-Forward-Messages](https://github.com/nuhmanpk/No-Forward-Messages) - Code Incubation Day #4
+- [axrav/VideoStreamBot](https://github.com/axrav/VideoStreamBot) - A Video Streaming Telegram Bot with queues written in Python with Pyrogram and PyTgcalls
+- [samadii/Transcribe-Bot](https://github.com/samadii/Transcribe-Bot) - A Telegram bot to transcribe audio, video and image into text.
+- [nuhmanpk/Edit-message-Alert](https://github.com/nuhmanpk/Edit-message-Alert) - Easy and simple, Telegram Bot to Show alert when some edits a message in Group
+- [charslab/TranscriberBot](https://github.com/charslab/TranscriberBot) - TranscriberBot for Telegram
+- [AmineSoukara/ImgBB-Bot](https://github.com/AmineSoukara/ImgBB-Bot) - Telegram Bot That Hosts Your Image On imgbb.com And Returns Link
+- [ShivangKakkar/ChannelBot](https://github.com/ShivangKakkar/ChannelBot) - Automate and Manage Telegram Channels
+- [ShivangKakkar/OCRBot](https://github.com/ShivangKakkar/OCRBot) - https://t.me/StarkBots
+- [uturkdogan/subtitle-download](https://github.com/uturkdogan/subtitle-download) - Download subtitles and automatically syncs them to the videos
+- [wnger/subtitles](https://github.com/wnger/subtitles) - 
+- [ercanserteli/video-condenser](https://github.com/ercanserteli/video-condenser) - Condenser allows you to extract speech audio from video files, based on subtitle timings. By omitting the audio outside of speech, it increases the language per second that you are getting exposed to.
+- [lyshie/srt-to-audio](https://github.com/lyshie/srt-to-audio) - 
+- [TroJanzHEX/Streams-Extractor](https://github.com/TroJanzHEX/Streams-Extractor) - This Bot can extract audios and subtitles from video files
+- [nuhmanpk/No-Inline-Messages](https://github.com/nuhmanpk/No-Inline-Messages) - Deletes Inline messages sent Through Bot in Group
+- [eternnoir/pyTelegramBotAPI](https://github.com/eternnoir/pyTelegramBotAPI) - Python Telegram bot api.
+- [AlexHLinS/EndeavourBot](https://github.com/AlexHLinS/EndeavourBot) - Telegram bot build for HSE Python for data analyse
+- [Uberi/speech_recognition](https://github.com/Uberi/speech_recognition) - Speech recognition module for Python, supporting several engines and APIs, online and offline.
+- [samadii/OCRBot](https://github.com/samadii/OCRBot) - A Telegram bot to extracting text from images. All languages supported.
+- [l1v0n1/donation-bot](https://github.com/l1v0n1/donation-bot) - Bot for donations // Donate Bot Telegram
+- [magneto261290/rss-feed-telegram-bot](https://github.com/magneto261290/rss-feed-telegram-bot) - Post Messages to Channels or Groups through RSS Feed.
+- [FayasNoushad/Play-Store-Bot](https://github.com/FayasNoushad/Play-Store-Bot) - A play store search telegram bot
+- [samadii/MusicEditorBot](https://github.com/samadii/MusicEditorBot) - A Telegram bot to change the music tags and artwork.
+- [usernein/pyromod](https://github.com/usernein/pyromod) - A monkeypatcher add-on for Pyrogram
+- [FayasNoushad/GoFile-Bot](https://github.com/FayasNoushad/GoFile-Bot) - A telegram media to gofile bot
+- [Itz-fork/Gofile2](https://github.com/Itz-fork/Gofile2) - An API Wrapper for Gofile API
+- [michaelb/auto-ytdl](https://github.com/michaelb/auto-ytdl) - Yet another youtube-dl wrapper, but auto-ytdl can automate your new music downloads better than ever
+- [nuhmanpk/pyDF-Bot](https://github.com/nuhmanpk/pyDF-Bot) - Pydf - Pyrogram Document File Bot, a modular Telegram Bot which provides Pdf Tools Works using Pypdf2
+- [shamilhabeebnelli/song-bot](https://github.com/shamilhabeebnelli/song-bot) - You can download youtube songs to MP3 from telegram #musics
+- [AmanoTeam/amanobot](https://github.com/AmanoTeam/amanobot) - Python framework for Telegram Bot API forked from Telepot.
+- [AmanoTeam/PyKorone](https://github.com/AmanoTeam/PyKorone) - PyKorone is a modern and fully asynchronous Telegram bot to improve you Telegram experience, written in Python3 using Pyrogram.
+- [AmanoTeam/Unalix](https://github.com/AmanoTeam/Unalix) - Small, dependency-free, fast Python package for removing tracking fields from URLs.
+- [AmanoTeam/EduuRobot](https://github.com/AmanoTeam/EduuRobot) - EduuRobot Telegram bot source code.
+- [Liupold/demeter_dl](https://github.com/Liupold/demeter_dl) - Demeter_DL is a open source download manager. Built for speed, efficiency and comfort! Download YouTube videos directly! or use it in your project with API
+- [amirhoseinsalimi/music-tool-bot](https://github.com/amirhoseinsalimi/music-tool-bot) - The one and only bot you need to manage your music files
+- [tanveerraza789/ytadlbot](https://github.com/tanveerraza789/ytadlbot) - Youtube audio downloader telegram bot
+- [FayasNoushad/URL-Shortner-Bot](https://github.com/FayasNoushad/URL-Shortner-Bot) - A link shortner telegram bot version 2 with advanced features
+- [X-Gorn/File-Sharing](https://github.com/X-Gorn/File-Sharing) - Telegram bot to share any telegram files and get the shareable link
+- [FayasNoushad/Youtube-Video-Thumbnail](https://github.com/FayasNoushad/Youtube-Video-Thumbnail) - A youtube video link or id to video thumbnail python package.
+- [Jigarvarma2005/VideoCompress](https://github.com/Jigarvarma2005/VideoCompress) - 
+- [EL-Coders/ELYoutubeBot](https://github.com/EL-Coders/ELYoutubeBot) - 
+- [Jigarvarma2005/Streaming-Link-Gen](https://github.com/Jigarvarma2005/Streaming-Link-Gen) - 
+- [alexle-dev/TTSBotPython](https://github.com/alexle-dev/TTSBotPython) - 
+- [subinps/VCPlayerBot](https://github.com/subinps/VCPlayerBot) - Telegram bot to stream videos in telegram voicechat for both groups and channels. Supports live steams, YouTube videos and telegram media. Supports scheduling streams, recording and many more.
+- [musa-42/streamer_file](https://github.com/musa-42/streamer_file) - Robot to convert files to direct links, hosting files on Telegram servers, unlimited and without restrictions
+- [EverythingSuckz/tgvc-video-tests](https://github.com/EverythingSuckz/tgvc-video-tests) - ignore my commit history cuz It'll be messy af
+- [danieliu/play-scraper](https://github.com/danieliu/play-scraper) - A web scraper to retrieve application data from the Google Play Store.
+- [nikhileashy/BroadcastBot](https://github.com/nikhileashy/BroadcastBot) - A simple Telegram bot that can broadcast messages and media to the bot subscribers. with mongo DB support
+- [lntechnical2/videostream](https://github.com/lntechnical2/videostream) - Telegram Video Stream
+- [nuhmanpk/YouTube-TagFind-Bot](https://github.com/nuhmanpk/YouTube-TagFind-Bot) - A Telegram Bot to return Youtube Video Tags Using YoutubeTags API
+- [Ts-Bots/BotStatus-Ts-Bot](https://github.com/Ts-Bots/BotStatus-Ts-Bot) - A telegram bot which can show you the status of telegram bot
+- [nuhmanpk/YoutubeTags](https://github.com/nuhmanpk/YoutubeTags) - YouTube SEO tool for extracting video tags without the need for the official YouTube API
+- [Itz-fork/py-trans](https://github.com/Itz-fork/py-trans) - Free Python library to translate text into different languages.
+- [Naviya2/LeoMediaSearchBot](https://github.com/Naviya2/LeoMediaSearchBot) - A Simple Inline Media Search Bot
+- [rudranag/Truecaller-Smsbomber_telegram_bot](https://github.com/rudranag/Truecaller-Smsbomber_telegram_bot) - Telegram bot which has truecaller and smsbomber features
+- [subinps/Image-Editor](https://github.com/subinps/Image-Editor) - A Telegram Image Editor Bot with Many features and Options.
+- [NACBots/BroadcastBot](https://github.com/NACBots/BroadcastBot) - A simple Telegram bot that can broadcast messages and media to the bot subscribers. with mongo DB support
+- [AnjanaMadu/VoiceChatStreamer](https://github.com/AnjanaMadu/VoiceChatStreamer) - This bot can stream audio or video files and urls in telegram voice chats :)
+- [AsmSafone/VideoPlayerBot](https://github.com/AsmSafone/VideoPlayerBot) - An Telegram Bot By @AsmSafone To Stream Videos in Telegram Voice Chat. This is Also The Source Code of The Bot Which is Being Used In Our Support Group! ❤️
+- [SenseiOfficial/Telethon-String-Generator](https://github.com/SenseiOfficial/Telethon-String-Generator) - Deploy this bot to Generate Telethon String session for telegram.🙂
+- [meanii/sessionMaker](https://github.com/meanii/sessionMaker) - a bot that can create session string of pyrogram and telethon.
+- [SpEcHiDe/PlayAStream](https://github.com/SpEcHiDe/PlayAStream) - 
+- [iytdl/iytdl](https://github.com/iytdl/iytdl) - Async Inline YouTube-DL for Pyrogram based Bots
+- [Jack-of-tg/MEDIA-EDITOR-BOT](https://github.com/Jack-of-tg/MEDIA-EDITOR-BOT) - 
+- [FayasNoushad/Bot-Status-UserBot](https://github.com/FayasNoushad/Bot-Status-UserBot) - A telegram bot status checking userbot for bot updates channel admins
+- [breakdowns/drive-searchbot](https://github.com/breakdowns/drive-searchbot) - Google Drive file searcher
+- [john-phonk/john_feedbackbot](https://github.com/john-phonk/john_feedbackbot) - A simple feedback bot with message response support
+- [odysseusmax/tg-index](https://github.com/odysseusmax/tg-index) - Python web app to index telegram chats and serve its files for download over HTTP.
+- [paul-nameless/tg](https://github.com/paul-nameless/tg) - terminal telegram client
+- [gautamajay52/UdemyBot](https://github.com/gautamajay52/UdemyBot) - UdemyBot - A Simple Udemy Free Courses Scrapper
+- [gautamajay52/ufile.io](https://github.com/gautamajay52/ufile.io) - Asynchronous Python Wrapper for the Ufile API
+- [New-dev0/TgTwitterBot](https://github.com/New-dev0/TgTwitterBot) - TgTwitterBot -  Control and Explore Twitter from Telegram
+- [lntechnical2/live_count_channelv2](https://github.com/lntechnical2/live_count_channelv2) - 
+- [nuhmanpk/WebScrapper](https://github.com/nuhmanpk/WebScrapper) - Telegram Bot to scrap webpages using Requests, html5lib and Beautifulsoup
+- [m4mallu/DeleteMediaRobot](https://github.com/m4mallu/DeleteMediaRobot) - Telegram robot to delete media in a chat!
+- [AnjanaMadu/MentionAllBot](https://github.com/AnjanaMadu/MentionAllBot) - This bot can mention members upto 10,000 in groups and can mention members upto 200 in channels !
+- [dihanofficial/SophiaOLD](https://github.com/dihanofficial/SophiaOLD) - Old Vision of Sophia Source Code.....
+- [hadronepoch/python-ffmpeg-video-streaming](https://github.com/hadronepoch/python-ffmpeg-video-streaming) - 📼 Package media content for online streaming(DASH and HLS) using FFmpeg
+- [TeamDaisyX/DaisyXMusic](https://github.com/TeamDaisyX/DaisyXMusic) - Free and Open Source Group Voice chat music player for telegram ❤️ with button support youtube playback support
+- [BlazingWarlord/BeautifulSoup](https://github.com/BlazingWarlord/BeautifulSoup) - Get movie details with Python from imdb.com
+- [Karan-Malik/IMDb_bot](https://github.com/Karan-Malik/IMDb_bot) - Telegram bot to fetch details and ratings for any movie
+- [utsavgadhiya/imdb-movie-service](https://github.com/utsavgadhiya/imdb-movie-service) - A basic service which gets movie details from imdb through third party API intergration, made with flask
+- [agnibhs/IMDB-Best-Flims-with-Details-Using-Python-](https://github.com/agnibhs/IMDB-Best-Flims-with-Details-Using-Python-) - 
+- [dsteinberger/scrapimdb](https://github.com/dsteinberger/scrapimdb) - Scrap Imdb website to retrieve detail informations from movies or tvshows
+- [nikunj22/Search-Movies-Details-With-Python-IMDbPY](https://github.com/nikunj22/Search-Movies-Details-With-Python-IMDbPY) - HELLO , FRINDS IN THIIS REPOSITORY I WRITE A CODE SEARCH MOVIES DETAILS WITH PYTHON USING IMDbPY PACKAGE STEP BY STEP AND HOW TO INSTALL PACKAGE IMDbPY EASY AND FAST  SO WATCH THIS VIDEO TILL AND NOW 
+- [sourav819/Web-Scraping-Project](https://github.com/sourav819/Web-Scraping-Project) - Here I have extracted top 250 movies from IMDB website and also the further details about each movies
+- [coderecode-com/Youtube_Videos](https://github.com/coderecode-com/Youtube_Videos) - Collection of code from our Youtube Channel
+- [MUHAMMAD-TALHA-TARIQ/QR-Code-Generator](https://github.com/MUHAMMAD-TALHA-TARIQ/QR-Code-Generator) - Desktop Application that will generate QR-code and save as png using input any data in text.
+- [rnag5076/speech_recognition](https://github.com/rnag5076/speech_recognition) - 
+- [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
+- [alirezamika/autoscraper](https://github.com/alirezamika/autoscraper) - A Smart, Automatic, Fast and Lightweight Web Scraper for Python
+- [viperadnan-git/telegram-message-forwarder-bot](https://github.com/viperadnan-git/telegram-message-forwarder-bot) - A telegram bot to forward messages automatically when they arrived.
+- [samadii/MusicChannelManagerV2](https://github.com/samadii/MusicChannelManagerV2) - A Telegram Bot to manage your music channel with some cool features.
+- [tlgtaa/similar-movie-bot](https://github.com/tlgtaa/similar-movie-bot) - Telegram bot for search similar movies by movie title
+- [mahdigoodarzi123/instabot](https://github.com/mahdigoodarzi123/instabot) - an instagram bot for like, save,comment and follow unfollow
+- [lntechnical2/Telegram_Live_Subscriber_Count](https://github.com/lntechnical2/Telegram_Live_Subscriber_Count) - Telegram Channel Live Subscriber Counting Bot
+- [AbirHasan2005/Fotmob-Updates-Bot](https://github.com/AbirHasan2005/Fotmob-Updates-Bot) - Telegram Bot for updating ongoing matches of Fotmob.com in channel by @AbirHasan2005
+- [Ns-Bots/TG-File-Store](https://github.com/Ns-Bots/TG-File-Store) - 
+- [TroJanzHEX/Image-Editor](https://github.com/TroJanzHEX/Image-Editor) - A Telegram Image Editor Bot with Many features and Options.
+- [AbirHasan2005/OPRecon](https://github.com/AbirHasan2005/OPRecon) - Using this you can find informations via PhoneInFoga(In-Built), Find location via IP Address & website link via IPGeoLocation(In-Built) and Phone Number Tracker(Made by @AbirHasan2005). Phone Number T
+- [samadii/AutoMusicTagEditor](https://github.com/samadii/AutoMusicTagEditor) - This bot is helpful for those who want to just remove usernames from the music tags or append their own usernames to the tags.
+- [TgCatUB/catuserbot](https://github.com/TgCatUB/catuserbot) - A simple Telegram userbot based on Telethon
+- [subinps/Instagram-Bot](https://github.com/subinps/Instagram-Bot) - Telegram bot to download almost all from Instagram
+- [benchamxd/Telegraph-Uploader](https://github.com/benchamxd/Telegraph-Uploader) - A Telegram Bot Written In Python To Upload Medias To telegra.ph
+- [KristoforMaynard/music-tag](https://github.com/KristoforMaynard/music-tag) - Simple interface to edit audio file metadata
+- [dmcrobin/AudioScript](https://github.com/dmcrobin/AudioScript) - Auto Generate Subtitle File For Any Type Of Audio and Video. Using Python and Google Speech-to-Text API.
+- [PaddlePaddle/PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech) - Easy-to-use Speech Toolkit including Self-Supervised Learning model, SOTA/Streaming ASR with punctuation, Streaming TTS with text frontend, Speaker Verification System, End-to-End Speech Translation a
+- [RashadGarayev/TRSpeech-to-text](https://github.com/RashadGarayev/TRSpeech-to-text) - 
+- [abhirooptalasila/AutoSub](https://github.com/abhirooptalasila/AutoSub) - A CLI script to generate subtitle files (SRT/VTT/TXT) for any video using either DeepSpeech or Coqui
+- [plutowang/generate-video-subtitle](https://github.com/plutowang/generate-video-subtitle) - Using Google Cloud Speech-To-Text API
+- [nestyme/Subtitles-generator](https://github.com/nestyme/Subtitles-generator) - generates transcript for video from link
+- [binhex/videoslimmer](https://github.com/binhex/videoslimmer) - Utility to remove unwanted audio and subtitles from mkv files.
+- [PaySin/audio2srt](https://github.com/PaySin/audio2srt) - use baidu voice-api to add subtitle to a vedio
+- [M-fazin/Password-Generator-Bot](https://github.com/M-fazin/Password-Generator-Bot) - A Simple Telegram Bot That Can Generate Strong Password With Many Features Written In Python Using Pyrogram
+- [FayasNoushad/Glitch-Art-Bot](https://github.com/FayasNoushad/Glitch-Art-Bot) - A image to glitch image telegram bot
+- [nabilanavab/ilovepdf](https://github.com/nabilanavab/ilovepdf) - Telegram Bot that helps you to convert Images to pdf, pdf to images, 45+ file formats to pdf, more features Soon..
+- [yash-dk/Mesh-RenameBot](https://github.com/yash-dk/Mesh-RenameBot) - One of the best Rename bot for telegram. Heroku deployable and many features.
+- [lntechnical2/youtube_data_api](https://github.com/lntechnical2/youtube_data_api) - Create Your Own API
+- [Ts-Bots/AutoCaption-Ts_Bot-Clone](https://github.com/Ts-Bots/AutoCaption-Ts_Bot-Clone) - 
+- [lntechnical2/PyYouTube](https://github.com/lntechnical2/PyYouTube) - Search Youtube Video and Get Video info
+- [lntechnical2/YouTube_Video_Data_Bot](https://github.com/lntechnical2/YouTube_Video_Data_Bot) - 
+- [oVoIndia/MultiUpload-Bot](https://github.com/oVoIndia/MultiUpload-Bot) - A Bot to Upload files to Many Cloud services. Powered by Telethon.
+- [AsmSafone/RadioPlayerV3](https://github.com/AsmSafone/RadioPlayerV3) - An Advanced Telegram Bot to Play Radio & Music in Voice Chat.  This is Also The Source Code of The Bot Which is Being Used For Playing Radio in @AsmSafone Channel ❤️
+- [oVoIndia/GDrive-Bot](https://github.com/oVoIndia/GDrive-Bot) - 
+- [iamLiquidX/MirrorX](https://github.com/iamLiquidX/MirrorX) - A fork of a fork of a fork of a fork.........
+- [vamsich30/YouTube-Converter](https://github.com/vamsich30/YouTube-Converter) - Youtube converter which accepts youtube url and downloads it in user desired format.This project helps us to download your desired url in three formats .mp3, WEBM, .mp4 and helps user to download the 
+- [geovanigaldemsugar/Youtube-Downloader](https://github.com/geovanigaldemsugar/Youtube-Downloader) - 
+- [mikeysan/yt_pytube_dl](https://github.com/mikeysan/yt_pytube_dl) - A Python script used to practice pytube library.
+- [raahulrathore/Python-YouTube-Scraper](https://github.com/raahulrathore/Python-YouTube-Scraper) - A simple YouTube Scraper to scrape data from YouTube using URL and download audio and video files.
+- [2raederdev/wikipedia_scraper](https://github.com/2raederdev/wikipedia_scraper) - Enter the url of a Wikipedia article and get all internal links within the article.
+- [jkube38/web_scraper](https://github.com/jkube38/web_scraper) - Searches a web address for URL's, Phone Numbers and Email addresses using regex
+- [lamkashingpaul/url_scraper](https://github.com/lamkashingpaul/url_scraper) - Webpage scraper
+- [xXKaitoNakamuraXx/SimpleWebScraper](https://github.com/xXKaitoNakamuraXx/SimpleWebScraper) - Scrapes websites for urls and stores them in a txt file
+- [codassassin/website-url-scraper](https://github.com/codassassin/website-url-scraper) - This is a website url scraper built using python.
+- [uk0/telethon_get_media](https://github.com/uk0/telethon_get_media) - Telegram download media |  Telegram 下载群聊天的文件以及视频等内容。｜ Telegram 爬虫 ｜ tg 爬虫
+- [Ryen-042/Youtube-Links-Grabber](https://github.com/Ryen-042/Youtube-Links-Grabber) - Provide a YouTube playlist link and get all the links of the playlist videos along with the name and the length of these videos.
+- [haruhi-dl/haruhi-dl](https://github.com/haruhi-dl/haruhi-dl) - Online video downloader CLI tool/Python library. Mirror of the GitLab repository.
+- [mr-sharmaji/download_video_online](https://github.com/mr-sharmaji/download_video_online) - 
+- [hacker-h/youtube-telegram-downloader](https://github.com/hacker-h/youtube-telegram-downloader) - This is a Telegram bot which automatically downloads videos or streams, extracts the audiotrack and uploads it to your online storage backend.
+- [Itz-fork/Nexa-Userbot](https://github.com/Itz-fork/Nexa-Userbot) - Nexa Userbot - Dev Version
+- [Itz-fork/py-extract](https://github.com/Itz-fork/py-extract) - A simple, light-weight python library to handle some extraction tasks using less lines of code.
+- [ram-jayapalan/filesplit](https://github.com/ram-jayapalan/filesplit) - A python module to split file into multiple chunks based on the given size.
+- [rykovv/devotional-telegram-bot](https://github.com/rykovv/devotional-telegram-bot) - Telegram subscription bot, whose mission is sending devotionals and spiritual readings at user-determined time. Now running quizzes!
+- [rykovv/yt-pl-url-exractor](https://github.com/rykovv/yt-pl-url-exractor) - Script for extracting individual video metadata (e.g. URL, title) from YouTube playlists
+- [sssssqew/youtube-translator-upgrade](https://github.com/sssssqew/youtube-translator-upgrade) - translate title of youtube video and subtitles
+- [LonamiWebs/Telethon](https://github.com/LonamiWebs/Telethon) - Pure Python 3 MTProto API Telegram client library, for bots too!
+- [xditya/HTMLWebShotBot](https://github.com/xditya/HTMLWebShotBot) - 
+- [samadii/YTChannelContentsList](https://github.com/samadii/YTChannelContentsList) - A Telegram bot to listing Youtube channel contents in a message. Heroku deployable
+- [samadii/YT-Sub-Extractor](https://github.com/samadii/YT-Sub-Extractor) - A Telegram bot that can extract Youtube subtitle and send it to you as a text file. Heroku deployable
+- [Soebb/Persian-SubDL-Bot](https://github.com/Soebb/Persian-SubDL-Bot) - A simple Telegram bot to download persian subtitles from worldsubtitle.site
+- [nickoala/telepot](https://github.com/nickoala/telepot) - Python framework for Telegram Bot API
+- [AmineSoukara/Stream-HerokuLogs](https://github.com/AmineSoukara/Stream-HerokuLogs) - With This Code You Can Stream The Tail: In A Specific Chat (Private / Channel)
+- [TGExplore/TG-URL-Uploader](https://github.com/TGExplore/TG-URL-Uploader) - An Open Source GPLv3 All-In-One Telegram Bot
+- [SpEcHiDe/AnyDLBot](https://github.com/SpEcHiDe/AnyDLBot) - An Open Source GPLv3 All-In-One Telegram Bot
+- [nimiology/persian_subdl](https://github.com/nimiology/persian_subdl) - this script can download all Persian subtitles from worldsubtitle.info
+- [anandpskerala/SubtitlesBot](https://github.com/anandpskerala/SubtitlesBot) - 
+- [FayasNoushad/Google-Search-Bot](https://github.com/FayasNoushad/Google-Search-Bot) - A google search telegram bot.
+- [breakdowns/slam-mirrorbot](https://github.com/breakdowns/slam-mirrorbot) - Aria/qBittorrent Telegram Mirror/Leech Bot.
+- [lntechnical2/link-shortener](https://github.com/lntechnical2/link-shortener) - 
+- [lntechnical2/Live-stream-Group-voice-chat-bot](https://github.com/lntechnical2/Live-stream-Group-voice-chat-bot) - 
+- [lntechnical2/welcome-bot](https://github.com/lntechnical2/welcome-bot) - 
+- [lntechnical2/Youtube_link_generator](https://github.com/lntechnical2/Youtube_link_generator) - 
+- [lntechnical2/BitlyBot](https://github.com/lntechnical2/BitlyBot) - Bitly Short link generator Bot
+- [lntechnical2/Imagetopdf](https://github.com/lntechnical2/Imagetopdf) - Image to PDF bot
+- [lntechnical2/Google-Translater-](https://github.com/lntechnical2/Google-Translater-) - Google Translater Telegram bot
+- [lntechnical2/Google_Translater_V2](https://github.com/lntechnical2/Google_Translater_V2) - Google Translater v2
+- [lntechnical2/Thumbnail-generator](https://github.com/lntechnical2/Thumbnail-generator) - 
+- [lntechnical2/forward-tag-remover-bot](https://github.com/lntechnical2/forward-tag-remover-bot) - 
+- [lntechnical2/YouTube_Thumbnail_Downloader](https://github.com/lntechnical2/YouTube_Thumbnail_Downloader) - Youtube Video  Thumbnail Downloader Telegram Bot
+- [lntechnical2/RENAMER_BOT_V2](https://github.com/lntechnical2/RENAMER_BOT_V2) - Telegram File Renamer Bot
+- [erfan4lx/Telegram-Channel-Posts-Counter](https://github.com/erfan4lx/Telegram-Channel-Posts-Counter) - Count the posts on your target Telegram channel
+- [rafpyprog/ImageSoup](https://github.com/rafpyprog/ImageSoup) - Python library designed for quick search and downloading images from Google Images.
+- [banhao/scrape-youtube-channel-videos-url](https://github.com/banhao/scrape-youtube-channel-videos-url) - This Python script is used to scrape all the video links from a youtube channel.
+- [Itz-fork/pyro-mega.py](https://github.com/Itz-fork/pyro-mega.py) - Modified Version of mega.py package for Pyrogram Bots
+- [Itz-fork/Callsmusic-Plus](https://github.com/Itz-fork/Callsmusic-Plus) - Powerful Telegram Voice Chat Player Bot Based On CallsMusic With More Advanced Features!
+- [Itz-fork/Mega.nz-Bot](https://github.com/Itz-fork/Mega.nz-Bot) - Simple Telegram Bot to Download and Upload Files From Mega.nz
+- [VideoMasters/VideoDownloaderBot](https://github.com/VideoMasters/VideoDownloaderBot) - Download videos using this telegram bot
+- [FayasNoushad/YouTube-Thumbnail-Downloader](https://github.com/FayasNoushad/YouTube-Thumbnail-Downloader) - A youtube videos thumbnail downloader telegram bot.
+- [FayasNoushad/PyPi-Bot](https://github.com/FayasNoushad/PyPi-Bot) - A pypi packages finder telegram bot.
+- [FayasNoushad/Channel-Message-Editor](https://github.com/FayasNoushad/Channel-Message-Editor) - A telegram channel message editor bot.
+- [aahnik/simple-screenshot-bot](https://github.com/aahnik/simple-screenshot-bot) - Telegram bot that takes screenshot of webpages.
+- [aahnik/telewater](https://github.com/aahnik/telewater) - A telegram bot that applies watermark on images, gifs, and videos.
+- [pyrogram/pyrogram](https://github.com/pyrogram/pyrogram) - Elegant, modern and asynchronous Telegram MTProto API framework in Python for users and bots
+- [SpEcHiDe/PyroGramBot](https://github.com/SpEcHiDe/PyroGramBot) - pluggable Telegram Bot based on Pyrogram
+- [TheHamkerCat/python-arq](https://github.com/TheHamkerCat/python-arq) - Asynchronous Python Wrapper For A.R.Q API.
+- [lamergameryt/AllenVideoDownloader](https://github.com/lamergameryt/AllenVideoDownloader) - Allen Video Downloader uses Allen’s API to fetch the video recordings from their website
+- [gautamajay52/pygofile](https://github.com/gautamajay52/pygofile) - Asynchronous Python Wrapper for the GoFile API
+- [X-Gorn/StreamtapeLoader](https://github.com/X-Gorn/StreamtapeLoader) - Telegram bot to upload streamtape url to telegram as video/document
+- [samadii/Movie-Search-bot](https://github.com/samadii/Movie-Search-bot) - Inline bot for channels and groups
+- [aryazakaria01/PornHub](https://github.com/aryazakaria01/PornHub) - A Telegram Bot For Download PornHub Videos.
+- [samadii/ibcleanerbot](https://github.com/samadii/ibcleanerbot) - This is a simple Telegram bot to Delete User Messages based on Groupmembers Votes. Heroku deployable
+- [samadii/VideoEncoder](https://github.com/samadii/VideoEncoder) - A Telegram bot to encode videos files via ffmpeg.
+- [AnjanaMadu/YTPlaylistDL](https://github.com/AnjanaMadu/YTPlaylistDL) - A Telegram bot to download youtube playlists and upload them to telegram. (may be slow becoz youtube limitations)
+- [AbirHasan2005/Footer-Bot](https://github.com/AbirHasan2005/Footer-Bot) - A Bot for adding Footer caption beside main caption of Telegram Channel Messages by @AbirHasan2005
+- [AbirHasan2005/Emoji-Captcha-Bot](https://github.com/AbirHasan2005/Emoji-Captcha-Bot) - A Telegram Bot for verifying new group members by Emojis Captcha by @AbirHasan2005.
+- [AsiaXDev/AquaDLBot](https://github.com/AsiaXDev/AquaDLBot) - A Simple Telegram Bot To Download And Upload Files
+- [AmineSoukara/PyLyricsBot](https://github.com/AmineSoukara/PyLyricsBot) - PyLyrics Is An [Open-Source] Bot That Can Help You Get Song Lyrics
+- [No-OnE-Kn0wS-Me/FileRenameBot](https://github.com/No-OnE-Kn0wS-Me/FileRenameBot) - A Telegram File Renamer Bot With Permanent Thumbnail Support Also It Can Convert Files Into Video!!
+- [AsmSafone/RadioPlayerV2](https://github.com/AsmSafone/RadioPlayerV2) - This Is Advanced Version Of Old Radio Player, An Telegram Bot to Play Radio/Music in Channel or Group Voice Chats.
+- [AsmSafone/RadioPlayer](https://github.com/AsmSafone/RadioPlayer) - An Telegram Bot to Play Radio & Music in Voice Chat By @AsmSafone.
+- [AsmSafone/MegaDL-Bot](https://github.com/AsmSafone/MegaDL-Bot) - A Simple Telegram Bot By @AsmSafone to Download Files From Mega.nz and Upload It to Telegram
+- [nimiology/spotify_downloader_telegram__bot](https://github.com/nimiology/spotify_downloader_telegram__bot) - This simple Python script allows you to download songs from Spotify by Telegram bot
+- [FayasNoushad/Attach-Bot](https://github.com/FayasNoushad/Attach-Bot) - A telegram file or media in a message using their links attach bot.
+- [FayasNoushad/Pyrogram-Json-Bot](https://github.com/FayasNoushad/Pyrogram-Json-Bot) - A telegram to pyrogram json bot
+- [FayasNoushad/Telegraph-Uploader-Bot](https://github.com/FayasNoushad/Telegraph-Uploader-Bot) - A simple telegram file or media to telegra.ph link uploader bot
+- [FayasNoushad/Country-Info-Bot](https://github.com/FayasNoushad/Country-Info-Bot) - A simple country information finder bot
+- [FayasNoushad/Calculator-Bot](https://github.com/FayasNoushad/Calculator-Bot) - A calculator telegram bot.
+- [FayasNoushad/Info-Bot](https://github.com/FayasNoushad/Info-Bot) - A telegram user or chat information finder bot.
+- [FayasNoushad/Translator-Bot-V2](https://github.com/FayasNoushad/Translator-Bot-V2) - A simple google translator telegram bot version 2
+- [FayasNoushad/Corona-Info-Bot](https://github.com/FayasNoushad/Corona-Info-Bot) - A corona statistics and information telegram bot.
+- [FayasNoushad/Channel-Auto-Post-Bot](https://github.com/FayasNoushad/Channel-Auto-Post-Bot) - A channel auto post telegram bot.
+- [FayasNoushad/Remove-BG-Bot](https://github.com/FayasNoushad/Remove-BG-Bot) - A media background remover telegram bot with pyrogram framework.
+- [FayasNoushad/Translator-Bot](https://github.com/FayasNoushad/Translator-Bot) - A simple google translator telegram bot
+- [gaoyunzhi/telegram_util](https://github.com/gaoyunzhi/telegram_util) - Telegram bot related Utils
+- [gaoyunzhi/msg_index_bot](https://github.com/gaoyunzhi/msg_index_bot) - Telegram msg index bot, power https://t.me/msg_index_bot
+- [gaoyunzhi/telegraph_export_bot](https://github.com/gaoyunzhi/telegraph_export_bot) - Telegram bot to transfer webpage to telegraph
+- [samadii/ChannelForwardTagRemover](https://github.com/samadii/ChannelForwardTagRemover) - A simple Telegram bot to remove forward tag from forwarded messages in channel, also works in private. Heroku deployable
+- [m4mallu/gofilesbot](https://github.com/m4mallu/gofilesbot) - Filter bot for file serving groups. The bot is performing its function in a different way! Read for more...
+- [m4mallu/broadcast-bot](https://github.com/m4mallu/broadcast-bot) - A simple Telegram bot that can broadcast messages and media to the bot subscribers.
+- [m4mallu/inline-directory-bot](https://github.com/m4mallu/inline-directory-bot) - Telegram bot to serve contact card amoung work environment using Inline method. For esspecially those companies doesn't have any inter communication methods. This bot is also be able to broadcast mess
+- [m4mallu/uniquify](https://github.com/m4mallu/uniquify) - Uniquify is a Telegram bot interface used to remove duplicate media files from a chat
+- [SurajMeena/todo-telegram-bot](https://github.com/SurajMeena/todo-telegram-bot) - 
+- [Soebb/lang-detector-bot](https://github.com/Soebb/lang-detector-bot) - Telegram bot for language detection from Voice based on Silero VAD
+- [Soebb/voiceChanger](https://github.com/Soebb/voiceChanger) - Telegram bot for changing the voice in a voice message or audio recording, with the ability to return the encrypted voice to the standard sound
+- [Ryize/voiceChanger](https://github.com/Ryize/voiceChanger) - Telegram-бот для изменения голоса в голосовом сообщении или аудиозаписи, с возможностью возврата зашифрованного голоса к стандартному звучанию
+- [egorsmkv/lang-detector-bot](https://github.com/egorsmkv/lang-detector-bot) - Telegram bot for language detection from Voice based on Silero VAD
+- [AbirHasan2005/Message-Search-Bot](https://github.com/AbirHasan2005/Message-Search-Bot) - A Telegram Bot for searching any channel messages from Inline by @AbirHasan2005
+- [EverythingSuckz/TG-FileStreamBot](https://github.com/EverythingSuckz/TG-FileStreamBot) - A telegram bot that will give instant stream links for telegram files without the need of waiting till the download completes.
+- [JameelKaisar/AjmisT2S_bot](https://github.com/JameelKaisar/AjmisT2S_bot) - Ajmi's Text to Speech Bot created using gtts and pyrogram
+- [CodeXBotz/File-Sharing-Bot](https://github.com/CodeXBotz/File-Sharing-Bot) - Telegram Bot to store Posts and Documents and it can Access by Special Links.
+- [subinps/MusicPlayer](https://github.com/subinps/MusicPlayer) - Telegram Bot to play music in VoiceChat with Channel Support and autostarts Radio.
+- [callsmusic/tgvc-userbot](https://github.com/callsmusic/tgvc-userbot) - Telegram voice chat userbot made with Pyrogram and MarshalX/tgcalls with playlist support
+- [AmineSoukara/RemoveForwardTagBot](https://github.com/AmineSoukara/RemoveForwardTagBot) - For Personal Use ..
+- [MrBotDeveloper/PDF-Bot](https://github.com/MrBotDeveloper/PDF-Bot) - A bot for PDF for doing Many Things....
+- [f213/tg2rss](https://github.com/f213/tg2rss) - Generating RSS out of my telegram channel
+- [f213/channel-discussion-antispam-bot](https://github.com/f213/channel-discussion-antispam-bot) - 
+- [KunoiSayami/Things-Forward-telegram](https://github.com/KunoiSayami/Things-Forward-telegram) - Automatic forwarding message on Telegram.
+- [f213/selfmailbot](https://github.com/f213/selfmailbot) - Telegram bot that forwards messages to your inbox
+- [franciscod/telegram-twitter-forwarder-bot](https://github.com/franciscod/telegram-twitter-forwarder-bot) - A Telegram bot that forwards Tweets
+- [radinghr/LTelegramBot](https://github.com/radinghr/LTelegramBot) - A simple bot that will help you to improve your English skills
+- [CrazyBotsz/Adv-Auto-Filter-Bot-V2](https://github.com/CrazyBotsz/Adv-Auto-Filter-Bot-V2) - An advance automatic filter bot for filtering files and media in a telegram chat
+- [subinps/Media-Search-bot](https://github.com/subinps/Media-Search-bot) - Inline bot for channels and groups
+- [silexxx/subtitle_bot](https://github.com/silexxx/subtitle_bot) - This telegram bot sends .srt back when you send an video to it.
+- [X-Gorn/MangaLoader](https://github.com/X-Gorn/MangaLoader) - Telegram bot to upload manga/comic to Telegram as PDF/ZIP or Folder (each chapter) | Uploaded as Zipfile
+- [samadii/telegram-robot-rss](https://github.com/samadii/telegram-robot-rss) - A clean and easy to use RSS Newsfeed Bot for fabulous Telegram Messenger App! Heroku deployable :robot: :envelope: :heart:
+- [xditya/ChannelAutoPost](https://github.com/xditya/ChannelAutoPost) - Telegram bot to auto post messages of one channel in another channel as soon as it is posted, without the forwarded tag.
+- [callsmusic/tgmusicbot](https://github.com/callsmusic/tgmusicbot) - Telegram bot for downloading audio from YouTube, SoundCloud & MixCloud.
+- [Lulzx/messagemerger](https://github.com/Lulzx/messagemerger) - A simple bot to concatenate and split message content.
+- [AlejandroFuster/Doc2Pdf-bot](https://github.com/AlejandroFuster/Doc2Pdf-bot) - 📝 Convert DOC or DOCX to PDF using a Telegram Bot 💬
+- [moshe-coh/Terminal-Bot](https://github.com/moshe-coh/Terminal-Bot) - Terminal Bot which will Execute your Commands From telegram bot!
+- [Mahesh0253/Media-Search-bot](https://github.com/Mahesh0253/Media-Search-bot) - Inline bot for channels and groups
+- [mohdsabahat/sub-muxer](https://github.com/mohdsabahat/sub-muxer) - 
+- [amit-y11/the_ocr_bot](https://github.com/amit-y11/the_ocr_bot) - Telegram bot to convert image to text using python
+- [XtremeRahul/gdrive_folder_size](https://github.com/XtremeRahul/gdrive_folder_size) - A simple script to calculate gDrive folder size, and total number of files and folders in it using python❤️
+- [avipatilpro/FileStreamBot](https://github.com/avipatilpro/FileStreamBot) - Telegram File to Link Fastest Bot , Its Generate Direct Links Quickly
+- [Shiv-x/VCPlayBot](https://github.com/Shiv-x/VCPlayBot) - Telegram Group Music Bot Groups Music allows you to play music in your groups.
+- [Shiv-x/LaylaRobot](https://github.com/Shiv-x/LaylaRobot) - A Next-Gen modular Python3 Telegram-Bot with Anime Theme to it.
+- [m4mallu/clonebot](https://github.com/m4mallu/clonebot) - A Telegram robot can clone medias from any chat to your own chat.
+- [aahnik/tgcf](https://github.com/aahnik/tgcf) - The ultimate tool to automate custom telegram message forwarding. Live-syncer, Auto-poster, backup-bot, cloner, chat-forwarder, duplicator, ... Call it whatever you like! tgcf can fulfill your custom 
+- [AbirHasan2005/Mirror-Magneto](https://github.com/AbirHasan2005/Mirror-Magneto) - Telegram Mirror Bot Source Code Modified by @AbirHasan2005
+- [AbirHasan2005/TG-String-Session](https://github.com/AbirHasan2005/TG-String-Session) - Generate String Session Using this bot. Modified by @AbirHasan2005
+- [AbirHasan2005/Torrent-Search-Bot](https://github.com/AbirHasan2005/Torrent-Search-Bot) - A Simple Telegram Inline Torrent Search Bot by @AbirHasan2005
+- [AbirHasan2005/Pyro-FileStreamBot](https://github.com/AbirHasan2005/Pyro-FileStreamBot) - Stream Telegram files to web
+- [AbirHasan2005/Message-Manager-Bot](https://github.com/AbirHasan2005/Message-Manager-Bot) - A Telegram Message Manager Bot by @AbirHasan2005
+- [AbirHasan2005/VideoMerge-Bot](https://github.com/AbirHasan2005/VideoMerge-Bot) - A Telegram Video Merge Bot by @AbirHasan2005
+- [AbirHasan2005/Cloud-UPManager-Bot](https://github.com/AbirHasan2005/Cloud-UPManager-Bot) - Telegram Cloud Upload Manager Bot by @AbirHasan2005
+- [AbirHasan2005/GdriveSearcherBot](https://github.com/AbirHasan2005/GdriveSearcherBot) - Google Drive Searcher Bot Written In Python Using Pyrogram. Moded by @AbirHasan2005
+- [AbirHasan2005/Forward-Client](https://github.com/AbirHasan2005/Forward-Client) - This is Telegram Messages Forwarder Userbot by @AbirHasan2005
+- [AbirHasan2005/TelegramScraper](https://github.com/AbirHasan2005/TelegramScraper) - Using this tool you can easily add so many members from any group to your group. Less than 2 minutes. Super easy. Time saver. But this tool is only for educational purpose. You could be banned from Te
+- [AbirHasan2005/Save-Group](https://github.com/AbirHasan2005/Save-Group) - A Group Files Store Userbot + Bot by @AbirHasan2005
+- [AbirHasan2005/VideoCompress](https://github.com/AbirHasan2005/VideoCompress) - Telegram Video Compressor Bot By @AbirHasan2005
+- [AbirHasan2005/Rename-Bot](https://github.com/AbirHasan2005/Rename-Bot) - A Very Simple Telegram Files Rename Bot by @AbirHasan2005
+- [AbirHasan2005/PyroFilesStoreBot](https://github.com/AbirHasan2005/PyroFilesStoreBot) - This is Telegram Files Store Bot by @AbirHasan2005
+- [gpchelkin/scdlbot](https://github.com/gpchelkin/scdlbot) - Telegram Bot for downloading MP3 rips of tracks/sets from SoundCloud, Bandcamp, YouTube with tags and artwork.
+- [Yeagerist-Music-Streamer-Bot-V3/YouTubeSongDownloader](https://github.com/Yeagerist-Music-Streamer-Bot-V3/YouTubeSongDownloader) - YouTube Song Downloader Bot For Telegram 🔮 Powerd By Yᴇᴀɢᴇʀɪsᴛ Bᴏᴛs. For Help Ask
+- [dixitaniket/tele_youtube_bot](https://github.com/dixitaniket/tele_youtube_bot) - 
+- [cbrgm/telegram-robot-rss](https://github.com/cbrgm/telegram-robot-rss) - A clean and easy to use RSS Newsfeed Bot for fabulous Telegram Messenger App! :robot: :envelope: :heart:
+- [mrcentimetre/gpytranslator-bot](https://github.com/mrcentimetre/gpytranslator-bot) - Pyrogram translate bot using GpyTranslate Library.
+- [ijustbsd/watermark-telegram-bot](https://github.com/ijustbsd/watermark-telegram-bot) - 
+- [samadii/ChannelAutoCopy](https://github.com/samadii/ChannelAutoCopy) - A Script to automate fowarding all new messages from one/many channel(s) to another channel(s), without the forwarded tag.
+- [samadii/remove-all-members](https://github.com/samadii/remove-all-members) - A simple telegram bot for remove all members from group or channel.
+- [samadii/Archive-bot](https://github.com/samadii/Archive-bot) - A telegram bot that allows compression of multiple files into a ZIP archive
+- [samadii/zip_files_bot](https://github.com/samadii/zip_files_bot) - A simple telegram bot that takes a list of files sent by the user and returns them zipped.
+- [samadii/music-demos-bot](https://github.com/samadii/music-demos-bot) - A simple Telegram auto audio cutter bot that sends a short piece of musics in the form of an voice message.
+- [samadii/Wiki-Search-Bot](https://github.com/samadii/Wiki-Search-Bot) - 
+- [samadii/Qr-Code-Bot](https://github.com/samadii/Qr-Code-Bot) - A Telegram Bot to Generate Qr code
+- [samadii/MusicChannelManager](https://github.com/samadii/MusicChannelManager) - A Telegram bot that add a dynamic caption to musics
+
+## R 
+
+- [Helias/Speech-Gender-Recognition-Bot](https://github.com/Helias/Speech-Gender-Recognition-Bot) - Telegram Bot that recognize your gender
 
 ## Ruby 
 
-- [apple/homebrew-apple](https://github.com/apple/homebrew-apple) - 
-- [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
-- [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
-- [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
-- [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework) - Metasploit Framework
-- [github-changelog-generator/github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
-- [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's core logic for creating update PR's.
-- [greatghoul/remote-working](https://github.com/greatghoul/remote-working) - 收集整理远程工作相关的资料
-- [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
-- [matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift) - A collaborative list of awesome Swift libraries and resources. Feel free to contribute!
+- [heroku/heroku-buildpack-python](https://github.com/heroku/heroku-buildpack-python) - The official Heroku buildpack for Python apps
+- [oliverfei/fireemblem-herobuilder](https://github.com/oliverfei/fireemblem-herobuilder) - Hero builder for Fire Emblem Heroes
 
 ## Rust 
 
-- [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow) - Video stabilization using gyroscope data
-- [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces).
-- [postgresml/postgresml](https://github.com/postgresml/postgresml) - PostgresML is an AI application database. Download open source models from Huggingface, or train your own, to create and index LLM embeddings, generate text, or make online predictions using only SQL.
-- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - React-like GUI library for desktop, web, mobile, TUI, and more.
-- [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone.
-- [memorysafety/sudo-rs](https://github.com/memorysafety/sudo-rs) - A memory safe implementation of sudo and su.
-- [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An Open Source Financial Switch to make Payments fast, reliable and affordable
-- [mitsuhiko/rye](https://github.com/mitsuhiko/rye) - An Experimental Package Management Solution for Python
-- [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for applications that are written in Rust, C++, or JavaScript.
-- [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter, written in Rust.
-- [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - Vector Database for the next generation of AI applications. Also available in the cloud https://cloud.qdrant.io/
-- [facebook/buck2](https://github.com/facebook/buck2) - Build system, successor to Buck
-- [ArroyoSystems/arroyo](https://github.com/ArroyoSystems/arroyo) - Distributed stream processing engine in Rust
-- [johnlui/PPHC](https://github.com/johnlui/PPHC) - 📙《高并发的哲学原理》开源图书（CC BY-NC-ND）
-- [apache/incubator-opendal](https://github.com/apache/incubator-opendal) - Apache OpenDAL: access data freely.
-- [BloopAI/bloop](https://github.com/BloopAI/bloop) - bloop is a fast code search engine written in Rust.
-- [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
-- [mozilla/sccache](https://github.com/mozilla/sccache) - sccache is ccache with cloud storage
-- [PRQL/prql](https://github.com/PRQL/prql) - PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
-- [rust-lang/book](https://github.com/rust-lang/book) - The Rust Programming Language
-- [Byron/gitoxide](https://github.com/Byron/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
-- [google/forma](https://github.com/google/forma) - An efficient vector-graphics renderer
-- [extism/extism](https://github.com/extism/extism) - The Universal Plug-in System. Extend anything with WebAssembly (wasm).
-- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App
-- [sigoden/dufs](https://github.com/sigoden/dufs) - A file server that supports static serving, uploading, searching, accessing control, webdav...
-- [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
-- [PyO3/pyo3](https://github.com/PyO3/pyo3) - Rust bindings for the Python interpreter
-- [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported.
-- [facebook/sapling](https://github.com/facebook/sapling) - A Scalable, User-Friendly Source Control System.
-- [messense/aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
-- [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
-- [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
-- [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions.
-- [ivanceras/svgbob](https://github.com/ivanceras/svgbob) - Convert your ascii diagram scribbles into happy little SVG
-- [tidb-incubator/tidis](https://github.com/tidb-incubator/tidis) - A distributed transactional large-scale NoSQL database powered by TiKV
-- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
-- [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - A fast and secure runtime for WebAssembly
-- [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
-- [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
-- [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Sub-second search & analytics engine on cloud storage
-- [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice) - Learning Rust By Practice,  narrowing the gap between beginner and skilled-dev through challenging examples, exercises and projects.
-- [pola-rs/polars](https://github.com/pola-rs/polars) - Fast multi-threaded, hybrid-out-of-core DataFrame library in Rust | Python | Node.js
-- [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) - Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload
-- [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
-- [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage.
-- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
-- [wasmerio/wasmer-python](https://github.com/wasmerio/wasmer-python) - 🐍🕸 WebAssembly runtime for Python
-- [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
-- [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
-- [datafuselabs/databend](https://github.com/datafuselabs/databend) - A modern cloud data warehouse focusing on reducing cost and complexity for your massive-scale analytics needs. Open source alternative to Snowflake. Also available in the cloud: https://app.databend.c
-- [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Virtual / remote desktop infrastructure for everyone! Open source TeamViewer / Citrix alternative.
-- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
-- [rust-lang/cargo](https://github.com/rust-lang/cargo) - The Rust package manager
-- [benfred/py-spy](https://github.com/benfred/py-spy) - Sampling profiler for Python programs
-- [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
-- [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
-- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow.
-- [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool for saving complete web pages as a single HTML file
-- [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
-- [dalance/procs](https://github.com/dalance/procs) - A modern replacement for ps written in Rust
-- [cube-js/cube](https://github.com/cube-js/cube) - 📊  Cube — The Semantic Layer for Building Data Applications
-- [tokio-rs/tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
-- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-- [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
-- [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
-- [cloudflare/quiche](https://github.com/cloudflare/quiche) - 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
-- [diem/diem](https://github.com/diem/diem) - Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.
-- [actix/actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
-- [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
-- [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
-- [tikv/tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB
-
-## SCSS 
-
-- [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges) - Badges for your personal developer branding, profile, and projects.
-- [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
-
-## Scala 
-
-- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter's Recommendation Algorithm
-- [apache/spark](https://github.com/apache/spark) - Apache Spark - A unified analytics engine for large-scale data processing
-
-## Scheme 
-
-- [racket/racket](https://github.com/racket/racket) - The Racket repository
+- [ferrisgram/ferrisgram](https://github.com/ferrisgram/ferrisgram) - Autogenerated wrapper for the Telegram Bot API written in Rust.
+- [alenpaulvarghese/AurSearchBot](https://github.com/alenpaulvarghese/AurSearchBot) - Telegram bot for searching in Arch User Repository ( AUR ); Implemented using rust.
+- [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger) - 📼 Merge video & audio files via CLI
 
 ## Shell 
 
-- [howl-anderson/unlocking-the-power-of-llms](https://github.com/howl-anderson/unlocking-the-power-of-llms) - 使用 Prompts 和 Chains 让 ChatGPT 成为神奇的生产力工具！Unlocking the power of LLMs.
-- [pingcap/docs-cn](https://github.com/pingcap/docs-cn) - TiDB/TiKV/PD documentation in Chinese.
-- [snaplet/postgres-wasm](https://github.com/snaplet/postgres-wasm) - A PostgresQL server running in your browser
-- [apinske/virt](https://github.com/apinske/virt) - small Linux VM, ready to run containers, for macOS on ARM
-- [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
-- [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) - 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
-- [timescale/tobs](https://github.com/timescale/tobs) - tobs - The Observability Stack for Kubernetes. Easy install of a full observability stack into a k8s cluster with Helm charts.
-- [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - I am using this repository to document my journey learning about DevOps. I began this process on January 1, 2022, and plan to continue until March 31. I will be dedicating one hour each day, including
-- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
-- [remote-android/redroid-doc](https://github.com/remote-android/redroid-doc) - redroid (Remote-Android) is a multi-arch, GPU enabled, Android in Cloud solution. Track issues / docs here
-- [microsoft/vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) - NOTE: Most of the contents of this repository have been migrated to the new devcontainers GitHub org (https://github.com/devcontainers). See https://github.com/devcontainers/template-starter and https
-- [longhorn/longhorn](https://github.com/longhorn/longhorn) - Cloud-Native distributed storage built on and for Kubernetes
-- [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
-- [haoel/haoel.github.io](https://github.com/haoel/haoel.github.io) - 
-- [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
-- [tektoncd/catalog](https://github.com/tektoncd/catalog) - Catalog of shared Tasks and Pipelines.
-- [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
-- [super-linter/super-linter](https://github.com/super-linter/super-linter) - Combination of multiple linters to install as a GitHub Action
-- [kubernetes/git-sync](https://github.com/kubernetes/git-sync) - A sidecar app which clones a git repo and keeps it in sync with the upstream.
-- [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
-- [opencv/opencv-python](https://github.com/opencv/opencv-python) - Automated CI toolchain to produce precompiled opencv-python, opencv-python-headless, opencv-contrib-python and opencv-contrib-python-headless packages.
-- [shengxinjing/programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist) - :see_no_evil:程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞
-- [rootsongjc/kubernetes-handbook](https://github.com/rootsongjc/kubernetes-handbook) - Kubernetes中文指南/云原生应用架构实战手册 -  https://jimmysong.io/kubernetes-handbook
-- [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
-- [docker-library/official-images](https://github.com/docker-library/official-images) - Primary source of truth for the Docker "Official Images" program
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,100+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
-- [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
+- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
+- [jontewks/puppeteer-heroku-buildpack](https://github.com/jontewks/puppeteer-heroku-buildpack) - Installs dependencies needed in order to run puppeteer on heroku.
+- [chameleon-lizard/webcp](https://github.com/chameleon-lizard/webcp) - Simple pastebin-like script. Can also handle photos, videos and any other files - it creates a page with a download link.
+- [moeen/PersianSubtitleFixer](https://github.com/moeen/PersianSubtitleFixer) - Fix Arabic and Persian subtitles by converting them into UTF-8
+- [garret1317/make-softsub](https://github.com/garret1317/make-softsub) - quick and dirty script to OCR hardsubs into softsubs with videosubfinder. isn't good, but works.
+- [david-lev/apkpull](https://github.com/david-lev/apkpull) - 📱 Pull APK's from android devices and emulators
+- [Fazzani/grab](https://github.com/Fazzani/grab) - Daily webgrabber
+- [peicodes/heroku-buildpack-libsndfile](https://github.com/peicodes/heroku-buildpack-libsndfile) - 
+- [eyMarv/deploy-code-server](https://github.com/eyMarv/deploy-code-server) - 
+- [DaCapo7/CNW](https://github.com/DaCapo7/CNW) - Create New Website is a VERY SIMPLE shell script (actually for macOS, didnt tried on linux) that create a folder with a HTML, a CSS and a JS. The html will have doctype, html, head and body tag and it
+- [aptible/docker-mongodb](https://github.com/aptible/docker-mongodb) - MongoDB on Docker
+- [aptible/docker-mysql](https://github.com/aptible/docker-mysql) - MySQL on Docker
+- [aptible/docker-postgresql](https://github.com/aptible/docker-postgresql) - PostgreSQL on Docker
+- [OreosLab/VIP](https://github.com/OreosLab/VIP) - 🏃‍💨 Gone
+- [SpEcHiDe/whispering-boils](https://github.com/SpEcHiDe/whispering-boils) - 
+- [tyalie/City-Maps-Poster-Generator](https://github.com/tyalie/City-Maps-Poster-Generator) - Creates beautiful posters from stylized arial views of cities or other places on earth
+- [SpEcHiDe/Mp4ToWebmBot](https://github.com/SpEcHiDe/Mp4ToWebmBot) - Open Source Bot ❤️ with Limited Functionality of @AnimatedStickersRoBot 🔥
+- [AlbertEinsteinTG/af-deploy-script](https://github.com/AlbertEinsteinTG/af-deploy-script) - Helper script
+- [pathwaysmedical/heroku-buildpack-tesseract](https://github.com/pathwaysmedical/heroku-buildpack-tesseract) - Heroku Custom Buildpack for Tesseract OCR
+- [yespark/heroku-imagemagick-buildpack](https://github.com/yespark/heroku-imagemagick-buildpack) - 
+- [collegevine/heroku-buildpack-imagemagick](https://github.com/collegevine/heroku-buildpack-imagemagick) - Provides an updated version of ImageMagick for Heroku
+- [steeple-org/heroku-buildpack-imagemagick](https://github.com/steeple-org/heroku-buildpack-imagemagick) - Provides an updated version of ImageMagick for Heroku
+- [q-m/heroku-buildpack-imagemagick](https://github.com/q-m/heroku-buildpack-imagemagick) - ImageMagick 6 for Heroku, always the latest version
+- [ello/heroku-buildpack-imagemagick](https://github.com/ello/heroku-buildpack-imagemagick) - 
+- [ArdeshirV/TechnicalNotes](https://github.com/ArdeshirV/TechnicalNotes) - My personal technical notes and abbreviations about books and courses.
+- [ArdeshirV/ebook2pdf](https://github.com/ArdeshirV/ebook2pdf) - Documents to PDF Convertor
+- [jontewks/heroku-buildpack-puppeteer-firefox](https://github.com/jontewks/heroku-buildpack-puppeteer-firefox) - 
+- [hahwul/heroku-buildpack-firefox](https://github.com/hahwul/heroku-buildpack-firefox) - Heroku buildpack for Firefox with geckodriver
+- [evosystem-jp/heroku-buildpack-firefox](https://github.com/evosystem-jp/heroku-buildpack-firefox) - Heroku buildpack for Firefox with geckodriver
+- [pyronlaboratory/heroku-integrated-firefox-geckodriver](https://github.com/pyronlaboratory/heroku-integrated-firefox-geckodriver) - Buildpack enables your client code to access Firefox along with Geckodriver in a Heroku slug.
+- [buitron/geckodriver-buildpack](https://github.com/buitron/geckodriver-buildpack) - Heroku geckodriver buildpack for Selenium use with Firefox
+- [yegor256/firefox-buildpack](https://github.com/yegor256/firefox-buildpack) - Heroku buildpack for Firefox 68.0.2
+- [Itz-fork/X-Bin-Patch](https://github.com/Itz-fork/X-Bin-Patch) - Method to deploy Mega.nz-Bot to Heroku
+- [heroku/heroku-buildpack-chromedriver](https://github.com/heroku/heroku-buildpack-chromedriver) - Installs chromedriver in a Heroku slug
+- [heroku/heroku-buildpack-google-chrome](https://github.com/heroku/heroku-buildpack-google-chrome) - Run (headless) Google Chrome on Heroku
+- [rahulps1000/HerokuBannedDeployer](https://github.com/rahulps1000/HerokuBannedDeployer) - With this you can deploy repos that are banned/blacklisted by heroku
+- [BlueTeaLondon/heroku-buildpack-libreoffice-for-heroku-18](https://github.com/BlueTeaLondon/heroku-buildpack-libreoffice-for-heroku-18) - 
+- [jonathanong/heroku-buildpack-ffmpeg-latest](https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest) - A Heroku buildpack for ffmpeg that always downloads the latest static build
 
-## Starlark 
+## Smalltalk 
 
-- [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless) - 🥑  Language focused docker images, minus the operating system.
-
-## Svelte 
-
-- [huggingface/chat-ui](https://github.com/huggingface/chat-ui) - Open source codebase powering the HuggingChat app
-
-## Swift 
-
-- [krzysztofzablocki/Swift-Macros](https://github.com/krzysztofzablocki/Swift-Macros) - A curated list of awesome Swift Macros
-- [buresdv/Cork](https://github.com/buresdv/Cork) - A fast GUI for Homebrew written in SwiftUI
-- [apple/swift-openapi-generator](https://github.com/apple/swift-openapi-generator) - Swift OpenAPI Generator package plugin.
-- [IsaacMarovitz/Whisky](https://github.com/IsaacMarovitz/Whisky) - A modern Wine wrapper for macOS built with SwiftUI
-- [nicklockwood/SwiftFormat](https://github.com/nicklockwood/SwiftFormat) - A command-line tool and Xcode Extension for formatting Swift code
-- [dylanshine/openai-kit](https://github.com/dylanshine/openai-kit) - A community Swift package used to interact with the OpenAI API
-- [apple/swift-foundation](https://github.com/apple/swift-foundation) - The Foundation project
-- [tuist/tuist](https://github.com/tuist/tuist) - 🚀 Create, maintain, and interact with Xcode projects at scale
-- [nixzhu/Sensei](https://github.com/nixzhu/Sensei) - Sensei is a Mac app based on OpenAI API.
-- [intitni/CopilotForXcode](https://github.com/intitni/CopilotForXcode) - The missing GitHub Copilot, Codeium and ChatGPT Xcode Source Editor Extension
-- [CodeEditApp/CodeEditTextView](https://github.com/CodeEditApp/CodeEditTextView) - A code editor view written in Swift powered by tree-sitter.
-- [justjake/Gauss](https://github.com/justjake/Gauss) - Stable Diffusion macOS native app
-- [exyte/ReadabilityKit](https://github.com/exyte/ReadabilityKit) - Preview extractor for news, articles and full-texts in Swift
-- [godly-devotion/MochiDiffusion](https://github.com/godly-devotion/MochiDiffusion) - Run Stable Diffusion on Mac natively
-- [airbnb/lottie-ios](https://github.com/airbnb/lottie-ios) - An iOS library to natively render After Effects vector animations
-- [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas
-- [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
-- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.
-- [Lighter-swift/Lighter](https://github.com/Lighter-swift/Lighter) - Swift APIs for SQLite: Type-safe down to the schema. Very, very, fast. Dependency free.
-- [PlayCover/PlayCover](https://github.com/PlayCover/PlayCover) - Community fork of PlayCover
-- [insidegui/VirtualBuddy](https://github.com/insidegui/VirtualBuddy) - Virtualize macOS 12 and later on Apple Silicon
-- [jordibruin/Swift-Charts-Examples](https://github.com/jordibruin/Swift-Charts-Examples) - An overview of the different types of charts you can make with Swift Charts
-- [simibac/ConfettiSwiftUI](https://github.com/simibac/ConfettiSwiftUI) - SwiftUI Package for Configurable Confetti Animation 🎉
-- [Jinxiansen/Windows11](https://github.com/Jinxiansen/Windows11) - 💻 Windows 11 in SwiftUI.
-- [Toni77777/awesome-swiftui-libraries](https://github.com/Toni77777/awesome-swiftui-libraries) - :rocket: Awesome SwiftUI Libraries
-- [yattee/yattee](https://github.com/yattee/yattee) - Privacy oriented video player for iOS, tvOS and macOS
-- [twostraws/HackingWithSwift](https://github.com/twostraws/HackingWithSwift) - The project source code for hackingwithswift.com
-- [cirruslabs/tart](https://github.com/cirruslabs/tart) - macOS and Linux VMs on Apple Silicon to use in CI and other automations
-- [grpc/grpc-swift](https://github.com/grpc/grpc-swift) - The Swift language implementation of gRPC.
-- [apple/swift-distributed-tracing](https://github.com/apple/swift-distributed-tracing) - Instrumentation library for Swift server applications
-- [tw93/MiaoYan](https://github.com/tw93/MiaoYan) - ⛷ Lightweight Markdown app to help you write great sentences. ⛷ 轻灵的 Markdown 笔记本伴你写出妙言
-- [groue/GRDB.swift](https://github.com/groue/GRDB.swift) - A toolkit for SQLite databases, with a focus on application development
-- [KhaosT/MacVM](https://github.com/KhaosT/MacVM) - macOS VM for Apple Silicon using Virtualization API
-- [apple/sample-food-truck](https://github.com/apple/sample-food-truck) - SwiftUI sample code from WWDC22
-- [Ranchero-Software/NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire) - RSS reader for macOS and iOS.
-- [krzysztofzablocki/Sourcery](https://github.com/krzysztofzablocki/Sourcery) - Meta-programming for Swift, stop writing boilerplate code.
-- [danielsaidi/RichTextKit](https://github.com/danielsaidi/RichTextKit) - RichTextKit is a Swift-based library for working with rich text in UIKit, AppKit and SwiftUI.
-- [sindresorhus/Gifski](https://github.com/sindresorhus/Gifski) - 🌈 Convert videos to high-quality GIFs on your Mac
-- [SwiftcordApp/Swiftcord](https://github.com/SwiftcordApp/Swiftcord) - A fully native Discord client for macOS built 100% in Swift!
-- [VergeGroup/swift-Verge](https://github.com/VergeGroup/swift-Verge) - 🟣 A robust Swift state-management framework designed for complex applications, featuring an integrated ORM for efficient data handling.
-- [SwiftPackageIndex/PackageList](https://github.com/SwiftPackageIndex/PackageList) - The master list of repositories for the Swift Package Index.
-- [JustinFincher/WWDC2022-SwiftUINodeEditor](https://github.com/JustinFincher/WWDC2022-SwiftUINodeEditor) - [WWDC 22 Swift Student Challenge Winner] Pegboard, a SwiftUI based node-editor workspace for game dev and more
-- [fatbobman/SwiftUIOverlayContainer](https://github.com/fatbobman/SwiftUIOverlayContainer) - SwiftUI Overlay Container is a view container component for SwiftUI. It is a customizable, efficient and convenient view manager.  With just a simple configuration, SwiftUI Overlay Container can do th
-- [swiftwasm/JavaScriptKit](https://github.com/swiftwasm/JavaScriptKit) - Swift framework to interact with JavaScript through WebAssembly.
-- [RanKKI/LawRefBook](https://github.com/RanKKI/LawRefBook) - 中华人民共和国法律手册
-- [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
-- [danielsaidi/SwiftUIKit](https://github.com/danielsaidi/SwiftUIKit) - SwiftUIKit contains additional functionality for SwiftUI.
-- [apple/swift-distributed-actors](https://github.com/apple/swift-distributed-actors) - Peer-to-peer cluster implementation for Swift Distributed Actors
-- [apple/swift-markdown](https://github.com/apple/swift-markdown) - A Swift package for parsing, building, editing, and analyzing Markdown documents.
-- [exyte/ActivityIndicatorView](https://github.com/exyte/ActivityIndicatorView) - A number of preset loading indicators created with SwiftUI
-- [cmushroom/redis-pro](https://github.com/cmushroom/redis-pro) - redis-pro redis 桌面管理工具
-- [kean/Pulse](https://github.com/kean/Pulse) - Network Logger for Apple platforms
-- [exyte/PopupView](https://github.com/exyte/PopupView) - Toasts and popups library written with SwiftUI
-- [jevonmao/PermissionsSwiftUI](https://github.com/jevonmao/PermissionsSwiftUI) - A SwiftUI package to beautifully display and handle permissions.
-- [stleamist/BetterSafariView](https://github.com/stleamist/BetterSafariView) - A better way to present a SFSafariViewController or start a ASWebAuthenticationSession in SwiftUI.
-- [pointfreeco/isowords](https://github.com/pointfreeco/isowords) - Open source game built in SwiftUI and the Composable Architecture.
-- [maticzav/swift-graphql](https://github.com/maticzav/swift-graphql) - A GraphQL client that lets you forget about GraphQL.
-- [pvieito/PythonKit](https://github.com/pvieito/PythonKit) - Swift framework to interact with Python.
-- [gonzalezreal/swift-markdown-ui](https://github.com/gonzalezreal/swift-markdown-ui) - Display and customize Markdown text in SwiftUI
-- [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
-- [pointfreeco/swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture) - A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.
-- [eleev/ios-learning-materials](https://github.com/eleev/ios-learning-materials) - 📚 Curated list of articles, tutorials and repos that may help you dig a little bit deeper into iOS [and Apple Platforms].
-- [apple/swift-nio-ssh](https://github.com/apple/swift-nio-ssh) - SwiftNIO SSH is a programmatic implementation of SSH using SwiftNIO
-- [apple/swift-algorithms](https://github.com/apple/swift-algorithms) - Commonly used sequence and collection algorithms for Swift
-- [apple/swift-atomics](https://github.com/apple/swift-atomics) - Low-level atomic operations for Swift
-- [exyte/FloatingButton](https://github.com/exyte/FloatingButton) - Easily customizable floating button menu created with SwiftUI
-- [TokamakUI/Tokamak](https://github.com/TokamakUI/Tokamak) - SwiftUI-compatible framework for building browser apps with WebAssembly and native apps for other platforms
-- [scinfu/SwiftSoup](https://github.com/scinfu/SwiftSoup) - SwiftSoup: Pure Swift HTML Parser, with best of DOM, CSS, and jquery (Supports Linux, iOS, Mac, tvOS, watchOS)
-- [psharanda/Atributika](https://github.com/psharanda/Atributika) - Convert text with HTML tags, links, hashtags, mentions into NSAttributedString. Make them clickable with UILabel drop-in replacement.
-- [surfstudio/StackOv](https://github.com/surfstudio/StackOv) - An open-source SwiftUI Stack Overflow client
-- [exyte/Grid](https://github.com/exyte/Grid) - The most powerful Grid container missed in SwiftUI
-- [devicekit/DeviceKit](https://github.com/devicekit/DeviceKit) - DeviceKit is a value-type replacement of UIDevice.
-- [paololeonardi/WaterfallGrid](https://github.com/paololeonardi/WaterfallGrid) - A waterfall grid layout view for SwiftUI.
-- [nalexn/clean-architecture-swiftui](https://github.com/nalexn/clean-architecture-swiftui) - SwiftUI sample app using Clean Architecture. Examples of working with CoreData persistence, networking, dependency injection, unit testing, and more.
-- [marmelroy/PhoneNumberKit](https://github.com/marmelroy/PhoneNumberKit) - A Swift framework for parsing, formatting and validating international phone numbers. Inspired by Google's libphonenumber.
-- [WeTransfer/WeScan](https://github.com/WeTransfer/WeScan) - Document Scanning Made Easy for iOS
-- [kishikawakatsumi/KeychainAccess](https://github.com/kishikawakatsumi/KeychainAccess) - Simple Swift wrapper for Keychain that works on iOS, watchOS, tvOS and macOS.
-- [SwiftUIX/SwiftUIX](https://github.com/SwiftUIX/SwiftUIX) - Extensions and additions to the standard SwiftUI library.
-- [SFSafeSymbols/SFSafeSymbols](https://github.com/SFSafeSymbols/SFSafeSymbols) - Safely access Apple's SF Symbols using static typing
-- [EFPrefix/EFQRCode](https://github.com/EFPrefix/EFQRCode) - A better way to operate QR Code in Swift, support iOS, macOS, watchOS and tvOS.
-- [SDWebImage/SDWebImageSwiftUI](https://github.com/SDWebImage/SDWebImageSwiftUI) - SwiftUI Image loading and Animation framework powered by SDWebImage
-- [stephencelis/SQLite.swift](https://github.com/stephencelis/SQLite.swift) - A type-safe, Swift-language layer over SQLite3.
-- [Swinject/Swinject](https://github.com/Swinject/Swinject) - Dependency injection framework for Swift with iOS/macOS/Linux
-- [apollographql/apollo-ios](https://github.com/apollographql/apollo-ios) - 📱  A strongly-typed, caching GraphQL client for iOS, written in Swift.
-- [bizz84/SwiftyStoreKit](https://github.com/bizz84/SwiftyStoreKit) - Lightweight In App Purchases Swift framework for iOS 8.0+, tvOS 9.0+ and macOS 10.10+ ⛺
-- [AppPear/ChartView](https://github.com/AppPear/ChartView) - ChartView made in SwiftUI
-- [apple/swift-numerics](https://github.com/apple/swift-numerics) - Advanced mathematical types and functions for Swift
-- [OAuthSwift/OAuthSwift](https://github.com/OAuthSwift/OAuthSwift) - Swift based OAuth library for iOS
-- [swift-server/swift-aws-lambda-runtime](https://github.com/swift-server/swift-aws-lambda-runtime) - Swift implementation of AWS Lambda Runtime
-- [JohnSundell/Splash](https://github.com/JohnSundell/Splash) - A fast, lightweight and flexible Swift syntax highlighter for blogs, tools and fun!
-- [swift-server-community/APNSwift](https://github.com/swift-server-community/APNSwift) - An HTTP/2 APNS library built on AsyncHTTPClient
-- [JohnCoates/Aerial](https://github.com/JohnCoates/Aerial) - Apple TV Aerial Screensaver for Mac
-- [nachonavarro/Pages](https://github.com/nachonavarro/Pages) - 📖   A lightweight, paging view solution for SwiftUI
-- [playbook-ui/playbook-ios](https://github.com/playbook-ui/playbook-ios) - 📘A library for isolated developing UI components and automatically taking snapshots of them.
-- [yichengchen/clashX](https://github.com/yichengchen/clashX) - 
-- [swift-server/async-http-client](https://github.com/swift-server/async-http-client) - HTTP client library built on SwiftNIO
-- [apple/swift-argument-parser](https://github.com/apple/swift-argument-parser) - Straightforward, type-safe argument parsing for Swift
-- [apple/swift-log](https://github.com/apple/swift-log) - A Logging API for Swift
-- [twostraws/ControlRoom](https://github.com/twostraws/ControlRoom) - A macOS app to control the Xcode Simulator.
-- [JohnSundell/Plot](https://github.com/JohnSundell/Plot) - A DSL for writing type-safe HTML, XML and RSS in Swift.
-- [Juanpe/About-SwiftUI](https://github.com/Juanpe/About-SwiftUI) - Gathering all info published, both by Apple and by others, about new framework SwiftUI.
-- [apple/swift-package-manager](https://github.com/apple/swift-package-manager) - The Package Manager for the Swift Programming Language
-- [Quick/Quick](https://github.com/Quick/Quick) - The Swift (and Objective-C) testing framework.
-- [malcommac/SwiftLocation](https://github.com/malcommac/SwiftLocation) - 🛰 CoreLocation Made Easy - Efficient & Easy Location Tracker, IP Location, Gecoder, Geofence, Autocomplete, Beacon Ranging, Broadcaster and Visits Monitoring
-- [jakeheis/Shout](https://github.com/jakeheis/Shout) - SSH made easy in Swift
-- [realm/SwiftLint](https://github.com/realm/SwiftLint) - A tool to enforce Swift style and conventions.
-- [FluidGroup/Brightroom](https://github.com/FluidGroup/Brightroom) - 📷 A composable image editor using Core Image and Metal.
-- [sparrowcode/PermissionsKit](https://github.com/sparrowcode/PermissionsKit) - Universal API for request permission and get its statuses.
-- [Yummypets/YPImagePicker](https://github.com/Yummypets/YPImagePicker) - 📸 Instagram-like image picker & filters for iOS
-- [SvenTiigi/WhatsNewKit](https://github.com/SvenTiigi/WhatsNewKit) - Showcase your awesome new app features 📱
-- [CocoaDebug/CocoaDebug](https://github.com/CocoaDebug/CocoaDebug) - iOS Debugging Tool 🚀
-- [apple/swift-protobuf](https://github.com/apple/swift-protobuf) - Plugin and runtime library for using protobuf with Swift
-- [apple/swift-nio](https://github.com/apple/swift-nio) - Event-driven network application framework for high performance protocol servers & clients, non-blocking.
-- [SwifterSwift/SwifterSwift](https://github.com/SwifterSwift/SwifterSwift) - A handy collection of more than 500 native Swift extensions to boost your productivity.
-- [krzyzanowskim/CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift) - CryptoSwift is a growing collection of standard and secure cryptographic algorithms implemented in Swift
-- [Jounce/Surge](https://github.com/Jounce/Surge) - A Swift library that uses the Accelerate framework to provide high-performance functions for matrix math, digital signal processing, and image manipulation.
-- [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
-- [AudioKit/AudioKit](https://github.com/AudioKit/AudioKit) - Swift audio synthesis, processing, & analysis platform for iOS, macOS and tvOS
-- [Juanpe/SkeletonView](https://github.com/Juanpe/SkeletonView) - ☠️ An elegant way to show users that something is happening and also prepare them to which contents they are awaiting
-- [marcosgriselli/ViewAnimator](https://github.com/marcosgriselli/ViewAnimator) - ViewAnimator brings your UI to life with just one line
-- [olucurious/Awesome-ARKit](https://github.com/olucurious/Awesome-ARKit) - A curated list of awesome ARKit projects and resources. Feel free to contribute!
-- [AndrewHartAR/ARKit-CoreLocation](https://github.com/AndrewHartAR/ARKit-CoreLocation) - Combines the high accuracy of AR with the scale of GPS data.
-- [HeroTransitions/Hero](https://github.com/HeroTransitions/Hero) - Elegant transition library for iOS & tvOS
-- [exyte/Macaw](https://github.com/exyte/Macaw) - Powerful and easy-to-use vector graphics Swift library with SVG support
-- [xmartlabs/Eureka](https://github.com/xmartlabs/Eureka) - Elegant iOS form builder in Swift
-- [ReactiveX/RxSwift](https://github.com/ReactiveX/RxSwift) - Reactive Programming in Swift
-- [mxcl/PromiseKit](https://github.com/mxcl/PromiseKit) - Promises for Swift & ObjC.
-- [onevcat/Kingfisher](https://github.com/onevcat/Kingfisher) - A lightweight, pure-Swift library for downloading and caching images from the web.
-- [daltoniam/Starscream](https://github.com/daltoniam/Starscream) - Websockets in swift for iOS and OSX
-- [vapor/vapor](https://github.com/vapor/vapor) - 💧 A server-side Swift HTTP web framework.
-- [ochococo/Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift) - 📖 Design Patterns implemented in Swift 5.0
-- [kean/Nuke](https://github.com/kean/Nuke) - Image loading system
-- [danielgindi/Charts](https://github.com/danielgindi/Charts) - Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.
-- [Alamofire/Alamofire](https://github.com/Alamofire/Alamofire) - Elegant HTTP Networking in Swift
-
-## TeX 
-
-- [trigaten/Learn_Prompting](https://github.com/trigaten/Learn_Prompting) - 
+- [ArdeshirV/SpringAvestanEditor](https://github.com/ArdeshirV/SpringAvestanEditor) - Avestan language text editor
 
 ## TypeScript 
 
-- [vercel-labs/ai](https://github.com/vercel-labs/ai) - Build AI-powered applications with React, Svelte, and Vue
-- [algolia/autocomplete](https://github.com/algolia/autocomplete) - 🔮 Fast and full-featured autocomplete library
-- [labring/laf](https://github.com/labring/laf) - 🤖 laf 是云开发平台，提供云函数、云数据库、云存储等开箱即用的应用资源。让开发者快速释放创意。ChatGPT 自动写函数，秒级上线，世界上只有两种 serverless，30 秒上线的 和 30 秒劝退的！
-- [mockoon/mockoon](https://github.com/mockoon/mockoon) - Mockoon is the easiest and quickest way to run mock APIs locally. No remote deployment, no account required, open source.
-- [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
-- [microsoft/devicescript](https://github.com/microsoft/devicescript) - TypeScript for Tiny IoT Devices (ESP32, RP2040, ...)
-- [w-okada/voice-changer](https://github.com/w-okada/voice-changer) - リアルタイムボイスチェンジャー Realtime Voice Changer
-- [StanGirard/quivr](https://github.com/StanGirard/quivr) - 🧠 Dump all your files and thoughts into your private GenerativeAI Second Brain and chat with it 🧠
-- [Stability-AI/StableStudio](https://github.com/Stability-AI/StableStudio) - Community interface for generative AI
-- [langgenius/dify](https://github.com/langgenius/dify) - One API for plugins and datasets, one interface for prompt engineering and visual operation, all for creating powerful AI applications.
-- [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - Nightly Build artifacts for https://github.com/BuilderIO/qwik
-- [whoiskatrin/chart-gpt](https://github.com/whoiskatrin/chart-gpt) - AI tool to build charts based on text input
-- [kevmo314/magic-copy](https://github.com/kevmo314/magic-copy) - Magic Copy is a Chrome extension that uses Meta's Segment Anything Model to extract a foreground object from an image and copy it to the clipboard.
-- [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
-- [nat/openplayground](https://github.com/nat/openplayground) - An LLM playground you can run on your laptop
-- [guangzhengli/ChatFiles](https://github.com/guangzhengli/ChatFiles) - Document Chatbot — multiple files. Powered by GPT / Embedding.
-- [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
-- [hocus-dev/hocus](https://github.com/hocus-dev/hocus) - 🪄 Spin up ready-to-code, disposable dev environments on your own servers. Self-hosted alternative to Gitpod and Github Codespaces.
-- [yakGPT/yakGPT](https://github.com/yakGPT/yakGPT) - Locally running, hands-free ChatGPT UI
-- [hahahumble/speechgpt](https://github.com/hahahumble/speechgpt) - 💬 SpeechGPT is a web application that enables you to converse with ChatGPT.
-- [sqlchat/sqlchat](https://github.com/sqlchat/sqlchat) - Chat-based SQL Client and Editor for the next decade
-- [domeccleston/sharegpt](https://github.com/domeccleston/sharegpt) - Easily share permanent links to ChatGPT conversations with your friends
-- [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - Chatbox is a desktop app for GPT/LLM that supports Windows, Mac, Linux & Web Online
-- [logspace-ai/langflow](https://github.com/logspace-ai/langflow) - ⛓️ LangFlow is a UI for LangChain, designed with react-flow to provide an effortless way to experiment and prototype flows.
-- [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。
-- [motifland/markprompt](https://github.com/motifland/markprompt) - Enterprise-grade AI chatbots for your website and docs
-- [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - An open source ChatGPT UI.
-- [mayooear/gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain) - GPT4 & LangChain Chatbot for large PDF docs
-- [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.
-- [anc95/writely](https://github.com/anc95/writely) - ❤️‍🔥 A chrome extension as an alternative to Notion AI that goes beyond Notion AI. | 一个替代 Notion AI 的浏览器插件，不止于 Notion AI
-- [mckaywrigley/paul-graham-gpt](https://github.com/mckaywrigley/paul-graham-gpt) - AI search & chat for all of Paul Graham’s essays.
-- [anse-app/chatgpt-demo](https://github.com/anse-app/chatgpt-demo) - Minimal web UI for ChatGPT.
-- [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging and more.
-- [usememos/memos](https://github.com/usememos/memos) - A lightweight, self-hosted memo hub. Open Source and Free forever.
-- [civitai/civitai](https://github.com/civitai/civitai) - A repository of models, textual inversions, and more
-- [cloudflare/wildebeest](https://github.com/cloudflare/wildebeest) - Wildebeest is an ActivityPub and Mastodon-compatible server
-- [shadcn/ui](https://github.com/shadcn/ui) - Beautifully designed components built with Radix UI and Tailwind CSS.
-- [johnlindquist/kit](https://github.com/johnlindquist/kit) - Script Kit. Automate Anything.
-- [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
-- [book-searcher-org/book-searcher](https://github.com/book-searcher-org/book-searcher) - Easy and blazing-fast book searcher, create and search your private library. Index metadata for over 10 million books in one minute as well as search in 30µs.
-- [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
-- [grafana/faro-web-sdk](https://github.com/grafana/faro-web-sdk) - The Grafana Faro Web SDK, part of the Grafana Faro project, is a highly configurable web SDK for real user monitoring (RUM) that instruments browser frontend applications to capture observability sign
-- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Logto is a cost-effective open-source alternative to Auth0. It offers a seamless developer experience and is well-suited for individuals and growing companies.
-- [vercel/og-image](https://github.com/vercel/og-image) - Open Graph Image as a Service - generate cards for Twitter, Facebook, Slack, etc
-- [vercel/satori](https://github.com/vercel/satori) - Enlightened library to convert HTML and CSS to SVG
-- [vercel/vercel](https://github.com/vercel/vercel) - Develop. Preview. Ship.
-- [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
-- [steven-tey/dub](https://github.com/steven-tey/dub) - An open-source link shortener with built-in analytics + free custom domains.
-- [microsoft/vscode-markdown-languageservice](https://github.com/microsoft/vscode-markdown-languageservice) - The language service that powers VS Code's Markdown support, extracted so that it can be reused by other editors and tools
-- [withastro/astro](https://github.com/withastro/astro) - The all-in-one web framework designed for speed. ⭐️ Star to support our work!
-- [cloudscape-design/components](https://github.com/cloudscape-design/components) - React components for Cloudscape Design System
-- [containers/podman-desktop](https://github.com/containers/podman-desktop) - Podman Desktop - A graphical tool for developing on containers and Kubernetes
-- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows.
-- [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
-- [star-history/star-history](https://github.com/star-history/star-history) - The missing star history graph of GitHub repos - https://star-history.com
-- [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
-- [pingcap/ossinsight](https://github.com/pingcap/ossinsight) - Analysis, Comparison, Trends, Rankings of Open Source Software, you can also get insight from more than 6 billion with natural language (powered by OpenAI). Follow us on Twitter: https://twitter.com/o
-- [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
-- [codex-team/editor.js](https://github.com/codex-team/editor.js) - A block-style editor with clean JSON output
-- [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard
-- [Sairyss/domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon) - Learn Domain-Driven Design, software architecture, design patterns, best practices. Code examples included
-- [tusen-ai/naive-ui](https://github.com/tusen-ai/naive-ui) - A Vue 3 Component Library. Fairly Complete. Theme Customizable. Uses TypeScript. Fast.
-- [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
-- [openreplay/openreplay](https://github.com/openreplay/openreplay) - :tv: OpenReplay is developer-friendly, self-hosted session replay.
-- [alibaba/x-render](https://github.com/alibaba/x-render) - 🚴‍♀️ 阿里 - 很易用的中后台「表单 / 表格 / 图表」解决方案
-- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
-- [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop) - Container Management and Kubernetes on the Desktop
-- [wbkd/react-flow](https://github.com/wbkd/react-flow) - Highly customizable library for building an interactive node-based UI, workflow editor, flow chart or static diagram
-- [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
-- [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
-- [hediet/vscode-drawio](https://github.com/hediet/vscode-drawio) - This unofficial extension integrates Draw.io (also known as diagrams.net) into VS Code.
-- [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
-- [artifacthub/hub](https://github.com/artifacthub/hub) - Find, install and publish Kubernetes packages
-- [parca-dev/parca](https://github.com/parca-dev/parca) - Continuous profiling for analysis of CPU and memory usage, down to the line number and throughout time. Saving infrastructure cost, improving performance, and increasing reliability.
-- [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
-- [microsoft/fast](https://github.com/microsoft/fast) - The adaptive interface system for modern web experiences.
-- [elastic/eui](https://github.com/elastic/eui) - Elastic UI Framework 🙌
-- [adobe/react-spectrum](https://github.com/adobe/react-spectrum) - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
-- [probot/probot](https://github.com/probot/probot) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
-- [aws/aws-cdk](https://github.com/aws/aws-cdk) - The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
-- [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
-- [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
-- [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes
-- [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
-- [wechaty/wechaty](https://github.com/wechaty/wechaty) - Conversational RPA SDK for Chatbot Makers
-- [browserless/chrome](https://github.com/browserless/chrome) - The browserless Chrome service in Docker. Run on our cloud, or bring your own.
-- [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
-- [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb) - record and replay the web
-- [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
-- [mattermost/mattermost](https://github.com/mattermost/mattermost) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
-- [antvis/F2](https://github.com/antvis/F2) - 📱📈An elegant, interactive and flexible charting library for mobile.
-- [graphql/graphiql](https://github.com/graphql/graphiql) - GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.
-- [microsoft/fluentui](https://github.com/microsoft/fluentui) - Fluent UI web represents a collection of utilities, React components, and web components for building web applications.
-- [keplergl/kepler.gl](https://github.com/keplergl/kepler.gl) - Kepler.gl is a powerful open source geospatial analysis tool for large-scale data sets.
-- [pmndrs/react-spring](https://github.com/pmndrs/react-spring) - ✌️ A spring physics based React animation library
-- [mobxjs/mobx](https://github.com/mobxjs/mobx) - Simple, scalable state management.
-- [danilowoz/react-content-loader](https://github.com/danilowoz/react-content-loader) - ⚪ SVG-Powered component to easily create skeleton loadings.
-- [kubeflow/kubeflow](https://github.com/kubeflow/kubeflow) - Machine Learning Toolkit for Kubernetes
-- [antvis/G2](https://github.com/antvis/G2) - 📊 A concise and progressive visualization grammar.
-- [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Node.js API for Chrome
-- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
-- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
-- [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab) - JupyterLab computational environment.
-- [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
-- [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
-
-## Vue 
-
-- [Moonvy/OpenPromptStudio](https://github.com/Moonvy/OpenPromptStudio) - 🥣 AIGC 提示词可视化编辑器  | OPS | Open Prompt Studio
-- [cars10/elasticvue](https://github.com/cars10/elasticvue) - Elasticsearch gui for the browser
-- [Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web) - 用 Express 和  Vue3 搭建的 ChatGPT 演示网页
-- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful personal/home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi 4, any Ubuntu/Debian system, or a VPS.
-- [element-plus/element-plus](https://github.com/element-plus/element-plus) - 🎉 A Vue.js 3 UI Library made by Element team
-- [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
-- [fenixsoft/awesome-fenix](https://github.com/fenixsoft/awesome-fenix) - 讨论如何构建一套可靠的大型分布式系统
-- [doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性
+- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
+- [SpEcHiDe/ButtonHTMLBot](https://github.com/SpEcHiDe/ButtonHTMLBot) - https://ButtonHTMLBot.t.me
+- [backmeupplz/archivelinksbot](https://github.com/backmeupplz/archivelinksbot) - Telegram bot that saves links to web archive
+- [arghyac35/aria-telegram-mirror-bot](https://github.com/arghyac35/aria-telegram-mirror-bot) - This is a fork of https://github.com/out386/aria-telegram-mirror-bot. A Telegram bot to download files via HTTP(S)/BitTorrent and upload them to Google Drive
+- [Qiamast/PersianWordle](https://github.com/Qiamast/PersianWordle) - "Persian Wordle" is a fun and challenging word puzzle game designed to improve your Persian vocabulary. Built with TypeScript, ReactJS, TailwindCSS, PostCSS, and a Persian word dictionary, this game o
+- [HeySreelal/BitLinker](https://github.com/HeySreelal/BitLinker) - Just a Telegram Bot to shorten your long links!
+- [HeySreelal/xwordlebot](https://github.com/HeySreelal/xwordlebot) - Telegram Bot inspired by the Wordle game.
+- [alitnk/monopay](https://github.com/alitnk/monopay) - 💳 A node.js package for making payment transactions with different Iranian payment gateways
+- [rastikerdar/vazirmatn](https://github.com/rastikerdar/vazirmatn) - Vazirmatn is a Persian/Arabic font. وزیرمتن یک فونت فارسی/عربی است
+- [DustbinServer/DustbinBot](https://github.com/DustbinServer/DustbinBot) - A Telegram Bot Based On Dustbin API.
+- [snowplow-incubator/web-video-tracking-examples](https://github.com/snowplow-incubator/web-video-tracking-examples) - 
+- [tginfo/translator-bot](https://github.com/tginfo/translator-bot) - A system for automating translation of posts ASAP, sending them to translators in a way they can edit and post directly. Originally written by @DavideGalilei in Python and used @Pyrogram, rewritten by
+- [matnbaz/matnbaz](https://github.com/matnbaz/matnbaz) - 💙 Source-code for matnbaz.net - A monorepo containing the back-end (NestJS/Prisma/Apollo), front-end (Next.js/Apollo) and some tooling.
+- [vrumger/ChannelHashBot](https://github.com/vrumger/ChannelHashBot) - A Telegram bot that forwards messages with hashtags from your group to your channel.
+- [xditya/YouTubeFeeds](https://github.com/xditya/YouTubeFeeds) - Get new YouTube video notifications, from multiple YouTube channels, on multiple telegram chats!
+- [my-abandoned-projects/tgcalls-next](https://github.com/my-abandoned-projects/tgcalls-next) - Community fork of tgcallsjs with built-in GramJS support.
+- [Borodutch/VideoDownloadBot](https://github.com/Borodutch/VideoDownloadBot) - Telegram bot to download videos from URLs
+- [oliverfei/webxr-kamehameha](https://github.com/oliverfei/webxr-kamehameha) - 
+- [Borodutch/telegram-bot-starter](https://github.com/Borodutch/telegram-bot-starter) - Telegram bot starter based on grammY
+- [backmeupplz/IsBotDownBot](https://github.com/backmeupplz/IsBotDownBot) - @IsBotDownBot Telegram bot code
+- [dcdunkan/show-json-bot](https://github.com/dcdunkan/show-json-bot) - A simple bot to show JSON data of Telegram messages.
+- [fengkx/NodeRSSBot](https://github.com/fengkx/NodeRSSBot) - Another Telegram RSS bot  but in Node.js Telegram RSS 机器人
+- [amirhoseinsalimi/programmer-fa](https://github.com/amirhoseinsalimi/programmer-fa) - Programmer Farsi - A bot that brings tweets about programming to your feed.
+- [Edgar-P-yan/google-it-telegram-bot](https://github.com/Edgar-P-yan/google-it-telegram-bot) - 🤖 @Google_itBot 🔎 Search and share LINKS/IMAGES/VIDEOS in inline mode
+- [iAkashPattnaik/MailServerBot](https://github.com/iAkashPattnaik/MailServerBot) - A telegram bot which sends emails directly to you via telegram
+- [callsmusic/remix](https://github.com/callsmusic/remix) - Powerful Telegram music bot.
+- [backmeupplz/voicy](https://github.com/backmeupplz/voicy) - @voicybot Telegram bot main repository
 
 
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [maguowei](https://github.com/maguowei) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Soebb](https://github.com/Soebb) has waived all copyright and related or neighboring rights to this work.
 
