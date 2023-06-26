@@ -1,4 +1,4 @@
-A curated list of my GitHub stars!
+## A curated list of my GitHub stars!
 
 ## Contents
 
