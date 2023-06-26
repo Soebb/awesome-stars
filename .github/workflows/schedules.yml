@@ -5,6 +5,7 @@ on:
   - cron: 0 * * * *
 jobs:
   awesome-stars:
+    permissions: write-all
     name: update awesome-stars
     runs-on: ubuntu-latest
     steps:
