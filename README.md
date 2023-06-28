@@ -291,6 +291,7 @@
 
 ## Others 
 
+- [archinetai/audio-ai-timeline](https://github.com/archinetai/audio-ai-timeline) - A timeline of the latest AI models for audio generation, starting in 2023!
 - [karim23657/ParsiGoo](https://github.com/karim23657/ParsiGoo) - ParsiGoo is a Persian multispeaker dataset for text-to-speech purposes. It includes recordings from different speakers and is designed to be used for training and evaluating text-to-speech models.
 - [mmasoudih/javascript.info](https://github.com/mmasoudih/javascript.info) - آموزش جاوا اسکریپت به صورت فارسی از مقدماتی تا پیشرفته
 - [persiandataset/PersianSpeech](https://github.com/persiandataset/PersianSpeech) - Persian ASR dataset
@@ -406,6 +407,7 @@
 
 ## Python 
 
+- [isayahc/video-text](https://github.com/isayahc/video-text) - 
 - [knadh/tg-archive](https://github.com/knadh/tg-archive) - A tool for exporting Telegram group chats into static websites like mailing list archives.
 - [djfun/audio-visualizer-python](https://github.com/djfun/audio-visualizer-python) - a little GUI tool to render visualization videos of audio files
 - [coderholic/pyradio](https://github.com/coderholic/pyradio) - Curses based internet radio player
