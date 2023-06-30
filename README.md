@@ -69,6 +69,7 @@
 
 ## CSS 
 
+- [saeiddrv/PythonPersianTutorial](https://github.com/saeiddrv/PythonPersianTutorial) - "Python in Persian" is an open-source online book that offers a comprehensive tutorial on the Python programming language in Persian.
 - [0xdolan/roj_dictionary](https://github.com/0xdolan/roj_dictionary) - Roj Dictionary (English - Kurdish)
 - [P-Konstantin/Image_slider](https://github.com/P-Konstantin/Image_slider) - HTML, CSS, JavaScript project
 - [Crazy-Marvin/YouTubeStatsTelegramBot](https://github.com/Crazy-Marvin/YouTubeStatsTelegramBot) - Receive updates of YouTube videos
@@ -291,6 +292,7 @@
 
 ## Others 
 
+- [cgohlke/win_arm64-wheels](https://github.com/cgohlke/win_arm64-wheels) - Experimental Wheels for Python 3.11 for Windows on ARM64
 - [archinetai/audio-ai-timeline](https://github.com/archinetai/audio-ai-timeline) - A timeline of the latest AI models for audio generation, starting in 2023!
 - [karim23657/ParsiGoo](https://github.com/karim23657/ParsiGoo) - ParsiGoo is a Persian multispeaker dataset for text-to-speech purposes. It includes recordings from different speakers and is designed to be used for training and evaluating text-to-speech models.
 - [mmasoudih/javascript.info](https://github.com/mmasoudih/javascript.info) - آموزش جاوا اسکریپت به صورت فارسی از مقدماتی تا پیشرفته
@@ -407,6 +409,8 @@
 
 ## Python 
 
+- [adhikary97/Sharetape-Open-Source](https://github.com/adhikary97/Sharetape-Open-Source) - Script that takes any long form video or podcast and outputs clips for social media
+- [mwydmuch/ZoomVideoComposer](https://github.com/mwydmuch/ZoomVideoComposer) - Pyhton script for generating zoom in/out videos from a set of images
 - [treykeown/arguably](https://github.com/treykeown/arguably) - The best Python CLI library, arguably.
 - [isayahc/video-text](https://github.com/isayahc/video-text) - 
 - [knadh/tg-archive](https://github.com/knadh/tg-archive) - A tool for exporting Telegram group chats into static websites like mailing list archives.
@@ -503,7 +507,7 @@
 - [python-ffmpegio/python-ffmpegio](https://github.com/python-ffmpegio/python-ffmpegio) - Python package to read/write media files with FFmpeg
 - [radinshayanfar/TGCopyBot](https://github.com/radinshayanfar/TGCopyBot) - A python script to copy telegram messages to another chat (without forwarding)
 - [rsharifnasab/create_word_cloud](https://github.com/rsharifnasab/create_word_cloud) - create word clouds with wrodcloud-fa for twitter and telegram chat
-- [TheCaduceus/tg-upload](https://github.com/TheCaduceus/tg-upload) - An open-source Python program or a CLI Tool to upload/download files/folder to/from Telegram effortlessly.
+- [TheCaduceus/tg-upload](https://github.com/TheCaduceus/tg-upload) - An open-source Python program or a CLI Tool to upload/download files/folders to/from Telegram effortlessly.
 - [jorisschellekens/borb](https://github.com/jorisschellekens/borb) - borb is a library for reading, creating and manipulating PDF files in python.
 - [scrapinghub/number-parser](https://github.com/scrapinghub/number-parser) - Parse numbers written in natural language
 - [calcoloergosum/video-watching-acceleration](https://github.com/calcoloergosum/video-watching-acceleration) - 
@@ -1092,7 +1096,7 @@
 - [volom/Telegram_Scraper_Sender](https://github.com/volom/Telegram_Scraper_Sender) - Retrieving members' info from your telegram chats. Sending messages to a group of receivers
 - [volom/Telegram_Message_Scraper](https://github.com/volom/Telegram_Message_Scraper) - Fetching messages from individual and group chats in telegram
 - [vishal2376/telegram-bot](https://github.com/vishal2376/telegram-bot) - A telegram bot which can be used for github clones,  stackoverflow search,  codeforces problem etc...
-- [Nekmo/telegram-upload](https://github.com/Nekmo/telegram-upload) - Upload and download files from Telegram up to 2GiB using your account
+- [Nekmo/telegram-upload](https://github.com/Nekmo/telegram-upload) - Upload and download files from Telegram up to 4 GiB using your account
 - [omrawal/QURL](https://github.com/omrawal/QURL) - A web app To Create and decode QR codes and shorten URL
 - [me-rakib/fetch-quote-and-make-image](https://github.com/me-rakib/fetch-quote-and-make-image) - 
 - [volom/MassReportTelegram](https://github.com/volom/MassReportTelegram) - Mass report on telegram accounts based on a given list
