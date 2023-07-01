@@ -125,6 +125,7 @@
 
 ## HTML 
 
+- [vabs/youtube-channel-name-converter](https://github.com/vabs/youtube-channel-name-converter) - Convert Youtube Channel Name To Channel ID
 - [ZapperDJ/DiogenesList](https://github.com/ZapperDJ/DiogenesList) - Multiplatform HTML directory listing creator
 - [deanmalmgren/textract](https://github.com/deanmalmgren/textract) - extract text from any document. no muss. no fuss.
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
@@ -409,6 +410,9 @@
 
 ## Python 
 
+- [ExponentialML/Video-BLIP2-Preprocessor](https://github.com/ExponentialML/Video-BLIP2-Preprocessor) - A simple script that reads a directory of videos, grabs a random frame,  and automatically discovers a prompt for it
+- [rsalmei/alive-progress](https://github.com/rsalmei/alive-progress) - A new kind of Progress Bar, with real-time throughput, ETA, and very cool animations!
+- [EverythingSuckz/PaLM-Bot](https://github.com/EverythingSuckz/PaLM-Bot) - A small bot that interacts with Google's PaLM Chat API.
 - [adhikary97/Sharetape-Open-Source](https://github.com/adhikary97/Sharetape-Open-Source) - Script that takes any long form video or podcast and outputs clips for social media
 - [mwydmuch/ZoomVideoComposer](https://github.com/mwydmuch/ZoomVideoComposer) - Pyhton script for generating zoom in/out videos from a set of images
 - [treykeown/arguably](https://github.com/treykeown/arguably) - The best Python CLI library, arguably.
@@ -680,7 +684,6 @@
 - [sdushantha/wifi-password](https://github.com/sdushantha/wifi-password) - Quickly fetch your WiFi password and if needed, generate a QR code of your WiFi to allow phones to easily connect
 - [Jake10131/StreamFlix](https://github.com/Jake10131/StreamFlix) - Stream any movies on your browser.
 - [stanvanrooy/instauto](https://github.com/stanvanrooy/instauto) - Simple to use wrapper around the private Instagram API, written in Python.
-- [gaoyunzhi/link_extractor](https://github.com/gaoyunzhi/link_extractor) - Extract Links from news source, ranked by importance
 - [onionj/smsboomber](https://github.com/onionj/smsboomber) - sms boomber for Iran!
 - [jsavargas/telethon_downloader](https://github.com/jsavargas/telethon_downloader) - 
 - [mandrelbrotset/same-network-group-chat](https://github.com/mandrelbrotset/same-network-group-chat) - GUI group chat for computers in the same network. The server and the client program both have a GUI.
@@ -741,9 +744,6 @@
 - [donno2048/link2mp4](https://github.com/donno2048/link2mp4) - Download videos as MP4 files
 - [donno2048/yt2mp4](https://github.com/donno2048/yt2mp4) - Download YouTube videos and playlists as MP4 files (and other formats)
 - [darideveloper/phone-emails-scraper-multithreading](https://github.com/darideveloper/phone-emails-scraper-multithreading) - Project for extract emails and phones from a list of web pages, with multithreading, using requests, bs4, regex and selenium for get more data.
-- [gaoyunzhi/telegram_channel_subscription_v3](https://github.com/gaoyunzhi/telegram_channel_subscription_v3) - Channel Subscription for channels and groups. Bot needs to be in the subscribed channel.
-- [gaoyunzhi/telegram_web_to_album_bot](https://github.com/gaoyunzhi/telegram_web_to_album_bot) - Export Album from url. @web2album_bot
-- [gaoyunzhi/web_subscription_bot](https://github.com/gaoyunzhi/web_subscription_bot) - Telegram subscription for web (e.g. bbc, matters, etc.)
 - [Py-Contributors/awesomeScripts](https://github.com/Py-Contributors/awesomeScripts) - A Collection of Awesome Scripts in Python to Ease Daily-Life. Create an issue If you have some great ideas for the new script. Leave a :star:
 - [pythontester192/Download-Youtube-Videos-EditClips-Auto-Upload-To-TikTok-Twitter-Instagram](https://github.com/pythontester192/Download-Youtube-Videos-EditClips-Auto-Upload-To-TikTok-Twitter-Instagram) - Use This FREE BOT to Download Youtube Videos, Edit The Clip with MoviePy, & Auto Upload The Generated Final Video to Tiktok, Twitter, & Instagram..Using Clicknium Chrome Extension (Used for CPA & Affi
 - [ChocolateApp/Chocolate](https://github.com/ChocolateApp/Chocolate) - The future of media manager
@@ -2223,9 +2223,6 @@
 - [FayasNoushad/Channel-Auto-Post-Bot](https://github.com/FayasNoushad/Channel-Auto-Post-Bot) - A channel auto post telegram bot.
 - [FayasNoushad/Remove-BG-Bot](https://github.com/FayasNoushad/Remove-BG-Bot) - A media background remover telegram bot with pyrogram framework.
 - [FayasNoushad/Translator-Bot](https://github.com/FayasNoushad/Translator-Bot) - A simple google translator telegram bot
-- [gaoyunzhi/telegram_util](https://github.com/gaoyunzhi/telegram_util) - Telegram bot related Utils
-- [gaoyunzhi/msg_index_bot](https://github.com/gaoyunzhi/msg_index_bot) - Telegram msg index bot, power https://t.me/msg_index_bot
-- [gaoyunzhi/telegraph_export_bot](https://github.com/gaoyunzhi/telegraph_export_bot) - Telegram bot to transfer webpage to telegraph
 - [samadii/ChannelForwardTagRemover](https://github.com/samadii/ChannelForwardTagRemover) - A simple Telegram bot to remove forward tag from forwarded messages in channel, also works in private. Heroku deployable
 - [m4mallu/gofilesbot](https://github.com/m4mallu/gofilesbot) - Filter bot for file serving groups. The bot is performing its function in a different way! Read for more...
 - [m4mallu/broadcast-bot](https://github.com/m4mallu/broadcast-bot) - A simple Telegram bot that can broadcast messages and media to the bot subscribers.
