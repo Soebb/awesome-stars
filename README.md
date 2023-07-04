@@ -410,6 +410,9 @@
 
 ## Python 
 
+- [Breakthrough/PySceneDetect](https://github.com/Breakthrough/PySceneDetect) - :movie_camera: Python and OpenCV-based scene cut/transition detection program & library.
+- [TheLime1/aichat-cli](https://github.com/TheLime1/aichat-cli) - a command-line interface chatbot. It allows you to have interactive conversations with different bots, including GPT4 FOR FREE
+- [pypa/pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
 - [ExponentialML/Video-BLIP2-Preprocessor](https://github.com/ExponentialML/Video-BLIP2-Preprocessor) - A simple script that reads a directory of videos, grabs a random frame,  and automatically discovers a prompt for it
 - [rsalmei/alive-progress](https://github.com/rsalmei/alive-progress) - A new kind of Progress Bar, with real-time throughput, ETA, and very cool animations!
 - [EverythingSuckz/PaLM-Bot](https://github.com/EverythingSuckz/PaLM-Bot) - A small bot that interacts with Google's PaLM Chat API.
@@ -1387,7 +1390,7 @@
 - [tgbot-collection/ytdlbot](https://github.com/tgbot-collection/ytdlbot) - Download videos from Youtube and other platforms through a Telegram Bot
 - [AulaMaroon/Proxy-Scrapper](https://github.com/AulaMaroon/Proxy-Scrapper) - 
 - [DaCapo7/PyPiano](https://github.com/DaCapo7/PyPiano) - Synthesia but open source, made in python and free
-- [Avnsx/fansly-downloader](https://github.com/Avnsx/fansly-downloader) - Executable Downloader App - a absolute must-have for Fansly enthusiasts. With this easy-to-use content downloading tool, you can download all your favorite content from fansly.com. No more manual down
+- [Avnsx/fansly-downloader](https://github.com/Avnsx/fansly-downloader) - Python / Executable App - a absolute must-have for Fansly enthusiasts. With this easy-to-use content downloading tool, you can download all your favorite content from fansly.com. No more manual downlo
 - [geekcomputers/Python](https://github.com/geekcomputers/Python) - My Python Examples
 - [KamiTopalyan/AutoClicker](https://github.com/KamiTopalyan/AutoClicker) - 
 - [isayakhov/duplicate-stickers-remover-bot](https://github.com/isayakhov/duplicate-stickers-remover-bot) - Bot can find and remove duplicates stickers from different sticker sets
@@ -2201,7 +2204,6 @@
 - [samadii/Movie-Search-bot](https://github.com/samadii/Movie-Search-bot) - Inline bot for channels and groups
 - [aryazakaria01/PornHub](https://github.com/aryazakaria01/PornHub) - A Telegram Bot For Download PornHub Videos.
 - [samadii/ibcleanerbot](https://github.com/samadii/ibcleanerbot) - This is a simple Telegram bot to Delete User Messages based on Groupmembers Votes. Heroku deployable
-- [samadii/VideoEncoder](https://github.com/samadii/VideoEncoder) - A Telegram bot to encode videos files via ffmpeg.
 - [AnjanaMadu/YTPlaylistDL](https://github.com/AnjanaMadu/YTPlaylistDL) - A Telegram bot to download youtube playlists and upload them to telegram. (may be slow becoz youtube limitations)
 - [AbirHasan2005/Footer-Bot](https://github.com/AbirHasan2005/Footer-Bot) - A Bot for adding Footer caption beside main caption of Telegram Channel Messages by @AbirHasan2005
 - [AbirHasan2005/Emoji-Captcha-Bot](https://github.com/AbirHasan2005/Emoji-Captcha-Bot) - A Telegram Bot for verifying new group members by Emojis Captcha by @AbirHasan2005.
@@ -2230,8 +2232,6 @@
 - [m4mallu/uniquify](https://github.com/m4mallu/uniquify) - Uniquify is a Telegram bot interface used to remove duplicate media files from a chat
 - [SurajMeena/todo-telegram-bot](https://github.com/SurajMeena/todo-telegram-bot) - 
 - [Soebb/lang-detector-bot](https://github.com/Soebb/lang-detector-bot) - Telegram bot for language detection from Voice based on Silero VAD
-- [Soebb/voiceChanger](https://github.com/Soebb/voiceChanger) - Telegram bot for changing the voice in a voice message or audio recording, with the ability to return the encrypted voice to the standard sound
-- [Ryize/voiceChanger](https://github.com/Ryize/voiceChanger) - Telegram-бот для изменения голоса в голосовом сообщении или аудиозаписи, с возможностью возврата зашифрованного голоса к стандартному звучанию
 - [egorsmkv/lang-detector-bot](https://github.com/egorsmkv/lang-detector-bot) - Telegram bot for language detection from Voice based on Silero VAD
 - [AbirHasan2005/Message-Search-Bot](https://github.com/AbirHasan2005/Message-Search-Bot) - A Telegram Bot for searching any channel messages from Inline by @AbirHasan2005
 - [EverythingSuckz/TG-FileStreamBot](https://github.com/EverythingSuckz/TG-FileStreamBot) - A telegram bot that will give instant stream links for telegram files without the need of waiting till the download completes.
