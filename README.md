@@ -321,7 +321,6 @@
 - [vahidbaghi/GoogleDrive](https://github.com/vahidbaghi/GoogleDrive) - تبدیل گوگل درایو به هاست دانلود با دامنه اختصاصی
 - [MrBotDeveloper/API](https://github.com/MrBotDeveloper/API) - A Multi-Functional API by @MrBotDeveloper which let's you do many interesting things
 - [Toukacloud/TGFlix](https://github.com/Toukacloud/TGFlix) - Yet Another Idea 💡 | TGFlix - Use Telegram as your Drive & stream.
-- [Clinton-Abraham/SPACE-X-BOTS](https://github.com/Clinton-Abraham/SPACE-X-BOTS) - SpaceX Telegram Bots ⚡
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 - [ChankitSaini/TelegramScrapper](https://github.com/ChankitSaini/TelegramScrapper) - Telegram member scrapper script
 - [mishakorzik/MailFinder](https://github.com/mishakorzik/MailFinder) - OSINT tool for finding email by first and last name
@@ -410,6 +409,11 @@
 
 ## Python 
 
+- [galihap76/collector](https://github.com/galihap76/collector) - Collector is a OSINT tool and information gathering. This tool can do information gathering phone numbers, github account, ip address and instagram account.
+- [Chamepp/Daily.py](https://github.com/Chamepp/Daily.py) - :telescope: Daily Useful Scripts
+- [damnever/pigar](https://github.com/damnever/pigar) - :coffee: A tool to generate requirements.txt for Python project, and more than that. (IT IS NOT A PACKAGE MANAGEMENT TOOL)
+- [nit-in/py-dictionary](https://github.com/nit-in/py-dictionary) - returns meaning, synonyms, antonyms for a word (scraping dictionary.com)
+- [madpah/requirements-parser](https://github.com/madpah/requirements-parser) - A Pip requirements file parser.
 - [Breakthrough/PySceneDetect](https://github.com/Breakthrough/PySceneDetect) - :movie_camera: Python and OpenCV-based scene cut/transition detection program & library.
 - [TheLime1/aichat-cli](https://github.com/TheLime1/aichat-cli) - a command-line interface chatbot. It allows you to have interactive conversations with different bots, including GPT4 FOR FREE
 - [pypa/pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
@@ -1390,7 +1394,7 @@
 - [tgbot-collection/ytdlbot](https://github.com/tgbot-collection/ytdlbot) - Download videos from Youtube and other platforms through a Telegram Bot
 - [AulaMaroon/Proxy-Scrapper](https://github.com/AulaMaroon/Proxy-Scrapper) - 
 - [DaCapo7/PyPiano](https://github.com/DaCapo7/PyPiano) - Synthesia but open source, made in python and free
-- [Avnsx/fansly-downloader](https://github.com/Avnsx/fansly-downloader) - Python / Executable App - a absolute must-have for Fansly enthusiasts. With this easy-to-use content downloading tool, you can download all your favorite content from fansly.com. No more manual downlo
+- [Avnsx/fansly-downloader](https://github.com/Avnsx/fansly-downloader) - Python / Executable App to download fansly content. With this easy-to-use content downloading tool, you can download all your favorite content from fansly.com. No more manual downloads, enjoy your Fan
 - [geekcomputers/Python](https://github.com/geekcomputers/Python) - My Python Examples
 - [KamiTopalyan/AutoClicker](https://github.com/KamiTopalyan/AutoClicker) - 
 - [isayakhov/duplicate-stickers-remover-bot](https://github.com/isayakhov/duplicate-stickers-remover-bot) - Bot can find and remove duplicates stickers from different sticker sets
