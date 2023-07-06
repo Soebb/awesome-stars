@@ -2246,7 +2246,7 @@
 - [AmineSoukara/RemoveForwardTagBot](https://github.com/AmineSoukara/RemoveForwardTagBot) - For Personal Use ..
 - [MrBotDeveloper/PDF-Bot](https://github.com/MrBotDeveloper/PDF-Bot) - A bot for PDF for doing Many Things....
 - [f213/tg2rss](https://github.com/f213/tg2rss) - Generating RSS out of my telegram channel
-- [f213/channel-discussion-antispam-bot](https://github.com/f213/channel-discussion-antispam-bot) - 
+- [f213/channel-discussion-antispam-bot](https://github.com/f213/channel-discussion-antispam-bot) - Removes spam messages from telegram channel discussions
 - [KunoiSayami/Things-Forward-telegram](https://github.com/KunoiSayami/Things-Forward-telegram) - Automatic forwarding message on Telegram.
 - [f213/selfmailbot](https://github.com/f213/selfmailbot) - Telegram bot that forwards messages to your inbox
 - [franciscod/telegram-twitter-forwarder-bot](https://github.com/franciscod/telegram-twitter-forwarder-bot) - A Telegram bot that forwards Tweets
