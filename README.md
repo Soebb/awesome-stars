@@ -952,7 +952,7 @@
 - [gbstack/ffprobe-python](https://github.com/gbstack/ffprobe-python) - A wrapper of ffprobe command to extract metadata from media files.
 - [clagiordano/python3-logger](https://github.com/clagiordano/python3-logger) - Library for logging facility
 - [nickumia/web-search-dictionary](https://github.com/nickumia/web-search-dictionary) - A Definition Lookup API based on Google Search Results
-- [DeekshithSH/TG-FileStreamBot](https://github.com/DeekshithSH/TG-FileStreamBot) - A Telegram bot to stream files to web.(Inactive for some months)
+- [SpringsFern/TG-FileStreamBot](https://github.com/SpringsFern/TG-FileStreamBot) - A Telegram bot to stream files to web.(Inactive for some months)
 - [eteamin/async_faspell](https://github.com/eteamin/async_faspell) - Farsi spellchecker
 - [meyt/linkpreview](https://github.com/meyt/linkpreview) - Get link preview in python
 - [mohadese-yousefi/spell-correction](https://github.com/mohadese-yousefi/spell-correction) - Simple autocorrect misspelled word base on distance.
