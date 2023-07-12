@@ -489,7 +489,7 @@
 - [m1guelpf/yt-whisper](https://github.com/m1guelpf/yt-whisper) - Using OpenAI's Whisper to automatically generate YouTube subtitles
 - [yoshiko2/Movie_Data_Capture](https://github.com/yoshiko2/Movie_Data_Capture) - Local Movies Organizer
 - [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
-- [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - A lightweight framework for building AI-powered applications that are reliable, scalable, and easy to trust
+- [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - A lightweight framework for building AI-powered software that's reliable, scalable, and easy to trust
 - [Textualize/frogmouth](https://github.com/Textualize/frogmouth) - A Markdown browser for your terminal
 - [gleitz/howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
 - [darrenburns/kupo](https://github.com/darrenburns/kupo) - A terminal file browser, kupo!
@@ -660,7 +660,7 @@
 - [NatLee/Batch-crop-images](https://github.com/NatLee/Batch-crop-images) - A tool for cropping similar images in a batch with an interface.
 - [yerodin/requester](https://github.com/yerodin/requester) - Python tool to download web resources (bye bye wget & curl)
 - [labteral/chatgpt-python](https://github.com/labteral/chatgpt-python) - Unofficial Python SDK for OpenAI's ChatGPT
-- [mmabrouk/chatgpt-wrapper](https://github.com/mmabrouk/chatgpt-wrapper) - API for interacting with ChatGPT and GPT4 using Python and from Shell.
+- [llm-workflow-engine/llm-workflow-engine](https://github.com/llm-workflow-engine/llm-workflow-engine) - API for interacting with ChatGPT and GPT4 using Python and from Shell.
 - [venthur/gscholar](https://github.com/venthur/gscholar) - Query Google Scholar with Python
 - [Nv7-GitHub/googlesearch](https://github.com/Nv7-GitHub/googlesearch) - A Python library for scraping the Google search engine.
 - [opsdisk/yagooglesearch](https://github.com/opsdisk/yagooglesearch) - Yet another googlesearch - A Python library for executing intelligent, realistic-looking, and tunable Google searches.
