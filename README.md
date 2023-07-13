@@ -173,6 +173,7 @@
 
 ## JavaScript 
 
+- [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
 - [justpy-org/justpy](https://github.com/justpy-org/justpy) - An object oriented high-level Python Web Framework that requires no frontend programming
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
 - [tuhinpal/imdb-api](https://github.com/tuhinpal/imdb-api) - Serverless IMDB API powered by Cloudflare Worker
@@ -534,7 +535,6 @@
 - [tusharsadhwani/zxpy](https://github.com/tusharsadhwani/zxpy) - Shell scripts made simple 🐚
 - [Steve-Shambles/bg-remover-GUI](https://github.com/Steve-Shambles/bg-remover-GUI) - A Tkinter GUI for BackgroundRemover
 - [chapig/speakscribe](https://github.com/chapig/speakscribe) - Speakscribe is a web application that allows users to transcribe audios using OpenAI and also interact with a chat bot. The web application is created in Python using NiceGUI.
-- [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
 - [huggingface/speechbox](https://github.com/huggingface/speechbox) - 
 - [psf/requests](https://github.com/psf/requests) - A simple, yet elegant, HTTP library.
 - [TheOpponent/mr-otcs](https://github.com/TheOpponent/mr-otcs) - Automated video looping, streaming, and schedule generation
@@ -660,7 +660,7 @@
 - [NatLee/Batch-crop-images](https://github.com/NatLee/Batch-crop-images) - A tool for cropping similar images in a batch with an interface.
 - [yerodin/requester](https://github.com/yerodin/requester) - Python tool to download web resources (bye bye wget & curl)
 - [labteral/chatgpt-python](https://github.com/labteral/chatgpt-python) - Unofficial Python SDK for OpenAI's ChatGPT
-- [llm-workflow-engine/llm-workflow-engine](https://github.com/llm-workflow-engine/llm-workflow-engine) - API for interacting with ChatGPT and GPT4 using Python and from Shell.
+- [llm-workflow-engine/llm-workflow-engine](https://github.com/llm-workflow-engine/llm-workflow-engine) - Power CLI and Workflow manager for LLMs (core package)
 - [venthur/gscholar](https://github.com/venthur/gscholar) - Query Google Scholar with Python
 - [Nv7-GitHub/googlesearch](https://github.com/Nv7-GitHub/googlesearch) - A Python library for scraping the Google search engine.
 - [opsdisk/yagooglesearch](https://github.com/opsdisk/yagooglesearch) - Yet another googlesearch - A Python library for executing intelligent, realistic-looking, and tunable Google searches.
