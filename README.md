@@ -529,7 +529,7 @@
 - [Dadangdut33/Screen-Translate](https://github.com/Dadangdut33/Screen-Translate) - A Screen Translator/OCR Translator made by using Python and Tesseract, the user interface are made using Tkinter. All code written in python.
 - [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate) - A realtime speech transcription and translation application using Whisper OpenAI and free translation API. Interface made using Tkinter. Code written fully in Python.
 - [josch/img2pdf](https://github.com/josch/img2pdf) - mirror of https://gitlab.mister-muffin.de/josch/img2pdf for Travis and appveyor CI
-- [pikepdf/pikepdf](https://github.com/pikepdf/pikepdf) - A Python library for reading and writing PDF, powered by qpdf
+- [pikepdf/pikepdf](https://github.com/pikepdf/pikepdf) - A Python library for reading and writing PDF, powered by QPDF
 - [5yutan5/PyQtDarkTheme](https://github.com/5yutan5/PyQtDarkTheme) - A flat dark theme for PySide and PyQt.
 - [unmade/audiomatch](https://github.com/unmade/audiomatch) - Find similar audio files easily
 - [tusharsadhwani/zxpy](https://github.com/tusharsadhwani/zxpy) - Shell scripts made simple 🐚
