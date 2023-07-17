@@ -428,7 +428,7 @@
 - [knadh/tg-archive](https://github.com/knadh/tg-archive) - A tool for exporting Telegram group chats into static websites like mailing list archives.
 - [djfun/audio-visualizer-python](https://github.com/djfun/audio-visualizer-python) - a little GUI tool to render visualization videos of audio files
 - [coderholic/pyradio](https://github.com/coderholic/pyradio) - Curses based internet radio player
-- [jnsougata/aiotube](https://github.com/jnsougata/aiotube) - alternative to youtube-public-data-api v3
+- [jnsougata/aiotube](https://github.com/jnsougata/aiotube) - alternative to youtube public data api v3
 - [david-lev/pywa](https://github.com/david-lev/pywa) - Python wrapper for the WhatsApp Cloud API
 - [mo1ein/Golchin](https://github.com/mo1ein/Golchin) - Golchin is a telegram bot that extract English words from file and translate it to Persian.
 - [mo1ein/TelegramArchive](https://github.com/mo1ein/TelegramArchive) - Export telegram chats.
@@ -636,7 +636,7 @@
 - [jurakin/parallel-downloader](https://github.com/jurakin/parallel-downloader) - Downloads file using parallel downloading (if range header is supported otherwise downloads normally).
 - [insolor/async-tkinter-loop](https://github.com/insolor/async-tkinter-loop) - Asynchronous mainloop implementation for tkinter. Makes it possible to use async functions as event handlers and widget commands.
 - [adamchainz/time-machine](https://github.com/adamchainz/time-machine) - Travel through time in your tests.
-- [PhongCode/Facebook-Image-Backup](https://github.com/PhongCode/Facebook-Image-Backup) - You can download all user's images on Facebook with the amazing application.
+- [mrtrieuphong/Facebook-Image-Backup](https://github.com/mrtrieuphong/Facebook-Image-Backup) - You can download all user's images on Facebook with the amazing application.
 - [tvey/usefulness](https://github.com/tvey/usefulness) - Various utils and snippets proved useful :wrench:
 - [ZutrixPog/youtube-comments-extractor](https://github.com/ZutrixPog/youtube-comments-extractor) - Persian youtube comments dataset
 - [mrunderline/cli-progressbar](https://github.com/mrunderline/cli-progressbar) - lightweight library to print progress bar in cli
