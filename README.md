@@ -173,7 +173,6 @@
 
 ## JavaScript 
 
-- [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
 - [justpy-org/justpy](https://github.com/justpy-org/justpy) - An object oriented high-level Python Web Framework that requires no frontend programming
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
 - [tuhinpal/imdb-api](https://github.com/tuhinpal/imdb-api) - Serverless IMDB API powered by Cloudflare Worker
@@ -309,7 +308,7 @@
 - [dkncus/CrowdRemoval](https://github.com/dkncus/CrowdRemoval) - 
 - [Cozy-Tech/regex_tutorial_and_examples](https://github.com/Cozy-Tech/regex_tutorial_and_examples) - 
 - [Hameds/IranCountryDivisions](https://github.com/Hameds/IranCountryDivisions) - Iran Country Divisions - کلیه تقسیمات کشوری ایران تا سطح آبادی بر اساس اطلاعات مرکز آمار ایران
-- [MrBotDeveloper/This-Repo-Has-108-Stars](https://github.com/MrBotDeveloper/This-Repo-Has-108-Stars) - Yes it's true :broken_heart:, currently it has 108 stars ⭐ and 25 forks 🍴.
+- [MrBotDeveloper/This-Repo-Has-109-Stars](https://github.com/MrBotDeveloper/This-Repo-Has-109-Stars) - Yes it's true :broken_heart:, currently it has 109 stars ⭐ and 25 forks 🍴.
 - [Alir3z4/stop-words](https://github.com/Alir3z4/stop-words) - List of common stop words in various languages.
 - [ahmadazizi/iran-cities](https://github.com/ahmadazizi/iran-cities) - The most accurate database of city, county, village and province names of Iran.
 - [iranremote/awesome-iran-remote](https://github.com/iranremote/awesome-iran-remote) - A list of remote-friendly or full-remote companies that targets iranian talents.
@@ -535,6 +534,7 @@
 - [tusharsadhwani/zxpy](https://github.com/tusharsadhwani/zxpy) - Shell scripts made simple 🐚
 - [Steve-Shambles/bg-remover-GUI](https://github.com/Steve-Shambles/bg-remover-GUI) - A Tkinter GUI for BackgroundRemover
 - [chapig/speakscribe](https://github.com/chapig/speakscribe) - Speakscribe is a web application that allows users to transcribe audios using OpenAI and also interact with a chat bot. The web application is created in Python using NiceGUI.
+- [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
 - [huggingface/speechbox](https://github.com/huggingface/speechbox) - 
 - [psf/requests](https://github.com/psf/requests) - A simple, yet elegant, HTTP library.
 - [TheOpponent/mr-otcs](https://github.com/TheOpponent/mr-otcs) - Automated video looping, streaming, and schedule generation
