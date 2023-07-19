@@ -1394,7 +1394,7 @@
 - [tgbot-collection/ytdlbot](https://github.com/tgbot-collection/ytdlbot) - Download videos from Youtube and other platforms through a Telegram Bot
 - [AulaMaroon/Proxy-Scrapper](https://github.com/AulaMaroon/Proxy-Scrapper) - 
 - [DaCapo7/PyPiano](https://github.com/DaCapo7/PyPiano) - Synthesia but open source, made in python and free
-- [Avnsx/fansly-downloader](https://github.com/Avnsx/fansly-downloader) - Python / Executable App to download fansly content. With this easy-to-use content downloading tool, you can download all your favorite content from fansly.com. No more manual downloads, enjoy your Fan
+- [Avnsx/fansly-downloader](https://github.com/Avnsx/fansly-downloader) - Easy to use fansly.com content downloading tool. Written in python, but ships as a standalone Executable App for Windows too. Enjoy your Fansly content offline anytime, anywhere in the highest possibl
 - [geekcomputers/Python](https://github.com/geekcomputers/Python) - My Python Examples
 - [KamiTopalyan/AutoClicker](https://github.com/KamiTopalyan/AutoClicker) - 
 - [isayakhov/duplicate-stickers-remover-bot](https://github.com/isayakhov/duplicate-stickers-remover-bot) - Bot can find and remove duplicates stickers from different sticker sets
