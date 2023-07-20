@@ -1417,7 +1417,7 @@
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
 - [suhasa010/securejoinbot](https://github.com/suhasa010/securejoinbot) - Secure Generation of Invite links for Private Telegram groups
 - [socialrupt/project1](https://github.com/socialrupt/project1) - Save to github
-- [Alan4747/instagram-auto-create-account](https://github.com/Alan4747/instagram-auto-create-account) - An automatic account creation bot script for Instagram.
+- [eaabak/instagram-auto-create-account](https://github.com/eaabak/instagram-auto-create-account) - An automatic account creation bot script for Instagram.
 - [YazdanRa/django-itelegram](https://github.com/YazdanRa/django-itelegram) - It's a library for building Telegram bot on Django with extra built-in features
 - [alinri/telegram-contacts-to-vcf-converter](https://github.com/alinri/telegram-contacts-to-vcf-converter) - A useful script to convert telegram contacts to vcf for import to phone.
 - [jadijadi/digikala_history](https://github.com/jadijadi/digikala_history) - Extract and analyze the history of your purchases on Digikala
