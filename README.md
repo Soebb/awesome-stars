@@ -489,7 +489,7 @@
 - [m1guelpf/yt-whisper](https://github.com/m1guelpf/yt-whisper) - Using OpenAI's Whisper to automatically generate YouTube subtitles
 - [yoshiko2/Movie_Data_Capture](https://github.com/yoshiko2/Movie_Data_Capture) - Local Movies Organizer
 - [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
-- [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - A lightweight framework for building AI-powered software that's reliable, scalable, and easy to trust
+- [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - 🧩 A lightweight AI engineering framework for building natural language interfaces that are reliable, scalable, and easy to trust.
 - [Textualize/frogmouth](https://github.com/Textualize/frogmouth) - A Markdown browser for your terminal
 - [gleitz/howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
 - [darrenburns/kupo](https://github.com/darrenburns/kupo) - A terminal file browser, kupo!
@@ -1854,7 +1854,7 @@
 - [Belval/TextRecognitionDataGenerator](https://github.com/Belval/TextRecognitionDataGenerator) - A synthetic data generator for text recognition
 - [RapidAI/RapidOCR](https://github.com/RapidAI/RapidOCR) - A cross platform OCR Library based on PaddleOCR & OnnxRuntime & OpenVINO.
 - [apm1467/videocr](https://github.com/apm1467/videocr) - Extract hardcoded subtitles from videos using machine learning
-- [SWHL/RapidVideOCR](https://github.com/SWHL/RapidVideOCR) - 视频硬字幕提取，自动生成对应srt文件。VideoSubFinder + RapidOCR结合，离线即可运行，更快更准更方便。
+- [SWHL/RapidVideOCR](https://github.com/SWHL/RapidVideOCR) - Extract video hard subtitles and automatically generate corresponding srt files. The combination of VideoSubFinder + RapidOCR can run offline, faster, more accurate and more convenient.
 - [krviolent/subtitles_extract](https://github.com/krviolent/subtitles_extract) - Tool for extraction hard-coded (hardsub) Chinese subtitles from video files with 720p resolution
 - [escape0707/extract-rename-subtitle](https://github.com/escape0707/extract-rename-subtitle) - 
 - [musa-42/stream-cloud](https://github.com/musa-42/stream-cloud) - Robot to convert files to direct links, hosting files on Telegram servers, unlimited and without restrictions
