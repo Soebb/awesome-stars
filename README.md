@@ -1336,7 +1336,6 @@
 - [david-lev/TelegraphSearchBot](https://github.com/david-lev/TelegraphSearchBot) - 📃 This telegram bot is used to search for articles in a telegra.ph account
 - [david-lev/CapsLockBot](https://github.com/david-lev/CapsLockBot) - 🔠 Telegram bot to fix capslock messages
 - [david-lev/SamsungApkDownloader](https://github.com/david-lev/SamsungApkDownloader) - ⬇️ Python script to download samsung APK's
-- [YeudaBy/Friends-Search](https://github.com/YeudaBy/Friends-Search) - 
 - [ManaanAnsari/rasa_telegram](https://github.com/ManaanAnsari/rasa_telegram) - 
 - [lyz-code/autoimport](https://github.com/lyz-code/autoimport) - Autoimport automatically fixes wrong import statements.
 - [tqdm/tqdm](https://github.com/tqdm/tqdm) - A Fast, Extensible Progress Bar for Python and CLI
