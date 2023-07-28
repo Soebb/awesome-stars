@@ -1051,7 +1051,7 @@
 - [iraj-jelo/srtmerger](https://github.com/iraj-jelo/srtmerger) - subtitle merger is a tool for merging two or more subtitles for videos.
 - [kotnid/Youtube_Bot](https://github.com/kotnid/Youtube_Bot) - Download YouTube video by just typing commands in Telegram
 - [rain2wood/spotBot-OSS](https://github.com/rain2wood/spotBot-OSS) - // Download FLAC / MP3 from Spotify via Telegram Bot //
-- [jakob-bagterp/browserist](https://github.com/jakob-bagterp/browserist) - 👩‍💻 Extension for the Selenium web driver that makes browser automation even easier 👨‍💻
+- [jakob-bagterp/browserist](https://github.com/jakob-bagterp/browserist) - 👩‍💻 Python extension for the Selenium web driver that makes browser automation even easier 👨‍💻
 - [jakob-bagterp/timer-for-python](https://github.com/jakob-bagterp/timer-for-python) - ⏳ Lightweight Python package that makes it easy to measure how much time it takes to run Python programs and gauge performance of multiple, smaller bits of code ⌛️
 - [TeaByte/Telegram-search](https://github.com/TeaByte/Telegram-search) - Simple web scrapping to search from telegram
 - [uktrade/stream-unzip](https://github.com/uktrade/stream-unzip) - Python function to stream unzip all the files in a ZIP archive - without loading the entire ZIP file or any of its files into memory at once
@@ -1420,7 +1420,7 @@
 - [YazdanRa/django-itelegram](https://github.com/YazdanRa/django-itelegram) - It's a library for building Telegram bot on Django with extra built-in features
 - [alinri/telegram-contacts-to-vcf-converter](https://github.com/alinri/telegram-contacts-to-vcf-converter) - A useful script to convert telegram contacts to vcf for import to phone.
 - [jadijadi/digikala_history](https://github.com/jadijadi/digikala_history) - Extract and analyze the history of your purchases on Digikala
-- [pokurt/nekobinpy](https://github.com/pokurt/nekobinpy) - Asynchronous Nekobin API Wrapper for Python3
+- [CustomIcon/nekobinpy](https://github.com/CustomIcon/nekobinpy) - Asynchronous Nekobin API Wrapper for Python3
 - [tyalie/telegram-video-download-bot](https://github.com/tyalie/telegram-video-download-bot) - Youtube DLP based telegram bot to download videos from diverse sides
 - [Student2506/telegram_speech_bot](https://github.com/Student2506/telegram_speech_bot) - 
 - [venomsnake/Gdrive_Search_BoT](https://github.com/venomsnake/Gdrive_Search_BoT) - G-drive Search Bot that can be deployed on Github workflow.
