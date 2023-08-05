@@ -1347,7 +1347,7 @@
 - [Chan-Bill/wiki-pdf-gen](https://github.com/Chan-Bill/wiki-pdf-gen) - Scrape Wikipedia articles and generate PDF files.
 - [xuan-practice-coding/websiteCrawler](https://github.com/xuan-practice-coding/websiteCrawler) - 
 - [ritzballares/foto2pdf](https://github.com/ritzballares/foto2pdf) - A CLI tool for converting images into a PDF
-- [PyFPDF/fpdf2](https://github.com/PyFPDF/fpdf2) - Simple PDF generation for Python
+- [py-pdf/fpdf2](https://github.com/py-pdf/fpdf2) - Simple PDF generation for Python
 - [kernoeb/Telegramusic](https://github.com/kernoeb/Telegramusic) - Python Telegram Bot to download music from Deezer and YouTube (Heroku, Docker)
 - [Bricio/yt-dlp](https://github.com/Bricio/yt-dlp) - A youtube-dl fork with additional features and fixes
 - [vokimon/python-wavefile](https://github.com/vokimon/python-wavefile) - Pythonic access to audio files
