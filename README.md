@@ -1187,7 +1187,7 @@
 - [ihosseinu/quote_scraper](https://github.com/ihosseinu/quote_scraper) - Scrapes farsi quotes from www.time.ir
 - [mnosrati/Google-Translate-Farsi](https://github.com/mnosrati/Google-Translate-Farsi) - The provided code translates the English words to Persian and returns the details such as English and Persian definitions, parts of speech, examples, and synonyms. For using this code, you need to ins
 - [hoco1/InstaBot](https://github.com/hoco1/InstaBot) - Instagram Bot with python
-- [ALIILAPRO/unofficial-api-tiktok](https://github.com/ALIILAPRO/unofficial-api-tiktok) - Download from unofficial api tiktok
+- [ALIILAPRO/Tikdan](https://github.com/ALIILAPRO/Tikdan) - Unofficial api tiktok
 - [dev-zarir/Messenger-For-PC](https://github.com/dev-zarir/Messenger-For-PC) - Special Featured Messenger for PC
 - [appheap/PyGithub](https://github.com/appheap/PyGithub) - A Python Client for the GitHub REST API
 - [itsMatiYo/Wikipedia-pictures-downloader-bot](https://github.com/itsMatiYo/Wikipedia-pictures-downloader-bot) - A python script for downloading high quality pictures from english wikipedia pages.
