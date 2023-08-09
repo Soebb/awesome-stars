@@ -1338,7 +1338,7 @@
 - [david-lev/SamsungApkDownloader](https://github.com/david-lev/SamsungApkDownloader) - ⬇️ Python script to download samsung APK's
 - [ManaanAnsari/rasa_telegram](https://github.com/ManaanAnsari/rasa_telegram) - 
 - [lyz-code/autoimport](https://github.com/lyz-code/autoimport) - Autoimport automatically fixes wrong import statements.
-- [tqdm/tqdm](https://github.com/tqdm/tqdm) - A Fast, Extensible Progress Bar for Python and CLI
+- [tqdm/tqdm](https://github.com/tqdm/tqdm) - :zap: A Fast, Extensible Progress Bar for Python and CLI
 - [Reiqy/document-scanner](https://github.com/Reiqy/document-scanner) - Document Scanner application in Python
 - [TheBobTheBlob/cbPDF](https://github.com/TheBobTheBlob/cbPDF) - cbPDF is a command line tool to convert a folder or compressed archive containing images into a PDF.
 - [joshbduncan/word-search-generator](https://github.com/joshbduncan/word-search-generator) - Make awesome Word Search puzzles!
@@ -1839,7 +1839,6 @@
 - [Saadelk/youtube_trim](https://github.com/Saadelk/youtube_trim) - Python script that enables you to download a youtube video , and also a trimmed version of it.
 - [mrismanaziz/Scrap-Man](https://github.com/mrismanaziz/Scrap-Man) - Bot Scrap APP ID and API HASH Telegram
 - [tsweet64/vtrim](https://github.com/tsweet64/vtrim) - A Python script to trim silent parts from videos
-- [CodeWithAlvin/CloudTrim](https://github.com/CodeWithAlvin/CloudTrim) - A python package for trimming online video and download them
 - [dmingn/vtrim](https://github.com/dmingn/vtrim) - A python script to trim a video using ffmpeg.
 - [Akash006/telegramBot_videoEditor](https://github.com/Akash006/telegramBot_videoEditor) - Bot will collect all your picture then ask for youtube song fetch its audio, trim it and create a video using your pictures and trimmed audio.
 - [Guillermo-Hidalgo-Gadea/VideoPyToolbox](https://github.com/Guillermo-Hidalgo-Gadea/VideoPyToolbox) - Play, compress, trim and concatenate videos in python using FFmpeg
@@ -2050,7 +2049,7 @@
 - [AmanoTeam/Unalix](https://github.com/AmanoTeam/Unalix) - Small, dependency-free, fast Python package for removing tracking fields from URLs.
 - [AmanoTeam/EduuRobot](https://github.com/AmanoTeam/EduuRobot) - EduuRobot Telegram bot source code.
 - [Liupold/demeter_dl](https://github.com/Liupold/demeter_dl) - Demeter_DL is a open source download manager. Built for speed, efficiency and comfort! Download YouTube videos directly! or use it in your project with API
-- [amirhoseinsalimi/music-tool-bot](https://github.com/amirhoseinsalimi/music-tool-bot) - The one and only bot you need to manage your music files
+- [amirhoseinsalimi/music-tool-bot](https://github.com/amirhoseinsalimi/music-tool-bot) - The one and only Telegram bot you need to manage your music files
 - [tanveerraza789/ytadlbot](https://github.com/tanveerraza789/ytadlbot) - Youtube audio downloader telegram bot
 - [FayasNoushad/URL-Shortner-Bot](https://github.com/FayasNoushad/URL-Shortner-Bot) - A link shortner telegram bot version 2 with advanced features
 - [X-Gorn/File-Sharing](https://github.com/X-Gorn/File-Sharing) - Telegram bot to share any telegram files and get the shareable link
