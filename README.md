@@ -409,6 +409,7 @@
 
 ## Python 
 
+- [hsherafat/TBCproject_bot](https://github.com/hsherafat/TBCproject_bot) - The Telegram bot for communicating with the Divar website [Farsi]
 - [galihap76/collector](https://github.com/galihap76/collector) - Collector is a OSINT tool and information gathering. This tool can do information gathering phone numbers, github account, ip address and instagram account.
 - [Chamepp/Daily.py](https://github.com/Chamepp/Daily.py) - :telescope: Daily Useful Scripts
 - [damnever/pigar](https://github.com/damnever/pigar) - :coffee: A tool to generate requirements.txt for Python project, and more than that. (IT IS NOT A PACKAGE MANAGEMENT TOOL)
