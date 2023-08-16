@@ -409,6 +409,7 @@
 
 ## Python 
 
+- [bipinkrish/Zlibrary-API](https://github.com/bipinkrish/Zlibrary-API) - Unofficial Python Implementation of Zlibrary API
 - [Maimonator/telewrap](https://github.com/Maimonator/telewrap) - A script that wraps cmdline executable with a telegram bot
 - [hsherafat/TBCproject_bot](https://github.com/hsherafat/TBCproject_bot) - The Telegram bot for communicating with the Divar website [Farsi]
 - [galihap76/collector](https://github.com/galihap76/collector) - Collector is a OSINT tool and information gathering. This tool can do information gathering phone numbers, github account, ip address and instagram account.
@@ -2059,7 +2060,7 @@
 - [Jigarvarma2005/VideoCompress](https://github.com/Jigarvarma2005/VideoCompress) - 
 - [EL-Coders/ELYoutubeBot](https://github.com/EL-Coders/ELYoutubeBot) - 
 - [Jigarvarma2005/Streaming-Link-Gen](https://github.com/Jigarvarma2005/Streaming-Link-Gen) - 
-- [alexle-dev/TTSBotPython](https://github.com/alexle-dev/TTSBotPython) - 
+- [Fumaz/TTSBotPython](https://github.com/Fumaz/TTSBotPython) - 
 - [subinps/VCPlayerBot](https://github.com/subinps/VCPlayerBot) - Telegram bot to stream videos in telegram voicechat for both groups and channels. Supports live steams, YouTube videos and telegram media. Supports scheduling streams, recording and many more.
 - [musa-42/streamer_file](https://github.com/musa-42/streamer_file) - Robot to convert files to direct links, hosting files on Telegram servers, unlimited and without restrictions
 - [EverythingSuckz/tgvc-video-tests](https://github.com/EverythingSuckz/tgvc-video-tests) - ignore my commit history cuz It'll be messy af
