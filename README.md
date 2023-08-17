@@ -308,7 +308,7 @@
 - [dkncus/CrowdRemoval](https://github.com/dkncus/CrowdRemoval) - 
 - [Cozy-Tech/regex_tutorial_and_examples](https://github.com/Cozy-Tech/regex_tutorial_and_examples) - 
 - [Hameds/IranCountryDivisions](https://github.com/Hameds/IranCountryDivisions) - Iran Country Divisions - کلیه تقسیمات کشوری ایران تا سطح آبادی بر اساس اطلاعات مرکز آمار ایران
-- [MrBotDeveloper/This-Repo-Has-109-Stars](https://github.com/MrBotDeveloper/This-Repo-Has-109-Stars) - Yes it's true :broken_heart:, currently it has 109 stars ⭐ and 25 forks 🍴.
+- [MrBotDeveloper/This-Repo-Has-110-Stars](https://github.com/MrBotDeveloper/This-Repo-Has-110-Stars) - Yes it's true :broken_heart:, currently it has 110 stars ⭐ and 25 forks 🍴.
 - [Alir3z4/stop-words](https://github.com/Alir3z4/stop-words) - List of common stop words in various languages.
 - [ahmadazizi/iran-cities](https://github.com/ahmadazizi/iran-cities) - The most accurate database of city, county, village and province names of Iran.
 - [iranremote/awesome-iran-remote](https://github.com/iranremote/awesome-iran-remote) - A list of remote-friendly or full-remote companies that targets iranian talents.
@@ -603,7 +603,7 @@
 - [Raychanan/ChatGPT-for-Translation](https://github.com/Raychanan/ChatGPT-for-Translation) - Use Python and ChatGPT for translation. 利用Python和ChatGPT完成翻译。
 - [reorx/awesome-chatgpt-api](https://github.com/reorx/awesome-chatgpt-api) - Curated list of apps and tools that not only use the new ChatGPT API, but also allow users to configure their own API keys, enabling free and on-demand usage of their own quota.
 - [yufeikang/ai-cli](https://github.com/yufeikang/ai-cli) - This CLI tool allows you to easily use chatGPT in the command line. You can chat with it, ask it questions, and get text translations. It also supports rendering Markdown in the terminal.
-- [apockill/clai](https://github.com/apockill/clai) - Command Line AI- this tool lets you call ChatGPT from a CLI
+- [apockill/clai](https://github.com/apockill/clai) - Command Line AI- this tool lets you call ChatGPT from any textbox on your computer
 - [asweigart/pyperclip](https://github.com/asweigart/pyperclip) - Python module for cross-platform clipboard functions.
 - [asmeurer/removestar](https://github.com/asmeurer/removestar) - Tool to automatically replace 'import *' in Python files with explicit imports
 - [n3d1117/chatgpt-telegram-bot](https://github.com/n3d1117/chatgpt-telegram-bot) - 🤖 A Telegram bot that integrates with OpenAI's official ChatGPT APIs to provide answers, written in Python
