@@ -409,6 +409,7 @@
 
 ## Python 
 
+- [putkoff/Python-Tools](https://github.com/putkoff/Python-Tools) - A repository for python functions that can help make things a little easier
 - [bipinkrish/Zlibrary-API](https://github.com/bipinkrish/Zlibrary-API) - Unofficial Python Implementation of Zlibrary API
 - [Maimonator/telewrap](https://github.com/Maimonator/telewrap) - A script that wraps cmdline executable with a telegram bot
 - [hsherafat/TBCproject_bot](https://github.com/hsherafat/TBCproject_bot) - The Telegram bot for communicating with the Divar website [Farsi]
