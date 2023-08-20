@@ -308,7 +308,7 @@
 - [dkncus/CrowdRemoval](https://github.com/dkncus/CrowdRemoval) - 
 - [Cozy-Tech/regex_tutorial_and_examples](https://github.com/Cozy-Tech/regex_tutorial_and_examples) - 
 - [Hameds/IranCountryDivisions](https://github.com/Hameds/IranCountryDivisions) - Iran Country Divisions - کلیه تقسیمات کشوری ایران تا سطح آبادی بر اساس اطلاعات مرکز آمار ایران
-- [MrBotDeveloper/This-Repo-Has-110-Stars](https://github.com/MrBotDeveloper/This-Repo-Has-110-Stars) - Yes it's true :broken_heart:, currently it has 110 stars ⭐ and 25 forks 🍴.
+- [MrBotDeveloper/This-Repo-Has-111-Stars](https://github.com/MrBotDeveloper/This-Repo-Has-111-Stars) - Yes it's true :broken_heart:, currently it has 111 stars ⭐ and 25 forks 🍴.
 - [Alir3z4/stop-words](https://github.com/Alir3z4/stop-words) - List of common stop words in various languages.
 - [ahmadazizi/iran-cities](https://github.com/ahmadazizi/iran-cities) - The most accurate database of city, county, village and province names of Iran.
 - [iranremote/awesome-iran-remote](https://github.com/iranremote/awesome-iran-remote) - A list of remote-friendly or full-remote companies that targets iranian talents.
@@ -364,6 +364,7 @@
 
 ## PHP 
 
+- [PBhadoo/Rapidleech](https://github.com/PBhadoo/Rapidleech) - 
 - [Smartproxy/Social-Media-Scraping-API](https://github.com/Smartproxy/Social-Media-Scraping-API) - Social Media Scraping API code examples for Python, PHP and Node.js
 - [alikm6/chToolsBot](https://github.com/alikm6/chToolsBot) - Telegram Bot to Help Channel Administrators
 - [bluedreamcoder/createyourbot](https://github.com/bluedreamcoder/createyourbot) - Code Examples for createyourbot telegram bots
@@ -409,6 +410,7 @@
 
 ## Python 
 
+- [m-jishnu/pypdl](https://github.com/m-jishnu/pypdl) - A concurrent python downloader with resume capablities
 - [putkoff/Python-Tools](https://github.com/putkoff/Python-Tools) - A repository for python functions that can help make things a little easier
 - [bipinkrish/Zlibrary-API](https://github.com/bipinkrish/Zlibrary-API) - Unofficial Python Implementation of Zlibrary API
 - [Maimonator/telewrap](https://github.com/Maimonator/telewrap) - A script that wraps cmdline executable with a telegram bot
