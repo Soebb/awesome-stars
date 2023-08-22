@@ -236,6 +236,7 @@
 - [152334H/tortoise-tts-fast](https://github.com/152334H/tortoise-tts-fast) - Fast TorToiSe inference (5x or your money back!)
 - [akiomik/pilgram](https://github.com/akiomik/pilgram) - A python library for instagram filters
 - [jamesturk/jellyfish](https://github.com/jamesturk/jellyfish) - 🪼 a python library for doing approximate and phonetic matching of strings.
+- [jaketae/storyteller](https://github.com/jaketae/storyteller) - Multimodal AI Story Teller, built with Stable Diffusion, GPT, and neural text-to-speech
 - [AmirAbaskohi/Automatic-Speech-recognition-for-Speech-Assessment-of-Persian-Preschool-Children](https://github.com/AmirAbaskohi/Automatic-Speech-recognition-for-Speech-Assessment-of-Persian-Preschool-Children) - Preschool evaluation is crucial because it gives teachers and parents influential knowledge about children's growth and development. The COVID-19 pandemic has highlighted the necessity of online asses
 - [Ah00ra/car-price-prediction](https://github.com/Ah00ra/car-price-prediction) - predict a car price by multiple linear regression
 - [Dadmatech/FaREX](https://github.com/Dadmatech/FaREX) - Farsi Relation Extraction
@@ -410,6 +411,7 @@
 
 ## Python 
 
+- [TomSchimansky/CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) - A modern and customizable python UI-library based on Tkinter
 - [m-jishnu/pypdl](https://github.com/m-jishnu/pypdl) - A concurrent python downloader with resume capablities
 - [putkoff/Python-Tools](https://github.com/putkoff/Python-Tools) - A repository for python functions that can help make things a little easier
 - [bipinkrish/Zlibrary-API](https://github.com/bipinkrish/Zlibrary-API) - Unofficial Python Implementation of Zlibrary API
@@ -777,7 +779,6 @@
 - [Prakashdeveloper03/Image-Enhancer](https://github.com/Prakashdeveloper03/Image-Enhancer) - This repository contains source code for Image enhancer can perform various image effects created  using OpenCV.
 - [vovavili/rembg_gui](https://github.com/vovavili/rembg_gui) - A simple PyQT6 GUI for rembg.
 - [haoheliu/voicefixer](https://github.com/haoheliu/voicefixer) - General Speech Restoration
-- [jaketae/storyteller](https://github.com/jaketae/storyteller) - Multimodal AI Story Teller, built with Stable Diffusion, GPT, and neural text-to-speech
 - [oliverguhr/wav2vec2-live](https://github.com/oliverguhr/wav2vec2-live) - A live speech recognition using Facebooks wav2vec 2.0 model.
 - [sanjit-sinha/PyBypass](https://github.com/sanjit-sinha/PyBypass) - A python library to bypass various type of links.
 - [sanjit-sinha/Tg-MediaInfoBot](https://github.com/sanjit-sinha/Tg-MediaInfoBot) - Telegram Bot for generating Mediainfo, Screenshots and Video sample from Direct Download links,  Google Drive links or Telegram files.
