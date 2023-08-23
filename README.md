@@ -236,7 +236,6 @@
 - [152334H/tortoise-tts-fast](https://github.com/152334H/tortoise-tts-fast) - Fast TorToiSe inference (5x or your money back!)
 - [akiomik/pilgram](https://github.com/akiomik/pilgram) - A python library for instagram filters
 - [jamesturk/jellyfish](https://github.com/jamesturk/jellyfish) - 🪼 a python library for doing approximate and phonetic matching of strings.
-- [jaketae/storyteller](https://github.com/jaketae/storyteller) - Multimodal AI Story Teller, built with Stable Diffusion, GPT, and neural text-to-speech
 - [AmirAbaskohi/Automatic-Speech-recognition-for-Speech-Assessment-of-Persian-Preschool-Children](https://github.com/AmirAbaskohi/Automatic-Speech-recognition-for-Speech-Assessment-of-Persian-Preschool-Children) - Preschool evaluation is crucial because it gives teachers and parents influential knowledge about children's growth and development. The COVID-19 pandemic has highlighted the necessity of online asses
 - [Ah00ra/car-price-prediction](https://github.com/Ah00ra/car-price-prediction) - predict a car price by multiple linear regression
 - [Dadmatech/FaREX](https://github.com/Dadmatech/FaREX) - Farsi Relation Extraction
@@ -284,7 +283,6 @@
 
 ## Makefile 
 
-- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [aio-libs/aiohttp-demos](https://github.com/aio-libs/aiohttp-demos) - Demos for aiohttp project
 
 ## Objective-C 
@@ -294,8 +292,10 @@
 
 ## Others 
 
+- [karim23657/awesome-Persian-Speech](https://github.com/karim23657/awesome-Persian-Speech) - A collection of inspiring lists, repos, datasets, models, tools and more for Persian language speech to text(stt) and text to speech(tts) .
 - [cgohlke/win_arm64-wheels](https://github.com/cgohlke/win_arm64-wheels) - Experimental Wheels for Python 3.11 for Windows on ARM64
 - [archinetai/audio-ai-timeline](https://github.com/archinetai/audio-ai-timeline) - A timeline of the latest AI models for audio generation, starting in 2023!
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [karim23657/ParsiGoo](https://github.com/karim23657/ParsiGoo) - ParsiGoo is a Persian multispeaker dataset for text-to-speech purposes. It includes recordings from different speakers and is designed to be used for training and evaluating text-to-speech models.
 - [mmasoudih/javascript.info](https://github.com/mmasoudih/javascript.info) - آموزش جاوا اسکریپت به صورت فارسی از مقدماتی تا پیشرفته
 - [persiandataset/PersianSpeech](https://github.com/persiandataset/PersianSpeech) - Persian ASR dataset
@@ -436,7 +436,7 @@
 - [djfun/audio-visualizer-python](https://github.com/djfun/audio-visualizer-python) - a little GUI tool to render visualization videos of audio files
 - [coderholic/pyradio](https://github.com/coderholic/pyradio) - Curses based internet radio player
 - [jnsougata/aiotube](https://github.com/jnsougata/aiotube) - alternative to youtube public data api v3
-- [david-lev/pywa](https://github.com/david-lev/pywa) - Python wrapper for the WhatsApp Cloud API
+- [david-lev/pywa](https://github.com/david-lev/pywa) - 💬 Python wrapper for the WhatsApp Cloud API
 - [mo1ein/Golchin](https://github.com/mo1ein/Golchin) - Golchin is a telegram bot that extract English words from file and translate it to Persian.
 - [mo1ein/TelegramArchive](https://github.com/mo1ein/TelegramArchive) - Export telegram chats.
 - [TheRealNE0/Persian-Subtitle-Fixer](https://github.com/TheRealNE0/Persian-Subtitle-Fixer) - Fix your Persian subtitles
@@ -779,6 +779,7 @@
 - [Prakashdeveloper03/Image-Enhancer](https://github.com/Prakashdeveloper03/Image-Enhancer) - This repository contains source code for Image enhancer can perform various image effects created  using OpenCV.
 - [vovavili/rembg_gui](https://github.com/vovavili/rembg_gui) - A simple PyQT6 GUI for rembg.
 - [haoheliu/voicefixer](https://github.com/haoheliu/voicefixer) - General Speech Restoration
+- [jaketae/storyteller](https://github.com/jaketae/storyteller) - Multimodal AI Story Teller, built with Stable Diffusion, GPT, and neural text-to-speech
 - [oliverguhr/wav2vec2-live](https://github.com/oliverguhr/wav2vec2-live) - A live speech recognition using Facebooks wav2vec 2.0 model.
 - [sanjit-sinha/PyBypass](https://github.com/sanjit-sinha/PyBypass) - A python library to bypass various type of links.
 - [sanjit-sinha/Tg-MediaInfoBot](https://github.com/sanjit-sinha/Tg-MediaInfoBot) - Telegram Bot for generating Mediainfo, Screenshots and Video sample from Direct Download links,  Google Drive links or Telegram files.
