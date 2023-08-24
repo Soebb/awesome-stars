@@ -790,7 +790,7 @@
 - [mnsalimi/persian-speech2text](https://github.com/mnsalimi/persian-speech2text) - 
 - [Alir3z4/html2text](https://github.com/Alir3z4/html2text) - Convert HTML to Markdown-formatted text.
 - [khoben/telemirror](https://github.com/khoben/telemirror) - Telegram message forwarder (client API)
-- [kkrypt0nn/Python-Discord-Bot-Template](https://github.com/kkrypt0nn/Python-Discord-Bot-Template) - 🐍 A simple template to start to code your own and personalized discord bot in Python programming language.
+- [kkrypt0nn/Python-Discord-Bot-Template](https://github.com/kkrypt0nn/Python-Discord-Bot-Template) - 🐍 A simple template to start to code your own and personalized Discord bot in the Python programming language.
 - [fascot/Media-Download-Tool](https://github.com/fascot/Media-Download-Tool) - This is a Media Download Tool which can get videos from Youtube, Pornhub and many other sites.
 - [piriyaraj/shortsMobileSpeci](https://github.com/piriyaraj/shortsMobileSpeci) - automatic youtube video uploading script. it's able to scrap web content and make it a youtube short video and upload it on youtube automatically.
 - [gergovari/lazyshorts-py](https://github.com/gergovari/lazyshorts-py) - Create short videos, like a lazy person.
