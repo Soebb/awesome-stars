@@ -749,8 +749,8 @@
 - [ermakovpetr/tg_tqdm](https://github.com/ermakovpetr/tg_tqdm) - Extension for tqdm progressbar in Telegram
 - [EFord36/normalise](https://github.com/EFord36/normalise) - A module for normalising text.
 - [habitual69/cutimagebg_bot](https://github.com/habitual69/cutimagebg_bot) - Background Remover Bot. A Telegram bot that uses AI image processing to remove the background from images.
-- [rtcq/ezweb](https://github.com/rtcq/ezweb) - Easy to use web page analyzer
-- [rtcq/audiowave](https://github.com/rtcq/audiowave) - Generate a waveform image from an audio
+- [morn04/ezweb](https://github.com/morn04/ezweb) - Easy to use web page analyzer
+- [morn04/audiowave](https://github.com/morn04/audiowave) - Generate a waveform image from an audio
 - [gnai/Audio-Chunking-Tool](https://github.com/gnai/Audio-Chunking-Tool) - An audio tool using pydubs library with python to chunk your audio content into your desired length, and parameters to tune.
 - [jcavalin/earll_bot](https://github.com/jcavalin/earll_bot) - Earll is a telegram bot that helps you with some kinds of messages.
 - [0xdolan/pyroj](https://github.com/0xdolan/pyroj) - Converting Gregorian and Solar dates to Kurdish date
