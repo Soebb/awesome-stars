@@ -48,6 +48,7 @@
 
 - [KryptoST/SRTranslatorGUI](https://github.com/KryptoST/SRTranslatorGUI) - SRT files translator GUI
 - [ALIILAPRO/dns-changer](https://github.com/ALIILAPRO/dns-changer) - یه برنامه ساده برای دسترسی به سایت های تحریم شده
+- [amirshnll/Persian-Swear-Words](https://github.com/amirshnll/Persian-Swear-Words) - Persian Swear Dataset - you can use in your production to filter unwanted content.  دیتاست کلمات نامناسب و بد فارسی برای فیلتر کردن متن ها
 - [wolfgarbe/SymSpell](https://github.com/wolfgarbe/SymSpell) - SymSpell: 1 million times faster spelling correction & fuzzy search through Symmetric Delete spelling correction algorithm
 - [ArdeshirV/ArdeshirV.Tools.QrCode](https://github.com/ArdeshirV/ArdeshirV.Tools.QrCode) - QR Code Generator
 - [ArdeshirV/DigitConvertor](https://github.com/ArdeshirV/DigitConvertor) - DigitConvertor provides conversion from western numbers to/from Persian/Arabic numbers and also provides conversion from digital numbers to Persian-alphabetic numbers.
@@ -254,7 +255,6 @@
 - [hoco1/Semi-Intelligent-Telegram-BOT](https://github.com/hoco1/Semi-Intelligent-Telegram-BOT) - Machine learning and Deep learning models, deploy on telegram (the best social media)
 - [chododom/Image-and-Video-Super-Resolution](https://github.com/chododom/Image-and-Video-Super-Resolution) - 
 - [TheCaduceus/WARP-UNLIMITED-ADVANCED](https://github.com/TheCaduceus/WARP-UNLIMITED-ADVANCED) - Get unlimited amount of data in Cloudflare's WARP VPN🔥
-- [amirshnll/Persian-Swear-Words](https://github.com/amirshnll/Persian-Swear-Words) - Persian Swear Dataset - you can use in your production to filter unwanted content.  دیتاست کلمات نامناسب و بد فارسی برای فیلتر کردن متن ها
 - [larymak/Python-project-Scripts](https://github.com/larymak/Python-project-Scripts) - This repositories contains a list of python scripts projects from beginner level advancing slowly. More code snippets to be added soon. feel free to clone this repo
 - [egaraev/robocar](https://github.com/egaraev/robocar) - Repo for robotic car
 - [San-B-09/Speech-Recognition](https://github.com/San-B-09/Speech-Recognition) - This repository contains python code to convert audio to text. This system is codded using API as well as without using API.
