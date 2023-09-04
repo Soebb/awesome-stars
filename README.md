@@ -1061,7 +1061,6 @@
 - [rain2wood/spotBot-OSS](https://github.com/rain2wood/spotBot-OSS) - // Download FLAC / MP3 from Spotify via Telegram Bot //
 - [jakob-bagterp/browserist](https://github.com/jakob-bagterp/browserist) - 👩‍💻 Python extension for the Selenium web driver that makes browser automation even easier 👨‍💻
 - [jakob-bagterp/timer-for-python](https://github.com/jakob-bagterp/timer-for-python) - ⏳ Lightweight Python package that makes it easy to measure how much time it takes to run Python programs and gauge performance of multiple, smaller bits of code ⌛️
-- [TeaByte/Telegram-search](https://github.com/TeaByte/Telegram-search) - Simple web scrapping to search from telegram
 - [uktrade/stream-unzip](https://github.com/uktrade/stream-unzip) - Python function to stream unzip all the files in a ZIP archive - without loading the entire ZIP file or any of its files into memory at once
 - [language-ml/parsi.io](https://github.com/language-ml/parsi.io) - 
 - [haraai/ParsiNorm](https://github.com/haraai/ParsiNorm) - 
