@@ -749,8 +749,8 @@
 - [ermakovpetr/tg_tqdm](https://github.com/ermakovpetr/tg_tqdm) - Extension for tqdm progressbar in Telegram
 - [EFord36/normalise](https://github.com/EFord36/normalise) - A module for normalising text.
 - [habitual69/cutimagebg_bot](https://github.com/habitual69/cutimagebg_bot) - Background Remover Bot. A Telegram bot that uses AI image processing to remove the background from images.
-- [morn04/ezweb](https://github.com/morn04/ezweb) - Easy to use web page analyzer
-- [morn04/audiowave](https://github.com/morn04/audiowave) - Generate a waveform image from an audio
+- [0x7d4/ezweb](https://github.com/0x7d4/ezweb) - Easy to use web page analyzer
+- [0x7d4/audiowave](https://github.com/0x7d4/audiowave) - Generate a waveform image from an audio
 - [gnai/Audio-Chunking-Tool](https://github.com/gnai/Audio-Chunking-Tool) - An audio tool using pydubs library with python to chunk your audio content into your desired length, and parameters to tune.
 - [jcavalin/earll_bot](https://github.com/jcavalin/earll_bot) - Earll is a telegram bot that helps you with some kinds of messages.
 - [0xdolan/pyroj](https://github.com/0xdolan/pyroj) - Converting Gregorian and Solar dates to Kurdish date
@@ -883,7 +883,7 @@
 - [aliie62/preper](https://github.com/aliie62/preper) - A Persian (Farsi) Preprocessing Python Module
 - [de-mh/persian_phonemizer](https://github.com/de-mh/persian_phonemizer) - A tool for translating Persian text to IPA (International Phonetic Alphabet).
 - [Djdefrag/NiceScaler](https://github.com/Djdefrag/NiceScaler) - NiceScaler - image/video deeplearning upscaler (OpenCV)
-- [Djdefrag/QualityScaler](https://github.com/Djdefrag/QualityScaler) - QualityScaler - image/video AI upscaler app (BSRGAN)
+- [Djdefrag/QualityScaler](https://github.com/Djdefrag/QualityScaler) - QualityScaler - image/video AI upscaler app
 - [aflorithmic/viseme-to-video](https://github.com/aflorithmic/viseme-to-video) - Creates video from TTS output and viseme images.
 - [nikhilkumarsingh/content-downloader](https://github.com/nikhilkumarsingh/content-downloader) - Python package to download files on any topic in bulk.
 - [zackees/gen-rss](https://github.com/zackees/gen-rss) - Generates an RSS feed, as sampled from wordpress sites
@@ -1208,8 +1208,8 @@
 - [mmdbalkhi/Sansorchi](https://github.com/mmdbalkhi/Sansorchi) - Remove Persian (Farsi) Swear Words
 - [pylover/khayyam](https://github.com/pylover/khayyam) - A Persian Date & Time (aka: Jalali Calendar) library with timezone, DST (daylight-saving), full formatting & parsing support for python 2.x & 3.x.
 - [alihoseiny/word_cloud_fa](https://github.com/alihoseiny/word_cloud_fa) - A wrapper for wordcloud module for creating Persian word clouds.
-- [rezakamalifard/SubFixer](https://github.com/rezakamalifard/SubFixer) - Command-line subtitle fixer
-- [rezakamalifard/persian](https://github.com/rezakamalifard/persian) - Simple Python tool for Persian language localization.
+- [rezkam/SubFixer](https://github.com/rezkam/SubFixer) - Command-line subtitle fixer
+- [rezkam/persian](https://github.com/rezkam/persian) - Simple Python tool for Persian language localization.
 - [amir-saniyan/HodaDatasetReader](https://github.com/amir-saniyan/HodaDatasetReader) - Python code for reading Hoda farsi digit dataset.
 - [ICTRC/Parsivar](https://github.com/ICTRC/Parsivar) - A Language Processing Toolkit for Persian
 - [AlirezaTheH/perke](https://github.com/AlirezaTheH/perke) - A keyphrase extractor for Persian
