@@ -2381,7 +2381,7 @@
 - [matnbaz/matnbaz](https://github.com/matnbaz/matnbaz) - 💙 Source-code for matnbaz.net - A monorepo containing the back-end (NestJS/Prisma/Apollo), front-end (Next.js/Apollo) and some tooling.
 - [vrumger/ChannelHashBot](https://github.com/vrumger/ChannelHashBot) - A Telegram bot that forwards messages with hashtags from your group to your channel.
 - [xditya/YouTubeFeeds](https://github.com/xditya/YouTubeFeeds) - Get new YouTube video notifications, from multiple YouTube channels, on multiple telegram chats!
-- [my-abandoned-projects/tgcalls-next](https://github.com/my-abandoned-projects/tgcalls-next) - Community fork of tgcallsjs with built-in GramJS support.
+- [LeastSignificant/tgcalls-next](https://github.com/LeastSignificant/tgcalls-next) - Community fork of tgcallsjs with built-in GramJS support.
 - [Borodutch/VideoDownloadBot](https://github.com/Borodutch/VideoDownloadBot) - Telegram bot to download videos from URLs
 - [oliverfei/webxr-kamehameha](https://github.com/oliverfei/webxr-kamehameha) - 
 - [Borodutch/telegram-bot-starter](https://github.com/Borodutch/telegram-bot-starter) - Telegram bot starter based on grammY
