@@ -942,7 +942,7 @@
 - [tweak1337/telegram_parser-v.2---Telethon](https://github.com/tweak1337/telegram_parser-v.2---Telethon) - Second version of public channels parser in telegram using Telethon library. (Postgresql)
 - [tweak1337/telegrabber](https://github.com/tweak1337/telegrabber) - To parse telegram public channels and reply it to your public and rec to DB
 - [AndydeCleyre/colorcodebot](https://github.com/AndydeCleyre/colorcodebot) - A simple Telegram bot for syntax highlighting
-- [iniridwanul/Ridogram](https://github.com/iniridwanul/Ridogram) - Ridogram is an advanced multi-featured Telegram UserBot.
+- [iniridwanul/Crowgram](https://github.com/iniridwanul/Crowgram) - Crowgram is an advanced multi-featured Telegram UserBot.
 - [New-dev0/Telethon-Patch](https://github.com/New-dev0/Telethon-Patch) - Wrap over telethon with additional upgrades
 - [mahyadnet/telegram-auto-forwarder](https://github.com/mahyadnet/telegram-auto-forwarder) - Telegram Auto Forwarder
 - [JKhakpour/petit](https://github.com/JKhakpour/petit) - Persian text -&gt; integer, ineteger -&gt; text converter
@@ -1283,6 +1283,8 @@
 - [ThePro-CoderZ/Image2PdfBot](https://github.com/ThePro-CoderZ/Image2PdfBot) - A bot to convert Img2Pdf
 - [Amirjan2808/amir_weatherbot](https://github.com/Amirjan2808/amir_weatherbot) - 
 - [l3v11/SearchX](https://github.com/l3v11/SearchX) - The Ultimate Telegram Bot for Google Drive
+- [mrismanaziz/File-Sharing-Man](https://github.com/mrismanaziz/File-Sharing-Man) - File Sharing Flexibel Multi Force Subs Channel and Group
+- [mrismanaziz/Man-Userbot](https://github.com/mrismanaziz/Man-Userbot) - This is UserBot Telegram with many cool modules. Written in Python with Telethon and Py-Tgcalls.
 - [DenizShabani/SimpleTelegramScraper](https://github.com/DenizShabani/SimpleTelegramScraper) - 
 - [DenizShabani/TelegramMassDMBot](https://github.com/DenizShabani/TelegramMassDMBot) - Python script that can connect with multiple accounts via Telegram API, can scrape members from public groups and send messages via username to the scraped members. To be able to connect only via phon
 - [DenizShabani/telegramscraper](https://github.com/DenizShabani/telegramscraper) - Scraper and adder for Telegram supporting multiple accounts at the same time. Adds via Telegram API and only by username. For adding via ID and not needing Telgram API contact me.
@@ -1697,7 +1699,6 @@
 - [python-telegram-bot/python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) - We have made you a wrapper you can't refuse
 - [gorbatovea/forwardgram](https://github.com/gorbatovea/forwardgram) - This script forwards messages through TG chats and channels. Backed by Telethon.
 - [hemantapkh/TorrentHunt](https://github.com/hemantapkh/TorrentHunt) - 🏴‍☠️ The ultimate torrent bot on telegram
-- [adarsh-goel/FileStreamBot-pro](https://github.com/adarsh-goel/FileStreamBot-pro) - A very fast file streaming bot  used for streaming and downloading movies. To get readymade bot click the link below
 - [ZauteKm/MusicPlayer](https://github.com/ZauteKm/MusicPlayer) - Telegram Bot to play music in VoiceChat with Channel Support and autostarts Radio.
 - [UsergeTeam/Userge](https://github.com/UsergeTeam/Userge) - Userge, Durable as a Serge
 - [TerminalWarlord/TikTok-Downloader-Bot](https://github.com/TerminalWarlord/TikTok-Downloader-Bot) - A Telegram bot to download TikTok videos without any watermark.
@@ -1842,6 +1843,7 @@
 - [Nguh-Prince/video_trimmer](https://github.com/Nguh-Prince/video_trimmer) - a python script that trims a video file from arguments passed via the command line
 - [lcaputo/video_trimmer](https://github.com/lcaputo/video_trimmer) - Trim a video into multiple parts.
 - [Saadelk/youtube_trim](https://github.com/Saadelk/youtube_trim) - Python script that enables you to download a youtube video , and also a trimmed version of it.
+- [mrismanaziz/Scrap-Man](https://github.com/mrismanaziz/Scrap-Man) - Bot Scrap APP ID and API HASH Telegram
 - [tsweet64/vtrim](https://github.com/tsweet64/vtrim) - A Python script to trim silent parts from videos
 - [dmingn/vtrim](https://github.com/dmingn/vtrim) - A python script to trim a video using ffmpeg.
 - [Akash006/telegramBot_videoEditor](https://github.com/Akash006/telegramBot_videoEditor) - Bot will collect all your picture then ask for youtube song fetch its audio, trim it and create a video using your pictures and trimmed audio.
