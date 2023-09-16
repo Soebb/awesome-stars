@@ -1699,6 +1699,7 @@
 - [python-telegram-bot/python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) - We have made you a wrapper you can't refuse
 - [gorbatovea/forwardgram](https://github.com/gorbatovea/forwardgram) - This script forwards messages through TG chats and channels. Backed by Telethon.
 - [hemantapkh/TorrentHunt](https://github.com/hemantapkh/TorrentHunt) - 🏴‍☠️ The ultimate torrent bot on telegram
+- [adarsh-goel/FileStreamBot-pro](https://github.com/adarsh-goel/FileStreamBot-pro) - A very fast file streaming bot  used for streaming and downloading movies. To get readymade bot click the link below
 - [ZauteKm/MusicPlayer](https://github.com/ZauteKm/MusicPlayer) - Telegram Bot to play music in VoiceChat with Channel Support and autostarts Radio.
 - [UsergeTeam/Userge](https://github.com/UsergeTeam/Userge) - Userge, Durable as a Serge
 - [TerminalWarlord/TikTok-Downloader-Bot](https://github.com/TerminalWarlord/TikTok-Downloader-Bot) - A Telegram bot to download TikTok videos without any watermark.
