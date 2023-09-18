@@ -942,7 +942,7 @@
 - [tweak1337/telegram_parser-v.2---Telethon](https://github.com/tweak1337/telegram_parser-v.2---Telethon) - Second version of public channels parser in telegram using Telethon library. (Postgresql)
 - [tweak1337/telegrabber](https://github.com/tweak1337/telegrabber) - To parse telegram public channels and reply it to your public and rec to DB
 - [AndydeCleyre/colorcodebot](https://github.com/AndydeCleyre/colorcodebot) - A simple Telegram bot for syntax highlighting
-- [iniridwanul/Crowgram](https://github.com/iniridwanul/Crowgram) - Crowgram is an advanced multi-featured Telegram UserBot.
+- [iniridwanul/Crowgram](https://github.com/iniridwanul/Crowgram) - Crowgram is a powerful, advanced, multi-featured Telegram userbot.
 - [New-dev0/Telethon-Patch](https://github.com/New-dev0/Telethon-Patch) - Wrap over telethon with additional upgrades
 - [mahyadnet/telegram-auto-forwarder](https://github.com/mahyadnet/telegram-auto-forwarder) - Telegram Auto Forwarder
 - [JKhakpour/petit](https://github.com/JKhakpour/petit) - Persian text -&gt; integer, ineteger -&gt; text converter
@@ -1140,8 +1140,8 @@
 - [AzamRabiee/Persian_G2P](https://github.com/AzamRabiee/Persian_G2P) - Persian Grapheme-to-Phoneme (G2P) converter
 - [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
 - [m3hrdadfi/zabanshenas](https://github.com/m3hrdadfi/zabanshenas) - Zabanshenas is a solution for identifying the most likely language of a piece of written text. Demo (👇 )
-- [erastusnzula/face_recognition](https://github.com/erastusnzula/face_recognition) - 
-- [erastusnzula/emaileasily](https://github.com/erastusnzula/emaileasily) - 
+- [erastusn/face_recognition](https://github.com/erastusn/face_recognition) - 
+- [erastusn/emaileasily](https://github.com/erastusn/emaileasily) - 
 - [shangar21/anime_upscaler](https://github.com/shangar21/anime_upscaler) - My usage of Real-ESRGAN to upscale anime, some test and results in the test_img folder
 - [meti-94/divar-scrapy](https://github.com/meti-94/divar-scrapy) - 
 - [Dadmatech/DadmaTools](https://github.com/Dadmatech/DadmaTools) - DadmaTools is a Persian NLP tools developed by Dadmatech Co.
