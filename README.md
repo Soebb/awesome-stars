@@ -1095,8 +1095,8 @@
 - [majidAdibian77/telegram_bot](https://github.com/majidAdibian77/telegram_bot) - Simple telegram bot implemented by python to send some information such as news.
 - [amirkaveh/persian-words](https://github.com/amirkaveh/persian-words) - 
 - [kargaranamir/parstdex](https://github.com/kargaranamir/parstdex) - A package that extracts Persian time and date markers by applying regexes.
-- [amirkho-py/ip2geo](https://github.com/amirkho-py/ip2geo) - 
-- [amirkho-py/any2persian](https://github.com/amirkho-py/any2persian) - 
+- [voria-py/ip2geo](https://github.com/voria-py/ip2geo) - 
+- [voria-py/any2persian](https://github.com/voria-py/any2persian) - 
 - [abhiTronix/deffcode](https://github.com/abhiTronix/deffcode) - A cross-platform High-performance FFmpeg based Real-time Video Frames Decoder in Pure Python 🎞️⚡
 - [AliRezaBeigy/Gitools](https://github.com/AliRezaBeigy/Gitools) - A handy tool to modify git history
 - [dolphinorg/pydolphin](https://github.com/dolphinorg/pydolphin) - a convenient solution to heroku web apps / APIs.
@@ -1374,7 +1374,7 @@
 - [Dineshkarthik/pinterest-telegram-bot](https://github.com/Dineshkarthik/pinterest-telegram-bot) - Downloads Pinterest image from the given Pinterest shared URL and sends it back in telegram
 - [Dineshkarthik/telegram_media_downloader](https://github.com/Dineshkarthik/telegram_media_downloader) - Download media files from a telegram conversation/chat/channel up to 2GiB per file
 - [haloboy777/wav-to-pcm](https://github.com/haloboy777/wav-to-pcm) - This contains python scripts for converting wav files to pcm data for further processing.
-- [andrew-ld/smart-tv-telegram](https://github.com/andrew-ld/smart-tv-telegram) - stream movies from telegram to smart tv over http using upnp and dlna (and chromecast)
+- [andrew-ld/smart-tv-telegram](https://github.com/andrew-ld/smart-tv-telegram) - stream movies from telegram to smart tv
 - [alfem/telegram-download-daemon](https://github.com/alfem/telegram-download-daemon) - A simple script to automate telegram download of big files
 - [noob-hackers/ipdrone](https://github.com/noob-hackers/ipdrone) - Track Location With Live Address And Accuracy In Termux
 - [Shashwat-Shukla/mdisk-ultra-bot](https://github.com/Shashwat-Shukla/mdisk-ultra-bot) - An Advanced Telegram Bot 🤗  written in Python to Auto Post and convert MDisk Links
@@ -2191,7 +2191,6 @@
 - [lntechnical2/forward-tag-remover-bot](https://github.com/lntechnical2/forward-tag-remover-bot) - 
 - [lntechnical2/YouTube_Thumbnail_Downloader](https://github.com/lntechnical2/YouTube_Thumbnail_Downloader) - Youtube Video  Thumbnail Downloader Telegram Bot
 - [lntechnical2/RENAMER_BOT_V2](https://github.com/lntechnical2/RENAMER_BOT_V2) - Telegram File Renamer Bot
-- [erfan4lx/Telegram-Channel-Posts-Counter](https://github.com/erfan4lx/Telegram-Channel-Posts-Counter) - Count the posts on your target Telegram channel
 - [rafpyprog/ImageSoup](https://github.com/rafpyprog/ImageSoup) - Python library designed for quick search and downloading images from Google Images.
 - [banhao/scrape-youtube-channel-videos-url](https://github.com/banhao/scrape-youtube-channel-videos-url) - This Python script is used to scrape all the video links from a youtube channel.
 - [Itz-fork/pyro-mega.py](https://github.com/Itz-fork/pyro-mega.py) - Modified Version of mega.py package for Pyrogram Bots
