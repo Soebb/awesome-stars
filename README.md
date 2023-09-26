@@ -309,7 +309,7 @@
 - [dkncus/CrowdRemoval](https://github.com/dkncus/CrowdRemoval) - 
 - [Cozy-Tech/regex_tutorial_and_examples](https://github.com/Cozy-Tech/regex_tutorial_and_examples) - 
 - [Hameds/IranCountryDivisions](https://github.com/Hameds/IranCountryDivisions) - Iran Country Divisions - کلیه تقسیمات کشوری ایران تا سطح آبادی بر اساس اطلاعات مرکز آمار ایران
-- [MrBotDeveloper/This-Repo-Has-112-Stars](https://github.com/MrBotDeveloper/This-Repo-Has-112-Stars) - Yes it's true :broken_heart:, currently it has 112 stars ⭐ and 25 forks 🍴.
+- [MrBotDeveloper/This-Repo-Has-111-Stars](https://github.com/MrBotDeveloper/This-Repo-Has-111-Stars) - Yes it's true :broken_heart:, currently it has 111 stars ⭐ and 25 forks 🍴.
 - [Alir3z4/stop-words](https://github.com/Alir3z4/stop-words) - List of common stop words in various languages.
 - [ahmadazizi/iran-cities](https://github.com/ahmadazizi/iran-cities) - The most accurate database of city, county, village and province names of Iran.
 - [iranremote/awesome-iran-remote](https://github.com/iranremote/awesome-iran-remote) - A list of remote-friendly or full-remote companies that targets iranian talents.
@@ -1785,7 +1785,7 @@
 - [jannikmi/timezonefinder](https://github.com/jannikmi/timezonefinder) - python package for finding the timezone of any point on earth (coordinates) offline
 - [toastdriven/pylev](https://github.com/toastdriven/pylev) - A pure Python Levenshtein implementation that's not freaking GPL'd.
 - [X-Gorn/TikTokDL](https://github.com/X-Gorn/TikTokDL) - Telegram bot to download tiktok video/audio
-- [X-Gorn/BulkLoader](https://github.com/X-Gorn/BulkLoader) - Telegram bot to bulk download list of direct download link and upload to telegram
+- [X-Gorn/BulkLoader](https://github.com/X-Gorn/BulkLoader) - Telegram bot to bulk download list of yt-dlp supported link and upload to telegram
 - [lzzy12/python-aria-mirror-bot](https://github.com/lzzy12/python-aria-mirror-bot) - A telegram bot for all your mirror needs | OG Repo
 - [MarshalX/tgcalls](https://github.com/MarshalX/tgcalls) - Voice chats, private incoming and outgoing calls in Telegram for Developers
 - [arun017s/FeedbackBot](https://github.com/arun017s/FeedbackBot) - 
