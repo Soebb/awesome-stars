@@ -2191,6 +2191,7 @@
 - [lntechnical2/forward-tag-remover-bot](https://github.com/lntechnical2/forward-tag-remover-bot) - 
 - [lntechnical2/YouTube_Thumbnail_Downloader](https://github.com/lntechnical2/YouTube_Thumbnail_Downloader) - Youtube Video  Thumbnail Downloader Telegram Bot
 - [lntechnical2/RENAMER_BOT_V2](https://github.com/lntechnical2/RENAMER_BOT_V2) - Telegram File Renamer Bot
+- [erfan4lx/Telegram-Channel-Posts-Counter](https://github.com/erfan4lx/Telegram-Channel-Posts-Counter) - Count the posts on your target Telegram channel
 - [rafpyprog/ImageSoup](https://github.com/rafpyprog/ImageSoup) - Python library designed for quick search and downloading images from Google Images.
 - [banhao/scrape-youtube-channel-videos-url](https://github.com/banhao/scrape-youtube-channel-videos-url) - This Python script is used to scrape all the video links from a youtube channel.
 - [Itz-fork/pyro-mega.py](https://github.com/Itz-fork/pyro-mega.py) - Modified Version of mega.py package for Pyrogram Bots
