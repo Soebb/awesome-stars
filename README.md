@@ -309,7 +309,7 @@
 - [dkncus/CrowdRemoval](https://github.com/dkncus/CrowdRemoval) - 
 - [Cozy-Tech/regex_tutorial_and_examples](https://github.com/Cozy-Tech/regex_tutorial_and_examples) - 
 - [Hameds/IranCountryDivisions](https://github.com/Hameds/IranCountryDivisions) - Iran Country Divisions - کلیه تقسیمات کشوری ایران تا سطح آبادی بر اساس اطلاعات مرکز آمار ایران
-- [MrBotDeveloper/This-Repo-Has-111-Stars](https://github.com/MrBotDeveloper/This-Repo-Has-111-Stars) - Yes it's true :broken_heart:, currently it has 111 stars ⭐ and 25 forks 🍴.
+- [MrBotDeveloper/This-Repo-Has-110-Stars](https://github.com/MrBotDeveloper/This-Repo-Has-110-Stars) - Yes it's true :broken_heart:, currently it has 110 stars ⭐ and 25 forks 🍴.
 - [Alir3z4/stop-words](https://github.com/Alir3z4/stop-words) - List of common stop words in various languages.
 - [ahmadazizi/iran-cities](https://github.com/ahmadazizi/iran-cities) - The most accurate database of city, county, village and province names of Iran.
 - [iranremote/awesome-iran-remote](https://github.com/iranremote/awesome-iran-remote) - A list of remote-friendly or full-remote companies that targets iranian talents.
@@ -1858,7 +1858,7 @@
 - [Belval/TextRecognitionDataGenerator](https://github.com/Belval/TextRecognitionDataGenerator) - A synthetic data generator for text recognition
 - [RapidAI/RapidOCR](https://github.com/RapidAI/RapidOCR) - A cross platform OCR Library based on PaddleOCR & OnnxRuntime & OpenVINO.
 - [apm1467/videocr](https://github.com/apm1467/videocr) - Extract hardcoded subtitles from videos using machine learning
-- [SWHL/RapidVideOCR](https://github.com/SWHL/RapidVideOCR) - Extract video hard subtitles and automatically generate corresponding srt files. The combination of VideoSubFinder + RapidOCR can run offline, faster, more accurate and more convenient.
+- [SWHL/RapidVideOCR](https://github.com/SWHL/RapidVideOCR) - Extract video hard subtitles and automatically generate corresponding srt files.
 - [krviolent/subtitles_extract](https://github.com/krviolent/subtitles_extract) - Tool for extraction hard-coded (hardsub) Chinese subtitles from video files with 720p resolution
 - [escape0707/extract-rename-subtitle](https://github.com/escape0707/extract-rename-subtitle) - 
 - [musa-42/stream-cloud](https://github.com/musa-42/stream-cloud) - Robot to convert files to direct links, hosting files on Telegram servers, unlimited and without restrictions
