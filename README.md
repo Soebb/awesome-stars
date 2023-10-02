@@ -293,7 +293,7 @@
 ## Others 
 
 - [karim23657/awesome-Persian-Speech](https://github.com/karim23657/awesome-Persian-Speech) - A collection of inspiring lists, repos, datasets, models, tools and more for Persian language speech to text(stt) and text to speech(tts) .
-- [cgohlke/win_arm64-wheels](https://github.com/cgohlke/win_arm64-wheels) - Experimental Wheels for Python 3.11 for Windows on ARM64
+- [cgohlke/win_arm64-wheels](https://github.com/cgohlke/win_arm64-wheels) - Experimental Wheels for Python for Windows on ARM64
 - [archinetai/audio-ai-timeline](https://github.com/archinetai/audio-ai-timeline) - A timeline of the latest AI models for audio generation, starting in 2023!
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [karim23657/ParsiGoo](https://github.com/karim23657/ParsiGoo) - ParsiGoo is a Persian multispeaker dataset for text-to-speech purposes. It includes recordings from different speakers and is designed to be used for training and evaluating text-to-speech models.
@@ -2126,7 +2126,7 @@
 - [subinps/Instagram-Bot](https://github.com/subinps/Instagram-Bot) - Telegram bot to download almost all from Instagram
 - [benchamxd/Telegraph-Uploader](https://github.com/benchamxd/Telegraph-Uploader) - A Telegram Bot Written In Python To Upload Medias To telegra.ph
 - [KristoforMaynard/music-tag](https://github.com/KristoforMaynard/music-tag) - Simple interface to edit audio file metadata
-- [dmcrobin/AudioScript](https://github.com/dmcrobin/AudioScript) - Auto Generate Subtitle File For Any Type Of Audio and Video. Using Python and Google Speech-to-Text API.
+- [prkindia/AudioScript](https://github.com/prkindia/AudioScript) - Auto Generate Subtitle File For Any Type Of Audio and Video. Using Python and Google Speech-to-Text API.
 - [PaddlePaddle/PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech) - Easy-to-use Speech Toolkit including Self-Supervised Learning model, SOTA/Streaming ASR with punctuation, Streaming TTS with text frontend, Speaker Verification System, End-to-End Speech Translation a
 - [RashadGarayev/TRSpeech-to-text](https://github.com/RashadGarayev/TRSpeech-to-text) - 
 - [abhirooptalasila/AutoSub](https://github.com/abhirooptalasila/AutoSub) - A CLI script to generate subtitle files (SRT/VTT/TXT) for any video using either DeepSpeech or Coqui
