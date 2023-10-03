@@ -672,7 +672,7 @@
 - [venthur/gscholar](https://github.com/venthur/gscholar) - Query Google Scholar with Python
 - [Nv7-GitHub/googlesearch](https://github.com/Nv7-GitHub/googlesearch) - A Python library for scraping the Google search engine.
 - [opsdisk/yagooglesearch](https://github.com/opsdisk/yagooglesearch) - Yet another googlesearch - A Python library for executing intelligent, realistic-looking, and tunable Google searches.
-- [jerryjliu/llama_index](https://github.com/jerryjliu/llama_index) - LlamaIndex (GPT Index) is a data framework for your LLM applications
+- [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex (GPT Index) is a data framework for your LLM applications
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
 - [najafiseo/OpenAI-tool](https://github.com/najafiseo/OpenAI-tool) - This is a tool that you can use to do different things, such as writing articles in bulk
 - [ninjakx/youtube-video2ppt](https://github.com/ninjakx/youtube-video2ppt) - Turning the video explanation to ppt using opencv.
@@ -1191,7 +1191,7 @@
 - [Ali-Mahdiyanjoo/Fingilish_2_farsi](https://github.com/Ali-Mahdiyanjoo/Fingilish_2_farsi) - 
 - [MiKoronjoo/instagram-telegram-bot](https://github.com/MiKoronjoo/instagram-telegram-bot) - A bot for download instagram posts, stories, lives, etc.
 - [aminAghayani/handwriteToText](https://github.com/aminAghayani/handwriteToText) - persian/farsi handwrite to text with keras and data extraction
-- [ihosseinu/quote_scraper](https://github.com/ihosseinu/quote_scraper) - Scrapes farsi quotes from www.time.ir
+- [ihesamyou/quote_scraper](https://github.com/ihesamyou/quote_scraper) - Scrapes farsi quotes from www.time.ir
 - [mnosrati/Google-Translate-Farsi](https://github.com/mnosrati/Google-Translate-Farsi) - The provided code translates the English words to Persian and returns the details such as English and Persian definitions, parts of speech, examples, and synonyms. For using this code, you need to ins
 - [hoco1/InstaBot](https://github.com/hoco1/InstaBot) - Instagram Bot with python
 - [ALIILAPRO/Tikdan](https://github.com/ALIILAPRO/Tikdan) - Unofficial api tiktok
