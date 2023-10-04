@@ -1339,7 +1339,7 @@
 - [toutpuissantged/SlimTik](https://github.com/toutpuissantged/SlimTik) - simple and fast text editor
 - [toutpuissantged/BestOfWeb](https://github.com/toutpuissantged/BestOfWeb) - find the best streaming and download sites in one click
 - [kernoeb/telegram-bot-removebg](https://github.com/kernoeb/telegram-bot-removebg) - Telegram Bot that replace background of a photo with random picture from google keyword
-- [david-lev/TelegraphSearchBot](https://github.com/david-lev/TelegraphSearchBot) - 📃 This telegram bot is used to search for articles in a telegra.ph account
+- [david-lev/TelegraphSearchBot](https://github.com/david-lev/TelegraphSearchBot) - 📃 Search for articles in a telegra.ph account
 - [david-lev/CapsLockBot](https://github.com/david-lev/CapsLockBot) - 🔠 Telegram bot to fix capslock messages
 - [david-lev/SamsungApkDownloader](https://github.com/david-lev/SamsungApkDownloader) - ⬇️ Python script to download samsung APK's
 - [ManaanAnsari/rasa_telegram](https://github.com/ManaanAnsari/rasa_telegram) - 
