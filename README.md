@@ -1864,7 +1864,7 @@
 - [musa-42/stream-cloud](https://github.com/musa-42/stream-cloud) - Robot to convert files to direct links, hosting files on Telegram servers, unlimited and without restrictions
 - [X-Gorn/Flask-Heroku-Example](https://github.com/X-Gorn/Flask-Heroku-Example) - Example to deploy flask app on heroku
 - [Fillll/reddit2telegram](https://github.com/Fillll/reddit2telegram) - Bot to supply telegram channel with hot Reddit submissions.
-- [JinsoRaj/TelegramBots](https://github.com/JinsoRaj/TelegramBots) - This repository is for HacktoberFest 2022. Contribute Telegram bot source codes.
+- [JinsoRaj/TelegramBots](https://github.com/JinsoRaj/TelegramBots) - This repository is for HacktoberFest 2023. Contribute Telegram bot source codes.
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [AJBotVerse/URL_Uploader_Bot](https://github.com/AJBotVerse/URL_Uploader_Bot) - This bot is created by AJTimePyro and It accepts direct downloading url & then return file as telegram file.
 - [arun017s/OMDb-Bot](https://github.com/arun017s/OMDb-Bot) - 
