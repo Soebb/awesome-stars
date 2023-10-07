@@ -967,7 +967,7 @@
 - [barseghyanartur/pif](https://github.com/barseghyanartur/pif) - Public IP address checker.
 - [owncloud/pyocclient](https://github.com/owncloud/pyocclient) - ownCloud client library for Python
 - [mrwunderbar666/py_wayback_downloader](https://github.com/mrwunderbar666/py_wayback_downloader) - Python Implementation of a web.archive.org downloader
-- [Axelancerr/spoti-py](https://github.com/Axelancerr/spoti-py) - An async wrapper for the Spotify API.
+- [Axelancerr/spoti-py](https://github.com/Axelancerr/spoti-py) - An asynchronous python wrapper around the spotify API.
 - [mkly/youtube-closed-captions](https://github.com/mkly/youtube-closed-captions) - Python library for downloading closed captions(subtitles) from Youtube
 - [mitmul/burn-captions](https://github.com/mitmul/burn-captions) - Burn captions (.srt) into videos
 - [spirali/nedoc](https://github.com/spirali/nedoc) - Generator of API documentation for Python
