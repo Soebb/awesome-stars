@@ -1810,7 +1810,7 @@
 - [oliverfei/TextRecognitionDataGenerator](https://github.com/oliverfei/TextRecognitionDataGenerator) - A synthetic data generator for text recognition
 - [lzzy12/youtube-clipper-bot](https://github.com/lzzy12/youtube-clipper-bot) - Telegram bot to clip youtube videos
 - [zehpatricio/videomerge_bot](https://github.com/zehpatricio/videomerge_bot) - Telegram bot made in Python to merge videos.
-- [DevsExpo/GitAlertBot](https://github.com/DevsExpo/GitAlertBot) - A Git Alert Bot - Github Integration for Pyrogram & Telethon
+- [DevsExpo/Git2TG](https://github.com/DevsExpo/Git2TG) - A Git Alert Bot - Github Integration for Pyrogram & Telethon
 - [subinps/Inline-YouTube-Trim-Bot](https://github.com/subinps/Inline-YouTube-Trim-Bot) - Telegram bot to trim and download videos from youtube.
 - [mozilla/DeepSpeech-examples](https://github.com/mozilla/DeepSpeech-examples) - Examples of how to use or integrate DeepSpeech
 - [SMAPPNYU/urlExpander](https://github.com/SMAPPNYU/urlExpander) - 🌬️urlExpander is a Python package for expanding shortened links (urls).
