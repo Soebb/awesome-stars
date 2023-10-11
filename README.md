@@ -309,7 +309,7 @@
 - [dkncus/CrowdRemoval](https://github.com/dkncus/CrowdRemoval) - 
 - [Cozy-Tech/regex_tutorial_and_examples](https://github.com/Cozy-Tech/regex_tutorial_and_examples) - 
 - [Hameds/IranCountryDivisions](https://github.com/Hameds/IranCountryDivisions) - Iran Country Divisions - کلیه تقسیمات کشوری ایران تا سطح آبادی بر اساس اطلاعات مرکز آمار ایران
-- [MrBotDeveloper/This-Repo-Has-110-Stars](https://github.com/MrBotDeveloper/This-Repo-Has-110-Stars) - Yes it's true :broken_heart:, currently it has 110 stars ⭐ and 25 forks 🍴.
+- [MrBotDeveloper/This-Repo-Has-111-Stars](https://github.com/MrBotDeveloper/This-Repo-Has-111-Stars) - Yes it's true :broken_heart:, currently it has 111 stars ⭐ and 25 forks 🍴.
 - [Alir3z4/stop-words](https://github.com/Alir3z4/stop-words) - List of common stop words in various languages.
 - [ahmadazizi/iran-cities](https://github.com/ahmadazizi/iran-cities) - The most accurate database of city, county, village and province names of Iran.
 - [iranremote/awesome-iran-remote](https://github.com/iranremote/awesome-iran-remote) - A list of remote-friendly or full-remote companies that targets iranian talents.
@@ -501,7 +501,7 @@
 - [Textualize/frogmouth](https://github.com/Textualize/frogmouth) - A Markdown browser for your terminal
 - [gleitz/howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
 - [darrenburns/kupo](https://github.com/darrenburns/kupo) - A terminal file browser, kupo!
-- [Textualize/textual](https://github.com/Textualize/textual) - Textual is a Rapid Application Development framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and (coming soon) a web browser!
+- [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [ar-ekt/Google-Translator-Bot](https://github.com/ar-ekt/Google-Translator-Bot) - Telegram bot to translate messages and files
 - [ar-ekt/IncognitoBot](https://github.com/ar-ekt/IncognitoBot) - یه بات تلگرام که پیام‌ها رو به‌صورت ناشناس داخل کانال قرار میده.
 - [reza00farjam/rjdl](https://github.com/reza00farjam/rjdl) - Python package to download Music, Video, Album, Podcast & Playlists from www.RadioJavan.com
@@ -1627,7 +1627,6 @@
 - [charindithjaindu/InviteLinkGen](https://github.com/charindithjaindu/InviteLinkGen) - Invites link generator for telegram(made for channel referral links)
 - [nuuuwan/web_screen_scraper](https://github.com/nuuuwan/web_screen_scraper) - 
 - [H1M4N5HU0P/MAFIA-USERBOT](https://github.com/H1M4N5HU0P/MAFIA-USERBOT) - 
-- [Ximaz/megaloader](https://github.com/Ximaz/megaloader) - Megaloader is a project will make you smile. It allows you to use some download plugins for many websites such as Cyberdrop, Fanbox, GoFile, Pixiv, Rule34, Thotslife, and so on...
 - [k0rnh0li0/onlyfans-dl](https://github.com/k0rnh0li0/onlyfans-dl) - OnlyFans content downloader
 - [kantek/KanTeX](https://github.com/kantek/KanTeX) - 
 - [jayantkageri/tgEasy](https://github.com/jayantkageri/tgEasy) - tgEasy | Easy for a Brighter Shine | Monkey Patcher Addon for Pyrogram
