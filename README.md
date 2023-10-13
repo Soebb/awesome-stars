@@ -672,7 +672,7 @@
 - [venthur/gscholar](https://github.com/venthur/gscholar) - Query Google Scholar with Python
 - [Nv7-GitHub/googlesearch](https://github.com/Nv7-GitHub/googlesearch) - A Python library for scraping the Google search engine.
 - [opsdisk/yagooglesearch](https://github.com/opsdisk/yagooglesearch) - Yet another googlesearch - A Python library for executing intelligent, realistic-looking, and tunable Google searches.
-- [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex (GPT Index) is a data framework for your LLM applications
+- [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex (formerly GPT Index) is a data framework for your LLM applications
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
 - [najafiseo/OpenAI-tool](https://github.com/najafiseo/OpenAI-tool) - This is a tool that you can use to do different things, such as writing articles in bulk
 - [ninjakx/youtube-video2ppt](https://github.com/ninjakx/youtube-video2ppt) - Turning the video explanation to ppt using opencv.
@@ -790,7 +790,7 @@
 - [mnsalimi/persian-speech2text](https://github.com/mnsalimi/persian-speech2text) - 
 - [Alir3z4/html2text](https://github.com/Alir3z4/html2text) - Convert HTML to Markdown-formatted text.
 - [khoben/telemirror](https://github.com/khoben/telemirror) - Telegram message forwarder (client API)
-- [kkrypt0nn/Python-Discord-Bot-Template](https://github.com/kkrypt0nn/Python-Discord-Bot-Template) - 🐍 A simple template to start to code your own and personalized Discord bot in the Python programming language.
+- [kkrypt0nn/Python-Discord-Bot-Template](https://github.com/kkrypt0nn/Python-Discord-Bot-Template) - 🐍 A simple template to start to code your own and personalized Discord bot in the Python programming language
 - [fascot/Media-Download-Tool](https://github.com/fascot/Media-Download-Tool) - This is a Media Download Tool which can get videos from Youtube, Pornhub and many other sites.
 - [piriyaraj/shortsMobileSpeci](https://github.com/piriyaraj/shortsMobileSpeci) - automatic youtube video uploading script. it's able to scrap web content and make it a youtube short video and upload it on youtube automatically.
 - [gergovari/lazyshorts-py](https://github.com/gergovari/lazyshorts-py) - Create short videos, like a lazy person.
@@ -1697,7 +1697,7 @@
 - [python-telegram-bot/python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) - We have made you a wrapper you can't refuse
 - [gorbatovea/forwardgram](https://github.com/gorbatovea/forwardgram) - This script forwards messages through TG chats and channels. Backed by Telethon.
 - [hemantapkh/TorrentHunt](https://github.com/hemantapkh/TorrentHunt) - 🏴‍☠️ The ultimate torrent bot on telegram
-- [adarsh-goel/FileStreamBot-pro](https://github.com/adarsh-goel/FileStreamBot-pro) - A very fast file streaming bot  used for streaming and downloading movies. To get readymade bot click the link below
+- [adarsh-goel/FileStreamBot-pro](https://github.com/adarsh-goel/FileStreamBot-pro) - A very fast file streaming bot  used for streaming and downloading movies.
 - [ZauteKm/MusicPlayer](https://github.com/ZauteKm/MusicPlayer) - Telegram Bot to play music in VoiceChat with Channel Support and autostarts Radio.
 - [UsergeTeam/Userge](https://github.com/UsergeTeam/Userge) - Userge, Durable as a Serge
 - [TerminalWarlord/TikTok-Downloader-Bot](https://github.com/TerminalWarlord/TikTok-Downloader-Bot) - A Telegram bot to download TikTok videos without any watermark.
@@ -1907,7 +1907,6 @@
 - [Matin-B/Bazaar_DlBot](https://github.com/Matin-B/Bazaar_DlBot) - Simple Telegram bot for direct download applications from Cafe Bazaar (CafeBazaar.ir)
 - [Neeleshrj/Image-Colorization-API](https://github.com/Neeleshrj/Image-Colorization-API) - An API which would colorize a black and white image
 - [matplotlib/matplotlib](https://github.com/matplotlib/matplotlib) - matplotlib: plotting with Python
-- [adarsh-goel/filestreambot](https://github.com/adarsh-goel/filestreambot) - A very fast file streaming bot  used for streaming and downloading movies. To get readymade bot click the link below
 - [sahadz/simple-upload-bot](https://github.com/sahadz/simple-upload-bot) - 
 - [TeamUltroid/pyUltroid](https://github.com/TeamUltroid/pyUltroid) - [Ultroid] Base Library - Telethon
 - [prabhakar267/image2text](https://github.com/prabhakar267/image2text) - :clipboard: Python wrapper to grab text from images and save as text files using Tesseract Engine
