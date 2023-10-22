@@ -1657,7 +1657,7 @@
 - [dakshy/droplink-bot](https://github.com/dakshy/droplink-bot) - Droplink URL Shortener Bot, deployable to Heroku and Railway.
 - [ijustbsd/instagram-saver-bot](https://github.com/ijustbsd/instagram-saver-bot) - This telegram bot can save photos, videos and post descriptions from Instagram.
 - [DIGITALCRIMINALS/UltimaScraper](https://github.com/DIGITALCRIMINALS/UltimaScraper) - Scrape content from OnlyFans and Fansly
-- [DIGITALCRIMINAL/OnlyFans](https://github.com/DIGITALCRIMINAL/OnlyFans) - Scrape all the media from an OnlyFans account - Updated regularly
+- [DIGITALCRIMINAL/UltimaScraper](https://github.com/DIGITALCRIMINAL/UltimaScraper) - Scrape all the media from an OnlyFans account - Updated regularly
 - [ImJanindu/47MusicPlayerBot](https://github.com/ImJanindu/47MusicPlayerBot) - A Telegram Music Bot written in Python with Pyrogram and Py-Tgcalls.
 - [m4mallu/tube](https://github.com/m4mallu/tube) - https://github.com/m4mallu/inline-tube-mate
 - [MlsterMass/telegram_autoreger](https://github.com/MlsterMass/telegram_autoreger) - Automation registration for Telegram
