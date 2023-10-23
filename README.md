@@ -165,7 +165,7 @@
 - [oussamabonnor1/TelegramClone](https://github.com/oussamabonnor1/TelegramClone) - JetGram is an open source desktop app Telegram clone made with JavaFx.
 - [OwlGramDev/OwlGram](https://github.com/OwlGramDev/OwlGram) - OwlGram is an unofficial messaging app that uses Telegram's API.
 - [jitnegii/Telegram-bot](https://github.com/jitnegii/Telegram-bot) - Telegram bot to download songs from Spotify and YouTube URL.
-- [ivan909020/shop-telegram-bot](https://github.com/ivan909020/shop-telegram-bot) - Java shop chatbot for Telegram
+- [ivan-zaitsev/shop-telegram-bot](https://github.com/ivan-zaitsev/shop-telegram-bot) - Java shop chatbot for Telegram
 - [MonsterDeveloper/java-telegram-bot-tutorial](https://github.com/MonsterDeveloper/java-telegram-bot-tutorial) - Java Telegram Bot Tutorial. Feel free to submit issue if you found a mistake.
 - [markfront/SinglePageFullHtml](https://github.com/markfront/SinglePageFullHtml) - 
 - [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem.
@@ -1140,8 +1140,8 @@
 - [AzamRabiee/Persian_G2P](https://github.com/AzamRabiee/Persian_G2P) - Persian Grapheme-to-Phoneme (G2P) converter
 - [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
 - [m3hrdadfi/zabanshenas](https://github.com/m3hrdadfi/zabanshenas) - Zabanshenas is a solution for identifying the most likely language of a piece of written text. Demo (👇 )
-- [erastusn/face_recognition](https://github.com/erastusn/face_recognition) - 
-- [erastusn/emaileasily](https://github.com/erastusn/emaileasily) - 
+- [erastusnzula/face_recognition](https://github.com/erastusnzula/face_recognition) - 
+- [erastusnzula/emaileasily](https://github.com/erastusnzula/emaileasily) - 
 - [shangar21/anime_upscaler](https://github.com/shangar21/anime_upscaler) - My usage of Real-ESRGAN to upscale anime, some test and results in the test_img folder
 - [Dadmatech/DadmaTools](https://github.com/Dadmatech/DadmaTools) - DadmaTools is a Persian NLP tools developed by Dadmatech Co.
 - [abolfazlnasr/ankaboot](https://github.com/abolfazlnasr/ankaboot) - crawl a page and get some useful textual analysis
