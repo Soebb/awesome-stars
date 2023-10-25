@@ -597,7 +597,7 @@
 - [LpCodes/View_Wifi_Passwords](https://github.com/LpCodes/View_Wifi_Passwords) - Simple syntax to view Saved WiFi Passwords on Windows machine
 - [LpCodes/LP-All-Images-Downloader](https://github.com/LpCodes/LP-All-Images-Downloader) - A simple package to download all Images from the url provided
 - [LpCodes/pypackageinspector](https://github.com/LpCodes/pypackageinspector) - pyCryptobox is a package in Python that inspects a Python package and prints out all the functions and methods defined in that package. It takes a single argument, package, which is a string represent
-- [LpCodes/Remove-Duplicate](https://github.com/LpCodes/Remove-Duplicate) - This Python script removes duplicate files from a given directory. It prompts the user to select a folder and then uses the MD5 hashing algorithm to check if any files have the same hash value. If it 
+- [LpCodes/Duplicate-Files-Remover](https://github.com/LpCodes/Duplicate-Files-Remover) - This Python script removes duplicate files from a given directory. It prompts the user to select a folder and then uses the MD5 hashing algorithm to check if any files have the same hash value. If it 
 - [anformatic/Finder](https://github.com/anformatic/Finder) - finding strings in text file
 - [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz) - Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.
 - [zackees/gptrepo](https://github.com/zackees/gptrepo) - 
@@ -1296,7 +1296,7 @@
 - [NathaliaBarreiros/audio_transcription_deepspeech](https://github.com/NathaliaBarreiros/audio_transcription_deepspeech) - Transcription .wav audio files with DeepSpeech library
 - [Arcadia2142/voice-recognize](https://github.com/Arcadia2142/voice-recognize) - 
 - [zackees/transcribe-anything](https://github.com/zackees/transcribe-anything) - Input a local file or url and this service will transcribe it using Whisper AI. Completely private and Free 🤯🤯🤯
-- [zackees/make_venv](https://github.com/zackees/make_venv) - Super easy script that can make a virtual env
+- [zackees/install.py](https://github.com/zackees/install.py) - Super easy script that can make a virtual env
 - [zackees/static_ffmpeg](https://github.com/zackees/static_ffmpeg) - Installs FFMPEG On Win32/Ubuntu/MacOS
 - [revolter/FileConvertBot](https://github.com/revolter/FileConvertBot) - Telegram Bot that converts some file types to native photo, audio or video Telegram messages.
 - [rozari0/NeedMusicRobot](https://github.com/rozari0/NeedMusicRobot) - A Simple Music Downloader Bot For Telegram with Youtube Music, Spotify & Deezer Support.
