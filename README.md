@@ -57,9 +57,9 @@
 - [ArdeshirV/ArdeshirV.Forms](https://github.com/ArdeshirV/ArdeshirV.Forms) - ArdeshirV.Forms is a customized version of everyday windows .Net forms like About Box, Error Handler, Splash Screen and my base windows form with many fantastic ability.
 - [Bazzu85/MKVmergeBatcher](https://github.com/Bazzu85/MKVmergeBatcher) - Create/execute custom created models to batch you Mkvmerge work
 - [icsharpcode/SharpZipLib](https://github.com/icsharpcode/SharpZipLib) - #ziplib is a Zip, GZip, Tar and BZip2 library written entirely in C# for the .NET platform.
-- [oliverfei/KeyboardKinect](https://github.com/oliverfei/KeyboardKinect) - 
-- [oliverfei/OCBusTracker](https://github.com/oliverfei/OCBusTracker) - A simple UWP app for keeping track of City of Ottawa buses.
-- [oliverfei/BodyPoseEstimatorVRUnity](https://github.com/oliverfei/BodyPoseEstimatorVRUnity) - A unity project that demonstrates body pose approximation for VR applications using a feedforward neural network
+- [devmaxxing/KeyboardKinect](https://github.com/devmaxxing/KeyboardKinect) - 
+- [devmaxxing/OCBusTracker](https://github.com/devmaxxing/OCBusTracker) - A simple UWP app for keeping track of City of Ottawa buses.
+- [devmaxxing/BodyPoseEstimatorVRUnity](https://github.com/devmaxxing/BodyPoseEstimatorVRUnity) - A unity project that demonstrates body pose approximation for VR applications using a feedforward neural network
 
 ## C++ 
 
@@ -153,7 +153,7 @@
 - [ArdeshirV/resources](https://github.com/ArdeshirV/resources) - My resources such as images for using in README file(s) of github
 - [dailydotdev/daily-scraper](https://github.com/dailydotdev/daily-scraper) - Fetches information about every webpage 🤖
 - [abhint/tg-session-string](https://github.com/abhint/tg-session-string) - 
-- [oliverfei/babylonjs-easyrtc-test](https://github.com/oliverfei/babylonjs-easyrtc-test) - 
+- [devmaxxing/babylonjs-easyrtc-test](https://github.com/devmaxxing/babylonjs-easyrtc-test) - 
 - [Jigarvarma2005/Video-Player](https://github.com/Jigarvarma2005/Video-Player) - 
 - [tuhinpal/dynamic-image](https://github.com/tuhinpal/dynamic-image) - Dynamically generate images for open-graph or website
 - [InFoTelbot/subcounter-public](https://github.com/InFoTelbot/subcounter-public) - #1 realtime subscriber counter for Telegram which supports multiple groups and channels
@@ -199,18 +199,18 @@
 - [sampotts/plyr](https://github.com/sampotts/plyr) - A simple HTML5, YouTube and Vimeo player
 - [msaaddev/who-unfollowed-me](https://github.com/msaaddev/who-unfollowed-me) - 🙁 A CLI that tells you who recently unfollowed you on GitHub
 - [JinsoRaj/TorrentConverter](https://github.com/JinsoRaj/TorrentConverter) - A Telegram bot to convert Torrent files -&gt; magnet links & vice versa.
-- [oliverfei/flood-it](https://github.com/oliverfei/flood-it) - Fork of ddycai/flood-it for the CSI4105 course project. Implements astar search with a naive admissible heuristic and a non-admissible heuristic.
-- [oliverfei/close_combat](https://github.com/oliverfei/close_combat) - A-Frame VR two player game.
-- [oliverfei/MazeEscape](https://github.com/oliverfei/MazeEscape) - A 2-player WebVR co-op game built with A-Frame.
-- [oliverfei/networked-aframe](https://github.com/oliverfei/networked-aframe) - A web framework for building multi-user virtual reality experiences.
-- [oliverfei/WebSpeechAframe](https://github.com/oliverfei/WebSpeechAframe) - 
-- [oliverfei/TerribleHack2018](https://github.com/oliverfei/TerribleHack2018) - WebVR circlejerk simulator
-- [oliverfei/TechniqueXR](https://github.com/oliverfei/TechniqueXR) - 
-- [oliverfei/snackreviews](https://github.com/oliverfei/snackreviews) - A website for snack reviews
-- [oliverfei/random-objects](https://github.com/oliverfei/random-objects) - A tool for generating random 3d scenes and capturing the images for object detection purposes.
-- [oliverfei/automation-center-sdk-samples](https://github.com/oliverfei/automation-center-sdk-samples) - Samples for the Trend Micro Deep Security SDK
-- [oliverfei/osu-parser-web](https://github.com/oliverfei/osu-parser-web) - converts osu files into javascript objects
-- [oliverfei/CadenzaEditor](https://github.com/oliverfei/CadenzaEditor) - A tool for creating/editing beatmaps for Cadenza!!
+- [devmaxxing/flood-it](https://github.com/devmaxxing/flood-it) - Fork of ddycai/flood-it for the CSI4105 course project. Implements astar search with a naive admissible heuristic and a non-admissible heuristic.
+- [devmaxxing/close_combat](https://github.com/devmaxxing/close_combat) - A-Frame VR two player game.
+- [devmaxxing/MazeEscape](https://github.com/devmaxxing/MazeEscape) - A 2-player WebVR co-op game built with A-Frame.
+- [devmaxxing/networked-aframe](https://github.com/devmaxxing/networked-aframe) - A web framework for building multi-user virtual reality experiences.
+- [devmaxxing/WebSpeechAframe](https://github.com/devmaxxing/WebSpeechAframe) - 
+- [devmaxxing/TerribleHack2018](https://github.com/devmaxxing/TerribleHack2018) - WebVR circlejerk simulator
+- [devmaxxing/TechniqueXR](https://github.com/devmaxxing/TechniqueXR) - 
+- [devmaxxing/snackreviews](https://github.com/devmaxxing/snackreviews) - A website for snack reviews
+- [devmaxxing/random-objects](https://github.com/devmaxxing/random-objects) - A tool for generating random 3d scenes and capturing the images for object detection purposes.
+- [devmaxxing/automation-center-sdk-samples](https://github.com/devmaxxing/automation-center-sdk-samples) - Samples for the Trend Micro Deep Security SDK
+- [devmaxxing/osu-parser-web](https://github.com/devmaxxing/osu-parser-web) - converts osu files into javascript objects
+- [devmaxxing/CadenzaEditor](https://github.com/devmaxxing/CadenzaEditor) - A tool for creating/editing beatmaps for Cadenza!!
 - [hsdeckviewer/hsdeckviewer.github.io](https://github.com/hsdeckviewer/hsdeckviewer.github.io) - A simple viewer for multiple Hearthstone decks used for sharing deck lineups.
 - [Kikobeats/twdown](https://github.com/Kikobeats/twdown) - Get MP4/MP3 video url from any Twitter video
 - [OwenRay/srt-to-ass](https://github.com/OwenRay/srt-to-ass) - Convert subtitles (SRT) to Advanced Substation Alpha (ASS)
@@ -271,7 +271,7 @@
 - [AlisterTA/Persian-text-to-speech](https://github.com/AlisterTA/Persian-text-to-speech) - 
 - [hemanshanand/Movie-Genre-Prediction](https://github.com/hemanshanand/Movie-Genre-Prediction) - Movie Genre Prediction using Natural Language Processing(NLP)
 - [shenasa-ai/speech2text](https://github.com/shenasa-ai/speech2text) - A Deep-Learning-Based Persian Speech Recognition System
-- [oliverfei/videocr-PaddleOCR](https://github.com/oliverfei/videocr-PaddleOCR) - Extract hardcoded subtitles from videos using machine learning
+- [devmaxxing/videocr-PaddleOCR](https://github.com/devmaxxing/videocr-PaddleOCR) - Extract hardcoded subtitles from videos using machine learning
 - [surajbahadur591/Google-Colab-Scripts](https://github.com/surajbahadur591/Google-Colab-Scripts) - Really useful google colab script for file transfer
 - [DeyDipankar/Web-Scraping](https://github.com/DeyDipankar/Web-Scraping) - This repository contains all the web scraping techniques
 - [MaartenGr/Reviewer](https://github.com/MaartenGr/Reviewer) - Tool for extracting and analyzing IMDB reviews
@@ -338,10 +338,10 @@
 - [oppsec/extensions-wordlist](https://github.com/oppsec/extensions-wordlist) - 🔍 Improve your files enumeration with specific extensions!
 - [m4mallu/clonebot-ui](https://github.com/m4mallu/clonebot-ui) - Redirecting link to the original and latest clonebot repository.
 - [PredatorHackerzZ/Renamer-Bot](https://github.com/PredatorHackerzZ/Renamer-Bot) - Best & Fastest Renamer Bot By @Clinton-Abraham & @PredatorHackerzZ. Star and Fork the repo if you like it else you are Gay!...  @TeamTeleRoid
-- [oliverfei/fbx_files](https://github.com/oliverfei/fbx_files) - 
-- [oliverfei/a-frame-playground](https://github.com/oliverfei/a-frame-playground) - 
-- [oliverfei/spring-cloud-config-basics-repo](https://github.com/oliverfei/spring-cloud-config-basics-repo) - Repo holding the configuration settings used by the spring-cloud-config-basics demo
-- [oliverfei/videocr-app](https://github.com/oliverfei/videocr-app) - Desktop application for extracting text/hard-coded subtitles from videos.
+- [devmaxxing/fbx_files](https://github.com/devmaxxing/fbx_files) - 
+- [devmaxxing/a-frame-playground](https://github.com/devmaxxing/a-frame-playground) - 
+- [devmaxxing/spring-cloud-config-basics-repo](https://github.com/devmaxxing/spring-cloud-config-basics-repo) - Repo holding the configuration settings used by the spring-cloud-config-basics demo
+- [devmaxxing/videocr-app](https://github.com/devmaxxing/videocr-app) - Desktop application for extracting text/hard-coded subtitles from videos.
 - [shahind/Persian-Words-Database](https://github.com/shahind/Persian-Words-Database) - About 700,000 Persian(Farsi) Words
 - [subinps/Any-repo](https://github.com/subinps/Any-repo) - Any Repo
 - [sahadz/FileConvertRobot](https://github.com/sahadz/FileConvertRobot) - 
@@ -1498,7 +1498,6 @@
 - [khorammfar/Forward-to-channel](https://github.com/khorammfar/Forward-to-channel) - 
 - [Sallat-M/FileToLink](https://github.com/Sallat-M/FileToLink) - A Telegram Bot to generate permanent Stream and Download links for any Telegram file
 - [xditya/ViewCountBot](https://github.com/xditya/ViewCountBot) - 
-- [sohag02/Pornhub-Bot](https://github.com/sohag02/Pornhub-Bot) - 
 - [rubenandre/youtube-dl](https://github.com/rubenandre/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [riz4d/TempMail-Bot](https://github.com/riz4d/TempMail-Bot) - A python oriented telegram bot for generating temporary Emails
 - [samadii/web2pdf-bot](https://github.com/samadii/web2pdf-bot) - A simple Telegram bot to download webpages as PDF
@@ -1803,8 +1802,8 @@
 - [SafaSafari/SafaSelf](https://github.com/SafaSafari/SafaSelf) - 
 - [Py-GapBot/GapBot](https://github.com/Py-GapBot/GapBot) - Gap Messenger Api Bot Library for Python
 - [m4mallu/link2PdfBot](https://github.com/m4mallu/link2PdfBot) - A simple Telegram bot can convert web docs,  Telegraph links, etc. to Pdf !
-- [oliverfei/BodyPoseEstimatorVR](https://github.com/oliverfei/BodyPoseEstimatorVR) - 
-- [oliverfei/TextRecognitionDataGenerator](https://github.com/oliverfei/TextRecognitionDataGenerator) - A synthetic data generator for text recognition
+- [devmaxxing/BodyPoseEstimatorVR](https://github.com/devmaxxing/BodyPoseEstimatorVR) - 
+- [devmaxxing/TextRecognitionDataGenerator](https://github.com/devmaxxing/TextRecognitionDataGenerator) - A synthetic data generator for text recognition
 - [lzzy12/youtube-clipper-bot](https://github.com/lzzy12/youtube-clipper-bot) - Telegram bot to clip youtube videos
 - [zehpatricio/videomerge_bot](https://github.com/zehpatricio/videomerge_bot) - Telegram bot made in Python to merge videos.
 - [StarkGang/Git2TG](https://github.com/StarkGang/Git2TG) - A Git Alert Bot - Github Integration for Pyrogram & Telethon
@@ -2306,7 +2305,7 @@
 ## Ruby 
 
 - [heroku/heroku-buildpack-python](https://github.com/heroku/heroku-buildpack-python) - The official Heroku buildpack for Python apps
-- [oliverfei/fireemblem-herobuilder](https://github.com/oliverfei/fireemblem-herobuilder) - Hero builder for Fire Emblem Heroes
+- [devmaxxing/fireemblem-herobuilder](https://github.com/devmaxxing/fireemblem-herobuilder) - Hero builder for Fire Emblem Heroes
 
 ## Rust 
 
@@ -2378,7 +2377,7 @@
 - [xditya/YouTubeFeeds](https://github.com/xditya/YouTubeFeeds) - Get new YouTube video notifications, from multiple YouTube channels, on multiple telegram chats!
 - [LeastSignificant/tgcalls-next](https://github.com/LeastSignificant/tgcalls-next) - Community fork of tgcallsjs with built-in GramJS support.
 - [Borodutch/VideoDownloadBot](https://github.com/Borodutch/VideoDownloadBot) - Telegram bot to download videos from URLs
-- [oliverfei/webxr-kamehameha](https://github.com/oliverfei/webxr-kamehameha) - 
+- [devmaxxing/webxr-kamehameha](https://github.com/devmaxxing/webxr-kamehameha) - 
 - [Borodutch/telegram-bot-starter](https://github.com/Borodutch/telegram-bot-starter) - Telegram bot starter based on grammY
 - [backmeupplz/IsBotDownBot](https://github.com/backmeupplz/IsBotDownBot) - @IsBotDownBot Telegram bot code
 - [dcdunkan/show-json-bot](https://github.com/dcdunkan/show-json-bot) - A simple bot to show JSON data of Telegram messages.
