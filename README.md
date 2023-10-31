@@ -1435,7 +1435,7 @@
 - [zavidnyi/telegram-scheduler-bot](https://github.com/zavidnyi/telegram-scheduler-bot) - Telegram Bot built with aiogram to schedule the events!
 - [notthebee/ytdl-explorer](https://github.com/notthebee/ytdl-explorer) - Download videos from YouTube/Twitch/Twitter right in the Windows Explorer, without installing any shady shareware apps
 - [SNFernandes24/AutomaticVideoUploader](https://github.com/SNFernandes24/AutomaticVideoUploader) - 
-- [un1cum/Beast_Bomber](https://github.com/un1cum/Beast_Bomber) - The best open source bomber / Лучший open source бомбер
+- [crut0i/Beast_Bomber](https://github.com/crut0i/Beast_Bomber) - The best open source bomber
 - [ibrdrahim/telegram-auto-reply](https://github.com/ibrdrahim/telegram-auto-reply) - Python script using telethon for auto replying telegram message
 - [conquistadorjd/python-01-utilities](https://github.com/conquistadorjd/python-01-utilities) - python-01-utilities
 - [YaleDHLab/intertext](https://github.com/YaleDHLab/intertext) - Detect and visualize text reuse
@@ -2304,7 +2304,7 @@
 
 ## Ruby 
 
-- [heroku/heroku-buildpack-python](https://github.com/heroku/heroku-buildpack-python) - The official Heroku buildpack for Python apps
+- [heroku/heroku-buildpack-python](https://github.com/heroku/heroku-buildpack-python) - Heroku's buildpack for Python applications.
 - [devmaxxing/fireemblem-herobuilder](https://github.com/devmaxxing/fireemblem-herobuilder) - Hero builder for Fire Emblem Heroes
 
 ## Rust 
