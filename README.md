@@ -1320,7 +1320,6 @@
 - [ResupinePuma/BF_AntiCrasher](https://github.com/ResupinePuma/BF_AntiCrasher) - Script to prevent people crash your server
 - [Single-Developers/TikTok-DL-BOT](https://github.com/Single-Developers/TikTok-DL-BOT) - 🏖 TikTok Download URL Generator API Example 🏖
 - [foevil/unf0llowers](https://github.com/foevil/unf0llowers) - 
-- [Sarmadzandi/instagrambot](https://github.com/Sarmadzandi/instagrambot) - 
 - [italankin/samplevoicebot](https://github.com/italankin/samplevoicebot) - TTS Telegram bot
 - [italankin/telegram-bot-template](https://github.com/italankin/telegram-bot-template) - A basic template for my telegram bots
 - [zenwarr/telegram-feed-bot](https://github.com/zenwarr/telegram-feed-bot) - Posts rss feeds or top reddit posts to telegram channels
@@ -2068,7 +2067,7 @@
 - [nuhmanpk/YouTube-TagFind-Bot](https://github.com/nuhmanpk/YouTube-TagFind-Bot) - A Telegram Bot to return Youtube Video Tags Using YoutubeTags API
 - [Ts-Bots/BotStatus-Ts-Bot](https://github.com/Ts-Bots/BotStatus-Ts-Bot) - A telegram bot which can show you the status of telegram bot
 - [nuhmanpk/YoutubeTags](https://github.com/nuhmanpk/YoutubeTags) - YouTube SEO tool for extracting video tags without the need for the official YouTube API
-- [Itz-fork/py-trans](https://github.com/Itz-fork/py-trans) - Free Python library to translate text into different languages.
+- [Itz-fork/py-trans](https://github.com/Itz-fork/py-trans) - Python library to translate text into different languages.
 - [Naviya2/LeoMediaSearchBot](https://github.com/Naviya2/LeoMediaSearchBot) - A Simple Inline Media Search Bot
 - [rudranag/Truecaller-Smsbomber_telegram_bot](https://github.com/rudranag/Truecaller-Smsbomber_telegram_bot) - Telegram bot which has truecaller and smsbomber features
 - [subinps/Image-Editor](https://github.com/subinps/Image-Editor) - A Telegram Image Editor Bot with Many features and Options.
