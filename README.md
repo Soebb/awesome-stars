@@ -1637,7 +1637,6 @@
 - [Glyphack/spotify_telegram_bot](https://github.com/Glyphack/spotify_telegram_bot) - Telegram bot helps you to listen to songs from spotify
 - [pyppeteer/pyppeteer](https://github.com/pyppeteer/pyppeteer) - Headless chrome/chromium automation library (unofficial port of puppeteer)
 - [choldgraf/download](https://github.com/choldgraf/download) - A quick helper module to download files online.
-- [PredatorHackerzZ/DoodStreamVideoBot](https://github.com/PredatorHackerzZ/DoodStreamVideoBot) - Bot is Based on @PdiskVideoBot Repo
 - [GauthamramRavichandran/clearurls](https://github.com/GauthamramRavichandran/clearurls) - A telegram bot based on ClearURLs extension.
 - [HBNetwork/python-decouple](https://github.com/HBNetwork/python-decouple) - Strict separation of config from code.
 - [xditya/TelegraphUploader](https://github.com/xditya/TelegraphUploader) - 
