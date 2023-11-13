@@ -1011,7 +1011,7 @@
 - [narfman0/youtube-scraper](https://github.com/narfman0/youtube-scraper) - Scrape metadata from youtube videos/urls
 - [pooya-mohammadi/persian-spell-checker-kenlm](https://github.com/pooya-mohammadi/persian-spell-checker-kenlm) - A complete instruction for training a Persian spell checker and a language model based on SymSpell and KenLM, respectively using Wikipedia dataset.
 - [aleksve/ischedule](https://github.com/aleksve/ischedule) - Open source, single-thread interval scheduler
-- [iluvcapra/wavinfo](https://github.com/iluvcapra/wavinfo) - Probe WAVE Files for iXML, ADM, Broadcast-WAVE and other metadata
+- [iluvcapra/wavinfo](https://github.com/iluvcapra/wavinfo) - Probe WAVE Files for all metadata
 - [t0mer/ttsbot](https://github.com/t0mer/ttsbot) - ttsbot is a Telepot powerd, easy to use Telegram bot allowing you to convert text to speech using Reverso Translations.
 - [frederikwillersinn/google_drive_data_transfer](https://github.com/frederikwillersinn/google_drive_data_transfer) - Python Package Development | Google Drive File Transfer | PyDrive
 - [MarkSnaile/telegram-channel-views-boost](https://github.com/MarkSnaile/telegram-channel-views-boost) - A Python3 script built to increase post views on Telegram channels.
@@ -2087,7 +2087,7 @@
 - [gautamajay52/ufile.io](https://github.com/gautamajay52/ufile.io) - Asynchronous Python Wrapper for the Ufile API
 - [New-dev0/TgTwitterBot](https://github.com/New-dev0/TgTwitterBot) - TgTwitterBot -  Control and Explore Twitter from Telegram
 - [lntechnical2/live_count_channelv2](https://github.com/lntechnical2/live_count_channelv2) - 
-- [nuhmanpk/WebScrapper](https://github.com/nuhmanpk/WebScrapper) - Telegram Bot to scrap webpages using Requests, html5lib and Beautifulsoup
+- [nuhmanpk/WebScrapper](https://github.com/nuhmanpk/WebScrapper) - Simple and powerfull all in one Telegram Bot to scrap webpages using Requests, html5lib and Beautifulsoup
 - [m4mallu/DeleteMediaRobot](https://github.com/m4mallu/DeleteMediaRobot) - Telegram robot to delete media in a chat!
 - [AnjanaMadu/MentionAllBot](https://github.com/AnjanaMadu/MentionAllBot) - This bot can mention members upto 10,000 in groups and can mention members upto 200 in channels !
 - [dihanofficial/SophiaOLD](https://github.com/dihanofficial/SophiaOLD) - Old Vision of Sophia Source Code.....
