@@ -724,7 +724,7 @@
 - [18520339/facebook-data-extraction](https://github.com/18520339/facebook-data-extraction) - Experiences in extracting data from Facebook with these 3 methods: Facebook Graph API, Automation tools, DevTools Console
 - [18520339/image-search-downloader](https://github.com/18520339/image-search-downloader) - Download images including URLs from Google, Bing, Flickr and Instagram hashtags with given keyword
 - [kaboussi/Botflix](https://github.com/kaboussi/Botflix) - 🎥 Stream your favorite movie from the terminal!
-- [mherrmann/selenium-python-helium](https://github.com/mherrmann/selenium-python-helium) - Selenium-python but lighter: Helium is the best Python library for web automation.
+- [mherrmann/helium](https://github.com/mherrmann/helium) - Lighter web automation for Python
 - [namuan/tele-tube-rider](https://github.com/namuan/tele-tube-rider) - Telegram Bot 🤖 to download videos from Youtube, Reddit and Twitter and send it back to you.
 - [namuan/bin-utils](https://github.com/namuan/bin-utils) - Utility scripts / apps
 - [soxoj/maigret-tg-bot](https://github.com/soxoj/maigret-tg-bot) - Maigret Telegram bot
