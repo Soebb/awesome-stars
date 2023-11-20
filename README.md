@@ -1413,7 +1413,7 @@
 - [ali-mmagneto/imdbbot](https://github.com/ali-mmagneto/imdbbot) - İmdb'den veri çekmeye yarayan Bot
 - [shabane/countdown-vi](https://github.com/shabane/countdown-vi) - telegram bot which programed to countdown.
 - [subinps/tglogging](https://github.com/subinps/tglogging) - A python package to send your app logs to a telegram chat in realtime.
-- [jakkemomo/twalker](https://github.com/jakkemomo/twalker) - 
+- [jakkemomo/twalker](https://github.com/jakkemomo/twalker) - Twalker is a library that gathers information from big influencers.
 - [alcortazzo/tg-message-forwarder](https://github.com/alcortazzo/tg-message-forwarder) - Telegram bot for inline forwarding (specified user's) messages from one chat (or channel) to another.
 - [alcortazzo/vktgbot](https://github.com/alcortazzo/vktgbot) - Telegram Bot for reposting from VKontakte to Telegram channel
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
