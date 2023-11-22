@@ -477,7 +477,7 @@
 - [awkman/pywifi](https://github.com/awkman/pywifi) - A cross-platform module for manipulating WiFi devices.
 - [stefanodvx/epyrogram](https://github.com/stefanodvx/epyrogram) - EPyrogram: extend the functionality of Pyrogram by enhancing it with new features.
 - [elevenlabs/elevenlabs-python](https://github.com/elevenlabs/elevenlabs-python) - The official Python API for ElevenLabs text-to-speech.
-- [guillaumekln/faster-whisper](https://github.com/guillaumekln/faster-whisper) - Faster Whisper transcription with CTranslate2
+- [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper) - Faster Whisper transcription with CTranslate2
 - [pallets/click](https://github.com/pallets/click) - Python composable command line interface toolkit
 - [hay/facetool](https://github.com/hay/facetool) - Command line utility to manipulate faces in videos and images
 - [hay/dataknead](https://github.com/hay/dataknead) - Effortless conversion between data formats like JSON, XML and CSV
@@ -1240,7 +1240,7 @@
 - [palahsu/Insta-follow-bot](https://github.com/palahsu/Insta-follow-bot) - insta follower bot by python with selenium.
 - [korneevm/simplebot](https://github.com/korneevm/simplebot) - 
 - [dnovikov/tryvoha-bot](https://github.com/dnovikov/tryvoha-bot) - Plays air warning sound when detects a certain phrase or a word in a specified Telegram chat.
-- [HeimanPictures/Feedback-bot](https://github.com/HeimanPictures/Feedback-bot) - In Short This is An Personalized Livegram Bot Made Using Python.. Follow Me @HeimanPictures & Star This Repo
+- [AkkilMG/Feedback-bot](https://github.com/AkkilMG/Feedback-bot) - In Short This is An Personalized Livegram Bot Made Using Python.. Follow Me @HeimanPictures & Star This Repo
 - [pejmanS21/PDF2TEXT](https://github.com/pejmanS21/PDF2TEXT) - 
 - [persepolisdm/persepolis](https://github.com/persepolisdm/persepolis) - Persepolis Download Manager is a GUI for aria2.
 - [sina-e/twitter2telegram](https://github.com/sina-e/twitter2telegram) - A simple script to post tweets from Twitter to Telegram
@@ -1297,7 +1297,7 @@
 - [Arcadia2142/voice-recognize](https://github.com/Arcadia2142/voice-recognize) - 
 - [zackees/transcribe-anything](https://github.com/zackees/transcribe-anything) - Input a local file or url and this service will transcribe it using Whisper AI. Completely private and Free 🤯🤯🤯
 - [zackees/install.py](https://github.com/zackees/install.py) - Super easy script that can make a virtual env
-- [zackees/static_ffmpeg](https://github.com/zackees/static_ffmpeg) - Installs FFMPEG On Win32/Ubuntu/MacOS
+- [zackees/static_ffmpeg](https://github.com/zackees/static_ffmpeg) - Installs FFMPEG v5 On Win32/Ubuntu/MacOS
 - [revolter/FileConvertBot](https://github.com/revolter/FileConvertBot) - Telegram Bot that converts some file types to native photo, audio or video Telegram messages.
 - [rozari0/NeedMusicRobot](https://github.com/rozari0/NeedMusicRobot) - A Simple Music Downloader Bot For Telegram with Youtube Music, Spotify & Deezer Support.
 - [abnatal/botobot](https://github.com/abnatal/botobot) - 🐬 BotoBot is an easy to configure menu-based chatbot for Whatsapp / Telegram.
@@ -1908,7 +1908,7 @@
 - [tisanyada/py-tests](https://github.com/tisanyada/py-tests) - This is an open source python repository for various python tests
 - [ribt/dtmf-decoder](https://github.com/ribt/dtmf-decoder) - Extract phone numbers from an audio recording of the dial tones.
 - [nuhmanpk/ban-bot](https://github.com/nuhmanpk/ban-bot) - Code incubation Day #7 - A simple bot to ban Members in a Group , know more about code incubation Here 👇
-- [HeimanPictures/Pdisk-Upload-Bot](https://github.com/HeimanPictures/Pdisk-Upload-Bot) - This is Pdisk Upload Bot made using Python with Pyrogram Framework. Its capable of uploading direct download link with thumbnail or without thumbnail & with Title Support.
+- [AkkilMG/Pdisk-Upload-Bot](https://github.com/AkkilMG/Pdisk-Upload-Bot) - This is Pdisk Upload Bot made using Python with Pyrogram Framework. Its capable of uploading direct download link with thumbnail or without thumbnail & with Title Support.
 - [YaoFANGUK/video-subtitle-extractor](https://github.com/YaoFANGUK/video-subtitle-extractor) - 视频硬字幕提取，生成srt文件。无需申请第三方API，本地实现文本识别。基于深度学习的视频字幕提取框架，包含字幕区域检测、字幕内容提取。A GUI tool for extracting hard-coded subtitle (hardsub) from videos and generating srt files.
 - [duangsuse-valid-projects/extract-subtitles](https://github.com/duangsuse-valid-projects/extract-subtitles) - Extract Subtitles From Video 视频字幕提取 帧间差分法识别关键帧 OCR识别
 - [shawnsky/extract-subtitles](https://github.com/shawnsky/extract-subtitles) - Extract Subtitles From Video 视频字幕提取 帧间差分法识别关键帧 OCR识别
