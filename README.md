@@ -601,7 +601,7 @@
 - [anformatic/Finder](https://github.com/anformatic/Finder) - finding strings in text file
 - [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz) - Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.
 - [zackees/gptrepo](https://github.com/zackees/gptrepo) - 
-- [jianfch/stable-ts](https://github.com/jianfch/stable-ts) - ASR with reliable word-level timestamps using OpenAI's Whisper
+- [jianfch/stable-ts](https://github.com/jianfch/stable-ts) - Transcription, forced alignment, and audio indexing with OpenAI's Whisper
 - [mps-youtube/yewtube](https://github.com/mps-youtube/yewtube) - yewtube, forked from mps-youtube , is a Terminal based YouTube player and downloader. No Youtube API key required.
 - [linto-ai/whisper-timestamped](https://github.com/linto-ai/whisper-timestamped) - Multilingual Automatic Speech Recognition with word-level timestamps and confidence
 - [Raychanan/ChatGPT-for-Translation](https://github.com/Raychanan/ChatGPT-for-Translation) - Use Python and ChatGPT for translation. 利用Python和ChatGPT完成翻译
@@ -702,7 +702,7 @@
 - [jsavargas/telethon_downloader](https://github.com/jsavargas/telethon_downloader) - 
 - [mandrelbrotset/same-network-group-chat](https://github.com/mandrelbrotset/same-network-group-chat) - GUI group chat for computers in the same network. The server and the client program both have a GUI.
 - [skorokithakis/shortuuid](https://github.com/skorokithakis/shortuuid) - A generator library for concise, unambiguous and URL-safe UUIDs.
-- [ludgerradke/PyPDFMerger](https://github.com/ludgerradke/PyPDFMerger) - PyPDFMerger is a Python-based application that allows users to merge multiple PDF files into a single document using a drag-and-drop interface.
+- [intervall-ludger/PyPDFMerger](https://github.com/intervall-ludger/PyPDFMerger) - PyPDFMerger is a Python-based application that allows users to merge multiple PDF files into a single document using a drag-and-drop interface.
 - [genius-codes/telegram-adder-tool](https://github.com/genius-codes/telegram-adder-tool) - FREE TOOL
 - [karfly/chatgpt_telegram_bot](https://github.com/karfly/chatgpt_telegram_bot) - 
 - [armanyazdi/emailtools](https://github.com/armanyazdi/emailtools) - A Python library for email suggestions and validations.
