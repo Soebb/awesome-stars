@@ -904,7 +904,6 @@
 - [SpEcHiDe/Media-Search-bot](https://github.com/SpEcHiDe/Media-Search-bot) - Inline bot for channels and groups
 - [zackees/vids-db](https://github.com/zackees/vids-db) - 
 - [X-Gorn/Spotify-Loader](https://github.com/X-Gorn/Spotify-Loader) - Telegram bot download spotify playlist/artist/album/track music
-- [jusidama18/Gist-Telegram-Bot](https://github.com/jusidama18/Gist-Telegram-Bot) - 
 - [Itz-fork/Nexa-API](https://github.com/Itz-fork/Nexa-API) - Simple, Free and Easy to use Public api
 - [nodiscc/github-stars-backup](https://github.com/nodiscc/github-stars-backup) - [mirror] Backup a list of github starred repositories for the specified user.
 - [ErfanPY/aparatPlayListDownloader](https://github.com/ErfanPY/aparatPlayListDownloader) - دانلود ویدئو های پلی لیست آپارات
@@ -1288,7 +1287,6 @@
 - [marquesgabriel/bot-xvideos-telegram](https://github.com/marquesgabriel/bot-xvideos-telegram) - Chatbot para telegram que puxa cometnarios aleatorios do xvideos
 - [MaxxRider/Leech-Pro](https://github.com/MaxxRider/Leech-Pro) - This is a Telegram Leech / Mirror Bot . Based on Python . 👉support of uploading files and foder to gdrive or any drive rclone.org support. Like onedrive, mega and so on. Now supports Unzip, unrar, unt
 - [samadii/Message-Merger-Bot](https://github.com/samadii/Message-Merger-Bot) - A simple telegram bot to concatenate and split message content. Heroku deployable
-- [jusidama18/GDriveBot](https://github.com/jusidama18/GDriveBot) - 
 - [Edresson/VoiceSplit](https://github.com/Edresson/VoiceSplit) - VoiceSplit: Targeted Voice Separation by Speaker-Conditioned Spectrogram
 - [Aghajari/One-Line-Art](https://github.com/Aghajari/One-Line-Art) - One-Line Art with Python =)
 - [zackees/capturing_process](https://github.com/zackees/capturing_process) - A subprocess type that streams out stdout/stderr easily
@@ -1652,8 +1650,8 @@
 - [AJBotVerse/ReactionButtonBot](https://github.com/AJBotVerse/ReactionButtonBot) - Adding automatically like & dislike buttons to documents.
 - [dakshy/droplink-bot](https://github.com/dakshy/droplink-bot) - Droplink URL Shortener Bot, deployable to Heroku and Railway.
 - [ijustbsd/instagram-saver-bot](https://github.com/ijustbsd/instagram-saver-bot) - This telegram bot can save photos, videos and post descriptions from Instagram.
-- [DIGITALCRIMINALS/UltimaScraper](https://github.com/DIGITALCRIMINALS/UltimaScraper) - Scrape content from OnlyFans and Fansly
-- [DIGITALCRIMINAL/UltimaScraper](https://github.com/DIGITALCRIMINAL/UltimaScraper) - Scrape all the media from an OnlyFans account - Updated regularly
+- [DIGITALCRIMINAL/ArchivedUltimaScraper](https://github.com/DIGITALCRIMINAL/ArchivedUltimaScraper) - Scrape content from OnlyFans and Fansly
+- [UltimaHoarder/UltimaScraper](https://github.com/UltimaHoarder/UltimaScraper) - Scrape all the media from an OnlyFans account - Updated regularly
 - [ImJanindu/47MusicPlayerBot](https://github.com/ImJanindu/47MusicPlayerBot) - A Telegram Music Bot written in Python with Pyrogram and Py-Tgcalls.
 - [m4mallu/tube](https://github.com/m4mallu/tube) - https://github.com/m4mallu/inline-tube-mate
 - [MlsterMass/telegram_autoreger](https://github.com/MlsterMass/telegram_autoreger) - Automation registration for Telegram
@@ -1683,7 +1681,6 @@
 - [bytesuji/telegram-wget-bot](https://github.com/bytesuji/telegram-wget-bot) - Download resources from the Internet through Telegram
 - [hlabsdev/discuss-to-pdf](https://github.com/hlabsdev/discuss-to-pdf) - A Telegram bot for exporting your discussions into PDF
 - [hakizimana-fred/onlyfans-telegram-bot](https://github.com/hakizimana-fred/onlyfans-telegram-bot) - Telegram bot that scrapes onlyfans content
-- [JRomainG/PankoTelegramBot](https://github.com/JRomainG/PankoTelegramBot) - A Telegram bot to automatically notify when specific users upload new posts to Imgur
 - [Staninna/SpotiAFK](https://github.com/Staninna/SpotiAFK) - A simple AFK program that plays Spotify when you are not.
 - [SergSm/ptb-menu-pagination](https://github.com/SergSm/ptb-menu-pagination) - 🤖🧭Creates google-like navigation menu using python-telegram-bot wrapper
 - [wannabenormal/space-photos-tg-uploader](https://github.com/wannabenormal/space-photos-tg-uploader) - 
