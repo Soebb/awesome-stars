@@ -322,6 +322,7 @@
 - [MrBotDeveloper/API](https://github.com/MrBotDeveloper/API) - A Multi-Functional API by @MrBotDeveloper which let's you do many interesting things
 - [Toukacloud/TGFlix](https://github.com/Toukacloud/TGFlix) - Yet Another Idea 💡 | TGFlix - Use Telegram as your Drive & stream.
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
+- [mackorone/spotify-playlist-archive](https://github.com/mackorone/spotify-playlist-archive) - Daily snapshots of public Spotify playlists
 - [ChankitSaini/TelegramScrapper](https://github.com/ChankitSaini/TelegramScrapper) - Telegram member scrapper script
 - [mishakorzik/MailFinder](https://github.com/mishakorzik/MailFinder) - OSINT tool for finding email by first and last name
 - [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template) - An awesome README template to jumpstart your projects!
@@ -410,6 +411,7 @@
 
 ## Python 
 
+- [rule-airport/m3u8DL_tgbot](https://github.com/rule-airport/m3u8DL_tgbot) - 
 - [TomSchimansky/CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) - A modern and customizable python UI-library based on Tkinter
 - [m-jishnu/pypdl](https://github.com/m-jishnu/pypdl) - A concurrent python downloader with resume capablities
 - [putkoff/Python-Tools](https://github.com/putkoff/Python-Tools) - A repository for python functions that can help make things a little easier
@@ -713,7 +715,7 @@
 - [akhalili-me/movie-organizer](https://github.com/akhalili-me/movie-organizer) - A script to organize new downloaded movies in separate folders and then download Farsi subtitle for each of them.
 - [MahziyarAdine/File_Artist](https://github.com/MahziyarAdine/File_Artist) - I can process subtitles and PDF files and translate them from English to Persian
 - [5j9/num2fawords](https://github.com/5j9/num2fawords) - Takes a number and converts it to Persian word form
-- [armanyazdi/persian-names](https://github.com/armanyazdi/persian-names) - A Python library for generating random Persian (Farsi) names.
+- [armanyazdi/persian-names](https://github.com/armanyazdi/persian-names) - A Python package for generating random Persian (Farsi) names.
 - [dadashzadeh/separating-words-stuck-together](https://github.com/dadashzadeh/separating-words-stuck-together) - Separating words stuck together for Persian language and en
 - [M4hbod/UniversalGeneratorBot](https://github.com/M4hbod/UniversalGeneratorBot) - Pyrogram and Telethon String Session Generator - Persian
 - [PyImageSearch/imutils](https://github.com/PyImageSearch/imutils) - A series of convenience functions to make basic image processing operations such as translation, rotation, resizing, skeletonization, and displaying Matplotlib images easier with OpenCV and Python.
@@ -1406,7 +1408,6 @@
 - [xcscxr/gplinks-bypass](https://github.com/xcscxr/gplinks-bypass) - gplinks Bypasser
 - [miloszowi/everyone-mention-telegram-bot](https://github.com/miloszowi/everyone-mention-telegram-bot) - Mention everyone user for telegram group!
 - [donno2048/zipbomb](https://github.com/donno2048/zipbomb) - Create zipbombs using python
-- [mackorone/spotify-playlist-archive](https://github.com/mackorone/spotify-playlist-archive) - Daily snapshots of public Spotify playlists
 - [valenbar/wordle-telegram-bot](https://github.com/valenbar/wordle-telegram-bot) - 
 - [ali-mmagneto/imdbbot](https://github.com/ali-mmagneto/imdbbot) - İmdb'den veri çekmeye yarayan Bot
 - [shabane/countdown-vi](https://github.com/shabane/countdown-vi) - telegram bot which programed to countdown.
@@ -2046,7 +2047,7 @@
 - [AmanoTeam/EduuRobot](https://github.com/AmanoTeam/EduuRobot) - EduuRobot Telegram bot source code.
 - [Liupold/demeter_dl](https://github.com/Liupold/demeter_dl) - Demeter_DL is a open source download manager. Built for speed, efficiency and comfort! Download YouTube videos directly! or use it in your project with API
 - [amirhoseinsalimi/music-tool-bot](https://github.com/amirhoseinsalimi/music-tool-bot) - The one and only Telegram bot you need to manage your music files
-- [tanveerraza789/ytadlbot](https://github.com/tanveerraza789/ytadlbot) - Youtube audio downloader telegram bot
+- [atamakahere-git/ytadlbot](https://github.com/atamakahere-git/ytadlbot) - Youtube audio downloader telegram bot
 - [FayasNoushad/URL-Shortner-Bot](https://github.com/FayasNoushad/URL-Shortner-Bot) - A link shortner telegram bot version 2 with advanced features
 - [X-Gorn/File-Sharing](https://github.com/X-Gorn/File-Sharing) - Telegram bot to share any telegram files and get the shareable link
 - [FayasNoushad/Youtube-Video-Thumbnail](https://github.com/FayasNoushad/Youtube-Video-Thumbnail) - A youtube video link or id to video thumbnail python package.
@@ -2233,7 +2234,7 @@
 - [egorsmkv/lang-detector-bot](https://github.com/egorsmkv/lang-detector-bot) - Telegram bot for language detection from Voice based on Silero VAD
 - [AbirHasan2005/Message-Search-Bot](https://github.com/AbirHasan2005/Message-Search-Bot) - A Telegram Bot for searching any channel messages from Inline by @AbirHasan2005
 - [EverythingSuckz/TG-FileStreamBot](https://github.com/EverythingSuckz/TG-FileStreamBot) - A telegram bot that will give instant stream links for telegram files without the need of waiting till the download completes.
-- [JameelKaisar/AjmisT2S_bot](https://github.com/JameelKaisar/AjmisT2S_bot) - Ajmi's Text to Speech Bot created using gtts and pyrogram
+- [jameelkaisar/AjmisT2S_bot](https://github.com/jameelkaisar/AjmisT2S_bot) - Ajmi's Text to Speech Bot created using gtts and pyrogram
 - [CodeXBotz/File-Sharing-Bot](https://github.com/CodeXBotz/File-Sharing-Bot) - Telegram Bot to store Posts and Documents and it can Access by Special Links.
 - [subinps/MusicPlayer](https://github.com/subinps/MusicPlayer) - Telegram Bot to play music in VoiceChat with Channel Support and autostarts Radio.
 - [callsmusic/tgvc-userbot](https://github.com/callsmusic/tgvc-userbot) - Telegram voice chat userbot made with Pyrogram and MarshalX/tgcalls with playlist support
@@ -2358,7 +2359,6 @@
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 - [SpEcHiDe/ButtonHTMLBot](https://github.com/SpEcHiDe/ButtonHTMLBot) - https://ButtonHTMLBot.t.me
 - [backmeupplz/archivelinksbot](https://github.com/backmeupplz/archivelinksbot) - Telegram bot that saves links to web archive
-- [arghyac35/aria-telegram-mirror-bot](https://github.com/arghyac35/aria-telegram-mirror-bot) - This is a fork of https://github.com/out386/aria-telegram-mirror-bot. A Telegram bot to download files via HTTP(S)/BitTorrent and upload them to Google Drive
 - [Qiamast/PersianWordle](https://github.com/Qiamast/PersianWordle) - "Persian Wordle" is a fun and challenging word puzzle game designed to improve your Persian vocabulary. Built with TypeScript, ReactJS, TailwindCSS, PostCSS, and a Persian word dictionary, this game o
 - [HeySreelal/BitLinker](https://github.com/HeySreelal/BitLinker) - Just a Telegram Bot to shorten your long links!
 - [HeySreelal/xwordlebot](https://github.com/HeySreelal/xwordlebot) - Telegram Bot inspired by the Wordle game.
