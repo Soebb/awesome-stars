@@ -99,6 +99,7 @@
 
 ## Go 
 
+- [divyam234/teldrive](https://github.com/divyam234/teldrive) - Telegram Drive Storage
 - [EverythingSuckz/github-telegram-notify](https://github.com/EverythingSuckz/github-telegram-notify) - Actions that sends commit updates of a repository to any chat in Telegram
 - [utkusen/wholeaked](https://github.com/utkusen/wholeaked) - a file-sharing tool that allows you to find the responsible person in case of a leakage
 - [Brawl345/rssbot](https://github.com/Brawl345/rssbot) - RSS Bot for the Telegram Messenger
@@ -126,6 +127,7 @@
 
 ## HTML 
 
+- [karim23657/Subtr](https://github.com/karim23657/Subtr) - This user-friendly tool seamlessly translates SRT and DFXP subtitles to any language, making it the ideal choice for handling subtitle sentence breaks across tracks. Experience the ease and accuracy o
 - [vabs/youtube-channel-name-converter](https://github.com/vabs/youtube-channel-name-converter) - Convert Youtube Channel Name To Channel ID
 - [ZapperDJ/DiogenesList](https://github.com/ZapperDJ/DiogenesList) - Multiplatform HTML directory listing creator
 - [deanmalmgren/textract](https://github.com/deanmalmgren/textract) - extract text from any document. no muss. no fuss.
@@ -308,7 +310,7 @@
 - [dkncus/CrowdRemoval](https://github.com/dkncus/CrowdRemoval) - 
 - [Cozy-Tech/regex_tutorial_and_examples](https://github.com/Cozy-Tech/regex_tutorial_and_examples) - 
 - [Hameds/IranCountryDivisions](https://github.com/Hameds/IranCountryDivisions) - Iran Country Divisions - کلیه تقسیمات کشوری ایران تا سطح آبادی بر اساس اطلاعات مرکز آمار ایران
-- [MrBotDeveloper/This-Repo-Has-114-Stars](https://github.com/MrBotDeveloper/This-Repo-Has-114-Stars) - Yes it's true :broken_heart:, currently it has 114 stars ⭐ and 25 forks 🍴.
+- [MrBotDeveloper/This-Repo-Has-115-Stars](https://github.com/MrBotDeveloper/This-Repo-Has-115-Stars) - Yes it's true :broken_heart:, currently it has 115 stars ⭐ and 26 forks 🍴.
 - [Alir3z4/stop-words](https://github.com/Alir3z4/stop-words) - List of common stop words in various languages.
 - [ahmadazizi/iran-cities](https://github.com/ahmadazizi/iran-cities) - The most accurate database of city, county, village and province names of Iran.
 - [iranremote/awesome-iran-remote](https://github.com/iranremote/awesome-iran-remote) - A list of remote-friendly or full-remote companies that targets iranian talents.
@@ -411,6 +413,11 @@
 
 ## Python 
 
+- [R4j4n/CaptionCraft](https://github.com/R4j4n/CaptionCraft) - 
+- [maximofn/subtify](https://github.com/maximofn/subtify) - 
+- [riverscuomo/mp3tagger](https://github.com/riverscuomo/mp3tagger) - A Python GUI for building filter strings for the Mp3Tag Windows app
+- [oVo-HxBots/Utubeitbot](https://github.com/oVo-HxBots/Utubeitbot) - Youtube Video Uploader Bot From Telegram
+- [karim23657/AparatUploader](https://github.com/karim23657/AparatUploader) - 
 - [rule-airport/m3u8DL_tgbot](https://github.com/rule-airport/m3u8DL_tgbot) - 
 - [TomSchimansky/CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) - A modern and customizable python UI-library based on Tkinter
 - [m-jishnu/pypdl](https://github.com/m-jishnu/pypdl) - A concurrent python downloader with resume capablities
@@ -2064,7 +2071,7 @@
 - [nuhmanpk/YouTube-TagFind-Bot](https://github.com/nuhmanpk/YouTube-TagFind-Bot) - A Telegram Bot to return Youtube Video Tags Using YoutubeTags API
 - [Ts-Bots/BotStatus-Ts-Bot](https://github.com/Ts-Bots/BotStatus-Ts-Bot) - A telegram bot which can show you the status of telegram bot
 - [nuhmanpk/YoutubeTags](https://github.com/nuhmanpk/YoutubeTags) - YouTube SEO tool for extracting video tags without the need for the official YouTube API
-- [Itz-fork/py-trans](https://github.com/Itz-fork/py-trans) - Python library to translate text into different languages.
+- [Itz-fork/py-trans](https://github.com/Itz-fork/py-trans) - Text translation library with wrappers for Google Translate, My memory and more...
 - [Naviya2/LeoMediaSearchBot](https://github.com/Naviya2/LeoMediaSearchBot) - A Simple Inline Media Search Bot
 - [rudranag/Truecaller-Smsbomber_telegram_bot](https://github.com/rudranag/Truecaller-Smsbomber_telegram_bot) - Telegram bot which has truecaller and smsbomber features
 - [subinps/Image-Editor](https://github.com/subinps/Image-Editor) - A Telegram Image Editor Bot with Many features and Options.
