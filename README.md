@@ -413,6 +413,8 @@
 
 ## Python 
 
+- [bnsantoso/sub-to-audio](https://github.com/bnsantoso/sub-to-audio) - Subtitle to audio, generate audio from any subtitle file using Coqui-ai TTS and synchronize the audio timing according to subtitle time.
+- [changh95/video-scraper](https://github.com/changh95/video-scraper) - Easy interface for batch video downloading using youtube-dl
 - [R4j4n/CaptionCraft](https://github.com/R4j4n/CaptionCraft) - 
 - [maximofn/subtify](https://github.com/maximofn/subtify) - 
 - [riverscuomo/mp3tagger](https://github.com/riverscuomo/mp3tagger) - A Python GUI for building filter strings for the Mp3Tag Windows app
