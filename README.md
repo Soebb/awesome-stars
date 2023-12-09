@@ -310,7 +310,7 @@
 - [dkncus/CrowdRemoval](https://github.com/dkncus/CrowdRemoval) - 
 - [Cozy-Tech/regex_tutorial_and_examples](https://github.com/Cozy-Tech/regex_tutorial_and_examples) - 
 - [Hameds/IranCountryDivisions](https://github.com/Hameds/IranCountryDivisions) - Iran Country Divisions - کلیه تقسیمات کشوری ایران تا سطح آبادی بر اساس اطلاعات مرکز آمار ایران
-- [MrBotDeveloper/This-Repo-Has-115-Stars](https://github.com/MrBotDeveloper/This-Repo-Has-115-Stars) - Yes it's true :broken_heart:, currently it has 115 stars ⭐ and 26 forks 🍴.
+- [MrBotDeveloper/This-Repo-Has-116-Stars](https://github.com/MrBotDeveloper/This-Repo-Has-116-Stars) - Yes it's true :broken_heart:, currently it has 116 stars ⭐ and 25 forks 🍴.
 - [Alir3z4/stop-words](https://github.com/Alir3z4/stop-words) - List of common stop words in various languages.
 - [ahmadazizi/iran-cities](https://github.com/ahmadazizi/iran-cities) - The most accurate database of city, county, village and province names of Iran.
 - [iranremote/awesome-iran-remote](https://github.com/iranremote/awesome-iran-remote) - A list of remote-friendly or full-remote companies that targets iranian talents.
@@ -419,7 +419,7 @@
 - [maximofn/subtify](https://github.com/maximofn/subtify) - 
 - [riverscuomo/mp3tagger](https://github.com/riverscuomo/mp3tagger) - A Python GUI for building filter strings for the Mp3Tag Windows app
 - [oVo-HxBots/Utubeitbot](https://github.com/oVo-HxBots/Utubeitbot) - Youtube Video Uploader Bot From Telegram
-- [karim23657/AparatUploader](https://github.com/karim23657/AparatUploader) - 
+- [karim23657/AparatUploader](https://github.com/karim23657/AparatUploader) - Upload videos to Aparat , very fast ,  just using browser cookies
 - [rule-airport/m3u8DL_tgbot](https://github.com/rule-airport/m3u8DL_tgbot) - 
 - [TomSchimansky/CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) - A modern and customizable python UI-library based on Tkinter
 - [m-jishnu/pypdl](https://github.com/m-jishnu/pypdl) - A concurrent python downloader with resume capablities
@@ -580,7 +580,7 @@
 - [frostming/marko](https://github.com/frostming/marko) - A markdown parser with high extensibility.
 - [frostming/unearth](https://github.com/frostming/unearth) - A utility to fetch and download python packages
 - [nuhmanpk/Webtrench](https://github.com/nuhmanpk/Webtrench) - A powerful and easy-to-use web scrapper for collecting data from the web. Supports scraping of images, text, videos, meta data, and more. Ideal for machine learning and deep learning engineers. Downlo
-- [flyingcircusio/pycountry](https://github.com/flyingcircusio/pycountry) - A Python library to access ISO country, subdivision, language, currency and script definitions and their translations.
+- [pycountry/pycountry](https://github.com/pycountry/pycountry) - A Python library to access ISO country, subdivision, language, currency and script definitions and their translations.
 - [sloria/environs](https://github.com/sloria/environs) - simplified environment variable parsing
 - [mabedis/movie-py-cli](https://github.com/mabedis/movie-py-cli) - A simple script for fetching movie details right from the terminal
 - [clarketm/mergedeep](https://github.com/clarketm/mergedeep) - A deep merge function for 🐍.
@@ -715,7 +715,7 @@
 - [skorokithakis/shortuuid](https://github.com/skorokithakis/shortuuid) - A generator library for concise, unambiguous and URL-safe UUIDs.
 - [intervall-ludger/PyPDFMerger](https://github.com/intervall-ludger/PyPDFMerger) - PyPDFMerger is a Python-based application that allows users to merge multiple PDF files into a single document using a drag-and-drop interface.
 - [genius-codes/telegram-adder-tool](https://github.com/genius-codes/telegram-adder-tool) - FREE TOOL
-- [karfly/chatgpt_telegram_bot](https://github.com/karfly/chatgpt_telegram_bot) - 
+- [father-bot/chatgpt_telegram_bot](https://github.com/father-bot/chatgpt_telegram_bot) - 
 - [armanyazdi/emailtools](https://github.com/armanyazdi/emailtools) - A Python library for email suggestions and validations.
 - [theos-ai/easy-paddle-ocr](https://github.com/theos-ai/easy-paddle-ocr) - This a clean and easy-to-use implementation of Paddle OCR. Made with ❤️ by Theos AI.
 - [vi/mkvparse](https://github.com/vi/mkvparse) - Simple Python matroska (mkv) reading library, also mkv2xml and xml2mkv
@@ -1352,7 +1352,7 @@
 - [lyz-code/autoimport](https://github.com/lyz-code/autoimport) - Autoimport automatically fixes wrong import statements.
 - [tqdm/tqdm](https://github.com/tqdm/tqdm) - :zap: A Fast, Extensible Progress Bar for Python and CLI
 - [Reiqy/document-scanner](https://github.com/Reiqy/document-scanner) - Document Scanner application in Python
-- [TheBobTheBlob/cbPDF](https://github.com/TheBobTheBlob/cbPDF) - cbPDF is a command line tool to convert a folder or compressed archive containing images into a PDF.
+- [TheBobTheBlob/cbPDF](https://github.com/TheBobTheBlob/cbPDF) - cbPDF is a command line tool to convert a folder or compressed archive containing images into a PDF
 - [joshbduncan/word-search-generator](https://github.com/joshbduncan/word-search-generator) - Make awesome Word Search puzzles!
 - [jakedegiovanni/pdfmergeandnumber](https://github.com/jakedegiovanni/pdfmergeandnumber) - Merge PDFs together and add page numbers to the footer
 - [HEGADE/ProfileMaker](https://github.com/HEGADE/ProfileMaker) - python cli which takes a github username as argument and generate a profile from it
