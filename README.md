@@ -409,6 +409,7 @@
 
 ## Python 
 
+- [MatteoH2O1999/python_code_extractor](https://github.com/MatteoH2O1999/python_code_extractor) - Python package to extract source code from live object
 - [bnsantoso/sub-to-audio](https://github.com/bnsantoso/sub-to-audio) - Subtitle to audio, generate audio from any subtitle file using Coqui-ai TTS and synchronize the audio timing according to subtitle time.
 - [changh95/video-scraper](https://github.com/changh95/video-scraper) - Easy interface for batch video downloading using youtube-dl
 - [R4j4n/CaptionCraft](https://github.com/R4j4n/CaptionCraft) - 
@@ -972,7 +973,7 @@
 - [barseghyanartur/pif](https://github.com/barseghyanartur/pif) - Public IP address checker.
 - [owncloud/pyocclient](https://github.com/owncloud/pyocclient) - ownCloud client library for Python
 - [mrwunderbar666/py_wayback_downloader](https://github.com/mrwunderbar666/py_wayback_downloader) - Python Implementation of a web.archive.org downloader
-- [Axelancerr/spoti-py](https://github.com/Axelancerr/spoti-py) - An asynchronous python wrapper around the spotify API.
+- [aaronhnsy/spoti-py](https://github.com/aaronhnsy/spoti-py) - An asynchronous python wrapper around the spotify API.
 - [mkly/youtube-closed-captions](https://github.com/mkly/youtube-closed-captions) - Python library for downloading closed captions(subtitles) from Youtube
 - [mitmul/burn-captions](https://github.com/mitmul/burn-captions) - Burn captions (.srt) into videos
 - [spirali/nedoc](https://github.com/spirali/nedoc) - Generator of API documentation for Python
@@ -2053,7 +2054,7 @@
 - [Liupold/demeter_dl](https://github.com/Liupold/demeter_dl) - Demeter_DL is a open source download manager. Built for speed, efficiency and comfort! Download YouTube videos directly! or use it in your project with API
 - [amirhoseinsalimi/music-tool-bot](https://github.com/amirhoseinsalimi/music-tool-bot) - The one and only Telegram bot you need to manage your music files
 - [atamakahere-git/ytadlbot](https://github.com/atamakahere-git/ytadlbot) - Youtube audio downloader telegram bot
-- [FayasNoushad/URL-Shortner-Bot](https://github.com/FayasNoushad/URL-Shortner-Bot) - A link shortner telegram bot version 2 with advanced features
+- [FayasNoushad/URL-Shortner-Bot](https://github.com/FayasNoushad/URL-Shortner-Bot) - A link shortner telegram bot
 - [X-Gorn/File-Sharing](https://github.com/X-Gorn/File-Sharing) - Telegram bot to share any telegram files and get the shareable link
 - [FayasNoushad/Youtube-Video-Thumbnail](https://github.com/FayasNoushad/Youtube-Video-Thumbnail) - A youtube video link or id to video thumbnail python package.
 - [Jigarvarma2005/VideoCompress](https://github.com/Jigarvarma2005/VideoCompress) - 
