@@ -409,6 +409,7 @@
 
 ## Python 
 
+- [hezarai/hezar](https://github.com/hezarai/hezar) - The all-in-one AI library for Persian, supporting a wide variety of tasks and modalities!
 - [MatteoH2O1999/python_code_extractor](https://github.com/MatteoH2O1999/python_code_extractor) - Python package to extract source code from live object
 - [bnsantoso/sub-to-audio](https://github.com/bnsantoso/sub-to-audio) - Subtitle to audio, generate audio from any subtitle file using Coqui-ai TTS and synchronize the audio timing according to subtitle time.
 - [changh95/video-scraper](https://github.com/changh95/video-scraper) - Easy interface for batch video downloading using youtube-dl
