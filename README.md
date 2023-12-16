@@ -409,6 +409,7 @@
 
 ## Python 
 
+- [mortezanabavi/text-to-speech-persian](https://github.com/mortezanabavi/text-to-speech-persian) - Text to speech using Igap messenger
 - [hezarai/hezar](https://github.com/hezarai/hezar) - The all-in-one AI library for Persian, supporting a wide variety of tasks and modalities!
 - [MatteoH2O1999/python_code_extractor](https://github.com/MatteoH2O1999/python_code_extractor) - Python package to extract source code from live object
 - [bnsantoso/sub-to-audio](https://github.com/bnsantoso/sub-to-audio) - Subtitle to audio, generate audio from any subtitle file using Coqui-ai TTS and synchronize the audio timing according to subtitle time.
@@ -913,6 +914,7 @@
 - [SpEcHiDe/Media-Search-bot](https://github.com/SpEcHiDe/Media-Search-bot) - Inline bot for channels and groups
 - [zackees/vids-db](https://github.com/zackees/vids-db) - 
 - [X-Gorn/Spotify-Loader](https://github.com/X-Gorn/Spotify-Loader) - Telegram bot download spotify playlist/artist/album/track music
+- [jusidama18/Gist-Telegram-Bot](https://github.com/jusidama18/Gist-Telegram-Bot) - 
 - [Itz-fork/Nexa-API](https://github.com/Itz-fork/Nexa-API) - Simple, Free and Easy to use Public api
 - [nodiscc/github-stars-backup](https://github.com/nodiscc/github-stars-backup) - [mirror] Backup a list of github starred repositories for the specified user.
 - [ErfanPY/aparatPlayListDownloader](https://github.com/ErfanPY/aparatPlayListDownloader) - دانلود ویدئو های پلی لیست آپارات
@@ -1296,6 +1298,7 @@
 - [marquesgabriel/bot-xvideos-telegram](https://github.com/marquesgabriel/bot-xvideos-telegram) - Chatbot para telegram que puxa cometnarios aleatorios do xvideos
 - [MaxxRider/Leech-Pro](https://github.com/MaxxRider/Leech-Pro) - This is a Telegram Leech / Mirror Bot . Based on Python . 👉support of uploading files and foder to gdrive or any drive rclone.org support. Like onedrive, mega and so on. Now supports Unzip, unrar, unt
 - [samadii/Message-Merger-Bot](https://github.com/samadii/Message-Merger-Bot) - A simple telegram bot to concatenate and split message content. Heroku deployable
+- [jusidama18/GDriveBot](https://github.com/jusidama18/GDriveBot) - 
 - [Edresson/VoiceSplit](https://github.com/Edresson/VoiceSplit) - VoiceSplit: Targeted Voice Separation by Speaker-Conditioned Spectrogram
 - [Aghajari/One-Line-Art](https://github.com/Aghajari/One-Line-Art) - One-Line Art with Python =)
 - [zackees/capturing_process](https://github.com/zackees/capturing_process) - A subprocess type that streams out stdout/stderr easily
