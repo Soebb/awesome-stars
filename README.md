@@ -969,7 +969,7 @@
 - [gbstack/ffprobe-python](https://github.com/gbstack/ffprobe-python) - A wrapper of ffprobe command to extract metadata from media files.
 - [clagiordano/python3-logger](https://github.com/clagiordano/python3-logger) - Library for logging facility
 - [nickumia/web-search-dictionary](https://github.com/nickumia/web-search-dictionary) - A Definition Lookup API based on Google Search Results
-- [SpringsFern/TG-FileStreamBot](https://github.com/SpringsFern/TG-FileStreamBot) - A Telegram bot to stream files to web.(Inactive for some months)
+- [SpringsFern/TG-FileStreamBot](https://github.com/SpringsFern/TG-FileStreamBot) - A Telegram bot to stream files to web.(Inactive). Activerly Maintained Repository https://github.com/SpringsFern/FileStreamBot
 - [eteamin/async_faspell](https://github.com/eteamin/async_faspell) - Farsi spellchecker
 - [meyt/linkpreview](https://github.com/meyt/linkpreview) - Get link preview in python
 - [mohadese-yousefi/spell-correction](https://github.com/mohadese-yousefi/spell-correction) - Simple autocorrect misspelled word base on distance.
@@ -1092,7 +1092,7 @@
 - [artyom-ar/TelegramLinkChecker](https://github.com/artyom-ar/TelegramLinkChecker) - 
 - [VladikaAndrii/Telegram_bot_for_films](https://github.com/VladikaAndrii/Telegram_bot_for_films) - 
 - [sskender/pornhub-api](https://github.com/sskender/pornhub-api) - Unofficial API for PornHub.com in Python
-- [prokunal/Smart-Youtube-Playlist-Downloader](https://github.com/prokunal/Smart-Youtube-Playlist-Downloader) - Download all videos from YouTube playlist.
+- [prokunal/Smart-Youtube-Playlist-Downloader](https://github.com/prokunal/Smart-Youtube-Playlist-Downloader) - Download all videos from YouTube playlist with 4 threading to download super fast
 - [prokunal/Video-Watch-Time-Counter](https://github.com/prokunal/Video-Watch-Time-Counter) - This script will help you to find the length of the all videos in seconds, minutes and hours to track the total time to be consumed on a particular course.
 - [ImAyrix/Voice-Assistant](https://github.com/ImAyrix/Voice-Assistant) - 🎙️ Your personal voice assistant
 - [Chivier/enview](https://github.com/Chivier/enview) - 
