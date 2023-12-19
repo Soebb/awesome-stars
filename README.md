@@ -569,7 +569,6 @@
 - [xhtml2pdf/xhtml2pdf](https://github.com/xhtml2pdf/xhtml2pdf) - A library for converting HTML into PDFs using ReportLab
 - [narbehaj/telegram-audio-download](https://github.com/narbehaj/telegram-audio-download) - Download forwarded audio files to your bot from Telegram and store them in their related directory.
 - [horsy-ml/horsy](https://github.com/horsy-ml/horsy) - The best open source package manager on Python
-- [BarsTiger/TeleDiffusionBot](https://github.com/BarsTiger/TeleDiffusionBot) - Easy-to-administrate big and complex telegram bot to generate images using Stable Diffusion WebUI with database of generations, image info, saving and restoring prompts from pictures and many other fe
 - [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
 - [jsvine/pdfplumber](https://github.com/jsvine/pdfplumber) - Plumb a PDF for detailed information about each char, rectangle, line, et cetera — and easily extract text and tables.
 - [jina-ai/executor-pdfsegmenter](https://github.com/jina-ai/executor-pdfsegmenter) - Jina Executor used for extracting images and text as chunks from PDF data
