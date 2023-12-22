@@ -84,6 +84,7 @@
 
 ## Dockerfile 
 
+- [Itz-fork/X-Bin-Patch](https://github.com/Itz-fork/X-Bin-Patch) - Method to deploy Mega.nz-Bot to Heroku
 - [divideprojects/docker-telegram-bot-api](https://github.com/divideprojects/docker-telegram-bot-api) - Auto build repository for 🐳 docker image of telegram-bot-api using Github Actions
 - [gautamajay52/heroku-stack-container-repo](https://github.com/gautamajay52/heroku-stack-container-repo) - After deploying this repo your Heroku app will have stack as container. After that you just have to deploy your own original app.
 - [samadii/ubuntu-desktop-on-heroku](https://github.com/samadii/ubuntu-desktop-on-heroku) - A Heroku install of Ubuntu 20.10 (Groovy Gorilla), with the XFCE desktop environment and VNC
@@ -757,8 +758,8 @@
 - [ermakovpetr/tg_tqdm](https://github.com/ermakovpetr/tg_tqdm) - Extension for tqdm progressbar in Telegram
 - [EFord36/normalise](https://github.com/EFord36/normalise) - A module for normalising text.
 - [habitual69/cutimagebg_bot](https://github.com/habitual69/cutimagebg_bot) - Background Remover Bot. A Telegram bot that uses AI image processing to remove the background from images.
-- [mohmeni/ezweb](https://github.com/mohmeni/ezweb) - Easy to use web page analyzer
-- [mohmeni/audiowave](https://github.com/mohmeni/audiowave) - Generate a waveform image from an audio
+- [lo3me/ezweb](https://github.com/lo3me/ezweb) - Easy to use web page analyzer
+- [lo3me/audiowave](https://github.com/lo3me/audiowave) - Generate a waveform image from an audio
 - [gnai/Audio-Chunking-Tool](https://github.com/gnai/Audio-Chunking-Tool) - An audio tool using pydubs library with python to chunk your audio content into your desired length, and parameters to tune.
 - [jcavalin/earll_bot](https://github.com/jcavalin/earll_bot) - Earll is a telegram bot that helps you with some kinds of messages.
 - [0xdolan/pyroj](https://github.com/0xdolan/pyroj) - Converting Gregorian and Solar dates to Kurdish date
@@ -2352,7 +2353,6 @@
 - [pyronlaboratory/heroku-integrated-firefox-geckodriver](https://github.com/pyronlaboratory/heroku-integrated-firefox-geckodriver) - Buildpack enables your client code to access Firefox along with Geckodriver in a Heroku slug.
 - [buitron/geckodriver-buildpack](https://github.com/buitron/geckodriver-buildpack) - Heroku geckodriver buildpack for Selenium use with Firefox
 - [yegor256/firefox-buildpack](https://github.com/yegor256/firefox-buildpack) - Heroku buildpack for Firefox 68.0.2
-- [Itz-fork/X-Bin-Patch](https://github.com/Itz-fork/X-Bin-Patch) - Method to deploy Mega.nz-Bot to Heroku
 - [heroku/heroku-buildpack-chromedriver](https://github.com/heroku/heroku-buildpack-chromedriver) - Installs chromedriver in a Heroku slug
 - [heroku/heroku-buildpack-google-chrome](https://github.com/heroku/heroku-buildpack-google-chrome) - Run (headless) Google Chrome on Heroku
 - [rahulps1000/HerokuBannedDeployer](https://github.com/rahulps1000/HerokuBannedDeployer) - With this you can deploy repos that are banned/blacklisted by heroku
