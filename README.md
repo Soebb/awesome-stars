@@ -410,6 +410,9 @@
 
 ## Python 
 
+- [sieve-community/examples](https://github.com/sieve-community/examples) - The code for some apps built with Sieve.
+- [meanii/Search4](https://github.com/meanii/Search4) - Search people on the Internet.
+- [meanii/downly](https://github.com/meanii/downly) - downly is a simple telegram bot that can download files from the internet and upload them to telegram.
 - [mortezanabavi/text-to-speech-persian](https://github.com/mortezanabavi/text-to-speech-persian) - Text to speech using Igap messenger
 - [hezarai/hezar](https://github.com/hezarai/hezar) - The all-in-one AI library for Persian, supporting a wide variety of tasks and modalities!
 - [MatteoH2O1999/python_code_extractor](https://github.com/MatteoH2O1999/python_code_extractor) - Python package to extract source code from live object
@@ -781,7 +784,7 @@
 - [ToshY/mkvextract-subs](https://github.com/ToshY/mkvextract-subs) - Docker image for extracting subtitle tracks, attachments, chapters and tags using MKVextract.
 - [danielhoherd/plexdl](https://github.com/danielhoherd/plexdl) - A plex direct downloader, with an emphasis on fetching media that has not been modified.
 - [noprobelm/tempy](https://github.com/noprobelm/tempy) - A simple, visually pleasing weather report in your terminal.
-- [PabloLec/website-to-gif](https://github.com/PabloLec/website-to-gif) - Turn your website into a GIF :camera:
+- [PabloLec/website-to-gif](https://github.com/PabloLec/website-to-gif) - GitHub Action to turn your website into a GIF :camera:
 - [PabloLec/RecoverPy](https://github.com/PabloLec/RecoverPy) - Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal
 - [niradler/simple-image-editor](https://github.com/niradler/simple-image-editor) - 
 - [redboo/tgbot_rmbg](https://github.com/redboo/tgbot_rmbg) - 
@@ -2365,6 +2368,7 @@
 
 ## TypeScript 
 
+- [viperadnan-git/telegram-forwarder-bot](https://github.com/viperadnan-git/telegram-forwarder-bot) - Forward Telegram messages between chats using pure Telegram Bot API and Webhooks
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 - [SpEcHiDe/ButtonHTMLBot](https://github.com/SpEcHiDe/ButtonHTMLBot) - https://ButtonHTMLBot.t.me
 - [backmeupplz/archivelinksbot](https://github.com/backmeupplz/archivelinksbot) - Telegram bot that saves links to web archive
