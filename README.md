@@ -410,6 +410,7 @@
 
 ## Python 
 
+- [svex99/quick-zip-bot](https://github.com/svex99/quick-zip-bot) - Minimalist Telegram bot to zip files.
 - [sieve-community/examples](https://github.com/sieve-community/examples) - The code for some apps built with Sieve.
 - [meanii/Search4](https://github.com/meanii/Search4) - Search people on the Internet.
 - [meanii/downly](https://github.com/meanii/downly) - downly is a simple telegram bot that can download files from the internet and upload them to telegram.
