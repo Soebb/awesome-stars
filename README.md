@@ -2056,7 +2056,7 @@
 - [nuhmanpk/pyDF-Bot](https://github.com/nuhmanpk/pyDF-Bot) - Pydf - Pyrogram Document File Bot, a modular Telegram Bot which provides Pdf Tools Works using Pypdf2
 - [shamilhabeebnelli/song-bot](https://github.com/shamilhabeebnelli/song-bot) - You can download youtube songs to MP3 from telegram #musics
 - [AmanoTeam/amanobot](https://github.com/AmanoTeam/amanobot) - Python framework for Telegram Bot API forked from Telepot.
-- [AmanoTeam/PyKorone](https://github.com/AmanoTeam/PyKorone) - PyKorone is a modern and fully asynchronous Telegram bot to improve you Telegram experience, written in Python3 using Pyrogram.
+- [HitaloM/PyKorone](https://github.com/HitaloM/PyKorone) - An all-in-one bot for Telegram
 - [AmanoTeam/Unalix](https://github.com/AmanoTeam/Unalix) - Small, dependency-free, fast Python package for removing tracking fields from URLs.
 - [AmanoTeam/EduuRobot](https://github.com/AmanoTeam/EduuRobot) - EduuRobot Telegram bot source code.
 - [Liupold/demeter_dl](https://github.com/Liupold/demeter_dl) - Demeter_DL is a open source download manager. Built for speed, efficiency and comfort! Download YouTube videos directly! or use it in your project with API
