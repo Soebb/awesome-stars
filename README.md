@@ -915,7 +915,7 @@
 - [ali-hv/AvaFarsi](https://github.com/ali-hv/AvaFarsi) - AvaFarsi is an open-source graphical app which helps you to download the songs of iranian singers easily
 - [ricardojoserf/instagram-followers-bot](https://github.com/ricardojoserf/instagram-followers-bot) - A bot for Instagram. You can follow users using a tag or in a specific location, unfollow those who dont follow-you-back, and follow-back those who follow you
 - [buddhhu/localdb.json](https://github.com/buddhhu/localdb.json) - 
-- [SpEcHiDe/Media-Search-bot](https://github.com/SpEcHiDe/Media-Search-bot) - Inline bot for channels and groups
+- [SpEcHiDe/Media-Search-bot](https://github.com/SpEcHiDe/Media-Search-bot) - Inline bot for searching channels, without using any external third party database
 - [zackees/vids-db](https://github.com/zackees/vids-db) - 
 - [X-Gorn/Spotify-Loader](https://github.com/X-Gorn/Spotify-Loader) - Telegram bot download spotify playlist/artist/album/track music
 - [jusidama18/Gist-Telegram-Bot](https://github.com/jusidama18/Gist-Telegram-Bot) - 
@@ -2056,7 +2056,6 @@
 - [nuhmanpk/pyDF-Bot](https://github.com/nuhmanpk/pyDF-Bot) - Pydf - Pyrogram Document File Bot, a modular Telegram Bot which provides Pdf Tools Works using Pypdf2
 - [shamilhabeebnelli/song-bot](https://github.com/shamilhabeebnelli/song-bot) - You can download youtube songs to MP3 from telegram #musics
 - [AmanoTeam/amanobot](https://github.com/AmanoTeam/amanobot) - Python framework for Telegram Bot API forked from Telepot.
-- [HitaloM/PyKorone](https://github.com/HitaloM/PyKorone) - An all-in-one bot for Telegram
 - [AmanoTeam/Unalix](https://github.com/AmanoTeam/Unalix) - Small, dependency-free, fast Python package for removing tracking fields from URLs.
 - [AmanoTeam/EduuRobot](https://github.com/AmanoTeam/EduuRobot) - EduuRobot Telegram bot source code.
 - [Liupold/demeter_dl](https://github.com/Liupold/demeter_dl) - Demeter_DL is a open source download manager. Built for speed, efficiency and comfort! Download YouTube videos directly! or use it in your project with API
