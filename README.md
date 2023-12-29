@@ -300,7 +300,7 @@
 - [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
 - [MEgooneh/awesome-Iran-datasets](https://github.com/MEgooneh/awesome-Iran-datasets) - Iranian/Persian Datasets. دیتاست‌های فارسی و ایرانی
 - [yazdan/career-path](https://github.com/yazdan/career-path) - اینجا سعی دارد با کمک دیگران به شما کمک کند که چگونه مسیر شغلی خود را انتخاب کنید
-- [maxbachmann/python-Levenshtein](https://github.com/maxbachmann/python-Levenshtein) - The Levenshtein Python C extension module contains functions for fast computation of Levenshtein distance and string similarity
+- [rapidfuzz/python-Levenshtein](https://github.com/rapidfuzz/python-Levenshtein) - The Levenshtein Python C extension module contains functions for fast computation of Levenshtein distance and string similarity
 - [Hameds/APIs-made-in-Iran](https://github.com/Hameds/APIs-made-in-Iran) - A list of APIs from Iran
 - [alipyth/Aparat_bot](https://github.com/alipyth/Aparat_bot) - ربات افزایش فالورر و بازدید آپارات . این ربات کاملا طبیعی عمل میکنه و خبری از ربات فالوور فیک نیست .
 - [MrYazdan/IranianProxyList](https://github.com/MrYazdan/IranianProxyList) - :globe_with_meridians: The best proxies that can be used in Iranian ISPs
@@ -695,7 +695,7 @@
 - [kanjieater/AudiobookTextSync](https://github.com/kanjieater/AudiobookTextSync) - 📖🎧 Generate Subtitles from Audio and Sync Them to a Transcript. Kind of like the Kindle's Immersion Reading
 - [namngh/auto-gui](https://github.com/namngh/auto-gui) - Better auto GUI
 - [theovercomer8/captionr](https://github.com/theovercomer8/captionr) - GIT/BLIP/CLIP Caption tool
-- [maxbachmann/JaroWinkler](https://github.com/maxbachmann/JaroWinkler) - Python library for fast approximate string matching using Jaro and Jaro-Winkler similarity
+- [rapidfuzz/JaroWinkler](https://github.com/rapidfuzz/JaroWinkler) - Python library for fast approximate string matching using Jaro and Jaro-Winkler similarity
 - [whtsky/pixelmatch-py](https://github.com/whtsky/pixelmatch-py) - A fast pixel-level image comparison library, originally created to compare screenshots in tests.
 - [MrMKN/PyLeaves](https://github.com/MrMKN/PyLeaves) - 🌿 python package for tools of pyrogram
 - [JorianWoltjer/AutoCaptions](https://github.com/JorianWoltjer/AutoCaptions) - A GUI tool that uses OpenAIs Whisper to transcribe text from an audio/video file, into a Premiere Pro sequence to automate the creation of subtitles.
@@ -1522,7 +1522,7 @@
 - [solution-pool/Download-page-as-pdf](https://github.com/solution-pool/Download-page-as-pdf) - 
 - [kiwi0fruit/pyppdf](https://github.com/kiwi0fruit/pyppdf) - Pyppeteer PDF. Print html sites and files to pdf via pyppeteer (uses patched pyppeteer that by default downloads updated Chromium revision via https with certifi).
 - [aish2002/Movie-Info-Telegram-Bot](https://github.com/aish2002/Movie-Info-Telegram-Bot) - A telegram bot which scrapes IMDb website to get details on movies and TV shows
-- [anasty17/mirror-leech-telegram-bot](https://github.com/anasty17/mirror-leech-telegram-bot) - Official Repository: Telegram bot which can download torrents, mega, google drive, telegram document, any file/folder from rclone supported clouds and direct links + all yt-dlp supported sites, then u
+- [anasty17/mirror-leech-telegram-bot](https://github.com/anasty17/mirror-leech-telegram-bot) - Official Repository: Telegram bot which can download direct links, torrents, google drive, telegram document, any file/folder from rclone supported clouds, all yt-dlp supported sites and jdownloader s
 - [mohammad3020/django-zibal](https://github.com/mohammad3020/django-zibal) - A Django app for bank payments by Zibal (https://zibal.ir/)
 - [Helias/EPUB-to-PDF](https://github.com/Helias/EPUB-to-PDF) - Telegram bot EPUB to PDF converter
 - [Saravana0910/instadpinfobot](https://github.com/Saravana0910/instadpinfobot) - to grap anyone's insta dp info
