@@ -410,6 +410,11 @@
 
 ## Python 
 
+- [machinewrapped/gpt-subtrans](https://github.com/machinewrapped/gpt-subtrans) - Project using OpenAI/ChatGPT to translate subtitle files
+- [rsgrt/sublist](https://github.com/rsgrt/sublist) - generate a list of subtitles from a video file
+- [celiao/tmdbsimple](https://github.com/celiao/tmdbsimple) - A wrapper for The Movie Database API v3.
+- [rpuntaie/syncstart](https://github.com/rpuntaie/syncstart) - Calculate the cut needed at start to sync two media files
+- [stabbedbybrick/freevine](https://github.com/stabbedbybrick/freevine) - A Download Utility for Free Streaming Services
 - [svex99/quick-zip-bot](https://github.com/svex99/quick-zip-bot) - Minimalist Telegram bot to zip files.
 - [sieve-community/examples](https://github.com/sieve-community/examples) - The code for some apps built with Sieve.
 - [meanii/Search4](https://github.com/meanii/Search4) - Search people on the Internet.
