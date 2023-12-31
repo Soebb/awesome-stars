@@ -410,6 +410,7 @@
 
 ## Python 
 
+- [ArdalanGhoreishi/Creating-movie-subtitles-in-Persian-using-the-Google-Cloud-platform](https://github.com/ArdalanGhoreishi/Creating-movie-subtitles-in-Persian-using-the-Google-Cloud-platform) - An easy-to-use website designed for creating Persian subtitles for movies.
 - [machinewrapped/gpt-subtrans](https://github.com/machinewrapped/gpt-subtrans) - Project using OpenAI/ChatGPT to translate subtitle files
 - [rsgrt/sublist](https://github.com/rsgrt/sublist) - generate a list of subtitles from a video file
 - [celiao/tmdbsimple](https://github.com/celiao/tmdbsimple) - A wrapper for The Movie Database API v3.
@@ -811,7 +812,7 @@
 - [kkrypt0nn/Python-Discord-Bot-Template](https://github.com/kkrypt0nn/Python-Discord-Bot-Template) - 🐍 A simple template to start to code your own and personalized Discord bot in the Python programming language
 - [fascot/Media-Download-Tool](https://github.com/fascot/Media-Download-Tool) - This is a Media Download Tool which can get videos from Youtube, Pornhub and many other sites.
 - [piriyaraj/shortsMobileSpeci](https://github.com/piriyaraj/shortsMobileSpeci) - automatic youtube video uploading script. it's able to scrap web content and make it a youtube short video and upload it on youtube automatically.
-- [gergovari/lazyshorts-py](https://github.com/gergovari/lazyshorts-py) - Create short videos, like a lazy person.
+- [gregismotion/lazyshorts-py](https://github.com/gregismotion/lazyshorts-py) - Create short videos, like a lazy person.
 - [MHadiS/port-scanner](https://github.com/MHadiS/port-scanner) - A port scanner made with python socket
 - [DanielJDufour/date-extractor](https://github.com/DanielJDufour/date-extractor) - Extract dates from text
 - [Taiko2k/Avvie](https://github.com/Taiko2k/Avvie) - A GTK app for quick image cropping :flower_playing_cards:
@@ -1244,8 +1245,8 @@
 - [BenyaminZojaji/Python-Assignments](https://github.com/BenyaminZojaji/Python-Assignments) - Python exercises.
 - [MaryamBoneh/Vehicle-Detection](https://github.com/MaryamBoneh/Vehicle-Detection) - Vehicle Detection Using Deep Learning and YOLO Algorithm
 - [MehrdadNajafi/CAPTCHA-Generator](https://github.com/MehrdadNajafi/CAPTCHA-Generator) - 
-- [hatienl0i261299/cmdown](https://github.com/hatienl0i261299/cmdown) - CMdown - A tool for Multi-threaded download.
-- [hatienl0i261299/Soundcloud](https://github.com/hatienl0i261299/Soundcloud) - Soundcloud - A tool for download track Soundcloud.
+- [hatienloi/cmdown](https://github.com/hatienloi/cmdown) - CMdown - A tool for Multi-threaded download.
+- [hatienloi/Soundcloud](https://github.com/hatienloi/Soundcloud) - Soundcloud - A tool for download track Soundcloud.
 - [morucci/repoxplorer](https://github.com/morucci/repoxplorer) - RepoXplorer - Git stats explorer
 - [saket13/youtube_fetch](https://github.com/saket13/youtube_fetch) - API to get latest videos of certain topic from Youtube (fetched from the Youtube Data API)
 - [elastic/elasticsearch-py](https://github.com/elastic/elasticsearch-py) - Official Python client for Elasticsearch
