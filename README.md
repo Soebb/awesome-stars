@@ -411,6 +411,8 @@
 
 ## Python 
 
+- [YaoFANGUK/video-subtitle-generator](https://github.com/YaoFANGUK/video-subtitle-generator) - 视频音频生成字幕，生成srt文件。无需申请第三方API，本地实现音频转文本。基于Transformer的视频字幕生成框架。A GUI tool for generating subtitle from videos and generating srt files.
+- [YaoFANGUK/video-subtitle-remover](https://github.com/YaoFANGUK/video-subtitle-remover) - 基于AI的图片/视频硬字幕去除、文本水印去除，无损分辨率生成去字幕、去水印后的图片/视频文件。无需申请第三方API，本地实现。AI-based tool for removing hard-coded subtitles and text-like watermarks from videos or Pictures.
 - [ArdalanGhoreishi/Creating-movie-subtitles-in-Persian-using-the-Google-Cloud-platform](https://github.com/ArdalanGhoreishi/Creating-movie-subtitles-in-Persian-using-the-Google-Cloud-platform) - An easy-to-use website designed for creating Persian subtitles for movies.
 - [machinewrapped/gpt-subtrans](https://github.com/machinewrapped/gpt-subtrans) - Project using OpenAI/ChatGPT to translate subtitle files
 - [rsgrt/sublist](https://github.com/rsgrt/sublist) - generate a list of subtitles from a video file
@@ -498,7 +500,7 @@
 - [kinite-gp/connect-to-wifi-with-python](https://github.com/kinite-gp/connect-to-wifi-with-python) - script for connect wifi in windows with python (pywifi)
 - [awkman/pywifi](https://github.com/awkman/pywifi) - A cross-platform module for manipulating WiFi devices.
 - [stefanodvx/epyrogram](https://github.com/stefanodvx/epyrogram) - EPyrogram: extend the functionality of Pyrogram by enhancing it with new features.
-- [elevenlabs/elevenlabs-python](https://github.com/elevenlabs/elevenlabs-python) - The official Python API for ElevenLabs text-to-speech.
+- [elevenlabs/elevenlabs-python](https://github.com/elevenlabs/elevenlabs-python) - The official Python API for ElevenLabs Text to Speech.
 - [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper) - Faster Whisper transcription with CTranslate2
 - [pallets/click](https://github.com/pallets/click) - Python composable command line interface toolkit
 - [hay/facetool](https://github.com/hay/facetool) - Command line utility to manipulate faces in videos and images
