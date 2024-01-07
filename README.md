@@ -35,6 +35,7 @@
 - [Shell](#shell)
 - [Smalltalk](#smalltalk)
 - [TypeScript](#typescript)
+- [Visual Basic .NET](#visual-basic-.net)
 
 ## C 
 
@@ -517,7 +518,7 @@
 - [MiguelX413/IgTgBot](https://github.com/MiguelX413/IgTgBot) - Let's me post Instagram posts on Telegram.
 - [dory111111/Pengenuity](https://github.com/dory111111/Pengenuity) - Pengunuity is an experimental open-source autonomous AI Agent that aims to replicate the structure of human memory.
 - [amirhoseinsb/Cloud_Player_V2](https://github.com/amirhoseinsb/Cloud_Player_V2) - You can use the cloudplayer tool to listen to the music of the singer you want without going to a specific website and at a very high speed.
-- [viperadnan-git/bdsm-typer](https://github.com/viperadnan-git/bdsm-typer) - 
+- [viperadnan-git/bdsm-typer](https://github.com/viperadnan-git/bdsm-typer) - Auto typing tool to paste texts on software where pasting text is not allowed. Made for desktop.
 - [m1guelpf/yt-whisper](https://github.com/m1guelpf/yt-whisper) - Using OpenAI's Whisper to automatically generate YouTube subtitles
 - [yoshiko2/Movie_Data_Capture](https://github.com/yoshiko2/Movie_Data_Capture) - Local Movies Organizer
 - [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
@@ -2406,6 +2407,10 @@
 - [iAkashPattnaik/MailServerBot](https://github.com/iAkashPattnaik/MailServerBot) - A telegram bot which sends emails directly to you via telegram
 - [callsmusic/remix](https://github.com/callsmusic/remix) - Powerful Telegram music bot.
 - [backmeupplz/voicy](https://github.com/backmeupplz/voicy) - @voicybot Telegram bot main repository
+
+## Visual Basic .NET 
+
+- [staxrip/staxrip](https://github.com/staxrip/staxrip) - 🎞 Video encoding GUI for Windows.
 
 
 ## License
