@@ -591,7 +591,7 @@
 - [jina-ai/executor-pdfsegmenter](https://github.com/jina-ai/executor-pdfsegmenter) - Jina Executor used for extracting images and text as chunks from PDF data
 - [encode/databases](https://github.com/encode/databases) - Async database support for Python. 🗄
 - [bipinkrish/File-Converter-Bot](https://github.com/bipinkrish/File-Converter-Bot) - File Converter Telegram Bot that can Convert Images, Videos, Audios, Fonts, Documents and Ebooks
-- [uktrade/stream-zip](https://github.com/uktrade/stream-zip) - Python function to construct a ZIP archive on the fly - without having to store the entire ZIP in memory or disk
+- [uktrade/stream-zip](https://github.com/uktrade/stream-zip) - Python function to construct a ZIP archive on the fly
 - [frostming/marko](https://github.com/frostming/marko) - A markdown parser with high extensibility.
 - [frostming/unearth](https://github.com/frostming/unearth) - A utility to fetch and download python packages
 - [nuhmanpk/Webtrench](https://github.com/nuhmanpk/Webtrench) - A powerful and easy-to-use web scrapper for collecting data from the web. Supports scraping of images, text, videos, meta data, and more. Ideal for machine learning and deep learning engineers. Downlo
@@ -1086,7 +1086,7 @@
 - [rain2wood/spotBot-OSS](https://github.com/rain2wood/spotBot-OSS) - // Download FLAC / MP3 from Spotify via Telegram Bot //
 - [jakob-bagterp/browserist](https://github.com/jakob-bagterp/browserist) - 👩‍💻 Python extension for the Selenium web driver that makes browser automation even easier 👨‍💻
 - [jakob-bagterp/timer-for-python](https://github.com/jakob-bagterp/timer-for-python) - ⏳ Lightweight Python package that makes it easy to measure how much time it takes to run Python programs and gauge performance of multiple, smaller bits of code ⌛️
-- [uktrade/stream-unzip](https://github.com/uktrade/stream-unzip) - Python function to stream unzip all the files in a ZIP archive - without loading the entire ZIP file or any of its files into memory at once
+- [uktrade/stream-unzip](https://github.com/uktrade/stream-unzip) - Python function to stream unzip all the files in a ZIP archive on the fly
 - [language-ml/parsi.io](https://github.com/language-ml/parsi.io) - 
 - [haraai/ParsiNorm](https://github.com/haraai/ParsiNorm) - 
 - [CharlesPikachu/pytools](https://github.com/CharlesPikachu/pytools) - Pytools: Some useful tools written by pure python.
