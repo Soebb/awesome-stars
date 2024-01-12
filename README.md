@@ -309,7 +309,7 @@
 - [dkncus/CrowdRemoval](https://github.com/dkncus/CrowdRemoval) - 
 - [Cozy-Tech/regex_tutorial_and_examples](https://github.com/Cozy-Tech/regex_tutorial_and_examples) - 
 - [Hameds/IranCountryDivisions](https://github.com/Hameds/IranCountryDivisions) - Iran Country Divisions - کلیه تقسیمات کشوری ایران تا سطح آبادی بر اساس اطلاعات مرکز آمار ایران
-- [MrBotDeveloper/This-Repo-Has-116-Stars](https://github.com/MrBotDeveloper/This-Repo-Has-116-Stars) - Yes it's true :broken_heart:, currently it has 116 stars ⭐ and 25 forks 🍴.
+- [MrBotDeveloper/This-Repo-Has-117-Stars](https://github.com/MrBotDeveloper/This-Repo-Has-117-Stars) - Yes it's true :broken_heart:, currently it has 117 stars ⭐ and 25 forks 🍴.
 - [Alir3z4/stop-words](https://github.com/Alir3z4/stop-words) - List of common stop words in various languages.
 - [ahmadazizi/iran-cities](https://github.com/ahmadazizi/iran-cities) - The most accurate database of city, county, village and province names of Iran.
 - [iranremote/awesome-iran-remote](https://github.com/iranremote/awesome-iran-remote) - A list of remote-friendly or full-remote companies that targets iranian talents.
@@ -412,6 +412,8 @@
 
 ## Python 
 
+- [zackees/isolated-environment](https://github.com/zackees/isolated-environment) - Like Pipx, but allows arbitrary virtual environment name and placement
+- [SilentDemonSD/FZBypassBot](https://github.com/SilentDemonSD/FZBypassBot) - A Elegant Fast Multi Threaded Bypass Bot for Bigger Deeds. Try Now !!
 - [DeadNews/images-upload-cli](https://github.com/DeadNews/images-upload-cli) - Upload images via APIs
 - [zackees/zcmds](https://github.com/zackees/zcmds) - Cross platform(ish) productivity commands written in python
 - [YaoFANGUK/video-subtitle-generator](https://github.com/YaoFANGUK/video-subtitle-generator) - 视频音频生成字幕，生成srt文件。无需申请第三方API，本地实现音频转文本。基于Transformer的视频字幕生成框架。A GUI tool for generating subtitle from videos and generating srt files.
