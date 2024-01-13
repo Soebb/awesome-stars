@@ -52,9 +52,7 @@
 - [wolfgarbe/SymSpell](https://github.com/wolfgarbe/SymSpell) - SymSpell: 1 million times faster spelling correction & fuzzy search through Symmetric Delete spelling correction algorithm
 - [ArdeshirV/ArdeshirV.Tools.QrCode](https://github.com/ArdeshirV/ArdeshirV.Tools.QrCode) - QR Code Generator
 - [ArdeshirV/DigitConvertor](https://github.com/ArdeshirV/DigitConvertor) - DigitConvertor provides conversion from western numbers to/from Persian/Arabic numbers and also provides conversion from digital numbers to Persian-alphabetic numbers.
-- [ArdeshirV/KnightsTour](https://github.com/ArdeshirV/KnightsTour) - Knight's tour is a classic computer problem; Here I provided my very own method to solve this classic problem with black-box approach. I developed this algorithm when I was in high school. Maybe it's 
 - [ArdeshirV/QrCodeGeneratorWithLogo](https://github.com/ArdeshirV/QrCodeGeneratorWithLogo) - QrCodeGeneratorWithLogo Provides a QR code generator that let you embed a predefined or custom logo in your QR code
-- [ArdeshirV/ArdeshirV.Forms](https://github.com/ArdeshirV/ArdeshirV.Forms) - ArdeshirV.Forms is a customized version of everyday windows .Net forms like About Box, Error Handler, Splash Screen and my base windows form with many fantastic ability.
 - [Bazzu85/MKVmergeBatcher](https://github.com/Bazzu85/MKVmergeBatcher) - Create/execute custom created models to batch you Mkvmerge work
 - [icsharpcode/SharpZipLib](https://github.com/icsharpcode/SharpZipLib) - #ziplib is a Zip, GZip, Tar and BZip2 library written entirely in C# for the .NET platform.
 - [devmaxxing/KeyboardKinect](https://github.com/devmaxxing/KeyboardKinect) - 
@@ -412,6 +410,7 @@
 
 ## Python 
 
+- [jianchang512/pyvideotrans](https://github.com/jianchang512/pyvideotrans) - Translate the video from one language to another and add dubbing.         将视频从一种语言翻译为另一种语言，并添加配音
 - [zackees/isolated-environment](https://github.com/zackees/isolated-environment) - Like Pipx, but allows arbitrary virtual environment name and placement
 - [SilentDemonSD/FZBypassBot](https://github.com/SilentDemonSD/FZBypassBot) - A Elegant Fast Multi Threaded Bypass Bot for Bigger Deeds. Try Now !!
 - [DeadNews/images-upload-cli](https://github.com/DeadNews/images-upload-cli) - Upload images via APIs
@@ -1853,7 +1852,7 @@
 - [RincemonReji/RSS-Feed](https://github.com/RincemonReji/RSS-Feed) - 
 - [piyx/YoutubeSpotifyDL](https://github.com/piyx/YoutubeSpotifyDL) - Youtube and Spotify music downloader with metadata.
 - [mps-youtube/pafy](https://github.com/mps-youtube/pafy) - Python library to download YouTube content and retrieve metadata
-- [NotYasho/Spotify_Playlist_Downloader](https://github.com/NotYasho/Spotify_Playlist_Downloader) - A python script to download spotify playlists from youtube.
+- [probablynotyasho/Spotify_Playlist_Downloader](https://github.com/probablynotyasho/Spotify_Playlist_Downloader) - A python script to download spotify playlists from youtube.
 - [pytube/pytube](https://github.com/pytube/pytube) - A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.
 - [iamLiquidX/MirLeechX](https://github.com/iamLiquidX/MirLeechX) - 
 - [im-bb/PH-DL](https://github.com/im-bb/PH-DL) - Simple python-based script to download PH STUFF
