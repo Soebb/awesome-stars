@@ -40,7 +40,7 @@
 ## C 
 
 - [norihiro/alignaudio](https://github.com/norihiro/alignaudio) - a tool to align audio files
-- [gpac/gpac](https://github.com/gpac/gpac) - GPAC Ultramedia OS for Video Streaming & Next-Gen Multimedia Transcoding, Packaging & Delivery
+- [gpac/gpac](https://github.com/gpac/gpac) - GPAC Ultramedia OSS for Video Streaming & Next-Gen Multimedia Transcoding, Packaging & Delivery
 - [TheZoc/sub3dtool](https://github.com/TheZoc/sub3dtool) - Convert subtitle to 3D (ASS Format) to use with VLC or MPlayer
 - [ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick) - 🧙‍♂️ ImageMagick 7
 
@@ -61,6 +61,8 @@
 
 ## C++ 
 
+- [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) - Speech-to-text, text-to-speech, and speaker recongition using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, Raspberry Pi, x86_64 servers, websock
+- [abdeladim-s/pywhispercpp](https://github.com/abdeladim-s/pywhispercpp) - Python bindings for whisper.cpp
 - [THIS-IS-NOT-A-BACKUP/MKVToolNix](https://github.com/THIS-IS-NOT-A-BACKUP/MKVToolNix) - 
 - [ArdeshirV/FractalX](https://github.com/ArdeshirV/FractalX) - FractalX demonstrates 3 simple fractals: Sierpinski triangle, snow and tree.
 - [PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle) - PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）
@@ -410,8 +412,12 @@
 
 ## Python 
 
+- [VikParuchuri/surya](https://github.com/VikParuchuri/surya) - Accurate line-level text detection and recognition (OCR) in any language
+- [smacke/ffsubsync](https://github.com/smacke/ffsubsync) - Automagically synchronize subtitles with video.
+- [abdeladim-s/subsai](https://github.com/abdeladim-s/subsai) - 🎞️ Subtitles generation tool (Web-UI + CLI + Python package) powered by OpenAI's Whisper and its variants 🎞️
+- [bipinkrish/Link-Bypasser-Bot](https://github.com/bipinkrish/Link-Bypasser-Bot) - A Telegram Bot (with Site) that can Bypass Ad Links, Generate Direct Links and Jump Paywalls
 - [jianchang512/pyvideotrans](https://github.com/jianchang512/pyvideotrans) - Translate the video from one language to another and add dubbing.         将视频从一种语言翻译为另一种语言，并添加配音
-- [zackees/isolated-environment](https://github.com/zackees/isolated-environment) - Like Pipx, but allows arbitrary virtual environment name and placement
+- [zackees/isolated-environment](https://github.com/zackees/isolated-environment) - Internal venv management to fix AI dependency hell in python
 - [SilentDemonSD/FZBypassBot](https://github.com/SilentDemonSD/FZBypassBot) - A Elegant Fast Multi Threaded Bypass Bot for Bigger Deeds. Try Now !!
 - [DeadNews/images-upload-cli](https://github.com/DeadNews/images-upload-cli) - Upload images via APIs
 - [zackees/zcmds](https://github.com/zackees/zcmds) - Cross platform(ish) productivity commands written in python
@@ -705,7 +711,7 @@
 - [dataplayer12/shavenet](https://github.com/dataplayer12/shavenet) - Predict when you last shaved with machine learning
 - [woefe/ytcc](https://github.com/woefe/ytcc) - Command line tool to keep track of your favorite playlists on YouTube and many other places.
 - [newtoallofthis123/ytps](https://github.com/newtoallofthis123/ytps) - A Beautiful YouTube Search CLI
-- [kanjieater/AudiobookTextSync](https://github.com/kanjieater/AudiobookTextSync) - 📖🎧 Generate Subtitles from Audio and Sync Them to a Transcript. Kind of like the Kindle's Immersion Reading
+- [kanjieater/SubPlease](https://github.com/kanjieater/SubPlease) - 🫴 Generate accurate subtitles from audio, align existing subs to videos, generate your own Kindle's Immersion Reading like audiobook subs 📖🎧
 - [namngh/auto-gui](https://github.com/namngh/auto-gui) - Better auto GUI
 - [theovercomer8/captionr](https://github.com/theovercomer8/captionr) - GIT/BLIP/CLIP Caption tool
 - [rapidfuzz/JaroWinkler](https://github.com/rapidfuzz/JaroWinkler) - Python library for fast approximate string matching using Jaro and Jaro-Winkler similarity
