@@ -61,6 +61,7 @@
 
 ## C++ 
 
+- [vapoursynth/vapoursynth](https://github.com/vapoursynth/vapoursynth) - A video processing framework with simplicity in mind
 - [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) - Speech-to-text, text-to-speech, and speaker recongition using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, Raspberry Pi, x86_64 servers, websock
 - [abdeladim-s/pywhispercpp](https://github.com/abdeladim-s/pywhispercpp) - Python bindings for whisper.cpp
 - [THIS-IS-NOT-A-BACKUP/MKVToolNix](https://github.com/THIS-IS-NOT-A-BACKUP/MKVToolNix) - 
@@ -229,6 +230,7 @@
 
 ## Jupyter Notebook 
 
+- [Vaibhavs10/insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper) - 
 - [Pouyaexe/Farsi_PDF](https://github.com/Pouyaexe/Farsi_PDF) - Make editable Persian(Farsi) PDF from Non-Editable ones, using OCR.
 - [pyannote/pyannote-audio](https://github.com/pyannote/pyannote-audio) - Neural building blocks for speaker diarization: speech activity detection, speaker change detection, overlapped speech detection, speaker embedding
 - [MahmoudAshraf97/whisper-diarization](https://github.com/MahmoudAshraf97/whisper-diarization) - Automatic Speech Recognition with Speaker Diarization based on OpenAI Whisper
@@ -412,6 +414,8 @@
 
 ## Python 
 
+- [SadeghKrmi/pertts-streamlit](https://github.com/SadeghKrmi/pertts-streamlit) - Persian text-to-speech streamlit interface
+- [TDHM/Subtitles-Translator](https://github.com/TDHM/Subtitles-Translator) - Automatic subtitles translation with a local neural machine translation model. No third-party service required: the translation is done locally with small but efficient neural network models.
 - [VikParuchuri/surya](https://github.com/VikParuchuri/surya) - Accurate line-level text detection and recognition (OCR) in any language
 - [smacke/ffsubsync](https://github.com/smacke/ffsubsync) - Automagically synchronize subtitles with video.
 - [abdeladim-s/subsai](https://github.com/abdeladim-s/subsai) - 🎞️ Subtitles generation tool (Web-UI + CLI + Python package) powered by OpenAI's Whisper and its variants 🎞️
@@ -2275,7 +2279,7 @@
 - [f213/tg2rss](https://github.com/f213/tg2rss) - Generating RSS out of my telegram channel
 - [f213/discussion-sentinel-bot](https://github.com/f213/discussion-sentinel-bot) - Removes spam messages from telegram channel discussions
 - [KunoiSayami/Things-Forward-telegram](https://github.com/KunoiSayami/Things-Forward-telegram) - Automatic forwarding message on Telegram.
-- [f213/selfmailbot](https://github.com/f213/selfmailbot) - Telegram bot that forwards messages to your inbox
+- [f213/selfmailbot](https://github.com/f213/selfmailbot) - Telegram bot forwarding messages to the inbox
 - [franciscod/telegram-twitter-forwarder-bot](https://github.com/franciscod/telegram-twitter-forwarder-bot) - A Telegram bot that forwards Tweets
 - [radinghr/LTelegramBot](https://github.com/radinghr/LTelegramBot) - A simple bot that will help you to improve your English skills
 - [CrazyBotsz/Adv-Auto-Filter-Bot-V2](https://github.com/CrazyBotsz/Adv-Auto-Filter-Bot-V2) - An advance automatic filter bot for filtering files and media in a telegram chat
