@@ -46,6 +46,7 @@
 
 ## C# # 
 
+- [bypass-vip/bypass.vip](https://github.com/bypass-vip/bypass.vip) - API usage for bypass.vip
 - [KryptoST/SRTranslatorGUI](https://github.com/KryptoST/SRTranslatorGUI) - SRT files translator GUI
 - [ALIILAPRO/dns-changer](https://github.com/ALIILAPRO/dns-changer) - یه برنامه ساده برای دسترسی به سایت های تحریم شده
 - [amirshnll/Persian-Swear-Words](https://github.com/amirshnll/Persian-Swear-Words) - Persian Swear Dataset - you can use in your production to filter unwanted content.  دیتاست کلمات نامناسب و بد فارسی برای فیلتر کردن متن ها
@@ -64,8 +65,6 @@
 - [vapoursynth/vapoursynth](https://github.com/vapoursynth/vapoursynth) - A video processing framework with simplicity in mind
 - [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) - Speech-to-text, text-to-speech, and speaker recongition using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, Raspberry Pi, x86_64 servers, websock
 - [abdeladim-s/pywhispercpp](https://github.com/abdeladim-s/pywhispercpp) - Python bindings for whisper.cpp
-- [THIS-IS-NOT-A-BACKUP/MKVToolNix](https://github.com/THIS-IS-NOT-A-BACKUP/MKVToolNix) - 
-- [ArdeshirV/FractalX](https://github.com/ArdeshirV/FractalX) - FractalX demonstrates 3 simple fractals: Sierpinski triangle, snow and tree.
 - [PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle) - PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）
 - [mozilla/DeepSpeech](https://github.com/mozilla/DeepSpeech) - DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.
 
@@ -82,7 +81,6 @@
 
 - [Itz-fork/Bypasser-CLI](https://github.com/Itz-fork/Bypasser-CLI) - CLI for bypass.vip api
 - [DinoLeung/TeleDart](https://github.com/DinoLeung/TeleDart) - A Dart library interfacing with the latest Telegram Bot API.
-- [Itz-fork/Dart-Tg-Bot](https://github.com/Itz-fork/Dart-Tg-Bot) - Test telegram bot written in dart using teledart package
 
 ## Dockerfile 
 
@@ -280,6 +278,7 @@
 
 ## Kotlin 
 
+- [Stypox/dicio-android](https://github.com/Stypox/dicio-android) - Dicio assistant app for Android
 - [persian-calendar/persian-calendar](https://github.com/persian-calendar/persian-calendar) - Android Persian Calendar / تقویم فارسی اندروید
 
 ## Makefile 
@@ -293,6 +292,7 @@
 
 ## Others 
 
+- [Soebb/awesome-stars](https://github.com/Soebb/awesome-stars) - All the best python repositories in github.
 - [DmitryScaletta/free-heroku-alternatives](https://github.com/DmitryScaletta/free-heroku-alternatives) - Comparison of free Heroku alternatives for backend applications
 - [karim23657/awesome-Persian-Speech](https://github.com/karim23657/awesome-Persian-Speech) - A collection of inspiring lists, repos, datasets, models, tools and more for Persian language speech to text(stt) and text to speech(tts) .
 - [cgohlke/win_arm64-wheels](https://github.com/cgohlke/win_arm64-wheels) - Experimental Wheels for Python for Windows on ARM64
@@ -414,6 +414,11 @@
 
 ## Python 
 
+- [Soebb/own-utube-stream-link-gen](https://github.com/Soebb/own-utube-stream-link-gen) - A local Telegram bot to generate own youtube stream url
+- [Soebb/thumb-change-bot](https://github.com/Soebb/thumb-change-bot) - A simple Telegram bot to change the videos thumbnail.
+- [Soebb/Persian-Spell-Corrector](https://github.com/Soebb/Persian-Spell-Corrector) - aka Farsi text corrector
+- [Soebb/persian-transcriber-bot](https://github.com/Soebb/persian-transcriber-bot) - Telegram bot to generate transcript from telegram/local files or YouTube URLs. (by mozilla deepspeech service)
+- [lo3me/syncedlyrics](https://github.com/lo3me/syncedlyrics) - Get an LRC format (synchronized) lyrics for your music
 - [SadeghKrmi/pertts-streamlit](https://github.com/SadeghKrmi/pertts-streamlit) - Persian text-to-speech streamlit interface
 - [TDHM/Subtitles-Translator](https://github.com/TDHM/Subtitles-Translator) - Automatic subtitles translation with a local neural machine translation model. No third-party service required: the translation is done locally with small but efficient neural network models.
 - [VikParuchuri/surya](https://github.com/VikParuchuri/surya) - Accurate line-level text detection and recognition (OCR) in any language
@@ -1787,7 +1792,6 @@
 - [prxpostern/Audio-Subtitle-Extractor-Full](https://github.com/prxpostern/Audio-Subtitle-Extractor-Full) - Audio-Subtitle-Extractor-Full
 - [prxpostern/GDUPLOAD_BOT2](https://github.com/prxpostern/GDUPLOAD_BOT2) - Gdriver Upload Bot(Team Drive supported)
 - [prxpostern/MusicEditorBot001](https://github.com/prxpostern/MusicEditorBot001) - 
-- [prxpostern/TGFFmpeg001](https://github.com/prxpostern/TGFFmpeg001) - 
 - [Omkar47/AutoLeecher](https://github.com/Omkar47/AutoLeecher) - Telegram Torrent Leecher Bot
 - [m4mallu/voicebot](https://github.com/m4mallu/voicebot) - A simple telegram bot to recognize lengthy voice files to text and vice versa with multiple language support.
 - [TheHamkerCat/WilliamButcherBot](https://github.com/TheHamkerCat/WilliamButcherBot) - Telegram Group Manager Bot Written In Python Using Pyrogram.
