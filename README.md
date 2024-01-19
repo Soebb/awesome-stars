@@ -414,6 +414,7 @@
 
 ## Python 
 
+- [nidhaloff/deep-translator](https://github.com/nidhaloff/deep-translator) - A flexible free and unlimited python tool to translate between different languages in a simple way using multiple translators.
 - [Soebb/own-utube-stream-link-gen](https://github.com/Soebb/own-utube-stream-link-gen) - A local Telegram bot to generate own youtube stream url
 - [Soebb/thumb-change-bot](https://github.com/Soebb/thumb-change-bot) - A simple Telegram bot to change the videos thumbnail.
 - [Soebb/Persian-Spell-Corrector](https://github.com/Soebb/Persian-Spell-Corrector) - aka Farsi text corrector
@@ -429,7 +430,7 @@
 - [zackees/isolated-environment](https://github.com/zackees/isolated-environment) - Internal venv management to fix AI dependency hell in python
 - [SilentDemonSD/FZBypassBot](https://github.com/SilentDemonSD/FZBypassBot) - A Elegant Fast Multi Threaded Bypass Bot for Bigger Deeds. Try Now !!
 - [DeadNews/images-upload-cli](https://github.com/DeadNews/images-upload-cli) - Upload images via APIs
-- [zackees/zcmds](https://github.com/zackees/zcmds) - Cross platform(ish) productivity commands written in python
+- [zackees/zcmds](https://github.com/zackees/zcmds) - Swiss army knife of insanely productive CLI and AI tools. Cross platform.
 - [YaoFANGUK/video-subtitle-generator](https://github.com/YaoFANGUK/video-subtitle-generator) - 视频音频生成字幕，生成srt文件。无需申请第三方API，本地实现音频转文本。基于Transformer的视频字幕生成框架。A GUI tool for generating subtitle from videos and generating srt files.
 - [YaoFANGUK/video-subtitle-remover](https://github.com/YaoFANGUK/video-subtitle-remover) - 基于AI的图片/视频硬字幕去除、文本水印去除，无损分辨率生成去字幕、去水印后的图片/视频文件。无需申请第三方API，本地实现。AI-based tool for removing hard-coded subtitles and text-like watermarks from videos or Pictures.
 - [ArdalanGhoreishi/Creating-movie-subtitles-in-Persian-using-the-Google-Cloud-platform](https://github.com/ArdalanGhoreishi/Creating-movie-subtitles-in-Persian-using-the-Google-Cloud-platform) - An easy-to-use website designed for creating Persian subtitles for movies.
