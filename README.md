@@ -62,6 +62,7 @@
 
 ## C++ 
 
+- [rhasspy/piper](https://github.com/rhasspy/piper) - A fast, local neural text to speech system
 - [vapoursynth/vapoursynth](https://github.com/vapoursynth/vapoursynth) - A video processing framework with simplicity in mind
 - [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) - Speech-to-text, text-to-speech, and speaker recongition using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, Raspberry Pi, x86_64 servers, websock
 - [abdeladim-s/pywhispercpp](https://github.com/abdeladim-s/pywhispercpp) - Python bindings for whisper.cpp
@@ -414,6 +415,8 @@
 
 ## Python 
 
+- [DeepLcom/deepl-python](https://github.com/DeepLcom/deepl-python) - Official Python library for the DeepL language translation API.
+- [adonistoday/deep-speech-app](https://github.com/adonistoday/deep-speech-app) - 
 - [nidhaloff/deep-translator](https://github.com/nidhaloff/deep-translator) - A flexible free and unlimited python tool to translate between different languages in a simple way using multiple translators.
 - [Soebb/own-utube-stream-link-gen](https://github.com/Soebb/own-utube-stream-link-gen) - A local Telegram bot to generate own youtube stream url
 - [Soebb/thumb-change-bot](https://github.com/Soebb/thumb-change-bot) - A simple Telegram bot to change the videos thumbnail.
@@ -764,7 +767,7 @@
 - [Shravan-1908/pyscreenrec](https://github.com/Shravan-1908/pyscreenrec) - A small python library for recording screen.
 - [asweigart/pyscreeze](https://github.com/asweigart/pyscreeze) - PyScreeze is a simple, cross-platform screenshot module for Python 2 and 3.
 - [techboy-coder/mmdl](https://github.com/techboy-coder/mmdl) - MMDL (Mega Music Downloader) - A tool to easily download music.
-- [18520339/facebook-data-extraction](https://github.com/18520339/facebook-data-extraction) - Experiences in extracting data from Facebook with these 3 methods: Facebook Graph API, Automation tools, DevTools Console
+- [18520339/facebook-data-extraction](https://github.com/18520339/facebook-data-extraction) - Experience for effectively fetching Facebook data, including: Query Graph API by Account-based Token, and Operate undetectable Bots to extract Client/Server-side Rendered content
 - [18520339/image-search-downloader](https://github.com/18520339/image-search-downloader) - Download images including URLs from Google, Bing, Flickr and Instagram hashtags with given keyword
 - [kaboussi/Botflix](https://github.com/kaboussi/Botflix) - 🎥 Stream your favorite movie from the terminal!
 - [mherrmann/helium](https://github.com/mherrmann/helium) - Lighter web automation for Python
@@ -833,7 +836,7 @@
 - [Alir3z4/html2text](https://github.com/Alir3z4/html2text) - Convert HTML to Markdown-formatted text.
 - [khoben/telemirror](https://github.com/khoben/telemirror) - Telegram message forwarder (client API)
 - [kkrypt0nn/Python-Discord-Bot-Template](https://github.com/kkrypt0nn/Python-Discord-Bot-Template) - 🐍 A simple template to start to code your own and personalized Discord bot in the Python programming language
-- [fascot/Media-Download-Tool](https://github.com/fascot/Media-Download-Tool) - This is a Media Download Tool which can get videos from Youtube, Pornhub and many other sites.
+- [fascot/Media-Download-Tool](https://github.com/fascot/Media-Download-Tool) - This is a Media Download Tool which can get videos from Youtube and other sites.
 - [piriyaraj/shortsMobileSpeci](https://github.com/piriyaraj/shortsMobileSpeci) - automatic youtube video uploading script. it's able to scrap web content and make it a youtube short video and upload it on youtube automatically.
 - [gregismotion/lazyshorts-py](https://github.com/gregismotion/lazyshorts-py) - Create short videos, like a lazy person.
 - [MHadiS/port-scanner](https://github.com/MHadiS/port-scanner) - A port scanner made with python socket
@@ -903,7 +906,7 @@
 - [Khodnevis-Research-Lab/khoshnevis](https://github.com/Khodnevis-Research-Lab/khoshnevis) - Khodnevis Normalizer: A Python library for Persian text preprocessing.
 - [NajmeHabibi/Context-aware-Persian-Spell-Checker-for-OCR-post-processing](https://github.com/NajmeHabibi/Context-aware-Persian-Spell-Checker-for-OCR-post-processing) - 
 - [dolph/dictionary](https://github.com/dolph/dictionary) - A list of the most popular English words.
-- [wkentaro/gdown](https://github.com/wkentaro/gdown) - Download a large file from Google Drive  (curl/wget fails because of the security notice).
+- [wkentaro/gdown](https://github.com/wkentaro/gdown) - Google Drive Public File/Folder Downloader (curl/wget fails due to the security notice).
 - [amirhoseinsb/musicfinder](https://github.com/amirhoseinsb/musicfinder) - A script to find and download music fast
 - [UNICT-Fake-Audio/fake-audio-detector](https://github.com/UNICT-Fake-Audio/fake-audio-detector) - Simple fake audio detector
 - [Coolshanlan/HighlightTranslator](https://github.com/Coolshanlan/HighlightTranslator) - Highlight Translator can help you to translate the words quickly and accurately. By only highlighting, copying, or screenshoting the content you want to translate anywhere on your computer (ex. PDF, P
@@ -1002,7 +1005,7 @@
 - [gbstack/ffprobe-python](https://github.com/gbstack/ffprobe-python) - A wrapper of ffprobe command to extract metadata from media files.
 - [clagiordano/python3-logger](https://github.com/clagiordano/python3-logger) - Library for logging facility
 - [nickumia/web-search-dictionary](https://github.com/nickumia/web-search-dictionary) - A Definition Lookup API based on Google Search Results
-- [SpringsFern/TG-FileStreamBot](https://github.com/SpringsFern/TG-FileStreamBot) - A Telegram bot to stream files to web.(Inactive). Activerly Maintained Repository https://github.com/SpringsFern/FileStreamBot
+- [GA696/TG-FileStreamBot](https://github.com/GA696/TG-FileStreamBot) - A Telegram bot to stream files to web.(Inactive). Activerly Maintained Repository https://github.com/SpringsFern/FileStreamBot
 - [eteamin/async_faspell](https://github.com/eteamin/async_faspell) - Farsi spellchecker
 - [meyt/linkpreview](https://github.com/meyt/linkpreview) - Get link preview in python
 - [mohadese-yousefi/spell-correction](https://github.com/mohadese-yousefi/spell-correction) - Simple autocorrect misspelled word base on distance.
@@ -1691,7 +1694,6 @@
 - [tiararosebiezetta/HerokuDynoSwitcher](https://github.com/tiararosebiezetta/HerokuDynoSwitcher) - A little script and trick to make your heroku app run forever without being concerned about dyno hours.
 - [ImJanindu/ImageUploadBot](https://github.com/ImJanindu/ImageUploadBot) - 
 - [FayasNoushad/ISRO](https://github.com/FayasNoushad/ISRO) - Indian Space Research Organisation API
-- [AJBotVerse/ReactionButtonBot](https://github.com/AJBotVerse/ReactionButtonBot) - Adding automatically like & dislike buttons to documents.
 - [dakshy/droplink-bot](https://github.com/dakshy/droplink-bot) - Droplink URL Shortener Bot, deployable to Heroku and Railway.
 - [ijustbsd/instagram-saver-bot](https://github.com/ijustbsd/instagram-saver-bot) - This telegram bot can save photos, videos and post descriptions from Instagram.
 - [DIGITALCRIMINAL/ArchivedUltimaScraper](https://github.com/DIGITALCRIMINAL/ArchivedUltimaScraper) - Scrape content from OnlyFans and Fansly
@@ -1706,7 +1708,7 @@
 - [Kocarus/Manga-Translator-TesseractOCR](https://github.com/Kocarus/Manga-Translator-TesseractOCR) - Automatically translates manga pages with Tesseract-OCR and Google Translate API for Python
 - [MrMissx/UserButt](https://github.com/MrMissx/UserButt) - This project has been archived. Use the new developed userbot on the link bellow.
 - [userbotindo/caligo](https://github.com/userbotindo/caligo) - SelfBot for Telegram
-- [userbotindo/Anjani](https://github.com/userbotindo/Anjani) - 🤖 Telegram group management bot *with spam detection
+- [userbotindo/Anjani](https://github.com/userbotindo/Anjani) - 🤖 Telegram group management and spam protection bot
 - [adekmaulana/aioaria2-mirror-bot](https://github.com/adekmaulana/aioaria2-mirror-bot) - This repo currently on working rebase version.
 - [instaloader/instaloader](https://github.com/instaloader/instaloader) - Download pictures (or videos) along with their captions and other metadata from Instagram.
 - [sajjadhossanshimanto/multitube](https://github.com/sajjadhossanshimanto/multitube) - 
@@ -1809,7 +1811,6 @@
 - [EL-Coders/CopyBot](https://github.com/EL-Coders/CopyBot) - 
 - [M-fazin/Lyrics-Search-Bot](https://github.com/M-fazin/Lyrics-Search-Bot) - A Telegram Bot That Can Find Lyrics Of Song
 - [i-am-emilly/removeforwardtag](https://github.com/i-am-emilly/removeforwardtag) - 
-- [AJBotVerse/RequestTrackerBot](https://github.com/AJBotVerse/RequestTrackerBot) - This is RequestTrackerBot and it used for tracking request made by user in a group
 - [Itz-fork/Gitfetch](https://github.com/Itz-fork/Gitfetch) - Gitfetch is a simple tool to get github user details
 - [viperadnan-git/video-encoder-bot](https://github.com/viperadnan-git/video-encoder-bot) - A Telegram bot to encode videos files via ffmpeg.
 - [lepisma/pipwin](https://github.com/lepisma/pipwin) - Install compiled python libraries for windows provided by Christoph Gohlke
@@ -1900,7 +1901,6 @@
 - [Fillll/reddit2telegram](https://github.com/Fillll/reddit2telegram) - Bot to supply telegram channel with hot Reddit submissions.
 - [JinsoRaj/TelegramBots](https://github.com/JinsoRaj/TelegramBots) - This repository is for HacktoberFest 2023. Contribute Telegram bot source codes.
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
-- [AJBotVerse/URL_Uploader_Bot](https://github.com/AJBotVerse/URL_Uploader_Bot) - This bot is created by AJTimePyro and It accepts direct downloading url & then return file as telegram file.
 - [arun017s/OMDb-Bot](https://github.com/arun017s/OMDb-Bot) - 
 - [parastooh79/python-simple-exmaples](https://github.com/parastooh79/python-simple-exmaples) - 
 - [parastooh79/database_python](https://github.com/parastooh79/database_python) - 
