@@ -415,6 +415,13 @@
 
 ## Python 
 
+- [MycroftAI/mimic3](https://github.com/MycroftAI/mimic3) - A fast local neural text to speech engine for Mycroft
+- [moi15moi/ass_tag_analyzer](https://github.com/moi15moi/ass_tag_analyzer) - A Python library for serialization and deserialization of ASS subtitle file format tags markup.
+- [mahdikhashan/aparat-python](https://github.com/mahdikhashan/aparat-python) - Aparat VOD Platform API Wrapper
+- [urllib3/urllib3](https://github.com/urllib3/urllib3) - urllib3 is a user-friendly HTTP client library for Python
+- [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) - The Database Toolkit for Python
+- [asottile/pyupgrade](https://github.com/asottile/pyupgrade) - A tool (and pre-commit hook) to automatically upgrade syntax for newer versions of the language.
+- [joke2k/faker](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you.
 - [DeepLcom/deepl-python](https://github.com/DeepLcom/deepl-python) - Official Python library for the DeepL language translation API.
 - [adonistoday/deep-speech-app](https://github.com/adonistoday/deep-speech-app) - 
 - [nidhaloff/deep-translator](https://github.com/nidhaloff/deep-translator) - A flexible free and unlimited python tool to translate between different languages in a simple way using multiple translators.
@@ -661,7 +668,7 @@
 - [dimitryzub/youtube-mention-tracker](https://github.com/dimitryzub/youtube-mention-tracker) - Find target keyword mention(s) from YouTube videos. Similar to Mention but for videos. Sponsored by SerpApi.
 - [mpoon/gpt-repository-loader](https://github.com/mpoon/gpt-repository-loader) - Convert code repos into an LLM prompt-friendly format. Mostly built by GPT-4.
 - [styczynski/chatdb](https://github.com/styczynski/chatdb) - ChatGPT-based database, wait... WHAT?
-- [horse-3903/google-reverse-image-search](https://github.com/horse-3903/google-reverse-image-search) - Package to obtain image information for things like data collection, or searching for higher resolution images
+- [horse-3903/google-reverse-image-search-deprecated](https://github.com/horse-3903/google-reverse-image-search-deprecated) - Package to obtain image information for things like data collection, or searching for higher resolution images
 - [blackary/st_pages](https://github.com/blackary/st_pages) - An experimental version of Streamlit Multi-Page Apps
 - [amineboutarfi/google_maps_scraper](https://github.com/amineboutarfi/google_maps_scraper) - 
 - [eggplants/deepl-cli](https://github.com/eggplants/deepl-cli) - DeepL Translator CLI (without API Key)
@@ -764,7 +771,7 @@
 - [M4hbod/UniversalGeneratorBot](https://github.com/M4hbod/UniversalGeneratorBot) - Pyrogram and Telethon String Session Generator - Persian
 - [PyImageSearch/imutils](https://github.com/PyImageSearch/imutils) - A series of convenience functions to make basic image processing operations such as translation, rotation, resizing, skeletonization, and displaying Matplotlib images easier with OpenCV and Python.
 - [SerpentAI/D3DShot](https://github.com/SerpentAI/D3DShot) - Extremely fast and robust screen capture on Windows with the Desktop Duplication API
-- [Shravan-1908/pyscreenrec](https://github.com/Shravan-1908/pyscreenrec) - A small python library for recording screen.
+- [shravanasati/pyscreenrec](https://github.com/shravanasati/pyscreenrec) - A small python library for recording screen.
 - [asweigart/pyscreeze](https://github.com/asweigart/pyscreeze) - PyScreeze is a simple, cross-platform screenshot module for Python 2 and 3.
 - [techboy-coder/mmdl](https://github.com/techboy-coder/mmdl) - MMDL (Mega Music Downloader) - A tool to easily download music.
 - [18520339/facebook-data-extraction](https://github.com/18520339/facebook-data-extraction) - Experience for effectively fetching Facebook data, including: Query Graph API by Account-based Token, and Operate undetectable Bots to extract Client/Server-side Rendered content
@@ -1735,7 +1742,6 @@
 - [python-telegram-bot/python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) - We have made you a wrapper you can't refuse
 - [gorbatovea/forwardgram](https://github.com/gorbatovea/forwardgram) - This script forwards messages through TG chats and channels. Backed by Telethon.
 - [hemantapkh/TorrentHunt](https://github.com/hemantapkh/TorrentHunt) - 🏴‍☠️ The ultimate torrent bot on telegram
-- [adarsh-goel/FileStreamBot-pro](https://github.com/adarsh-goel/FileStreamBot-pro) - A very fast file streaming bot  used for streaming and downloading movies.
 - [ZauteKm/MusicPlayer](https://github.com/ZauteKm/MusicPlayer) - Telegram Bot to play music in VoiceChat with Channel Support and autostarts Radio.
 - [UsergeTeam/Userge](https://github.com/UsergeTeam/Userge) - Userge, Durable as a Serge
 - [TerminalWarlord/TikTok-Downloader-Bot](https://github.com/TerminalWarlord/TikTok-Downloader-Bot) - A Telegram bot to download TikTok videos without any watermark.
