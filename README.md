@@ -415,6 +415,8 @@
 
 ## Python 
 
+- [sirfz/tesserocr](https://github.com/sirfz/tesserocr) - A Python wrapper for the tesseract-ocr API
+- [simonw/shot-scraper](https://github.com/simonw/shot-scraper) - A command-line utility for taking automated screenshots of websites
 - [MycroftAI/mimic3](https://github.com/MycroftAI/mimic3) - A fast local neural text to speech engine for Mycroft
 - [moi15moi/ass_tag_analyzer](https://github.com/moi15moi/ass_tag_analyzer) - A Python library for serialization and deserialization of ASS subtitle file format tags markup.
 - [mahdikhashan/aparat-python](https://github.com/mahdikhashan/aparat-python) - Aparat VOD Platform API Wrapper
@@ -463,7 +465,7 @@
 - [riverscuomo/mp3tagger](https://github.com/riverscuomo/mp3tagger) - A Python GUI for building filter strings for the Mp3Tag Windows app
 - [oVo-HxBots/Utubeitbot](https://github.com/oVo-HxBots/Utubeitbot) - Youtube Video Uploader Bot From Telegram
 - [karim23657/AparatUploader](https://github.com/karim23657/AparatUploader) - Upload videos to Aparat , very fast ,  just using browser cookies
-- [rule-airport/m3u8DL_tgbot](https://github.com/rule-airport/m3u8DL_tgbot) - 
+- [Energetic3906/m3u8DL_tgbot](https://github.com/Energetic3906/m3u8DL_tgbot) - 
 - [TomSchimansky/CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) - A modern and customizable python UI-library based on Tkinter
 - [m-jishnu/pypdl](https://github.com/m-jishnu/pypdl) - A concurrent python downloader with resume capablities
 - [putkoff/Python-Tools](https://github.com/putkoff/Python-Tools) - A repository for python functions that can help make things a little easier
@@ -1215,7 +1217,7 @@
 - [iamtalhaasghar/googleweather](https://github.com/iamtalhaasghar/googleweather) - A simple Python CLI tool using which you can see current weather of any city (in the world) in your Terminal.
 - [nemec/snapchat-map-scraper](https://github.com/nemec/snapchat-map-scraper) - 
 - [bellingcat/instagram-location-search](https://github.com/bellingcat/instagram-location-search) - Finds Instagram location IDs near a specified latitude and longitude.
-- [bellingcat/telegram-phone-number-checker](https://github.com/bellingcat/telegram-phone-number-checker) - This script lets you check whether a specific phone number is connected to a Telegram account.
+- [bellingcat/telegram-phone-number-checker](https://github.com/bellingcat/telegram-phone-number-checker) - Check if phone numbers are connected to Telegram accounts.
 - [JBornman/telegram-inspire-bot](https://github.com/JBornman/telegram-inspire-bot) - A telegram bot that takes quotes and makes inspirational quote wallpapers
 - [rehmanali1337/instagram-to-telegram](https://github.com/rehmanali1337/instagram-to-telegram) - This bot scrapes the posts from specific instagram account and sends these posts(Images, Videos) to a telegram group.
 - [rehmanali1337/discord-telegram-bot](https://github.com/rehmanali1337/discord-telegram-bot) - Simple discord to telegram messages forward bot. It receives messages from filtered discord servers and channels and forward these messages to specified telegram channel using telegram api.
@@ -2089,9 +2091,6 @@
 - [michaelb/auto-ytdl](https://github.com/michaelb/auto-ytdl) - Yet another youtube-dl wrapper, but auto-ytdl can automate your new music downloads better than ever
 - [nuhmanpk/pyDF-Bot](https://github.com/nuhmanpk/pyDF-Bot) - Pydf - Pyrogram Document File Bot, a modular Telegram Bot which provides Pdf Tools Works using Pypdf2
 - [shamilhabeebnelli/song-bot](https://github.com/shamilhabeebnelli/song-bot) - You can download youtube songs to MP3 from telegram #musics
-- [AmanoTeam/amanobot](https://github.com/AmanoTeam/amanobot) - Python framework for Telegram Bot API forked from Telepot.
-- [AmanoTeam/Unalix](https://github.com/AmanoTeam/Unalix) - Small, dependency-free, fast Python package for removing tracking fields from URLs.
-- [AmanoTeam/EduuRobot](https://github.com/AmanoTeam/EduuRobot) - EduuRobot Telegram bot source code.
 - [Liupold/demeter_dl](https://github.com/Liupold/demeter_dl) - Demeter_DL is a open source download manager. Built for speed, efficiency and comfort! Download YouTube videos directly! or use it in your project with API
 - [amirhoseinsalimi/music-tool-bot](https://github.com/amirhoseinsalimi/music-tool-bot) - The one and only Telegram bot you need to manage your music files
 - [atamakahere-git/ytadlbot](https://github.com/atamakahere-git/ytadlbot) - Youtube audio downloader telegram bot
