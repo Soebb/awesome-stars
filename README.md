@@ -469,7 +469,7 @@
 - [TomSchimansky/CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) - A modern and customizable python UI-library based on Tkinter
 - [m-jishnu/pypdl](https://github.com/m-jishnu/pypdl) - A concurrent python downloader with resume capablities
 - [putkoff/Python-Tools](https://github.com/putkoff/Python-Tools) - A repository for python functions that can help make things a little easier
-- [bipinkrish/Zlibrary-API](https://github.com/bipinkrish/Zlibrary-API) - Unofficial Python Implementation of Zlibrary API
+- [bipinkrish/Zlibrary-API](https://github.com/bipinkrish/Zlibrary-API) - Unofficial Python wrapper for the Zlibrary API.
 - [Maimonator/telewrap](https://github.com/Maimonator/telewrap) - A script that wraps cmdline executable with a telegram bot
 - [hsherafat/TBCproject_bot](https://github.com/hsherafat/TBCproject_bot) - The Telegram bot for communicating with the Divar website [Farsi]
 - [galihap76/collector](https://github.com/galihap76/collector) - Collector is a OSINT tool and information gathering. This tool can do information gathering phone numbers, github account, ip address and instagram account.
