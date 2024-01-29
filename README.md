@@ -415,6 +415,8 @@
 
 ## Python 
 
+- [usernein/activate-virtualenv](https://github.com/usernein/activate-virtualenv) - Context manager to activate and deactivate Python virtualenvs programatically
+- [Alnyz/NewApkPure](https://github.com/Alnyz/NewApkPure) - Search and download applications from apkpure.com
 - [sirfz/tesserocr](https://github.com/sirfz/tesserocr) - A Python wrapper for the tesseract-ocr API
 - [simonw/shot-scraper](https://github.com/simonw/shot-scraper) - A command-line utility for taking automated screenshots of websites
 - [MycroftAI/mimic3](https://github.com/MycroftAI/mimic3) - A fast local neural text to speech engine for Mycroft
@@ -1000,7 +1002,7 @@
 - [New-dev0/Telethon-Patch](https://github.com/New-dev0/Telethon-Patch) - Wrap over telethon with additional upgrades
 - [mahyadnet/telegram-auto-forwarder](https://github.com/mahyadnet/telegram-auto-forwarder) - Telegram Auto Forwarder
 - [JKhakpour/petit](https://github.com/JKhakpour/petit) - Persian text -&gt; integer, ineteger -&gt; text converter
-- [Ahmadrezadl/MovieSorter](https://github.com/Ahmadrezadl/MovieSorter) - 
+- [Ahmadrezadl/MovieSorter](https://github.com/Ahmadrezadl/MovieSorter) - MovieSorter is a dynamic tool designed to simplify the management of your digital movie library. It offers automated sorting, customizable naming schemes, and rich metadata retrieval, ensuring your co
 - [xenova/chat-downloader](https://github.com/xenova/chat-downloader) - A simple tool used to retrieve chat messages from livestreams, videos, clips and past broadcasts. No authentication needed!
 - [psyk3r/psybot](https://github.com/psyk3r/psybot) - Telegram self account bot
 - [karkason/pywinsandbox](https://github.com/karkason/pywinsandbox) - Windows Sandbox Utillities Python Package
@@ -2131,7 +2133,7 @@
 - [gautamajay52/ufile.io](https://github.com/gautamajay52/ufile.io) - Asynchronous Python Wrapper for the Ufile API
 - [New-dev0/TgTwitterBot](https://github.com/New-dev0/TgTwitterBot) - TgTwitterBot -  Control and Explore Twitter from Telegram
 - [lntechnical2/live_count_channelv2](https://github.com/lntechnical2/live_count_channelv2) - 
-- [nuhmanpk/WebScrapper](https://github.com/nuhmanpk/WebScrapper) - Simple and powerfull all in one Telegram Bot to scrap webpages using Requests, html5lib and Beautifulsoup
+- [nuhmanpk/WebScrapper](https://github.com/nuhmanpk/WebScrapper) - Simple and powerfull all in one Telegram Bot to scrap / crawl webpages using Requests, html5lib and Beautifulsoup
 - [m4mallu/DeleteMediaRobot](https://github.com/m4mallu/DeleteMediaRobot) - Telegram robot to delete media in a chat!
 - [AnjanaMadu/MentionAllBot](https://github.com/AnjanaMadu/MentionAllBot) - This bot can mention members upto 10,000 in groups and can mention members upto 200 in channels !
 - [dihanofficial/SophiaOLD](https://github.com/dihanofficial/SophiaOLD) - Old Vision of Sophia Source Code.....
