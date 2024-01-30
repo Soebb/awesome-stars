@@ -229,6 +229,7 @@
 
 ## Jupyter Notebook 
 
+- [nimaprgrmr/ocr_persian](https://github.com/nimaprgrmr/ocr_persian) - this system take a photo and do a lot preprocessing steps and then pass it to pytesseract model and you can see the texts extracted from image.
 - [Vaibhavs10/insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper) - 
 - [Pouyaexe/Farsi_PDF](https://github.com/Pouyaexe/Farsi_PDF) - Make editable Persian(Farsi) PDF from Non-Editable ones, using OCR.
 - [pyannote/pyannote-audio](https://github.com/pyannote/pyannote-audio) - Neural building blocks for speaker diarization: speech activity detection, speaker change detection, overlapped speech detection, speaker embedding
@@ -279,6 +280,7 @@
 
 ## Kotlin 
 
+- [jing332/tts-server-android](https://github.com/jing332/tts-server-android) - 这是一个Android系统TTS应用，内置微软演示接口，可自定义HTTP请求，可导入其他本地TTS引擎，以及根据中文双引号的简单旁白/对话识别朗读 ，还有自动重试，备用配置，文本替换等更多功能。
 - [Stypox/dicio-android](https://github.com/Stypox/dicio-android) - Dicio assistant app for Android
 - [persian-calendar/persian-calendar](https://github.com/persian-calendar/persian-calendar) - Android Persian Calendar / تقویم فارسی اندروید
 
