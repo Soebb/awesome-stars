@@ -780,7 +780,7 @@
 - [shravanasati/pyscreenrec](https://github.com/shravanasati/pyscreenrec) - A small python library for recording screen.
 - [asweigart/pyscreeze](https://github.com/asweigart/pyscreeze) - PyScreeze is a simple, cross-platform screenshot module for Python 2 and 3.
 - [techboy-coder/mmdl](https://github.com/techboy-coder/mmdl) - MMDL (Mega Music Downloader) - A tool to easily download music.
-- [18520339/facebook-data-extraction](https://github.com/18520339/facebook-data-extraction) - Experience for effectively fetching Facebook data, including: Query Graph API by Account-based Token, and Operate undetectable Bots to extract Client/Server-side Rendered content
+- [18520339/facebook-data-extraction](https://github.com/18520339/facebook-data-extraction) - Experience for effectively fetching Facebook data by Querying Graph API with Account-based Token and Operating undetectable scraping Bots to extract Client/Server-side Rendered content
 - [18520339/image-search-downloader](https://github.com/18520339/image-search-downloader) - Download images including URLs from Google, Bing, Flickr and Instagram hashtags with given keyword
 - [kaboussi/Botflix](https://github.com/kaboussi/Botflix) - 🎥 Stream your favorite movie from the terminal!
 - [mherrmann/helium](https://github.com/mherrmann/helium) - Lighter web automation for Python
@@ -1707,6 +1707,7 @@
 - [tiararosebiezetta/HerokuDynoSwitcher](https://github.com/tiararosebiezetta/HerokuDynoSwitcher) - A little script and trick to make your heroku app run forever without being concerned about dyno hours.
 - [ImJanindu/ImageUploadBot](https://github.com/ImJanindu/ImageUploadBot) - 
 - [FayasNoushad/ISRO](https://github.com/FayasNoushad/ISRO) - Indian Space Research Organisation API
+- [AJBotVerse/ReactionButtonBot](https://github.com/AJBotVerse/ReactionButtonBot) - Adding automatically like & dislike buttons to documents.
 - [dakshy/droplink-bot](https://github.com/dakshy/droplink-bot) - Droplink URL Shortener Bot, deployable to Heroku and Railway.
 - [ijustbsd/instagram-saver-bot](https://github.com/ijustbsd/instagram-saver-bot) - This telegram bot can save photos, videos and post descriptions from Instagram.
 - [DIGITALCRIMINAL/ArchivedUltimaScraper](https://github.com/DIGITALCRIMINAL/ArchivedUltimaScraper) - Scrape content from OnlyFans and Fansly
@@ -1823,6 +1824,7 @@
 - [EL-Coders/CopyBot](https://github.com/EL-Coders/CopyBot) - 
 - [M-fazin/Lyrics-Search-Bot](https://github.com/M-fazin/Lyrics-Search-Bot) - A Telegram Bot That Can Find Lyrics Of Song
 - [i-am-emilly/removeforwardtag](https://github.com/i-am-emilly/removeforwardtag) - 
+- [AJBotVerse/RequestTrackerBot](https://github.com/AJBotVerse/RequestTrackerBot) - This is RequestTrackerBot and it used for tracking request made by user in a group
 - [Itz-fork/Gitfetch](https://github.com/Itz-fork/Gitfetch) - Gitfetch is a simple tool to get github user details
 - [viperadnan-git/video-encoder-bot](https://github.com/viperadnan-git/video-encoder-bot) - A Telegram bot to encode videos files via ffmpeg.
 - [lepisma/pipwin](https://github.com/lepisma/pipwin) - Install compiled python libraries for windows provided by Christoph Gohlke
@@ -1913,6 +1915,7 @@
 - [Fillll/reddit2telegram](https://github.com/Fillll/reddit2telegram) - Bot to supply telegram channel with hot Reddit submissions.
 - [JinsoRaj/TelegramBots](https://github.com/JinsoRaj/TelegramBots) - This repository is for HacktoberFest 2023. Contribute Telegram bot source codes.
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
+- [AJBotVerse/URL_Uploader_Bot](https://github.com/AJBotVerse/URL_Uploader_Bot) - This bot is created by AJTimePyro and It accepts direct downloading url & then return file as telegram file.
 - [arun017s/OMDb-Bot](https://github.com/arun017s/OMDb-Bot) - 
 - [parastooh79/python-simple-exmaples](https://github.com/parastooh79/python-simple-exmaples) - 
 - [parastooh79/database_python](https://github.com/parastooh79/database_python) - 
