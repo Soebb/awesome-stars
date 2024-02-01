@@ -85,6 +85,7 @@
 
 ## Dockerfile 
 
+- [ITZ-ZAID/Doprax](https://github.com/ITZ-ZAID/Doprax) - 
 - [Itz-fork/X-Bin-Patch](https://github.com/Itz-fork/X-Bin-Patch) - Method to deploy Mega.nz-Bot to Heroku
 - [divideprojects/docker-telegram-bot-api](https://github.com/divideprojects/docker-telegram-bot-api) - Auto build repository for 🐳 docker image of telegram-bot-api using Github Actions
 - [gautamajay52/heroku-stack-container-repo](https://github.com/gautamajay52/heroku-stack-container-repo) - After deploying this repo your Heroku app will have stack as container. After that you just have to deploy your own original app.
@@ -1018,7 +1019,6 @@
 - [gbstack/ffprobe-python](https://github.com/gbstack/ffprobe-python) - A wrapper of ffprobe command to extract metadata from media files.
 - [clagiordano/python3-logger](https://github.com/clagiordano/python3-logger) - Library for logging facility
 - [nickumia/web-search-dictionary](https://github.com/nickumia/web-search-dictionary) - A Definition Lookup API based on Google Search Results
-- [GA696/TG-FileStreamBot](https://github.com/GA696/TG-FileStreamBot) - A Telegram bot to stream files to web.(Inactive). Activerly Maintained Repository https://github.com/SpringsFern/FileStreamBot
 - [eteamin/async_faspell](https://github.com/eteamin/async_faspell) - Farsi spellchecker
 - [meyt/linkpreview](https://github.com/meyt/linkpreview) - Get link preview in python
 - [mohadese-yousefi/spell-correction](https://github.com/mohadese-yousefi/spell-correction) - Simple autocorrect misspelled word base on distance.
@@ -1473,7 +1473,7 @@
 - [subinps/tglogging](https://github.com/subinps/tglogging) - A python package to send your app logs to a telegram chat in realtime.
 - [jakkemomo/twalker](https://github.com/jakkemomo/twalker) - Twalker is a library that gathers information from big influencers.
 - [alcortazzo/tg-message-forwarder](https://github.com/alcortazzo/tg-message-forwarder) - Telegram bot for inline forwarding (specified user's) messages from one chat (or channel) to another.
-- [alcortazzo/vktgbot](https://github.com/alcortazzo/vktgbot) - Telegram Bot for reposting from VKontakte to Telegram channel
+- [alcortazzo/vktgbot](https://github.com/alcortazzo/vktgbot) - 🇺🇦 Telegram Bot for reposting from VKontakte to Telegram channel
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
 - [suhasa010/securejoinbot](https://github.com/suhasa010/securejoinbot) - Secure Generation of Invite links for Private Telegram groups
 - [socialrupt/project1](https://github.com/socialrupt/project1) - Save to github
