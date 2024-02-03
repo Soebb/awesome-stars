@@ -297,6 +297,7 @@
 
 ## Others 
 
+- [wide-video/piper-wasm](https://github.com/wide-video/piper-wasm) - 
 - [Soebb/awesome-stars](https://github.com/Soebb/awesome-stars) - All the best python repositories in github.
 - [DmitryScaletta/free-heroku-alternatives](https://github.com/DmitryScaletta/free-heroku-alternatives) - Comparison of free Heroku alternatives for backend applications
 - [karim23657/awesome-Persian-Speech](https://github.com/karim23657/awesome-Persian-Speech) - A collection of inspiring lists, repos, datasets, models, tools and more for Persian language speech to text(stt) and text to speech(tts) .
@@ -419,6 +420,9 @@
 
 ## Python 
 
+- [MhdiTaheri/Radiojavan-dl](https://github.com/MhdiTaheri/Radiojavan-dl) - Simpel Radiojavan Downloader Telegram BoT
+- [hydrogram/hydrogram](https://github.com/hydrogram/hydrogram) - Sleek, advanced, and asynchronous Telegram MTProto API framework in Python, designed for fluid user and bot interactions.
+- [Ripeey/Conversation-Pyrogram](https://github.com/Ripeey/Conversation-Pyrogram) - A conversation plugin class for pyrogram using inbuild Update Handlers
 - [usernein/activate-virtualenv](https://github.com/usernein/activate-virtualenv) - Context manager to activate and deactivate Python virtualenvs programatically
 - [Alnyz/NewApkPure](https://github.com/Alnyz/NewApkPure) - Search and download applications from apkpure.com
 - [sirfz/tesserocr](https://github.com/sirfz/tesserocr) - A Python wrapper for the tesseract-ocr API
@@ -644,7 +648,7 @@
 - [nitanmarcel/PipTUI](https://github.com/nitanmarcel/PipTUI) - Pip UI in your terminal!
 - [Qiamast/Directory-Video-Duration-Calculator](https://github.com/Qiamast/Directory-Video-Duration-Calculator) - A script that calculates the total duration of all videos in a directory
 - [AbirHasan2005/PyVideoEditor](https://github.com/AbirHasan2005/PyVideoEditor) - In Development
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - ⚡ Building applications with LLMs through composability ⚡
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [explosion/wasabi](https://github.com/explosion/wasabi) - 🍣 A lightweight console printing and formatting toolkit
 - [miyuchina/mistletoe](https://github.com/miyuchina/mistletoe) - A fast, extensible and spec-compliant Markdown parser in pure Python.
 - [javadr/picofile-dl](https://github.com/javadr/picofile-dl) - Picofile.com Downloader
@@ -1409,7 +1413,6 @@
 - [HEGADE/ProfileMaker](https://github.com/HEGADE/ProfileMaker) - python cli which takes a github username as argument and generate a profile from it
 - [Chan-Bill/wiki-pdf-gen](https://github.com/Chan-Bill/wiki-pdf-gen) - Scrape Wikipedia articles and generate PDF files.
 - [xuan-practice-coding/websiteCrawler](https://github.com/xuan-practice-coding/websiteCrawler) - 
-- [ritzballares/foto2pdf](https://github.com/ritzballares/foto2pdf) - A CLI tool for converting images into a PDF
 - [py-pdf/fpdf2](https://github.com/py-pdf/fpdf2) - Simple PDF generation for Python
 - [kernoeb/Telegramusic](https://github.com/kernoeb/Telegramusic) - Python Telegram Bot to download music from Deezer and YouTube (Heroku, Docker)
 - [Bricio/yt-dlp](https://github.com/Bricio/yt-dlp) - A youtube-dl fork with additional features and fixes
@@ -1689,7 +1692,6 @@
 - [louisyoungx/dypend](https://github.com/louisyoungx/dypend) - Load dependent libraries dynamically.
 - [Jizzberry/Scrapers](https://github.com/Jizzberry/Scrapers) - 
 - [gil9red/SimplePyScripts](https://github.com/gil9red/SimplePyScripts) - Collection of various python script's.
-- [gil9red/telegram_notifications_bot](https://github.com/gil9red/telegram_notifications_bot) - Проект для уведомлений через бота телеграм
 - [RepoLink/superfclone-public](https://github.com/RepoLink/superfclone-public) - @superfclone-public
 - [JinnSulthan/Forward-Mess-Remover](https://github.com/JinnSulthan/Forward-Mess-Remover) - A Bot To remove forwarded messages.
 - [AsmSafone/MusicPlayer](https://github.com/AsmSafone/MusicPlayer) - A Telegram Music Bot written in Python using Pyrogram and Py-Tgcalls. This is Also The Source Code of The UserBot Which is Playing Music in @S1-BOTS Support Group ❤️
@@ -2409,6 +2411,7 @@
 
 ## TypeScript 
 
+- [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser
 - [viperadnan-git/telegram-forwarder-bot](https://github.com/viperadnan-git/telegram-forwarder-bot) - Forward Telegram messages between chats using pure Telegram Bot API and Webhooks
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 - [SpEcHiDe/ButtonHTMLBot](https://github.com/SpEcHiDe/ButtonHTMLBot) - https://ButtonHTMLBot.t.me
