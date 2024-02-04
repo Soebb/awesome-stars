@@ -177,6 +177,7 @@
 
 ## JavaScript 
 
+- [karim23657/GAS-Telegram-bot](https://github.com/karim23657/GAS-Telegram-bot) - A base code that shows how to make a telegram bot on google app script
 - [justpy-org/justpy](https://github.com/justpy-org/justpy) - An object oriented high-level Python Web Framework that requires no frontend programming
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
 - [tuhinpal/imdb-api](https://github.com/tuhinpal/imdb-api) - Serverless IMDB API powered by Cloudflare Worker
@@ -420,6 +421,7 @@
 
 ## Python 
 
+- [Dicklesworthstone/bulk_transcribe_youtube_videos_from_playlist](https://github.com/Dicklesworthstone/bulk_transcribe_youtube_videos_from_playlist) - Easily take an entire YouTube playlist and turn it into high quality transcripts using Whisper.
 - [MhdiTaheri/Radiojavan-dl](https://github.com/MhdiTaheri/Radiojavan-dl) - Simpel Radiojavan Downloader Telegram BoT
 - [hydrogram/hydrogram](https://github.com/hydrogram/hydrogram) - Sleek, advanced, and asynchronous Telegram MTProto API framework in Python, designed for fluid user and bot interactions.
 - [Ripeey/Conversation-Pyrogram](https://github.com/Ripeey/Conversation-Pyrogram) - A conversation plugin class for pyrogram using inbuild Update Handlers
@@ -925,7 +927,7 @@
 - [Khodnevis-Research-Lab/khoshnevis](https://github.com/Khodnevis-Research-Lab/khoshnevis) - Khodnevis Normalizer: A Python library for Persian text preprocessing.
 - [NajmeHabibi/Context-aware-Persian-Spell-Checker-for-OCR-post-processing](https://github.com/NajmeHabibi/Context-aware-Persian-Spell-Checker-for-OCR-post-processing) - 
 - [dolph/dictionary](https://github.com/dolph/dictionary) - A list of the most popular English words.
-- [wkentaro/gdown](https://github.com/wkentaro/gdown) - Google Drive Public File/Folder Downloader (curl/wget fails due to the security notice).
+- [wkentaro/gdown](https://github.com/wkentaro/gdown) - Google Drive Public File Downloader when Curl/Wget Fails
 - [amirhoseinsb/musicfinder](https://github.com/amirhoseinsb/musicfinder) - A script to find and download music fast
 - [UNICT-Fake-Audio/fake-audio-detector](https://github.com/UNICT-Fake-Audio/fake-audio-detector) - Simple fake audio detector
 - [Coolshanlan/HighlightTranslator](https://github.com/Coolshanlan/HighlightTranslator) - Highlight Translator can help you to translate the words quickly and accurately. By only highlighting, copying, or screenshoting the content you want to translate anywhere on your computer (ex. PDF, P
@@ -1496,7 +1498,7 @@
 - [zavidnyi/telegram-scheduler-bot](https://github.com/zavidnyi/telegram-scheduler-bot) - Telegram Bot built with aiogram to schedule the events!
 - [notthebee/ytdl-explorer](https://github.com/notthebee/ytdl-explorer) - Download videos from YouTube/Twitch/Twitter right in the Windows Explorer, without installing any shady shareware apps
 - [SNFernandes24/AutomaticVideoUploader](https://github.com/SNFernandes24/AutomaticVideoUploader) - 
-- [crut0i/Beast_Bomber](https://github.com/crut0i/Beast_Bomber) - The best open source bomber
+- [un1cum/Beast_Bomber](https://github.com/un1cum/Beast_Bomber) - The best open source bomber
 - [ibrdrahim/telegram-auto-reply](https://github.com/ibrdrahim/telegram-auto-reply) - Python script using telethon for auto replying telegram message
 - [conquistadorjd/python-01-utilities](https://github.com/conquistadorjd/python-01-utilities) - python-01-utilities
 - [YaleDHLab/intertext](https://github.com/YaleDHLab/intertext) - Detect and visualize text reuse
