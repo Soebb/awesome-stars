@@ -439,7 +439,7 @@
 - [DeepLcom/deepl-python](https://github.com/DeepLcom/deepl-python) - Official Python library for the DeepL language translation API.
 - [adonistoday/deep-speech-app](https://github.com/adonistoday/deep-speech-app) - 
 - [nidhaloff/deep-translator](https://github.com/nidhaloff/deep-translator) - A flexible free and unlimited python tool to translate between different languages in a simple way using multiple translators.
-- [Soebb/own-utube-stream-link-gen](https://github.com/Soebb/own-utube-stream-link-gen) - A local Telegram bot to generate own youtube stream url
+- [Soebb/own-youtube-streaming](https://github.com/Soebb/own-youtube-streaming) - A local Telegram bot to generate own youtube stream url
 - [Soebb/thumb-change-bot](https://github.com/Soebb/thumb-change-bot) - A simple Telegram bot to change the videos thumbnail.
 - [Soebb/Persian-Spell-Corrector](https://github.com/Soebb/Persian-Spell-Corrector) - aka Farsi text corrector
 - [Soebb/persian-transcriber-bot](https://github.com/Soebb/persian-transcriber-bot) - Telegram bot to generate transcript from telegram/local files or YouTube URLs. (by mozilla deepspeech service)
@@ -1635,7 +1635,7 @@
 - [asweigart/pyautogui](https://github.com/asweigart/pyautogui) - A cross-platform GUI automation Python module for human beings. Used to programmatically control the mouse & keyboard.
 - [s18k/web_scraping_forall_info](https://github.com/s18k/web_scraping_forall_info) - A python program to scrap a webpage to gain meta information and all information about images,links,and text and export it to a csv file
 - [KiLJ4EdeN/Persian_Speech_To_Text](https://github.com/KiLJ4EdeN/Persian_Speech_To_Text) - Simple Speech to text prototype using google api
-- [nmaiss/bitcoin-wallet-bot](https://github.com/nmaiss/bitcoin-wallet-bot) - A telegram bot to create and manage a bitcoin wallet. Fast, open-source and commission-free !
+- [vm542/bitcoin-wallet-bot](https://github.com/vm542/bitcoin-wallet-bot) - A telegram bot to create and manage a bitcoin wallet. Fast, open-source and commission-free !
 - [imba-tjd/pip-autoremove](https://github.com/imba-tjd/pip-autoremove) - Remove a package and its unused dependencies.
 - [enjoysoftware/pip3-autoremove](https://github.com/enjoysoftware/pip3-autoremove) - Remove a package and its unused dependencies(Supports Python3)
 - [invl/pip-autoremove](https://github.com/invl/pip-autoremove) - Remove a package and its unused dependencies.
