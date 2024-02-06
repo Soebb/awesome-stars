@@ -1570,7 +1570,6 @@
 - [FichteFoll/resumeback](https://github.com/FichteFoll/resumeback) - Python module for using callbacks to resume your code
 - [Sangwan5688/Telegram-request-bot](https://github.com/Sangwan5688/Telegram-request-bot) - 
 - [Poolitzer/spotify_telegram_bio_updater](https://github.com/Poolitzer/spotify_telegram_bio_updater) - This userbot updates the biography of a telegram user according to their current spotify playback.
-- [solution-pool/Download-page-as-pdf](https://github.com/solution-pool/Download-page-as-pdf) - 
 - [kiwi0fruit/pyppdf](https://github.com/kiwi0fruit/pyppdf) - Pyppeteer PDF. Print html sites and files to pdf via pyppeteer (uses patched pyppeteer that by default downloads updated Chromium revision via https with certifi).
 - [aish2002/Movie-Info-Telegram-Bot](https://github.com/aish2002/Movie-Info-Telegram-Bot) - A telegram bot which scrapes IMDb website to get details on movies and TV shows
 - [anasty17/mirror-leech-telegram-bot](https://github.com/anasty17/mirror-leech-telegram-bot) - Official Repository: Telegram bot which can download direct links, torrents, google drive, telegram document, any file/folder from rclone supported clouds, all yt-dlp supported sites and jdownloader s
