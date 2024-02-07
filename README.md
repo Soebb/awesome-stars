@@ -421,6 +421,7 @@
 
 ## Python 
 
+- [SergeyPirogov/webdriver_manager](https://github.com/SergeyPirogov/webdriver_manager) - 
 - [Dicklesworthstone/bulk_transcribe_youtube_videos_from_playlist](https://github.com/Dicklesworthstone/bulk_transcribe_youtube_videos_from_playlist) - Easily take an entire YouTube playlist and turn it into high quality transcripts using Whisper.
 - [MhdiTaheri/Radiojavan-dl](https://github.com/MhdiTaheri/Radiojavan-dl) - Simpel Radiojavan Downloader Telegram BoT
 - [hydrogram/hydrogram](https://github.com/hydrogram/hydrogram) - Sleek, advanced, and asynchronous Telegram MTProto API framework in Python, designed for fluid user and bot interactions.
@@ -443,7 +444,7 @@
 - [Soebb/thumb-change-bot](https://github.com/Soebb/thumb-change-bot) - A simple Telegram bot to change the videos thumbnail.
 - [Soebb/Persian-Spell-Corrector](https://github.com/Soebb/Persian-Spell-Corrector) - aka Farsi text corrector
 - [Soebb/persian-transcriber-bot](https://github.com/Soebb/persian-transcriber-bot) - Telegram bot to generate transcript from telegram/local files or YouTube URLs. (by mozilla deepspeech service)
-- [lo3me/syncedlyrics](https://github.com/lo3me/syncedlyrics) - Get an LRC format (synchronized) lyrics for your music
+- [moehmeni/syncedlyrics](https://github.com/moehmeni/syncedlyrics) - Get an LRC format (synchronized) lyrics for your music
 - [SadeghKrmi/pertts-streamlit](https://github.com/SadeghKrmi/pertts-streamlit) - Persian text-to-speech streamlit interface
 - [TDHM/Subtitles-Translator](https://github.com/TDHM/Subtitles-Translator) - Automatic subtitles translation with a local neural machine translation model. No third-party service required: the translation is done locally with small but efficient neural network models.
 - [VikParuchuri/surya](https://github.com/VikParuchuri/surya) - Accurate line-level text detection and recognition (OCR) in any language
@@ -815,8 +816,8 @@
 - [ermakovpetr/tg_tqdm](https://github.com/ermakovpetr/tg_tqdm) - Extension for tqdm progressbar in Telegram
 - [EFord36/normalise](https://github.com/EFord36/normalise) - A module for normalising text.
 - [habitual69/cutimagebg_bot](https://github.com/habitual69/cutimagebg_bot) - Background Remover Bot. A Telegram bot that uses AI image processing to remove the background from images.
-- [lo3me/ezweb](https://github.com/lo3me/ezweb) - Easy to use web page analyzer
-- [lo3me/audiowave](https://github.com/lo3me/audiowave) - Generate a waveform image from an audio
+- [moehmeni/ezweb](https://github.com/moehmeni/ezweb) - Easy to use web page analyzer
+- [moehmeni/audiowave](https://github.com/moehmeni/audiowave) - Generate a waveform image from an audio
 - [gnai/Audio-Chunking-Tool](https://github.com/gnai/Audio-Chunking-Tool) - An audio tool using pydubs library with python to chunk your audio content into your desired length, and parameters to tune.
 - [jcavalin/earll_bot](https://github.com/jcavalin/earll_bot) - Earll is a telegram bot that helps you with some kinds of messages.
 - [0xdolan/pyroj](https://github.com/0xdolan/pyroj) - Converting Gregorian and Solar dates to Kurdish date
@@ -1564,7 +1565,6 @@
 - [rubenandre/youtube-dl](https://github.com/rubenandre/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [riz4d/TempMail-Bot](https://github.com/riz4d/TempMail-Bot) - A python oriented telegram bot for generating temporary Emails
 - [samadii/web2pdf-bot](https://github.com/samadii/web2pdf-bot) - A simple Telegram bot to download webpages as PDF
-- [sabamontazeri/selenium](https://github.com/sabamontazeri/selenium) - 
 - [diogenesc/shortcut-changelog-generator](https://github.com/diogenesc/shortcut-changelog-generator) - 
 - [GBakaev/twitter-telegram-forward](https://github.com/GBakaev/twitter-telegram-forward) - A Bot that Forwards Tweets to Telegram using Airtable as a database.
 - [FichteFoll/resumeback](https://github.com/FichteFoll/resumeback) - Python module for using callbacks to resume your code
@@ -2102,6 +2102,9 @@
 - [michaelb/auto-ytdl](https://github.com/michaelb/auto-ytdl) - Yet another youtube-dl wrapper, but auto-ytdl can automate your new music downloads better than ever
 - [nuhmanpk/pyDF-Bot](https://github.com/nuhmanpk/pyDF-Bot) - Pydf - Pyrogram Document File Bot, a modular Telegram Bot which provides Pdf Tools Works using Pypdf2
 - [shamilhabeebnelli/song-bot](https://github.com/shamilhabeebnelli/song-bot) - You can download youtube songs to MP3 from telegram #musics
+- [AmanoTeam/amanobot](https://github.com/AmanoTeam/amanobot) - Python framework for Telegram Bot API forked from Telepot.
+- [AmanoTeam/Unalix](https://github.com/AmanoTeam/Unalix) - Small, dependency-free, fast Python package for removing tracking fields from URLs.
+- [AmanoTeam/EduuRobot](https://github.com/AmanoTeam/EduuRobot) - EduuRobot Telegram bot source code.
 - [Liupold/demeter_dl](https://github.com/Liupold/demeter_dl) - Demeter_DL is a open source download manager. Built for speed, efficiency and comfort! Download YouTube videos directly! or use it in your project with API
 - [amirhoseinsalimi/music-tool-bot](https://github.com/amirhoseinsalimi/music-tool-bot) - The one and only Telegram bot you need to manage your music files
 - [atamakahere-git/ytadlbot](https://github.com/atamakahere-git/ytadlbot) - Youtube audio downloader telegram bot
