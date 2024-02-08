@@ -421,6 +421,9 @@
 
 ## Python 
 
+- [yeongbin-jo/python-chromedriver-autoinstaller](https://github.com/yeongbin-jo/python-chromedriver-autoinstaller) - The chromedriver auto installer for distribution.
+- [kaliiiiiiiiii/Selenium-Driverless](https://github.com/kaliiiiiiiiii/Selenium-Driverless) - undetected Selenium without usage of chromedriver
+- [umihico/pythonista-chromeless](https://github.com/umihico/pythonista-chromeless) - Serverless selenium which dynamically execute any given code.
 - [SergeyPirogov/webdriver_manager](https://github.com/SergeyPirogov/webdriver_manager) - 
 - [Dicklesworthstone/bulk_transcribe_youtube_videos_from_playlist](https://github.com/Dicklesworthstone/bulk_transcribe_youtube_videos_from_playlist) - Easily take an entire YouTube playlist and turn it into high quality transcripts using Whisper.
 - [MhdiTaheri/Radiojavan-dl](https://github.com/MhdiTaheri/Radiojavan-dl) - Simpel Radiojavan Downloader Telegram BoT
@@ -2371,6 +2374,7 @@
 
 ## Shell 
 
+- [scheib/chromium-latest-linux](https://github.com/scheib/chromium-latest-linux) - Scripts to download and run the latest Linux build of Chromium.  A substitute for Chrome Canary on Linux.
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 - [jontewks/puppeteer-heroku-buildpack](https://github.com/jontewks/puppeteer-heroku-buildpack) - Installs dependencies needed in order to run puppeteer on heroku.
 - [chameleon-lizard/webcp](https://github.com/chameleon-lizard/webcp) - Simple pastebin-like script. Can also handle photos, videos and any other files - it creates a page with a download link.
