@@ -421,6 +421,8 @@
 
 ## Python 
 
+- [victorjoh/hard-subs-to-srt](https://github.com/victorjoh/hard-subs-to-srt) - Creates an SRT file from a video file that has hardcoded subtitles
+- [Mayuri-Chan/pyrofork](https://github.com/Mayuri-Chan/pyrofork) - Pyrogram fork with Adjustable web page preview, Quote Reply, Story & Topics Support, Mongodb session storage, and much more. go to https://pyrofork.mayuri.my.id/ for documentation.
 - [yeongbin-jo/python-chromedriver-autoinstaller](https://github.com/yeongbin-jo/python-chromedriver-autoinstaller) - The chromedriver auto installer for distribution.
 - [kaliiiiiiiiii/Selenium-Driverless](https://github.com/kaliiiiiiiiii/Selenium-Driverless) - undetected Selenium without usage of chromedriver
 - [umihico/pythonista-chromeless](https://github.com/umihico/pythonista-chromeless) - Serverless selenium which dynamically execute any given code.
@@ -446,7 +448,7 @@
 - [Soebb/own-youtube-streaming](https://github.com/Soebb/own-youtube-streaming) - A local Telegram bot to generate own youtube stream url
 - [Soebb/thumb-change-bot](https://github.com/Soebb/thumb-change-bot) - A simple Telegram bot to change the videos thumbnail.
 - [Soebb/Persian-Spell-Corrector](https://github.com/Soebb/Persian-Spell-Corrector) - aka Farsi text corrector
-- [Soebb/persian-transcriber-bot](https://github.com/Soebb/persian-transcriber-bot) - Telegram bot to generate transcript from telegram/local files or YouTube URLs. (by mozilla deepspeech service)
+- [Soebb/persian-stt-bot](https://github.com/Soebb/persian-stt-bot) - Persian speech to text, Farsi voice recognition in telegram
 - [moehmeni/syncedlyrics](https://github.com/moehmeni/syncedlyrics) - Get an LRC format (synchronized) lyrics for your music
 - [SadeghKrmi/pertts-streamlit](https://github.com/SadeghKrmi/pertts-streamlit) - Persian text-to-speech streamlit interface
 - [TDHM/Subtitles-Translator](https://github.com/TDHM/Subtitles-Translator) - Automatic subtitles translation with a local neural machine translation model. No third-party service required: the translation is done locally with small but efficient neural network models.
@@ -2363,6 +2365,7 @@
 
 ## Ruby 
 
+- [Z-H-Sun/SubGen](https://github.com/Z-H-Sun/SubGen) - Semi-automatic extraction of hardcode subtitles
 - [heroku/heroku-buildpack-python](https://github.com/heroku/heroku-buildpack-python) - Heroku's buildpack for Python applications.
 - [devmaxxing/fireemblem-herobuilder](https://github.com/devmaxxing/fireemblem-herobuilder) - Hero builder for Fire Emblem Heroes
 
