@@ -421,6 +421,12 @@
 
 ## Python 
 
+- [dam-cav/img-to-pgs-sup](https://github.com/dam-cav/img-to-pgs-sup) - PGS SUP subtitle generator (Image sequences), useful companion of VideoSubFinder
+- [stunlocked1/beat-manipulator](https://github.com/stunlocked1/beat-manipulator) - beat swapping powered by AI
+- [rnnh/vaporiser](https://github.com/rnnh/vaporiser) - 🎵 Creates a vaporwave (slowed, with reverb) remix of a given MP3 file, with the option of playing over a looped GIF as a video.
+- [sakemin/cog-musicgen-remixer](https://github.com/sakemin/cog-musicgen-remixer) - Music remixer based on MusicGen-Chord
+- [PinkFloyded/video-ocr](https://github.com/PinkFloyded/video-ocr) - 
+- [Soebb/persian-tts-bot](https://github.com/Soebb/persian-tts-bot) - Persian ASR, farsi text to speech telegram bot
 - [victorjoh/hard-subs-to-srt](https://github.com/victorjoh/hard-subs-to-srt) - Creates an SRT file from a video file that has hardcoded subtitles
 - [Mayuri-Chan/pyrofork](https://github.com/Mayuri-Chan/pyrofork) - Pyrogram fork with Adjustable web page preview, Quote Reply, Story & Topics Support, Mongodb session storage, and much more. go to https://pyrofork.mayuri.my.id/ for documentation.
 - [yeongbin-jo/python-chromedriver-autoinstaller](https://github.com/yeongbin-jo/python-chromedriver-autoinstaller) - The chromedriver auto installer for distribution.
