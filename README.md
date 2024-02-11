@@ -421,6 +421,11 @@
 
 ## Python 
 
+- [hopeman1102/Video_OCR](https://github.com/hopeman1102/Video_OCR) - Extract hardcoded (burned-in) subtitles from videos using the Tesseract OCR engine with Python.
+- [obgnail/video-subtitle-extractor](https://github.com/obgnail/video-subtitle-extractor) - 提取视频硬字幕。采用 PaddleOCR。
+- [hooni238/persian-video-ocr](https://github.com/hooni238/persian-video-ocr) - Persian video ocr is a python code that performs OCR on video frames.
+- [torbjornbp/video-ocr2srt](https://github.com/torbjornbp/video-ocr2srt) - A simple script to extract text elements from video files
+- [yonatanrozin/OpenCV_OCR](https://github.com/yonatanrozin/OpenCV_OCR) - Performs OCR from webcam feed, image or video file.
 - [dam-cav/img-to-pgs-sup](https://github.com/dam-cav/img-to-pgs-sup) - PGS SUP subtitle generator (Image sequences), useful companion of VideoSubFinder
 - [stunlocked1/beat-manipulator](https://github.com/stunlocked1/beat-manipulator) - beat swapping powered by AI
 - [rnnh/vaporiser](https://github.com/rnnh/vaporiser) - 🎵 Creates a vaporwave (slowed, with reverb) remix of a given MP3 file, with the option of playing over a looped GIF as a video.
@@ -2319,7 +2324,6 @@
 - [radinghr/LTelegramBot](https://github.com/radinghr/LTelegramBot) - A simple bot that will help you to improve your English skills
 - [CrazyBotsz/Adv-Auto-Filter-Bot-V2](https://github.com/CrazyBotsz/Adv-Auto-Filter-Bot-V2) - An advance automatic filter bot for filtering files and media in a telegram chat
 - [subinps/Media-Search-bot](https://github.com/subinps/Media-Search-bot) - Inline bot for channels and groups
-- [silexxx/subtitle_bot](https://github.com/silexxx/subtitle_bot) - This telegram bot sends .srt back when you send an video to it.
 - [X-Gorn/MangaLoader](https://github.com/X-Gorn/MangaLoader) - Telegram bot to upload manga/comic to Telegram as PDF/ZIP or Folder (each chapter) | Uploaded as Zipfile
 - [samadii/telegram-robot-rss](https://github.com/samadii/telegram-robot-rss) - A clean and easy to use RSS Newsfeed Bot for fabulous Telegram Messenger App! Heroku deployable :robot: :envelope: :heart:
 - [xditya/ChannelAutoPost](https://github.com/xditya/ChannelAutoPost) - Telegram bot to auto post messages of one channel in another channel as soon as it is posted, without the forwarded tag.
