@@ -122,6 +122,7 @@
 - [divideprojects/RestrictChannelRobot](https://github.com/divideprojects/RestrictChannelRobot) - 🤖 Simple telegram Bot to ban Anonymous Channel 📢 users in a group.
 - [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
 - [Intaco/yt-audio-telegram-bot](https://github.com/Intaco/yt-audio-telegram-bot) - A simple youtube video-to-audio converter bot for telegram with chat filtering support
+- [EverythingSuckz/TG-FileStreamBot](https://github.com/EverythingSuckz/TG-FileStreamBot) - A telegram bot that will give instant stream links for telegram files without the need of waiting till the download completes.
 
 ## HCL 
 
@@ -166,6 +167,7 @@
 
 ## Java 
 
+- [PatrickAlex2019/ApkEditor](https://github.com/PatrickAlex2019/ApkEditor) - Used for APP reverse compilation, APK localization, APK cracking, APK signature...
 - [oussamabonnor1/TelegramClone](https://github.com/oussamabonnor1/TelegramClone) - JetGram is an open source desktop app Telegram clone made with JavaFx.
 - [OwlGramDev/OwlGram](https://github.com/OwlGramDev/OwlGram) - OwlGram is an unofficial messaging app that uses Telegram's API.
 - [jitnegii/Telegram-bot](https://github.com/jitnegii/Telegram-bot) - Telegram bot to download songs from Spotify and YouTube URL.
@@ -421,6 +423,10 @@
 
 ## Python 
 
+- [kastaid/pytel](https://github.com/kastaid/pytel) - PYTEL-Premium ( Multi Client )
+- [licksylick/AutoTrackAnything](https://github.com/licksylick/AutoTrackAnything) - AutoTrackAnything is a universal, flexible and interactive tool for insane automatic object tracking over thousands of frames. It is developed upon XMem, Yolov8 and MobileSAM (Segment Anything), can t
+- [tvey/youtube-playlist-duration](https://github.com/tvey/youtube-playlist-duration) - Are you gonna watch this? :boom:
+- [tvey/squeeze](https://github.com/tvey/squeeze) - The URL shortener
 - [hopeman1102/Video_OCR](https://github.com/hopeman1102/Video_OCR) - Extract hardcoded (burned-in) subtitles from videos using the Tesseract OCR engine with Python.
 - [obgnail/video-subtitle-extractor](https://github.com/obgnail/video-subtitle-extractor) - 提取视频硬字幕。采用 PaddleOCR。
 - [hooni238/persian-video-ocr](https://github.com/hooni238/persian-video-ocr) - Persian video ocr is a python code that performs OCR on video frames.
@@ -2309,7 +2315,6 @@
 - [Soebb/lang-detector-bot](https://github.com/Soebb/lang-detector-bot) - Telegram bot for language detection from Voice based on Silero VAD
 - [egorsmkv/lang-detector-bot](https://github.com/egorsmkv/lang-detector-bot) - Telegram bot for language detection from Voice based on Silero VAD
 - [AbirHasan2005/Message-Search-Bot](https://github.com/AbirHasan2005/Message-Search-Bot) - A Telegram Bot for searching any channel messages from Inline by @AbirHasan2005
-- [EverythingSuckz/TG-FileStreamBot](https://github.com/EverythingSuckz/TG-FileStreamBot) - A telegram bot that will give instant stream links for telegram files without the need of waiting till the download completes.
 - [jameelkaisar/AjmisT2S_bot](https://github.com/jameelkaisar/AjmisT2S_bot) - Ajmi's Text to Speech Bot created using gtts and pyrogram
 - [CodeXBotz/File-Sharing-Bot](https://github.com/CodeXBotz/File-Sharing-Bot) - Telegram Bot to store Posts and Documents and it can Access by Special Links.
 - [subinps/MusicPlayer](https://github.com/subinps/MusicPlayer) - Telegram Bot to play music in VoiceChat with Channel Support and autostarts Radio.
@@ -2375,6 +2380,7 @@
 
 ## Ruby 
 
+- [community/community](https://github.com/community/community) - Public feedback discussions for: GitHub Mobile, GitHub Discussions, GitHub Codespaces, GitHub Sponsors, GitHub Issues and more!
 - [Z-H-Sun/SubGen](https://github.com/Z-H-Sun/SubGen) - Semi-automatic extraction of hardcode subtitles
 - [heroku/heroku-buildpack-python](https://github.com/heroku/heroku-buildpack-python) - Heroku's buildpack for Python applications.
 - [devmaxxing/fireemblem-herobuilder](https://github.com/devmaxxing/fireemblem-herobuilder) - Hero builder for Fire Emblem Heroes
