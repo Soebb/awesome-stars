@@ -300,6 +300,7 @@
 
 ## Others 
 
+- [Sirosky/Upscale-Hub](https://github.com/Sirosky/Upscale-Hub) - A repository collecting image and video upscaling resources as well as my own super resolution models.
 - [wide-video/piper-wasm](https://github.com/wide-video/piper-wasm) - 
 - [Soebb/awesome-stars](https://github.com/Soebb/awesome-stars) - All the best python repositories in github.
 - [DmitryScaletta/free-heroku-alternatives](https://github.com/DmitryScaletta/free-heroku-alternatives) - Comparison of free Heroku alternatives for backend applications
@@ -423,6 +424,10 @@
 
 ## Python 
 
+- [kivy/python-for-android](https://github.com/kivy/python-for-android) - Turn your Python application into an Android APK
+- [inveniosoftware/dictdiffer](https://github.com/inveniosoftware/dictdiffer) - Dictdiffer is a module that helps you to diff and patch dictionaries.
+- [rochacbruno/flask-project-template](https://github.com/rochacbruno/flask-project-template) - DO NOT FORK, CLICK "Use this template" - A github template to start a Flask Project - this uses github actions to generate your project based on the template.
+- [kurtmckee/feedparser](https://github.com/kurtmckee/feedparser) - Parse feeds in Python
 - [sudoAlireza/GeminiBot](https://github.com/sudoAlireza/GeminiBot) - TelegramBot Tool to Interact with Google's Gemini AI Chatbot
 - [Soebb/persian-tts-bot](https://github.com/Soebb/persian-tts-bot) - Persian ASR, farsi text to speech telegram bot.
 - [kastaid/pytel](https://github.com/kastaid/pytel) - PYTEL-Premium ( Multi Client )
