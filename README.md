@@ -62,6 +62,7 @@
 
 ## C++ 
 
+- [gyroing/Ezafeh-detection-with-HAZM](https://github.com/gyroing/Ezafeh-detection-with-HAZM) - C++ wrappers of the Python's Hazm module
 - [rhasspy/piper](https://github.com/rhasspy/piper) - A fast, local neural text to speech system
 - [vapoursynth/vapoursynth](https://github.com/vapoursynth/vapoursynth) - A video processing framework with simplicity in mind
 - [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) - Speech-to-text, text-to-speech, and speaker recongition using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, Raspberry Pi, x86_64 servers, websock
@@ -130,6 +131,7 @@
 
 ## HTML 
 
+- [vitalets/github-trending-repos](https://github.com/vitalets/github-trending-repos) - Track GitHub trending repositories in your favorite programming language by native GitHub notifications!
 - [karim23657/Subtr](https://github.com/karim23657/Subtr) - This user-friendly tool seamlessly translates SRT and DFXP subtitles to any language, making it the ideal choice for handling subtitle sentence breaks across tracks. Experience the ease and accuracy o
 - [vabs/youtube-channel-name-converter](https://github.com/vabs/youtube-channel-name-converter) - Convert Youtube Channel Name To Channel ID
 - [ZapperDJ/DiogenesList](https://github.com/ZapperDJ/DiogenesList) - Multiplatform HTML directory listing creator
@@ -181,7 +183,6 @@
 
 - [karim23657/GAS-Telegram-bot](https://github.com/karim23657/GAS-Telegram-bot) - A base code that shows how to make a telegram bot on google app script
 - [justpy-org/justpy](https://github.com/justpy-org/justpy) - An object oriented high-level Python Web Framework that requires no frontend programming
-- [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
 - [tuhinpal/imdb-api](https://github.com/tuhinpal/imdb-api) - Serverless IMDB API powered by Cloudflare Worker
 - [webrecorder/pywb](https://github.com/webrecorder/pywb) - Core Python Web Archiving Toolkit for replay and recording of web archives
 - [AnotiaWang/AntiChannelSpammersBot](https://github.com/AnotiaWang/AntiChannelSpammersBot) - A Telegram bot that can delete messages from users appearing as channels, also messages from anonymous admins and the linked channels.
@@ -300,6 +301,8 @@
 
 ## Others 
 
+- [emijrp/awesome-awesome](https://github.com/emijrp/awesome-awesome) - A curated list of awesome curated lists of many topics.
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [Sirosky/Upscale-Hub](https://github.com/Sirosky/Upscale-Hub) - A repository collecting image and video upscaling resources as well as my own super resolution models.
 - [wide-video/piper-wasm](https://github.com/wide-video/piper-wasm) - 
 - [Soebb/awesome-stars](https://github.com/Soebb/awesome-stars) - All the best python repositories in github.
@@ -378,6 +381,7 @@
 
 ## PHP 
 
+- [danog/downloadRenameBot](https://github.com/danog/downloadRenameBot) - 2gb+ Telegram file/YouTube upload&renamer bot based on MadelineProto
 - [PBhadoo/Rapidleech](https://github.com/PBhadoo/Rapidleech) - 
 - [Smartproxy/Social-Media-Scraping-API](https://github.com/Smartproxy/Social-Media-Scraping-API) - Social Media Scraping API code examples for Python, PHP and Node.js
 - [alikm6/chToolsBot](https://github.com/alikm6/chToolsBot) - Telegram Bot to Help Channel Administrators
@@ -424,6 +428,7 @@
 
 ## Python 
 
+- [nuhmanpk/text2imagebot](https://github.com/nuhmanpk/text2imagebot) - A Telegram bot that is capable of running stable diffusion Models (Support all model from huggingface) and generate images based on user prompts. Loaded with 20 Models .
 - [kivy/python-for-android](https://github.com/kivy/python-for-android) - Turn your Python application into an Android APK
 - [inveniosoftware/dictdiffer](https://github.com/inveniosoftware/dictdiffer) - Dictdiffer is a module that helps you to diff and patch dictionaries.
 - [rochacbruno/flask-project-template](https://github.com/rochacbruno/flask-project-template) - DO NOT FORK, CLICK "Use this template" - A github template to start a Flask Project - this uses github actions to generate your project based on the template.
@@ -2448,6 +2453,7 @@
 - [viperadnan-git/telegram-forwarder-bot](https://github.com/viperadnan-git/telegram-forwarder-bot) - Forward Telegram messages between chats using pure Telegram Bot API and Webhooks
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 - [SpEcHiDe/ButtonHTMLBot](https://github.com/SpEcHiDe/ButtonHTMLBot) - https://ButtonHTMLBot.t.me
+- [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
 - [backmeupplz/archivelinksbot](https://github.com/backmeupplz/archivelinksbot) - Telegram bot that saves links to web archive
 - [arghyac35/aria-telegram-mirror-bot](https://github.com/arghyac35/aria-telegram-mirror-bot) - This is a fork of https://github.com/out386/aria-telegram-mirror-bot. A Telegram bot to download files via HTTP(S)/BitTorrent and upload them to Google Drive
 - [Qiamast/PersianWordle](https://github.com/Qiamast/PersianWordle) - "Persian Wordle" is a fun and challenging word puzzle game designed to improve your Persian vocabulary. Built with TypeScript, ReactJS, TailwindCSS, PostCSS, and a Persian word dictionary, this game o
