@@ -428,6 +428,8 @@
 
 ## Python 
 
+- [TheMaster3558/easycpp](https://github.com/TheMaster3558/easycpp) - A Python module to easily use code from C++ in Python.
+- [wlav/cppyy](https://github.com/wlav/cppyy) - 
 - [nuhmanpk/text2imagebot](https://github.com/nuhmanpk/text2imagebot) - A Telegram bot that is capable of running stable diffusion Models (Support all model from huggingface) and generate images based on user prompts. Loaded with 20 Models .
 - [kivy/python-for-android](https://github.com/kivy/python-for-android) - Turn your Python application into an Android APK
 - [inveniosoftware/dictdiffer](https://github.com/inveniosoftware/dictdiffer) - Dictdiffer is a module that helps you to diff and patch dictionaries.
