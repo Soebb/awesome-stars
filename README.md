@@ -428,6 +428,8 @@
 
 ## Python 
 
+- [jlw4049/HDR-Multi-Tool](https://github.com/jlw4049/HDR-Multi-Tool) - A graphical user interface for parsing HDR10+ and Dolby Vision
+- [py2exe/py2exe](https://github.com/py2exe/py2exe) - Create standalone Windows programs from Python code
 - [TheMaster3558/easycpp](https://github.com/TheMaster3558/easycpp) - A Python module to easily use code from C++ in Python.
 - [wlav/cppyy](https://github.com/wlav/cppyy) - 
 - [nuhmanpk/text2imagebot](https://github.com/nuhmanpk/text2imagebot) - A Telegram bot that is capable of running stable diffusion Models (Support all model from huggingface) and generate images based on user prompts. Loaded with 20 Models .
@@ -781,7 +783,7 @@
 - [dataplayer12/shavenet](https://github.com/dataplayer12/shavenet) - Predict when you last shaved with machine learning
 - [woefe/ytcc](https://github.com/woefe/ytcc) - Command line tool to keep track of your favorite playlists on YouTube and many other places.
 - [newtoallofthis123/ytps](https://github.com/newtoallofthis123/ytps) - A Beautiful YouTube Search CLI
-- [kanjieater/SubPlease](https://github.com/kanjieater/SubPlease) - 🫴 Generate accurate subtitles from audio, align existing subs to videos, generate your own Kindle's Immersion Reading like audiobook subs 📖🎧
+- [kanjieater/SubPlease](https://github.com/kanjieater/SubPlease) - 🫴 Generate accurate subtitles from audio, align existing subs to videos, generate your own Kindle's Immersion Reading like audiobook subs (Currently Japanese only) 📖🎧
 - [namngh/auto-gui](https://github.com/namngh/auto-gui) - Better auto GUI
 - [theovercomer8/captionr](https://github.com/theovercomer8/captionr) - GIT/BLIP/CLIP Caption tool
 - [rapidfuzz/JaroWinkler](https://github.com/rapidfuzz/JaroWinkler) - Python library for fast approximate string matching using Jaro and Jaro-Winkler similarity
@@ -1669,7 +1671,7 @@
 - [asweigart/pyautogui](https://github.com/asweigart/pyautogui) - A cross-platform GUI automation Python module for human beings. Used to programmatically control the mouse & keyboard.
 - [s18k/web_scraping_forall_info](https://github.com/s18k/web_scraping_forall_info) - A python program to scrap a webpage to gain meta information and all information about images,links,and text and export it to a csv file
 - [KiLJ4EdeN/Persian_Speech_To_Text](https://github.com/KiLJ4EdeN/Persian_Speech_To_Text) - Simple Speech to text prototype using google api
-- [nmaiss/bitcoin-wallet-bot](https://github.com/nmaiss/bitcoin-wallet-bot) - A telegram bot to create and manage a bitcoin wallet. Fast, open-source and commission-free !
+- [vm542/bitcoin-wallet-bot](https://github.com/vm542/bitcoin-wallet-bot) - A telegram bot to create and manage a bitcoin wallet. Fast, open-source and commission-free !
 - [imba-tjd/pip-autoremove](https://github.com/imba-tjd/pip-autoremove) - Remove a package and its unused dependencies.
 - [enjoysoftware/pip3-autoremove](https://github.com/enjoysoftware/pip3-autoremove) - Remove a package and its unused dependencies(Supports Python3)
 - [invl/pip-autoremove](https://github.com/invl/pip-autoremove) - Remove a package and its unused dependencies.
