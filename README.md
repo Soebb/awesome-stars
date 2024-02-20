@@ -301,6 +301,7 @@
 
 ## Others 
 
+- [mazipan/auto-commit](https://github.com/mazipan/auto-commit) - 🌳 Making green your Github stats, powered by Github Actions
 - [emijrp/awesome-awesome](https://github.com/emijrp/awesome-awesome) - A curated list of awesome curated lists of many topics.
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [Sirosky/Upscale-Hub](https://github.com/Sirosky/Upscale-Hub) - A repository collecting image and video upscaling resources as well as my own super resolution models.
@@ -428,6 +429,13 @@
 
 ## Python 
 
+- [Azornes/ocrTranslator](https://github.com/Azornes/ocrTranslator) - Convert captured images to text using BaiduOCR, GoogleOCR, WindowsOCR, tesseractOCR, RapidOCR or Capture2Text, and translate the resulting text using Google, Chatgpt, Edgegpt, DeepL or many more. Desk
+- [theFest/python-scripts](https://github.com/theFest/python-scripts) - Python | {educational content}
+- [Fadi002/de4py](https://github.com/Fadi002/de4py) - toolkit for python reverse engineering
+- [Abyys001/TranslatorBot](https://github.com/Abyys001/TranslatorBot) - Convert your English texts to Farsi and your Farsi texts to English using Telegram bot
+- [nabidam/harzad_bot](https://github.com/nabidam/harzad_bot) - 
+- [nabidam/persian-names](https://github.com/nabidam/persian-names) - Persian names dataset
+- [RZ98/FarsiPDF](https://github.com/RZ98/FarsiPDF) - Generate PDF with Farsi Texts
 - [jlw4049/HDR-Multi-Tool](https://github.com/jlw4049/HDR-Multi-Tool) - A graphical user interface for parsing HDR10+ and Dolby Vision
 - [py2exe/py2exe](https://github.com/py2exe/py2exe) - Create standalone Windows programs from Python code
 - [TheMaster3558/easycpp](https://github.com/TheMaster3558/easycpp) - A Python module to easily use code from C++ in Python.
@@ -600,7 +608,7 @@
 - [amirhoseinsb/Cloud_Player_V2](https://github.com/amirhoseinsb/Cloud_Player_V2) - You can use the cloudplayer tool to listen to the music of the singer you want without going to a specific website and at a very high speed.
 - [viperadnan-git/bdsm-typer](https://github.com/viperadnan-git/bdsm-typer) - Auto typing tool to paste texts on software where pasting text is not allowed. Made for desktop.
 - [m1guelpf/yt-whisper](https://github.com/m1guelpf/yt-whisper) - Using OpenAI's Whisper to automatically generate YouTube subtitles
-- [yoshiko2/Movie_Data_Capture](https://github.com/yoshiko2/Movie_Data_Capture) - Local Movies Organizer
+- [mvdctop/Movie_Data_Capture](https://github.com/mvdctop/Movie_Data_Capture) - Local Movies Organizer
 - [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
 - [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - ✨ Build AI interfaces that spark joy
 - [Textualize/frogmouth](https://github.com/Textualize/frogmouth) - A Markdown browser for your terminal
@@ -1932,7 +1940,6 @@
 - [hazybluedot/ffmpeg_split](https://github.com/hazybluedot/ffmpeg_split) - Split a video file using ffmpeg into separate audio-only and video-only segments based on an input file containg start/end times of each segment
 - [Nguh-Prince/video_trimmer](https://github.com/Nguh-Prince/video_trimmer) - a python script that trims a video file from arguments passed via the command line
 - [lcaputo/video_trimmer](https://github.com/lcaputo/video_trimmer) - Trim a video into multiple parts.
-- [Saadelk/youtube_trim](https://github.com/Saadelk/youtube_trim) - Python script that enables you to download a youtube video , and also a trimmed version of it.
 - [mrismanaziz/Scrap-Man](https://github.com/mrismanaziz/Scrap-Man) - Bot Scrap APP ID and API HASH Telegram
 - [tsweet64/vtrim](https://github.com/tsweet64/vtrim) - A Python script to trim silent parts from videos
 - [dmingn/vtrim](https://github.com/dmingn/vtrim) - A python script to trim a video using ffmpeg.
@@ -2486,6 +2493,7 @@
 
 ## Visual Basic .NET 
 
+- [AAndyProgram/SCrawler](https://github.com/AAndyProgram/SCrawler) - 🏳️‍🌈 Media downloader from any sites, including Twitter, Reddit, Instagram, Threads, Facebook, OnlyFans, YouTube, Pinterest, PornHub, XHamster, XVIDEOS, ThisVid etc.
 - [staxrip/staxrip](https://github.com/staxrip/staxrip) - 🎞 Video encoding GUI for Windows.
 
 
