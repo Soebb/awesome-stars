@@ -429,6 +429,7 @@
 
 ## Python 
 
+- [NotCookey/Quote2Image](https://github.com/NotCookey/Quote2Image) - Quote2Image is a python library for turning text quotes into graphical images
 - [Azornes/ocrTranslator](https://github.com/Azornes/ocrTranslator) - Convert captured images to text using BaiduOCR, GoogleOCR, WindowsOCR, tesseractOCR, RapidOCR or Capture2Text, and translate the resulting text using Google, Chatgpt, Edgegpt, DeepL or many more. Desk
 - [theFest/python-scripts](https://github.com/theFest/python-scripts) - Python | {educational content}
 - [Fadi002/de4py](https://github.com/Fadi002/de4py) - toolkit for python reverse engineering
@@ -1132,7 +1133,6 @@
 - [raryelcostasouza/pyTranscriber](https://github.com/raryelcostasouza/pyTranscriber) - pyTranscriber can be used to generate automatic transcription / automatic subtitles for audio/video files through a friendly graphical user interface.
 - [pandamoon21/pythOCR](https://github.com/pandamoon21/pythOCR) - 
 - [baconismycopilot/imgconvert](https://github.com/baconismycopilot/imgconvert) - 
-- [AliRn76/rubika-bot](https://github.com/AliRn76/rubika-bot) - Rubika Bot Library
 - [Latand/Passcypher_bot](https://github.com/Latand/Passcypher_bot) - Bot for password and files encryption in Telegram
 - [allerter/spotify-telegram-sync](https://github.com/allerter/spotify-telegram-sync) - A userbot that syncs your Spotify playlist with your Telegram channel, and displays your current playback on Telegram.
 - [allerter/geniust](https://github.com/allerter/geniust) - A Telegram bot that provides song and album lyrics along with their annotations on Genius.
@@ -1145,7 +1145,6 @@
 - [kryzhikov/Pixit](https://github.com/kryzhikov/Pixit) - 
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
 - [baychimo/pictobot](https://github.com/baychimo/pictobot) - A chatbot to use as a basic universal translator. If you can't say it, show it!
-- [0xallie/telegram-logger](https://github.com/0xallie/telegram-logger) - Telegram chat logger
 - [fasilminale/ExportTelegramUsers](https://github.com/fasilminale/ExportTelegramUsers) - A Python script that exports users from one Telegram group to another using one or more concurrent user bots.
 - [camelot-dev/camelot](https://github.com/camelot-dev/camelot) - A Python library to extract tabular data from PDFs
 - [AndreMiras/tubedl](https://github.com/AndreMiras/tubedl) - Online video downloader
@@ -2415,6 +2414,7 @@
 
 ## Shell 
 
+- [unixorn/git-extra-commands](https://github.com/unixorn/git-extra-commands) - A collection of git utilities, useful extra git scripts, tutorials and other useful articles.
 - [scheib/chromium-latest-linux](https://github.com/scheib/chromium-latest-linux) - Scripts to download and run the latest Linux build of Chromium.  A substitute for Chrome Canary on Linux.
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 - [jontewks/puppeteer-heroku-buildpack](https://github.com/jontewks/puppeteer-heroku-buildpack) - Installs dependencies needed in order to run puppeteer on heroku.
