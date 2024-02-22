@@ -62,6 +62,7 @@
 
 ## C++ 
 
+- [GuFFy12/CPP-to-Python-Syntax](https://github.com/GuFFy12/CPP-to-Python-Syntax) - 😎 Reformatting cpp code like a boss
 - [gyroing/Ezafeh-detection-with-HAZM](https://github.com/gyroing/Ezafeh-detection-with-HAZM) - C++ wrappers of the Python's Hazm module
 - [rhasspy/piper](https://github.com/rhasspy/piper) - A fast, local neural text to speech system
 - [vapoursynth/vapoursynth](https://github.com/vapoursynth/vapoursynth) - A video processing framework with simplicity in mind
@@ -301,6 +302,7 @@
 
 ## Others 
 
+- [aso-mehmudi/Kurdish-keyboard-layouts](https://github.com/aso-mehmudi/Kurdish-keyboard-layouts) - Keyboard layout for typing Kurdish language
 - [mazipan/auto-commit](https://github.com/mazipan/auto-commit) - 🌳 Making green your Github stats, powered by Github Actions
 - [emijrp/awesome-awesome](https://github.com/emijrp/awesome-awesome) - A curated list of awesome curated lists of many topics.
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
@@ -429,6 +431,9 @@
 
 ## Python 
 
+- [cbrunet/python-poppler](https://github.com/cbrunet/python-poppler) - Python binding to Poppler-cpp pdf library
+- [python-jsonschema/jsonschema](https://github.com/python-jsonschema/jsonschema) - An implementation of the JSON Schema specification for Python
+- [AsoSoft/AsoSoft-Library-py](https://github.com/AsoSoft/AsoSoft-Library-py) - AsoSoft's Library for Kurdish language processing tasks in python
 - [NotCookey/Quote2Image](https://github.com/NotCookey/Quote2Image) - Quote2Image is a python library for turning text quotes into graphical images
 - [Azornes/ocrTranslator](https://github.com/Azornes/ocrTranslator) - Convert captured images to text using BaiduOCR, GoogleOCR, WindowsOCR, tesseractOCR, RapidOCR or Capture2Text, and translate the resulting text using Google, Chatgpt, Edgegpt, DeepL or many more. Desk
 - [theFest/python-scripts](https://github.com/theFest/python-scripts) - Python | {educational content}
