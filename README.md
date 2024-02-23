@@ -62,6 +62,7 @@
 
 ## C++ 
 
+- [mmdii/cpp-to-python-pkg](https://github.com/mmdii/cpp-to-python-pkg) - 
 - [GuFFy12/CPP-to-Python-Syntax](https://github.com/GuFFy12/CPP-to-Python-Syntax) - 😎 Reformatting cpp code like a boss
 - [gyroing/Ezafeh-detection-with-HAZM](https://github.com/gyroing/Ezafeh-detection-with-HAZM) - C++ wrappers of the Python's Hazm module
 - [rhasspy/piper](https://github.com/rhasspy/piper) - A fast, local neural text to speech system
@@ -431,6 +432,7 @@
 
 ## Python 
 
+- [hsajjad14/Python-to-Cpp-compiler](https://github.com/hsajjad14/Python-to-Cpp-compiler) - Python to C++ compiler
 - [cbrunet/python-poppler](https://github.com/cbrunet/python-poppler) - Python binding to Poppler-cpp pdf library
 - [python-jsonschema/jsonschema](https://github.com/python-jsonschema/jsonschema) - An implementation of the JSON Schema specification for Python
 - [AsoSoft/AsoSoft-Library-py](https://github.com/AsoSoft/AsoSoft-Library-py) - AsoSoft's Library for Kurdish language processing tasks in python
@@ -531,7 +533,7 @@
 - [karim23657/AparatUploader](https://github.com/karim23657/AparatUploader) - Upload videos to Aparat , very fast ,  just using browser cookies
 - [Energetic3906/m3u8DL_tgbot](https://github.com/Energetic3906/m3u8DL_tgbot) - 
 - [TomSchimansky/CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) - A modern and customizable python UI-library based on Tkinter
-- [m-jishnu/pypdl](https://github.com/m-jishnu/pypdl) - A concurrent python downloader with resume capablities
+- [mjishnu/pypdl](https://github.com/mjishnu/pypdl) - A concurrent python downloader with resume capablities
 - [putkoff/Python-Tools](https://github.com/putkoff/Python-Tools) - A repository for python functions that can help make things a little easier
 - [bipinkrish/Zlibrary-API](https://github.com/bipinkrish/Zlibrary-API) - Unofficial Python wrapper for the Zlibrary API.
 - [Maimonator/telewrap](https://github.com/Maimonator/telewrap) - A script that wraps cmdline executable with a telegram bot
@@ -1712,7 +1714,7 @@
 - [harrypython/fb-regex-scraper](https://github.com/harrypython/fb-regex-scraper) - Scrape Facebook Public Group Posts without using Facebook API using Selenium.
 - [jmcarp/robobrowser](https://github.com/jmcarp/robobrowser) - 
 - [lorien/grab](https://github.com/lorien/grab) - Web Scraping Framework
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
 - [slashmili/django-jalali](https://github.com/slashmili/django-jalali) - Jalali DateField support for Django model
 - [slashmili/python-jalali](https://github.com/slashmili/python-jalali) - Jalali calendar binding for Python based on Python's datetime module
 - [expectocode/telegram-export](https://github.com/expectocode/telegram-export) - Export Telegram chat data and history
