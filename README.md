@@ -303,6 +303,7 @@
 
 ## Others 
 
+- [cdleon/awesome-terminals](https://github.com/cdleon/awesome-terminals) - Terminal Emulators
 - [aso-mehmudi/Kurdish-keyboard-layouts](https://github.com/aso-mehmudi/Kurdish-keyboard-layouts) - Keyboard layout for typing Kurdish language
 - [mazipan/auto-commit](https://github.com/mazipan/auto-commit) - 🌳 Making green your Github stats, powered by Github Actions
 - [emijrp/awesome-awesome](https://github.com/emijrp/awesome-awesome) - A curated list of awesome curated lists of many topics.
@@ -432,6 +433,7 @@
 
 ## Python 
 
+- [mallorbc/whisper_mic](https://github.com/mallorbc/whisper_mic) - Project that allows one to use a microphone with OpenAI whisper.
 - [hsajjad14/Python-to-Cpp-compiler](https://github.com/hsajjad14/Python-to-Cpp-compiler) - Python to C++ compiler
 - [cbrunet/python-poppler](https://github.com/cbrunet/python-poppler) - Python binding to Poppler-cpp pdf library
 - [python-jsonschema/jsonschema](https://github.com/python-jsonschema/jsonschema) - An implementation of the JSON Schema specification for Python
