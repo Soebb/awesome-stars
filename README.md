@@ -183,6 +183,7 @@
 
 ## JavaScript 
 
+- [gyroing/Persian-Piper-TTS-WebAssembly](https://github.com/gyroing/Persian-Piper-TTS-WebAssembly) - WebAssembly Sherpa ONNX TTS for Persian language based on PIPER Model
 - [karim23657/GAS-Telegram-bot](https://github.com/karim23657/GAS-Telegram-bot) - A base code that shows how to make a telegram bot on google app script
 - [justpy-org/justpy](https://github.com/justpy-org/justpy) - An object oriented high-level Python Web Framework that requires no frontend programming
 - [tuhinpal/imdb-api](https://github.com/tuhinpal/imdb-api) - Serverless IMDB API powered by Cloudflare Worker
@@ -460,7 +461,7 @@
 - [kastaid/pytel](https://github.com/kastaid/pytel) - PYTEL-Premium ( Multi Client )
 - [licksylick/AutoTrackAnything](https://github.com/licksylick/AutoTrackAnything) - AutoTrackAnything is a universal, flexible and interactive tool for insane automatic object tracking over thousands of frames. It is developed upon XMem, Yolov8 and MobileSAM (Segment Anything), can t
 - [tvey/youtube-playlist-duration](https://github.com/tvey/youtube-playlist-duration) - Are you gonna watch this? :boom:
-- [tvey/squeeze](https://github.com/tvey/squeeze) - The URL shortener
+- [tvey/synk](https://github.com/tvey/synk) - The URL shortener
 - [hopeman1102/Video_OCR](https://github.com/hopeman1102/Video_OCR) - Extract hardcoded (burned-in) subtitles from videos using the Tesseract OCR engine with Python.
 - [obgnail/video-subtitle-extractor](https://github.com/obgnail/video-subtitle-extractor) - 提取视频硬字幕。采用 PaddleOCR。
 - [hooni238/persian-video-ocr](https://github.com/hooni238/persian-video-ocr) - Persian video ocr is a python code that performs OCR on video frames.
