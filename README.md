@@ -183,6 +183,7 @@
 
 ## JavaScript 
 
+- [DavidCks/piper-wasm](https://github.com/DavidCks/piper-wasm) - 
 - [gyroing/Persian-Piper-TTS-WebAssembly](https://github.com/gyroing/Persian-Piper-TTS-WebAssembly) - WebAssembly Sherpa ONNX TTS for Persian language based on PIPER Model
 - [karim23657/GAS-Telegram-bot](https://github.com/karim23657/GAS-Telegram-bot) - A base code that shows how to make a telegram bot on google app script
 - [justpy-org/justpy](https://github.com/justpy-org/justpy) - An object oriented high-level Python Web Framework that requires no frontend programming
@@ -434,6 +435,7 @@
 
 ## Python 
 
+- [editorconfig/editorconfig-core-py](https://github.com/editorconfig/editorconfig-core-py) - Clone of EditorConfig core written in Python
 - [mallorbc/whisper_mic](https://github.com/mallorbc/whisper_mic) - Project that allows one to use a microphone with OpenAI whisper.
 - [hsajjad14/Python-to-Cpp-compiler](https://github.com/hsajjad14/Python-to-Cpp-compiler) - Python to C++ compiler
 - [cbrunet/python-poppler](https://github.com/cbrunet/python-poppler) - Python binding to Poppler-cpp pdf library
@@ -1935,7 +1937,7 @@
 - [derpferpmerp/ffmpeg-combine-directory](https://github.com/derpferpmerp/ffmpeg-combine-directory) - Combine all videos in current directory (Print out MP4Box Command)
 - [avilash/TikTokAPI-Python](https://github.com/avilash/TikTokAPI-Python) - TikTok API Python Wrapper
 - [subzeroid/instagrapi](https://github.com/subzeroid/instagrapi) - 🔥 The fastest and powerful Python library for Instagram Private API 2024
-- [yashrathi-git/vimeo_downloader](https://github.com/yashrathi-git/vimeo_downloader) - Downloads Vimeo videos and retrieve metadata such as views, likes, comments, duration of the video.
+- [yashrathi-git/vimeo-dl](https://github.com/yashrathi-git/vimeo-dl) - Downloads Vimeo videos and retrieve metadata such as views, likes, comments, duration of the video.
 - [Ousret/charset_normalizer](https://github.com/Ousret/charset_normalizer) - Truly universal encoding detector in pure Python
 - [RincemonReji/RSS-Feed](https://github.com/RincemonReji/RSS-Feed) - 
 - [piyx/YoutubeSpotifyDL](https://github.com/piyx/YoutubeSpotifyDL) - Youtube and Spotify music downloader with metadata.
