@@ -65,6 +65,7 @@
 - [mmdii/cpp-to-python-pkg](https://github.com/mmdii/cpp-to-python-pkg) - 
 - [GuFFy12/CPP-to-Python-Syntax](https://github.com/GuFFy12/CPP-to-Python-Syntax) - 😎 Reformatting cpp code like a boss
 - [gyroing/Ezafeh-detection-with-HAZM](https://github.com/gyroing/Ezafeh-detection-with-HAZM) - C++ wrappers of the Python's Hazm module
+- [Soebb/persian-tts-bot](https://github.com/Soebb/persian-tts-bot) - Persian ASR, farsi text to speech telegram bot.
 - [rhasspy/piper](https://github.com/rhasspy/piper) - A fast, local neural text to speech system
 - [vapoursynth/vapoursynth](https://github.com/vapoursynth/vapoursynth) - A video processing framework with simplicity in mind
 - [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) - Speech-to-text, text-to-speech, and speaker recongition using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, Raspberry Pi, x86_64 servers, websock
@@ -435,15 +436,17 @@
 
 ## Python 
 
+- [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3) - Offline Text To Speech synthesis for python
+- [mborsetti/webchanges](https://github.com/mborsetti/webchanges) - webchanges checks web content and notifies you via e-mail (or one of many other supported services) if a change is detected. webchanges can also check the output of local commands. The notification in
+- [DeeepMaker/subtitle-to-audio](https://github.com/DeeepMaker/subtitle-to-audio) - A python script to generate .wav audio files for .srt subtitle files
 - [editorconfig/editorconfig-core-py](https://github.com/editorconfig/editorconfig-core-py) - Clone of EditorConfig core written in Python
 - [mallorbc/whisper_mic](https://github.com/mallorbc/whisper_mic) - Project that allows one to use a microphone with OpenAI whisper.
-- [hsajjad14/Python-to-Cpp-compiler](https://github.com/hsajjad14/Python-to-Cpp-compiler) - Python to C++ compiler
 - [cbrunet/python-poppler](https://github.com/cbrunet/python-poppler) - Python binding to Poppler-cpp pdf library
 - [python-jsonschema/jsonschema](https://github.com/python-jsonschema/jsonschema) - An implementation of the JSON Schema specification for Python
 - [AsoSoft/AsoSoft-Library-py](https://github.com/AsoSoft/AsoSoft-Library-py) - AsoSoft's Library for Kurdish language processing tasks in python
 - [NotCookey/Quote2Image](https://github.com/NotCookey/Quote2Image) - Quote2Image is a python library for turning text quotes into graphical images
 - [Azornes/ocrTranslator](https://github.com/Azornes/ocrTranslator) - Convert captured images to text using BaiduOCR, GoogleOCR, WindowsOCR, tesseractOCR, RapidOCR or Capture2Text, and translate the resulting text using Google, Chatgpt, Edgegpt, DeepL or many more. Desk
-- [theFest/python-scripts](https://github.com/theFest/python-scripts) - Python | {educational content}
+- [theFest/python-scripts](https://github.com/theFest/python-scripts) - py2/py3 | {educational content}
 - [Fadi002/de4py](https://github.com/Fadi002/de4py) - toolkit for python reverse engineering
 - [Abyys001/TranslatorBot](https://github.com/Abyys001/TranslatorBot) - Convert your English texts to Farsi and your Farsi texts to English using Telegram bot
 - [nabidam/harzad_bot](https://github.com/nabidam/harzad_bot) - 
@@ -459,7 +462,6 @@
 - [rochacbruno/flask-project-template](https://github.com/rochacbruno/flask-project-template) - DO NOT FORK, CLICK "Use this template" - A github template to start a Flask Project - this uses github actions to generate your project based on the template.
 - [kurtmckee/feedparser](https://github.com/kurtmckee/feedparser) - Parse feeds in Python
 - [sudoAlireza/GeminiBot](https://github.com/sudoAlireza/GeminiBot) - TelegramBot Tool to Interact with Google's Gemini AI Chatbot
-- [Soebb/persian-tts-bot](https://github.com/Soebb/persian-tts-bot) - Persian ASR, farsi text to speech telegram bot.
 - [kastaid/pytel](https://github.com/kastaid/pytel) - PYTEL-Premium ( Multi Client )
 - [licksylick/AutoTrackAnything](https://github.com/licksylick/AutoTrackAnything) - AutoTrackAnything is a universal, flexible and interactive tool for insane automatic object tracking over thousands of frames. It is developed upon XMem, Yolov8 and MobileSAM (Segment Anything), can t
 - [tvey/youtube-playlist-duration](https://github.com/tvey/youtube-playlist-duration) - Are you gonna watch this? :boom:
@@ -797,7 +799,7 @@
 - [venthur/gscholar](https://github.com/venthur/gscholar) - Query Google Scholar with Python
 - [Nv7-GitHub/googlesearch](https://github.com/Nv7-GitHub/googlesearch) - A Python library for scraping the Google search engine.
 - [opsdisk/yagooglesearch](https://github.com/opsdisk/yagooglesearch) - Yet another googlesearch - A Python library for executing intelligent, realistic-looking, and tunable Google searches.
-- [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex (formerly GPT Index) is a data framework for your LLM applications
+- [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is a data framework for your LLM applications
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
 - [najafiseo/OpenAI-tool](https://github.com/najafiseo/OpenAI-tool) - This is a tool that you can use to do different things, such as writing articles in bulk
 - [ninjakx/youtube-video2ppt](https://github.com/ninjakx/youtube-video2ppt) - Turning the video explanation to ppt using opencv.
