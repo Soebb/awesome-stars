@@ -39,6 +39,7 @@
 
 ## C 
 
+- [livingbio/typed-ffmpeg](https://github.com/livingbio/typed-ffmpeg) - Modern Python FFmpeg wrappers offer comprehensive support for complex filters, complete with detailed typing and documentation.
 - [norihiro/alignaudio](https://github.com/norihiro/alignaudio) - a tool to align audio files
 - [gpac/gpac](https://github.com/gpac/gpac) - GPAC Ultramedia OSS for Video Streaming & Next-Gen Multimedia Transcoding, Packaging & Delivery
 - [TheZoc/sub3dtool](https://github.com/TheZoc/sub3dtool) - Convert subtitle to 3D (ASS Format) to use with VLC or MPlayer
@@ -65,7 +66,6 @@
 - [mmdii/cpp-to-python-pkg](https://github.com/mmdii/cpp-to-python-pkg) - 
 - [GuFFy12/CPP-to-Python-Syntax](https://github.com/GuFFy12/CPP-to-Python-Syntax) - 😎 Reformatting cpp code like a boss
 - [gyroing/Ezafeh-detection-with-HAZM](https://github.com/gyroing/Ezafeh-detection-with-HAZM) - C++ wrappers of the Python's Hazm module
-- [Soebb/persian-tts-bot](https://github.com/Soebb/persian-tts-bot) - Persian ASR, farsi text to speech telegram bot.
 - [rhasspy/piper](https://github.com/rhasspy/piper) - A fast, local neural text to speech system
 - [vapoursynth/vapoursynth](https://github.com/vapoursynth/vapoursynth) - A video processing framework with simplicity in mind
 - [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) - Speech-to-text, text-to-speech, and speaker recongition using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, Raspberry Pi, x86_64 servers, websock
@@ -436,6 +436,7 @@
 
 ## Python 
 
+- [kcarnold/fixwav](https://github.com/kcarnold/fixwav) - Quick utility to fix WAV files with incorrect lengths
 - [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3) - Offline Text To Speech synthesis for python
 - [mborsetti/webchanges](https://github.com/mborsetti/webchanges) - webchanges checks web content and notifies you via e-mail (or one of many other supported services) if a change is detected. webchanges can also check the output of local commands. The notification in
 - [DeeepMaker/subtitle-to-audio](https://github.com/DeeepMaker/subtitle-to-audio) - A python script to generate .wav audio files for .srt subtitle files
@@ -462,6 +463,7 @@
 - [rochacbruno/flask-project-template](https://github.com/rochacbruno/flask-project-template) - DO NOT FORK, CLICK "Use this template" - A github template to start a Flask Project - this uses github actions to generate your project based on the template.
 - [kurtmckee/feedparser](https://github.com/kurtmckee/feedparser) - Parse feeds in Python
 - [sudoAlireza/GeminiBot](https://github.com/sudoAlireza/GeminiBot) - TelegramBot Tool to Interact with Google's Gemini AI Chatbot
+- [Soebb/persian-tts-bot](https://github.com/Soebb/persian-tts-bot) - Persian ASR, farsi text to speech telegram bot.
 - [kastaid/pytel](https://github.com/kastaid/pytel) - PYTEL-Premium ( Multi Client )
 - [licksylick/AutoTrackAnything](https://github.com/licksylick/AutoTrackAnything) - AutoTrackAnything is a universal, flexible and interactive tool for insane automatic object tracking over thousands of frames. It is developed upon XMem, Yolov8 and MobileSAM (Segment Anything), can t
 - [tvey/youtube-playlist-duration](https://github.com/tvey/youtube-playlist-duration) - Are you gonna watch this? :boom:
@@ -633,7 +635,7 @@
 - [ar-ekt/Google-Translator-Bot](https://github.com/ar-ekt/Google-Translator-Bot) - Telegram bot to translate messages and files
 - [ar-ekt/IncognitoBot](https://github.com/ar-ekt/IncognitoBot) - یه بات تلگرام که پیام‌ها رو به‌صورت ناشناس داخل کانال قرار میده.
 - [reza00farjam/rjdl](https://github.com/reza00farjam/rjdl) - Python package to download Music, Video, Album, Podcast & Playlists from www.RadioJavan.com
-- [Smartproxy/Python-scraper-tutorial](https://github.com/Smartproxy/Python-scraper-tutorial) - Short introduction to scraping with given steps an example of a scraper
+- [Smartproxy/Python-scraper-tutorial](https://github.com/Smartproxy/Python-scraper-tutorial) - A short introduction to scraping with Python with given steps and an example scraper script.
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [spatialaudio/python-sounddevice](https://github.com/spatialaudio/python-sounddevice) - :sound: Play and Record Sound with Python :snake:
 - [ultrafunkamsterdam/undetected-chromedriver](https://github.com/ultrafunkamsterdam/undetected-chromedriver) - Custom Selenium Chromedriver | Zero-Config | Passes ALL bot mitigation systems (like Distil / Imperva/ Datadadome / CloudFlare IUAM)
