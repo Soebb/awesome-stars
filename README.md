@@ -63,6 +63,7 @@
 
 ## C++ 
 
+- [k2-fsa/sherpa-ncnn](https://github.com/k2-fsa/sherpa-ncnn) - Real-time speech recognition using next-gen Kaldi with ncnn without Internet connection. Support iOS, Android, Raspberry Pi, VisionFive2, etc.
 - [mmdii/cpp-to-python-pkg](https://github.com/mmdii/cpp-to-python-pkg) - 
 - [GuFFy12/CPP-to-Python-Syntax](https://github.com/GuFFy12/CPP-to-Python-Syntax) - 😎 Reformatting cpp code like a boss
 - [gyroing/Ezafeh-detection-with-HAZM](https://github.com/gyroing/Ezafeh-detection-with-HAZM) - C++ wrappers of the Python's Hazm module
@@ -290,6 +291,7 @@
 
 ## Kotlin 
 
+- [jing332/SherpaOnnxTtsEngineAndroid](https://github.com/jing332/SherpaOnnxTtsEngineAndroid) - 
 - [ShiftHackZ/WebViewApp](https://github.com/ShiftHackZ/WebViewApp) - Android WebView application scaffold
 - [jing332/tts-server-android](https://github.com/jing332/tts-server-android) - 这是一个Android系统TTS应用，内置微软演示接口，可自定义HTTP请求，可导入其他本地TTS引擎，以及根据中文双引号的简单旁白/对话识别朗读 ，还有自动重试，备用配置，文本替换等更多功能。
 - [Stypox/dicio-android](https://github.com/Stypox/dicio-android) - Dicio assistant app for Android
@@ -436,6 +438,7 @@
 
 ## Python 
 
+- [k2-fsa/icefall](https://github.com/k2-fsa/icefall) - 
 - [kcarnold/fixwav](https://github.com/kcarnold/fixwav) - Quick utility to fix WAV files with incorrect lengths
 - [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3) - Offline Text To Speech synthesis for python
 - [mborsetti/webchanges](https://github.com/mborsetti/webchanges) - webchanges checks web content and notifies you via e-mail (or one of many other supported services) if a change is detected. webchanges can also check the output of local commands. The notification in
