@@ -438,6 +438,11 @@
 
 ## Python 
 
+- [AlexandreGazagnes/awdible](https://github.com/AlexandreGazagnes/awdible) - Awdible - Just the best free version of audible. Awdible is a free and open-source software that allows you to download music from youtube and convert it to mp3.  The idea is to provide a free version
+- [dawoudt/JustWatchAPI](https://github.com/dawoudt/JustWatchAPI) - Python 3 JustWatch.com API - https://justwatch.com
+- [Electronic-Mango/rss-reader-telegram-bot](https://github.com/Electronic-Mango/rss-reader-telegram-bot) - A simple RSS reader Telegram bot.
+- [Electronic-Mango/simple-justwatch-python-api](https://github.com/Electronic-Mango/simple-justwatch-python-api) - A simple (and unofficial) JustWatch Python API.
+- [SadeghKrmi/derang](https://github.com/SadeghKrmi/derang) - derang (گرفته شده از دِرنگ‌نما), diacritics creation for Persian/Farsi language
 - [encode/httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋
 - [oVo-HxBots/RENAME-PRO](https://github.com/oVo-HxBots/RENAME-PRO) - Telegram File Renamer Bot & 4Gb Rename With Upgrade PLan .
 - [sns-sdks/python-youtube](https://github.com/sns-sdks/python-youtube) - A simple Python wrapper for YouTube Data API :sparkles: :cake: :sparkles: .
@@ -1534,7 +1539,7 @@
 - [isayakhov/duplicate-stickers-remover-bot](https://github.com/isayakhov/duplicate-stickers-remover-bot) - Bot can find and remove duplicates stickers from different sticker sets
 - [isayakhov/duty-schedule-bot](https://github.com/isayakhov/duty-schedule-bot) - Bot sends into your Telegram group who is on duty today, tomorrow and also sends schedule for the next week.
 - [tsepanx/state-bot](https://github.com/tsepanx/state-bot) - A telegram bot uses transitions python module
-- [sam5epi0l/BotTuber](https://github.com/sam5epi0l/BotTuber) - Fully Automated YouTube Channel ▶️with Added Extra Features (Automated Title, Description, Tags, Watermark and much more)
+- [ss-d3v/BotTuber](https://github.com/ss-d3v/BotTuber) - Fully Automated YouTube Channel ▶️with Added Extra Features (Automated Title, Description, Tags, Watermark and much more)
 - [nathan-149/automated_youtube_channel](https://github.com/nathan-149/automated_youtube_channel) - Automated youtube that can scrape content, edit a compilation, and upload to youtube daily.
 - [SafaSafari/proxydocker](https://github.com/SafaSafari/proxydocker) - 
 - [xcscxr/gplinks-bypass](https://github.com/xcscxr/gplinks-bypass) - gplinks Bypasser
