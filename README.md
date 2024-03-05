@@ -350,7 +350,6 @@
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 - [mackorone/spotify-playlist-archive](https://github.com/mackorone/spotify-playlist-archive) - Daily snapshots of public Spotify playlists
 - [ChankitSaini/TelegramScrapper](https://github.com/ChankitSaini/TelegramScrapper) - Telegram member scrapper script
-- [mishakorzik/MailFinder](https://github.com/mishakorzik/MailFinder) - OSINT tool for finding email by first and last name
 - [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template) - An awesome README template to jumpstart your projects!
 - [Single-Developers/The_Shazam_BOT](https://github.com/Single-Developers/The_Shazam_BOT) - 🌷 This is Most Advanced Music Finder BOT 🎧, Keyword Searchers & Also 🎙 Voice Searchers Supported 🎵
 - [gautamajay52/TransloaderBot](https://github.com/gautamajay52/TransloaderBot) - SooN
@@ -1638,6 +1637,7 @@
 - [samadii/web2pdf-bot](https://github.com/samadii/web2pdf-bot) - A simple Telegram bot to download webpages as PDF
 - [diogenesc/shortcut-changelog-generator](https://github.com/diogenesc/shortcut-changelog-generator) - 
 - [GBakaev/twitter-telegram-forward](https://github.com/GBakaev/twitter-telegram-forward) - A Bot that Forwards Tweets to Telegram using Airtable as a database.
+- [mishakorzik/MailFinder](https://github.com/mishakorzik/MailFinder) - OSINT tool for finding email by first and last name
 - [FichteFoll/resumeback](https://github.com/FichteFoll/resumeback) - Python module for using callbacks to resume your code
 - [Sangwan5688/Telegram-request-bot](https://github.com/Sangwan5688/Telegram-request-bot) - 
 - [Poolitzer/spotify_telegram_bio_updater](https://github.com/Poolitzer/spotify_telegram_bio_updater) - This userbot updates the biography of a telegram user according to their current spotify playback.
