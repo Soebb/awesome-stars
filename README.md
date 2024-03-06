@@ -106,6 +106,7 @@
 
 ## Go 
 
+- [warpdl/warpdl](https://github.com/warpdl/warpdl) - A powerful and versatile cross-platform download manager.
 - [divyam234/teldrive](https://github.com/divyam234/teldrive) - Telegram Drive Storage
 - [EverythingSuckz/github-telegram-notify](https://github.com/EverythingSuckz/github-telegram-notify) - Actions that sends commit updates of a repository to any chat in Telegram
 - [utkusen/wholeaked](https://github.com/utkusen/wholeaked) - a file-sharing tool that allows you to find the responsible person in case of a leakage
@@ -437,6 +438,9 @@
 
 ## Python 
 
+- [Hrazhan/kurd-spell](https://github.com/Hrazhan/kurd-spell) - ✍🏼 Transformer based Neural Spell Corrector for Central Kurdish
+- [Hrazhan/whisper-kurdish](https://github.com/Hrazhan/whisper-kurdish) - 🔊 A repository to fine-tune Whisper on Central Kurdish
+- [sauravpanda/whisper-service](https://github.com/sauravpanda/whisper-service) - Simple API for deploying whisper on your own server
 - [AlexandreGazagnes/awdible](https://github.com/AlexandreGazagnes/awdible) - Awdible - Just the best free version of audible. Awdible is a free and open-source software that allows you to download music from youtube and convert it to mp3.  The idea is to provide a free version
 - [dawoudt/JustWatchAPI](https://github.com/dawoudt/JustWatchAPI) - Python 3 JustWatch.com API - https://justwatch.com
 - [Electronic-Mango/rss-reader-telegram-bot](https://github.com/Electronic-Mango/rss-reader-telegram-bot) - A simple RSS reader Telegram bot.
@@ -531,7 +535,7 @@
 - [YaoFANGUK/video-subtitle-generator](https://github.com/YaoFANGUK/video-subtitle-generator) - 视频音频生成字幕，生成srt文件。无需申请第三方API，本地实现音频转文本。基于Transformer的视频字幕生成框架。A GUI tool for generating subtitle from videos and generating srt files.
 - [YaoFANGUK/video-subtitle-remover](https://github.com/YaoFANGUK/video-subtitle-remover) - 基于AI的图片/视频硬字幕去除、文本水印去除，无损分辨率生成去字幕、去水印后的图片/视频文件。无需申请第三方API，本地实现。AI-based tool for removing hard-coded subtitles and text-like watermarks from videos or Pictures.
 - [ArdalanGhoreishi/Creating-movie-subtitles-in-Persian-using-the-Google-Cloud-platform](https://github.com/ArdalanGhoreishi/Creating-movie-subtitles-in-Persian-using-the-Google-Cloud-platform) - An easy-to-use website designed for creating Persian subtitles for movies.
-- [machinewrapped/gpt-subtrans](https://github.com/machinewrapped/gpt-subtrans) - Project using OpenAI/ChatGPT to translate subtitle files
+- [machinewrapped/gpt-subtrans](https://github.com/machinewrapped/gpt-subtrans) - Open Source project using LLMs to translate SRT subtitles
 - [rsgrt/sublist](https://github.com/rsgrt/sublist) - generate a list of subtitles from a video file
 - [celiao/tmdbsimple](https://github.com/celiao/tmdbsimple) - A wrapper for The Movie Database API v3.
 - [rpuntaie/syncstart](https://github.com/rpuntaie/syncstart) - Calculate the cut needed at start to sync two media files
