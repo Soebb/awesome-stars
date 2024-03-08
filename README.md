@@ -335,7 +335,7 @@
 - [dkncus/CrowdRemoval](https://github.com/dkncus/CrowdRemoval) - 
 - [Cozy-Tech/regex_tutorial_and_examples](https://github.com/Cozy-Tech/regex_tutorial_and_examples) - 
 - [Hameds/IranCountryDivisions](https://github.com/Hameds/IranCountryDivisions) - Iran Country Divisions - کلیه تقسیمات کشوری ایران تا سطح آبادی بر اساس اطلاعات مرکز آمار ایران
-- [MrBotDeveloper/This-Repo-Has-117-Stars](https://github.com/MrBotDeveloper/This-Repo-Has-117-Stars) - Yes it's true :broken_heart:, currently it has 117 stars ⭐ and 21 forks 🍴.
+- [MrBotDeveloper/This-Repo-Has-118-Stars](https://github.com/MrBotDeveloper/This-Repo-Has-118-Stars) - Yes it's true :broken_heart:, currently it has 118 stars ⭐ and 21 forks 🍴.
 - [Alir3z4/stop-words](https://github.com/Alir3z4/stop-words) - List of common stop words in various languages.
 - [ahmadazizi/iran-cities](https://github.com/ahmadazizi/iran-cities) - The most accurate database of city, county, village and province names of Iran.
 - [iranremote/awesome-iran-remote](https://github.com/iranremote/awesome-iran-remote) - A list of remote-friendly or full-remote companies that targets iranian talents.
@@ -438,6 +438,9 @@
 
 ## Python 
 
+- [JBDAC/TelegramDeDup](https://github.com/JBDAC/TelegramDeDup) - Telegram Duplicate Message Detector Bot
+- [dir01/tg-yt-dlp](https://github.com/dir01/tg-yt-dlp) - Telegram bot that extracts short videos from pages for you
+- [bellingcat/auto-archiver](https://github.com/bellingcat/auto-archiver) - Automatically archive links to videos, images, and social media content from Google Sheets (and more).
 - [Hrazhan/kurd-spell](https://github.com/Hrazhan/kurd-spell) - ✍🏼 Transformer based Neural Spell Corrector for Central Kurdish
 - [Hrazhan/whisper-kurdish](https://github.com/Hrazhan/whisper-kurdish) - 🔊 A repository to fine-tune Whisper on Central Kurdish
 - [sauravpanda/whisper-service](https://github.com/sauravpanda/whisper-service) - Simple API for deploying whisper on your own server
@@ -1983,7 +1986,7 @@
 - [PuZhiweizuishuai/OCR-CopyText-And-Search](https://github.com/PuZhiweizuishuai/OCR-CopyText-And-Search) - 适用于一些单位组织的那种在专门的APP上答题，但是又有题库的开卷考试，方便搜索答案，基于PaddleOCR开发😂😂😂
 - [elahe-dastan/first-grade](https://github.com/elahe-dastan/first-grade) - OCR for Iranian national ID card, etc.
 - [Belval/TextRecognitionDataGenerator](https://github.com/Belval/TextRecognitionDataGenerator) - A synthetic data generator for text recognition
-- [RapidAI/RapidOCR](https://github.com/RapidAI/RapidOCR) - A cross platform OCR Library based on PaddleOCR & OnnxRuntime & OpenVINO.
+- [RapidAI/RapidOCR](https://github.com/RapidAI/RapidOCR) - Awesome OCR multiple programing languages toolkits based on ONNXRuntime, OpenVION and PaddlePaddle.
 - [apm1467/videocr](https://github.com/apm1467/videocr) - Extract hardcoded subtitles from videos using machine learning
 - [SWHL/RapidVideOCR](https://github.com/SWHL/RapidVideOCR) - Extract video hard subtitles and automatically generate corresponding srt files.
 - [krviolent/subtitles_extract](https://github.com/krviolent/subtitles_extract) - Tool for extraction hard-coded (hardsub) Chinese subtitles from video files with 720p resolution
