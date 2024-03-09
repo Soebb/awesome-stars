@@ -186,6 +186,7 @@
 
 ## JavaScript 
 
+- [http-party/http-server](https://github.com/http-party/http-server) - a simple zero-configuration command-line http server
 - [DavidCks/piper-wasm](https://github.com/DavidCks/piper-wasm) - 
 - [gyroing/Persian-Piper-TTS-WebAssembly](https://github.com/gyroing/Persian-Piper-TTS-WebAssembly) - WebAssembly Sherpa ONNX TTS for Persian language based on PIPER Model
 - [karim23657/GAS-Telegram-bot](https://github.com/karim23657/GAS-Telegram-bot) - A base code that shows how to make a telegram bot on google app script
@@ -438,6 +439,8 @@
 
 ## Python 
 
+- [globocom/m3u8](https://github.com/globocom/m3u8) - Python m3u8 Parser for HTTP Live Streaming (HLS) Transmissions
+- [apivideo/api.video-python-client](https://github.com/apivideo/api.video-python-client) - The official Python client library for api.video
 - [JBDAC/TelegramDeDup](https://github.com/JBDAC/TelegramDeDup) - Telegram Duplicate Message Detector Bot
 - [dir01/tg-yt-dlp](https://github.com/dir01/tg-yt-dlp) - Telegram bot that extracts short videos from pages for you
 - [bellingcat/auto-archiver](https://github.com/bellingcat/auto-archiver) - Automatically archive links to videos, images, and social media content from Google Sheets (and more).
