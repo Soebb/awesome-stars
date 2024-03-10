@@ -2451,6 +2451,7 @@
 
 ## Shell 
 
+- [docker/docker-install](https://github.com/docker/docker-install) - Docker installation script
 - [unixorn/git-extra-commands](https://github.com/unixorn/git-extra-commands) - A collection of git utilities, useful extra git scripts, tutorials and other useful articles.
 - [scheib/chromium-latest-linux](https://github.com/scheib/chromium-latest-linux) - Scripts to download and run the latest Linux build of Chromium.  A substitute for Chrome Canary on Linux.
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
