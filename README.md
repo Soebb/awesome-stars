@@ -439,6 +439,7 @@
 
 ## Python 
 
+- [smoofra/mslex](https://github.com/smoofra/mslex) - like shlex, but for windows
 - [globocom/m3u8](https://github.com/globocom/m3u8) - Python m3u8 Parser for HTTP Live Streaming (HLS) Transmissions
 - [apivideo/api.video-python-client](https://github.com/apivideo/api.video-python-client) - The official Python client library for api.video
 - [JBDAC/TelegramDeDup](https://github.com/JBDAC/TelegramDeDup) - Telegram Duplicate Message Detector Bot
@@ -2451,6 +2452,7 @@
 
 ## Shell 
 
+- [HirbodBehnam/MTProtoProxyInstaller](https://github.com/HirbodBehnam/MTProtoProxyInstaller) - One-click script to install MTProto Proxy server on CentOS, Ubuntu and Debian
 - [docker/docker-install](https://github.com/docker/docker-install) - Docker installation script
 - [unixorn/git-extra-commands](https://github.com/unixorn/git-extra-commands) - A collection of git utilities, useful extra git scripts, tutorials and other useful articles.
 - [scheib/chromium-latest-linux](https://github.com/scheib/chromium-latest-linux) - Scripts to download and run the latest Linux build of Chromium.  A substitute for Chrome Canary on Linux.
