@@ -439,6 +439,7 @@
 
 ## Python 
 
+- [nikhilbadyal/docker-py-revanced](https://github.com/nikhilbadyal/docker-py-revanced) - One Click Python util to build all Revanced apps.
 - [smoofra/mslex](https://github.com/smoofra/mslex) - like shlex, but for windows
 - [globocom/m3u8](https://github.com/globocom/m3u8) - Python m3u8 Parser for HTTP Live Streaming (HLS) Transmissions
 - [apivideo/api.video-python-client](https://github.com/apivideo/api.video-python-client) - The official Python client library for api.video
