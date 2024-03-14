@@ -39,7 +39,6 @@
 
 ## C 
 
-- [livingbio/typed-ffmpeg](https://github.com/livingbio/typed-ffmpeg) - Modern Python FFmpeg wrappers offer comprehensive support for complex filters, complete with detailed typing and documentation.
 - [norihiro/alignaudio](https://github.com/norihiro/alignaudio) - a tool to align audio files
 - [gpac/gpac](https://github.com/gpac/gpac) - GPAC Ultramedia OSS for Video Streaming & Next-Gen Multimedia Transcoding, Packaging & Delivery
 - [TheZoc/sub3dtool](https://github.com/TheZoc/sub3dtool) - Convert subtitle to 3D (ASS Format) to use with VLC or MPlayer
@@ -439,6 +438,7 @@
 
 ## Python 
 
+- [will-rice/denoisers](https://github.com/will-rice/denoisers) - Simple PyTorch Denoisers for Audio and Spectrograms
 - [nikhilbadyal/docker-py-revanced](https://github.com/nikhilbadyal/docker-py-revanced) - One Click Python util to build all Revanced apps.
 - [smoofra/mslex](https://github.com/smoofra/mslex) - like shlex, but for windows
 - [globocom/m3u8](https://github.com/globocom/m3u8) - Python m3u8 Parser for HTTP Live Streaming (HLS) Transmissions
@@ -459,6 +459,7 @@
 - [sns-sdks/python-youtube](https://github.com/sns-sdks/python-youtube) - A simple Python wrapper for YouTube Data API :sparkles: :cake: :sparkles: .
 - [k2-fsa/icefall](https://github.com/k2-fsa/icefall) - 
 - [kcarnold/fixwav](https://github.com/kcarnold/fixwav) - Quick utility to fix WAV files with incorrect lengths
+- [livingbio/typed-ffmpeg](https://github.com/livingbio/typed-ffmpeg) - Modern Python FFmpeg wrappers offer comprehensive support for complex filters, complete with detailed typing and documentation.
 - [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3) - Offline Text To Speech synthesis for python
 - [mborsetti/webchanges](https://github.com/mborsetti/webchanges) - webchanges checks web content and notifies you via e-mail (or one of many other supported services) if a change is detected. webchanges can also check the output of local commands. The notification in
 - [DeeepMaker/subtitle-to-audio](https://github.com/DeeepMaker/subtitle-to-audio) - A python script to generate .wav audio files for .srt subtitle files
@@ -815,7 +816,7 @@
 - [tmbo/questionary](https://github.com/tmbo/questionary) - Python library to build pretty command line user prompts ✨Easy to use multi-select lists, confirmations, free text prompts ...
 - [jamilkarami/wikipediasummary](https://github.com/jamilkarami/wikipediasummary) - Utility package to fetch Wikipedia page summaries
 - [NatLee/Blur-Generator](https://github.com/NatLee/Blur-Generator) - Generate blur image with 3 types of blur `motion`, `lens`, and `gaussian` by using OpenCV.
-- [tropicoo/yt-dlp-bot](https://github.com/tropicoo/yt-dlp-bot) - Self-hosted YouTube Download Telegram Bot 🇺🇦
+- [tropicoo/yt-dlp-bot](https://github.com/tropicoo/yt-dlp-bot) - Self-hosted Video Download Telegram Bot 🇺🇦
 - [NatLee/Batch-crop-images](https://github.com/NatLee/Batch-crop-images) - A tool for cropping similar images in a batch with an interface.
 - [yerodin/requester](https://github.com/yerodin/requester) - Python tool to download web resources (bye bye wget & curl)
 - [labteral/chatgpt-python](https://github.com/labteral/chatgpt-python) - Unofficial Python SDK for OpenAI's ChatGPT
@@ -855,7 +856,6 @@
 - [mandrelbrotset/same-network-group-chat](https://github.com/mandrelbrotset/same-network-group-chat) - GUI group chat for computers in the same network. The server and the client program both have a GUI.
 - [skorokithakis/shortuuid](https://github.com/skorokithakis/shortuuid) - A generator library for concise, unambiguous and URL-safe UUIDs.
 - [intervall-ludger/PyPDFMerger](https://github.com/intervall-ludger/PyPDFMerger) - PyPDFMerger is a Python-based application that allows users to merge multiple PDF files into a single document using a drag-and-drop interface.
-- [genius-codes/telegram-adder-tool](https://github.com/genius-codes/telegram-adder-tool) - FREE TOOL
 - [father-bot/chatgpt_telegram_bot](https://github.com/father-bot/chatgpt_telegram_bot) - 
 - [armanyazdi/emailtools](https://github.com/armanyazdi/emailtools) - A Python library for email suggestions and validations.
 - [theos-ai/easy-paddle-ocr](https://github.com/theos-ai/easy-paddle-ocr) - This a clean and easy-to-use implementation of Paddle OCR. Made with ❤️ by Theos AI.
@@ -2166,7 +2166,7 @@
 - [ShivangKakkar/OCRBot](https://github.com/ShivangKakkar/OCRBot) - https://t.me/StarkBots
 - [uturkdogan/subtitle-download](https://github.com/uturkdogan/subtitle-download) - Download subtitles and automatically syncs them to the videos
 - [wnger/subtitles](https://github.com/wnger/subtitles) - 
-- [ercanserteli/video-condenser](https://github.com/ercanserteli/video-condenser) - Condenser allows you to extract speech audio from video files, based on subtitle timings. By omitting the audio outside of speech, it increases the language per second that you are getting exposed to.
+- [ercanserteli/condenser](https://github.com/ercanserteli/condenser) - Condenser allows you to extract speech audio from video files, based on subtitle timings. By omitting the audio outside of speech, it increases the language per second that you are getting exposed to.
 - [lyshie/srt-to-audio](https://github.com/lyshie/srt-to-audio) - 
 - [TroJanzHEX/Streams-Extractor](https://github.com/TroJanzHEX/Streams-Extractor) - This Bot can extract audios and subtitles from video files
 - [nuhmanpk/No-Inline-Messages](https://github.com/nuhmanpk/No-Inline-Messages) - Deletes Inline messages sent Through Bot in Group
