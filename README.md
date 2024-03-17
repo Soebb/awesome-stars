@@ -438,6 +438,7 @@
 
 ## Python 
 
+- [FayasNoushad/Gemini-Bot](https://github.com/FayasNoushad/Gemini-Bot) - A telegram gemini generative ai bot made with gemini api.
 - [will-rice/denoisers](https://github.com/will-rice/denoisers) - Simple PyTorch Denoisers for Audio and Spectrograms
 - [nikhilbadyal/docker-py-revanced](https://github.com/nikhilbadyal/docker-py-revanced) - One Click Python util to build all Revanced apps.
 - [smoofra/mslex](https://github.com/smoofra/mslex) - like shlex, but for windows
@@ -508,7 +509,6 @@
 - [umihico/pythonista-chromeless](https://github.com/umihico/pythonista-chromeless) - Serverless selenium which dynamically execute any given code.
 - [SergeyPirogov/webdriver_manager](https://github.com/SergeyPirogov/webdriver_manager) - 
 - [Dicklesworthstone/bulk_transcribe_youtube_videos_from_playlist](https://github.com/Dicklesworthstone/bulk_transcribe_youtube_videos_from_playlist) - Easily take an entire YouTube playlist and turn it into high quality transcripts using Whisper.
-- [MhdiTaheri/Radiojavan-dl](https://github.com/MhdiTaheri/Radiojavan-dl) - Simpel Radiojavan Downloader Telegram BoT
 - [hydrogram/hydrogram](https://github.com/hydrogram/hydrogram) - Sleek, advanced, and asynchronous Telegram MTProto API framework in Python, designed for fluid user and bot interactions.
 - [Ripeey/Conversation-Pyrogram](https://github.com/Ripeey/Conversation-Pyrogram) - A conversation plugin class for pyrogram using inbuild Update Handlers
 - [usernein/activate-virtualenv](https://github.com/usernein/activate-virtualenv) - Context manager to activate and deactivate Python virtualenvs programatically
@@ -1973,7 +1973,7 @@
 - [pytube/pytube](https://github.com/pytube/pytube) - A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.
 - [iamLiquidX/MirLeechX](https://github.com/iamLiquidX/MirLeechX) - 
 - [im-bb/PH-DL](https://github.com/im-bb/PH-DL) - Simple python-based script to download PH STUFF
-- [rojasleon/personal-video-merger](https://github.com/rojasleon/personal-video-merger) - A personal video merger that sometimes I use
+- [itsrojasleon/personal-video-merger](https://github.com/itsrojasleon/personal-video-merger) - A personal video merger that sometimes I use
 - [jeffanberg/AVMerger](https://github.com/jeffanberg/AVMerger) - Creates a simple video by merging audio with photo.
 - [hazybluedot/ffmpeg_split](https://github.com/hazybluedot/ffmpeg_split) - Split a video file using ffmpeg into separate audio-only and video-only segments based on an input file containg start/end times of each segment
 - [Nguh-Prince/video_trimmer](https://github.com/Nguh-Prince/video_trimmer) - a python script that trims a video file from arguments passed via the command line
@@ -2276,7 +2276,7 @@
 - [lntechnical2/PyYouTube](https://github.com/lntechnical2/PyYouTube) - Search Youtube Video and Get Video info
 - [lntechnical2/YouTube_Video_Data_Bot](https://github.com/lntechnical2/YouTube_Video_Data_Bot) - 
 - [oVoIndia/MultiUpload-Bot](https://github.com/oVoIndia/MultiUpload-Bot) - A Bot to Upload files to Many Cloud services. Powered by Telethon.
-- [AsmSafone/RadioPlayerV3](https://github.com/AsmSafone/RadioPlayerV3) - An Advanced Telegram Bot to Play Radio & Music in Voice Chat.  This is Also The Source Code of The Bot Which is Being Used For Playing Radio in @AsmSafone Channel ❤️
+- [AsmSafone/RadioPlayerV3](https://github.com/AsmSafone/RadioPlayerV3) - An Advanced Telegram Bot to Play Radio & Music in Voice Chat.  This is Also The Source Code of The Bot Which is Being Used For Playing Radio in @AsmSafone Channel ❤️  https://radiostay.com - over 1000
 - [oVoIndia/GDrive-Bot](https://github.com/oVoIndia/GDrive-Bot) - 
 - [iamLiquidX/MirrorX](https://github.com/iamLiquidX/MirrorX) - A fork of a fork of a fork of a fork.........
 - [vamsich30/YouTube-Converter](https://github.com/vamsich30/YouTube-Converter) - Youtube converter which accepts youtube url and downloads it in user desired format.This project helps us to download your desired url in three formats .mp3, WEBM, .mp4 and helps user to download the 
