@@ -439,7 +439,7 @@
 ## Python 
 
 - [FayasNoushad/Gemini-Bot](https://github.com/FayasNoushad/Gemini-Bot) - A telegram gemini generative ai bot made with gemini api.
-- [will-rice/denoisers](https://github.com/will-rice/denoisers) - Simple PyTorch Denoisers for Audio and Spectrograms
+- [will-rice/denoisers](https://github.com/will-rice/denoisers) - Simple PyTorch Denoisers for Waveform Audio
 - [nikhilbadyal/docker-py-revanced](https://github.com/nikhilbadyal/docker-py-revanced) - One Click Python util to build all Revanced apps.
 - [smoofra/mslex](https://github.com/smoofra/mslex) - like shlex, but for windows
 - [globocom/m3u8](https://github.com/globocom/m3u8) - Python m3u8 Parser for HTTP Live Streaming (HLS) Transmissions
@@ -642,7 +642,7 @@
 - [bndr/pipreqs](https://github.com/bndr/pipreqs) - pipreqs - Generate pip requirements.txt file based on imports of any project. Looking for maintainers to move this project forward.
 - [stlukey/whispercpp.py](https://github.com/stlukey/whispercpp.py) - Python bindings for whisper.cpp
 - [kfatehi/persian-tts-server](https://github.com/kfatehi/persian-tts-server) - Simple HTTP server wrapping Coqui TTS
-- [Greymattersbot/public-forward-bot](https://github.com/Greymattersbot/public-forward-bot) - 
+- [TechGreyMatters/public-forward-bot](https://github.com/TechGreyMatters/public-forward-bot) - 
 - [MiguelX413/IgTgBot](https://github.com/MiguelX413/IgTgBot) - Let's me post Instagram posts on Telegram.
 - [dory111111/Pengenuity](https://github.com/dory111111/Pengenuity) - Pengunuity is an experimental open-source autonomous AI Agent that aims to replicate the structure of human memory.
 - [amirhoseinsb/Cloud_Player_V2](https://github.com/amirhoseinsb/Cloud_Player_V2) - You can use the cloudplayer tool to listen to the music of the singer you want without going to a specific website and at a very high speed.
