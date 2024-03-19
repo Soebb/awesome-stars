@@ -39,6 +39,7 @@
 
 ## C 
 
+- [nicolas-van/multirun](https://github.com/nicolas-van/multirun) - A minimalist init process designed for Docker
 - [norihiro/alignaudio](https://github.com/norihiro/alignaudio) - a tool to align audio files
 - [gpac/gpac](https://github.com/gpac/gpac) - GPAC Ultramedia OSS for Video Streaming & Next-Gen Multimedia Transcoding, Packaging & Delivery
 - [TheZoc/sub3dtool](https://github.com/TheZoc/sub3dtool) - Convert subtitle to 3D (ASS Format) to use with VLC or MPlayer
@@ -89,6 +90,8 @@
 
 ## Dockerfile 
 
+- [hmahdiany/dind](https://github.com/hmahdiany/dind) - An image for Docker in Docker use cases
+- [venkyvajrala/docker-exercises](https://github.com/venkyvajrala/docker-exercises) - This Repository offers tasks to test and enhance expertise in creating optimized Docker images and containers
 - [ITZ-ZAID/Doprax](https://github.com/ITZ-ZAID/Doprax) - 
 - [Itz-fork/X-Bin-Patch](https://github.com/Itz-fork/X-Bin-Patch) - Method to deploy Mega.nz-Bot to Heroku
 - [divideprojects/docker-telegram-bot-api](https://github.com/divideprojects/docker-telegram-bot-api) - Auto build repository for 🐳 docker image of telegram-bot-api using Github Actions
@@ -309,6 +312,8 @@
 
 ## Others 
 
+- [Nickeld28/Learning_Docker](https://github.com/Nickeld28/Learning_Docker) - I created this project to learn Docker in practice and how to work with it.
+- [ScribeMD/rootless-docker](https://github.com/ScribeMD/rootless-docker) - Run Docker in Rootless Mode to Prevent Permission Errors
 - [cdleon/awesome-terminals](https://github.com/cdleon/awesome-terminals) - Terminal Emulators
 - [aso-mehmudi/Kurdish-keyboard-layouts](https://github.com/aso-mehmudi/Kurdish-keyboard-layouts) - Keyboard layout for typing Kurdish language
 - [mazipan/auto-commit](https://github.com/mazipan/auto-commit) - 🌳 Making green your Github stats, powered by Github Actions
@@ -438,6 +443,8 @@
 
 ## Python 
 
+- [containers/podman-compose](https://github.com/containers/podman-compose) - a script to run docker-compose.yml using podman
+- [FayasNoushad/Tools-Bot](https://github.com/FayasNoushad/Tools-Bot) - A telegram tools bot for groups.
 - [FayasNoushad/Gemini-Bot](https://github.com/FayasNoushad/Gemini-Bot) - A telegram gemini generative ai bot made with gemini api.
 - [will-rice/denoisers](https://github.com/will-rice/denoisers) - Simple PyTorch Denoisers for Waveform Audio
 - [nikhilbadyal/docker-py-revanced](https://github.com/nikhilbadyal/docker-py-revanced) - One Click Python util to build all Revanced apps.
@@ -1651,7 +1658,6 @@
 - [GBakaev/twitter-telegram-forward](https://github.com/GBakaev/twitter-telegram-forward) - A Bot that Forwards Tweets to Telegram using Airtable as a database.
 - [mishakorzik/MailFinder](https://github.com/mishakorzik/MailFinder) - OSINT tool for finding email by first and last name
 - [FichteFoll/resumeback](https://github.com/FichteFoll/resumeback) - Python module for using callbacks to resume your code
-- [Sangwan5688/Telegram-request-bot](https://github.com/Sangwan5688/Telegram-request-bot) - 
 - [Poolitzer/spotify_telegram_bio_updater](https://github.com/Poolitzer/spotify_telegram_bio_updater) - This userbot updates the biography of a telegram user according to their current spotify playback.
 - [kiwi0fruit/pyppdf](https://github.com/kiwi0fruit/pyppdf) - Pyppeteer PDF. Print html sites and files to pdf via pyppeteer (uses patched pyppeteer that by default downloads updated Chromium revision via https with certifi).
 - [aish2002/Movie-Info-Telegram-Bot](https://github.com/aish2002/Movie-Info-Telegram-Bot) - A telegram bot which scrapes IMDb website to get details on movies and TV shows
@@ -2453,6 +2459,7 @@
 
 ## Shell 
 
+- [mfhepp/py4docker](https://github.com/mfhepp/py4docker) - Template for running Python 3.x shell scripts and notebooks in a Docker container for isolation, security, and portability
 - [HirbodBehnam/MTProtoProxyInstaller](https://github.com/HirbodBehnam/MTProtoProxyInstaller) - One-click script to install MTProto Proxy server on CentOS, Ubuntu and Debian
 - [docker/docker-install](https://github.com/docker/docker-install) - Docker installation script
 - [unixorn/git-extra-commands](https://github.com/unixorn/git-extra-commands) - A collection of git utilities, useful extra git scripts, tutorials and other useful articles.
@@ -2519,7 +2526,7 @@
 - [matnbaz/matnbaz](https://github.com/matnbaz/matnbaz) - Source-code for the "matnbaz" project (Archived)
 - [vrumger/ChannelHashBot](https://github.com/vrumger/ChannelHashBot) - A Telegram bot that forwards messages with hashtags from your group to your channel.
 - [xditya/YouTubeFeeds](https://github.com/xditya/YouTubeFeeds) - Get new YouTube video notifications, from multiple YouTube channels, on multiple telegram chats!
-- [LeastSignificant/tgcalls-next](https://github.com/LeastSignificant/tgcalls-next) - Community fork of tgcallsjs with built-in GramJS support.
+- [UnmaintainedProjects/tgcalls-next](https://github.com/UnmaintainedProjects/tgcalls-next) - Community fork of tgcallsjs with built-in GramJS support.
 - [Borodutch/VideoDownloadBot](https://github.com/Borodutch/VideoDownloadBot) - Telegram bot to download videos from URLs
 - [devmaxxing/webxr-kamehameha](https://github.com/devmaxxing/webxr-kamehameha) - 
 - [Borodutch/telegram-bot-starter](https://github.com/Borodutch/telegram-bot-starter) - Telegram bot starter based on grammY
