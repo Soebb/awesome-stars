@@ -63,7 +63,8 @@
 
 ## C++ 
 
-- [k2-fsa/sherpa-ncnn](https://github.com/k2-fsa/sherpa-ncnn) - Real-time speech recognition using next-gen Kaldi with ncnn without Internet connection. Support iOS, Android, Raspberry Pi, VisionFive2, etc.
+- [Mobile-Artificial-Intelligence/piper.cpp](https://github.com/Mobile-Artificial-Intelligence/piper.cpp) - 
+- [k2-fsa/sherpa-ncnn](https://github.com/k2-fsa/sherpa-ncnn) - Real-time speech recognition using next-gen Kaldi with ncnn without Internet connection. Support iOS, Android, Raspberry Pi, VisionFive2, LicheePi4A etc.
 - [mmdii/cpp-to-python-pkg](https://github.com/mmdii/cpp-to-python-pkg) - 
 - [GuFFy12/CPP-to-Python-Syntax](https://github.com/GuFFy12/CPP-to-Python-Syntax) - 😎 Reformatting cpp code like a boss
 - [gyroing/Ezafeh-detection-with-HAZM](https://github.com/gyroing/Ezafeh-detection-with-HAZM) - C++ wrappers of the Python's Hazm module
@@ -90,6 +91,7 @@
 
 ## Dockerfile 
 
+- [cruizba/ubuntu-dind](https://github.com/cruizba/ubuntu-dind) - A docker image based in ubuntu to run docker containers inside docker containers
 - [hmahdiany/dind](https://github.com/hmahdiany/dind) - An image for Docker in Docker use cases
 - [venkyvajrala/docker-exercises](https://github.com/venkyvajrala/docker-exercises) - This Repository offers tasks to test and enhance expertise in creating optimized Docker images and containers
 - [ITZ-ZAID/Doprax](https://github.com/ITZ-ZAID/Doprax) - 
@@ -1570,7 +1572,7 @@
 - [jakkemomo/twalker](https://github.com/jakkemomo/twalker) - Twalker is a library that gathers information from big influencers.
 - [alcortazzo/tg-message-forwarder](https://github.com/alcortazzo/tg-message-forwarder) - Telegram bot for inline forwarding (specified user's) messages from one chat (or channel) to another.
 - [alcortazzo/vktgbot](https://github.com/alcortazzo/vktgbot) - 🇺🇦 Telegram Bot for reposting from VKontakte to Telegram channel
-- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [suhasa010/securejoinbot](https://github.com/suhasa010/securejoinbot) - Secure Generation of Invite links for Private Telegram groups
 - [socialrupt/project1](https://github.com/socialrupt/project1) - Save to github
 - [eaabak/instagram-auto-create-account](https://github.com/eaabak/instagram-auto-create-account) - An automatic account creation bot script for Instagram.
@@ -1807,7 +1809,7 @@
 - [UltimaHoarder/UltimaScraper](https://github.com/UltimaHoarder/UltimaScraper) - Scrape all the media from an OnlyFans account - Updated regularly
 - [ImJanindu/47MusicPlayerBot](https://github.com/ImJanindu/47MusicPlayerBot) - A Telegram Music Bot written in Python with Pyrogram and Py-Tgcalls.
 - [m4mallu/tube](https://github.com/m4mallu/tube) - https://github.com/m4mallu/inline-tube-mate
-- [MlsterMass/telegram_autoreger](https://github.com/MlsterMass/telegram_autoreger) - Automation registration for Telegram
+- [IonTheOne/telegram_autoreger](https://github.com/IonTheOne/telegram_autoreger) - Automation registration for Telegram
 - [PR0FESS0R-99/DonLee-Robot-V2](https://github.com/PR0FESS0R-99/DonLee-Robot-V2) - 
 - [abhint/Utube-dlAPI](https://github.com/abhint/Utube-dlAPI) - This is a youtube-dl link extractor API.
 - [TroJanzHEX/Auto-Filter-Bot-V2](https://github.com/TroJanzHEX/Auto-Filter-Bot-V2) - 
