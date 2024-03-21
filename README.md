@@ -70,7 +70,7 @@
 - [gyroing/Ezafeh-detection-with-HAZM](https://github.com/gyroing/Ezafeh-detection-with-HAZM) - C++ wrappers of the Python's Hazm module
 - [rhasspy/piper](https://github.com/rhasspy/piper) - A fast, local neural text to speech system
 - [vapoursynth/vapoursynth](https://github.com/vapoursynth/vapoursynth) - A video processing framework with simplicity in mind
-- [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) - Speech-to-text, text-to-speech, and speaker recongition using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, Raspberry Pi, x86_64 servers, websock
+- [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) - Speech-to-text, text-to-speech, and speaker recongition using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, Raspberry Pi, RISC-V, x86_64 servers,
 - [abdeladim-s/pywhispercpp](https://github.com/abdeladim-s/pywhispercpp) - Python bindings for whisper.cpp
 - [PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle) - PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）
 - [mozilla/DeepSpeech](https://github.com/mozilla/DeepSpeech) - DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.
@@ -91,6 +91,7 @@
 
 ## Dockerfile 
 
+- [fazibaba/Building-Containers-Podman](https://github.com/fazibaba/Building-Containers-Podman) - Docker is a popular tool for building and running containers, but it's not the only one. Podman is a similar tool that can be used as a drop-in replacement for Docker. One advantage of Podman is that 
 - [cruizba/ubuntu-dind](https://github.com/cruizba/ubuntu-dind) - A docker image based in ubuntu to run docker containers inside docker containers
 - [hmahdiany/dind](https://github.com/hmahdiany/dind) - An image for Docker in Docker use cases
 - [venkyvajrala/docker-exercises](https://github.com/venkyvajrala/docker-exercises) - This Repository offers tasks to test and enhance expertise in creating optimized Docker images and containers
@@ -326,7 +327,7 @@
 - [Soebb/awesome-stars](https://github.com/Soebb/awesome-stars) - All the best python repositories in github.
 - [DmitryScaletta/free-heroku-alternatives](https://github.com/DmitryScaletta/free-heroku-alternatives) - Comparison of free Heroku alternatives for backend applications
 - [karim23657/awesome-Persian-Speech](https://github.com/karim23657/awesome-Persian-Speech) - A collection of inspiring lists, repos, datasets, models, tools and more for Persian language speech to text(stt) and text to speech(tts) .
-- [cgohlke/win_arm64-wheels](https://github.com/cgohlke/win_arm64-wheels) - Experimental Wheels for Python for Windows on ARM64
+- [cgohlke/win_arm64-wheels](https://github.com/cgohlke/win_arm64-wheels) - Experimental wheels for Python for Windows on ARM64
 - [archinetai/audio-ai-timeline](https://github.com/archinetai/audio-ai-timeline) - A timeline of the latest AI models for audio generation, starting in 2023!
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [karim23657/ParsiGoo](https://github.com/karim23657/ParsiGoo) - ParsiGoo is a Persian multispeaker dataset for text-to-speech purposes. It includes recordings from different speakers and is designed to be used for training and evaluating text-to-speech models.
@@ -445,6 +446,9 @@
 
 ## Python 
 
+- [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
+- [zackees/python-compile](https://github.com/zackees/python-compile) - Compile your python apps into linux binaries
+- [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) - 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
 - [containers/podman-compose](https://github.com/containers/podman-compose) - a script to run docker-compose.yml using podman
 - [FayasNoushad/Tools-Bot](https://github.com/FayasNoushad/Tools-Bot) - A telegram tools bot for groups.
 - [FayasNoushad/Gemini-Bot](https://github.com/FayasNoushad/Gemini-Bot) - A telegram gemini generative ai bot made with gemini api.
