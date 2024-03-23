@@ -141,6 +141,7 @@
 
 ## HTML 
 
+- [Soebb/streaming-url-gen-bot](https://github.com/Soebb/streaming-url-gen-bot) - Telegram bot to generate steaming link for youtube videos or from direct download links of videos.
 - [vitalets/github-trending-repos](https://github.com/vitalets/github-trending-repos) - Track GitHub trending repositories in your favorite programming language by native GitHub notifications!
 - [karim23657/Subtr](https://github.com/karim23657/Subtr) - This user-friendly tool seamlessly translates SRT and DFXP subtitles to any language, making it the ideal choice for handling subtitle sentence breaks across tracks. Experience the ease and accuracy o
 - [vabs/youtube-channel-name-converter](https://github.com/vabs/youtube-channel-name-converter) - Convert Youtube Channel Name To Channel ID
@@ -538,7 +539,7 @@
 - [asottile/pyupgrade](https://github.com/asottile/pyupgrade) - A tool (and pre-commit hook) to automatically upgrade syntax for newer versions of the language.
 - [joke2k/faker](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you.
 - [DeepLcom/deepl-python](https://github.com/DeepLcom/deepl-python) - Official Python library for the DeepL language translation API.
-- [todaycode123/deep-speech-app](https://github.com/todaycode123/deep-speech-app) - 
+- [adonistoday/deep-speech-app](https://github.com/adonistoday/deep-speech-app) - 
 - [nidhaloff/deep-translator](https://github.com/nidhaloff/deep-translator) - A flexible free and unlimited python tool to translate between different languages in a simple way using multiple translators.
 - [Soebb/own-youtube-streaming](https://github.com/Soebb/own-youtube-streaming) - A local Telegram bot to generate own youtube stream url
 - [Soebb/thumb-change-bot](https://github.com/Soebb/thumb-change-bot) - A simple Telegram bot to change the videos thumbnail.
