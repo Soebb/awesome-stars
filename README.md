@@ -447,6 +447,7 @@
 
 ## Python 
 
+- [gkpln3/Sand](https://github.com/gkpln3/Sand) - Python based Dockerfile generator
 - [ankitjain28may/wifiPassword](https://github.com/ankitjain28may/wifiPassword) - It gives the password of your connected wifi's
 - [pgp/mega.py](https://github.com/pgp/mega.py) - Python library for the https://mega.nz/ API.
 - [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
@@ -2463,6 +2464,8 @@
 
 ## Rust 
 
+- [edrevo/dockerfile-plus](https://github.com/edrevo/dockerfile-plus) - New commands for Dockerfile
+- [Hirevo/mega-rs](https://github.com/Hirevo/mega-rs) - An API client library for interacting with MEGA from Rust
 - [ayrat555/frankenstein](https://github.com/ayrat555/frankenstein) - Telegram bot API client for Rust
 - [telegram-rs/telegram-bot](https://github.com/telegram-rs/telegram-bot) - Rust Library for creating a Telegram Bot
 - [chanderlud/giga-grabber](https://github.com/chanderlud/giga-grabber) - A very fast and stable Mega downloader
