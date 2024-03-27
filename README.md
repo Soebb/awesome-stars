@@ -509,7 +509,7 @@
 - [kastaid/pytel](https://github.com/kastaid/pytel) - PYTEL-Premium ( Multi Client )
 - [licksylick/AutoTrackAnything](https://github.com/licksylick/AutoTrackAnything) - AutoTrackAnything is a universal, flexible and interactive tool for insane automatic object tracking over thousands of frames. It is developed upon XMem, Yolov8 and MobileSAM (Segment Anything), can t
 - [tvey/youtube-playlist-duration](https://github.com/tvey/youtube-playlist-duration) - Are you gonna watch this? :boom:
-- [tvey/synk](https://github.com/tvey/synk) - The URL shortener
+- [tvey/synk](https://github.com/tvey/synk) - Shorten your link
 - [hopeman1102/Video_OCR](https://github.com/hopeman1102/Video_OCR) - Extract hardcoded (burned-in) subtitles from videos using the Tesseract OCR engine with Python.
 - [obgnail/video-subtitle-extractor](https://github.com/obgnail/video-subtitle-extractor) - 提取视频硬字幕。采用 PaddleOCR。
 - [hooni238/persian-video-ocr](https://github.com/hooni238/persian-video-ocr) - Persian video ocr is a python code that performs OCR on video frames.
@@ -1489,7 +1489,6 @@
 - [Single-Developers/TikTok-DL-BOT](https://github.com/Single-Developers/TikTok-DL-BOT) - 🏖 TikTok Download URL Generator API Example 🏖
 - [foevil/unf0llowers](https://github.com/foevil/unf0llowers) - 
 - [italankin/samplevoicebot](https://github.com/italankin/samplevoicebot) - TTS Telegram bot
-- [italankin/telegram-bot-template](https://github.com/italankin/telegram-bot-template) - A basic template for my telegram bots
 - [zenwarr/telegram-feed-bot](https://github.com/zenwarr/telegram-feed-bot) - Posts rss feeds or top reddit posts to telegram channels
 - [otherJL0/taxi_data](https://github.com/otherJL0/taxi_data) - 
 - [NyamekyeOCR/datageneration](https://github.com/NyamekyeOCR/datageneration) - datageneration
@@ -2114,7 +2113,7 @@
 - [codxmodsofc/Telegraph-Uploader-Bot](https://github.com/codxmodsofc/Telegraph-Uploader-Bot) - A simple telegram file or media to telegra.ph link uploader bot
 - [FayasNoushad/QR-Code-Bot](https://github.com/FayasNoushad/QR-Code-Bot) - An advanced QR Code telegram bot with more features.
 - [polak0v/ReSuber](https://github.com/polak0v/ReSuber) - 
-- [MrMissx/Telegram_Forwarder](https://github.com/MrMissx/Telegram_Forwarder) - Simple telegram bot to forward message form channel/group
+- [MrMissx/Telegram_Forwarder](https://github.com/MrMissx/Telegram_Forwarder) - Simple telegram bot to forward message from channel/group
 - [gurjeet29/telegram_members_scrapper](https://github.com/gurjeet29/telegram_members_scrapper) - Python Script to scrape members from a selected Telegram group.
 - [kawaiiDango/telegram-delete-logger](https://github.com/kawaiiDango/telegram-delete-logger) - Userbot to log deleted and edited messages on Telegram
 - [Reeshuxd/NightModeBot](https://github.com/Reeshuxd/NightModeBot) - A Telegram Bot to prevent Night Spams
