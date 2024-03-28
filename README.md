@@ -448,6 +448,8 @@
 
 ## Python 
 
+- [abhinavsingh/proxy.py](https://github.com/abhinavsingh/proxy.py) - ⚡ Fast • 🪶 Lightweight • 0️⃣ Dependency • 🔌 Pluggable • 😈 TLS interception • 🔒 DNS-over-HTTPS • 🔥 Poor Man's VPN • ⏪ Reverse & ⏩ Forward • 👮🏿 "Proxy Server" framework • 🌐 "Web Server" framework • ➵ ➶ 
+- [jundymek/free-proxy](https://github.com/jundymek/free-proxy) - Free proxy scraper written in python. It is pypi library - free to use.
 - [gkpln3/Sand](https://github.com/gkpln3/Sand) - Python based Dockerfile generator
 - [ankitjain28may/wifiPassword](https://github.com/ankitjain28may/wifiPassword) - It gives the password of your connected wifi's
 - [pgp/mega.py](https://github.com/pgp/mega.py) - Python library for the https://mega.nz/ API.
@@ -550,7 +552,7 @@
 - [moehmeni/syncedlyrics](https://github.com/moehmeni/syncedlyrics) - Get an LRC format (synchronized) lyrics for your music
 - [SadeghKrmi/pertts-streamlit](https://github.com/SadeghKrmi/pertts-streamlit) - Persian text-to-speech streamlit interface
 - [TDHM/Subtitles-Translator](https://github.com/TDHM/Subtitles-Translator) - Automatic subtitles translation with a local neural machine translation model. No third-party service required: the translation is done locally with small but efficient neural network models.
-- [VikParuchuri/surya](https://github.com/VikParuchuri/surya) - OCR and line detection in 90+ languages
+- [VikParuchuri/surya](https://github.com/VikParuchuri/surya) - OCR, layout analysis, and line detection in 90+ languages
 - [smacke/ffsubsync](https://github.com/smacke/ffsubsync) - Automagically synchronize subtitles with video.
 - [abdeladim-s/subsai](https://github.com/abdeladim-s/subsai) - 🎞️ Subtitles generation tool (Web-UI + CLI + Python package) powered by OpenAI's Whisper and its variants 🎞️
 - [bipinkrish/Link-Bypasser-Bot](https://github.com/bipinkrish/Link-Bypasser-Bot) - A Telegram Bot (with Site) that can Bypass Ad Links, Generate Direct Links and Jump Paywalls
@@ -893,7 +895,7 @@
 - [techboy-coder/mmdl](https://github.com/techboy-coder/mmdl) - MMDL (Mega Music Downloader) - A tool to easily download music.
 - [18520339/facebook-data-extraction](https://github.com/18520339/facebook-data-extraction) - Experience for effectively fetching Facebook data by Querying Graph API with Account-based Token and Operating undetectable scraping Bots to extract Client/Server-side Rendered content
 - [18520339/image-search-downloader](https://github.com/18520339/image-search-downloader) - Download images including URLs from Google, Bing, Flickr and Instagram hashtags with given keyword
-- [kaboussi/Botflix](https://github.com/kaboussi/Botflix) - 🎥 Stream your favorite movie from the terminal!
+- [lkabuci/Botflix](https://github.com/lkabuci/Botflix) - 🎥 Stream your favorite movie from the terminal!
 - [mherrmann/helium](https://github.com/mherrmann/helium) - Lighter web automation for Python
 - [namuan/tele-tube-rider](https://github.com/namuan/tele-tube-rider) - Telegram Bot 🤖 to download videos from Youtube, Reddit and Twitter and send it back to you.
 - [namuan/bin-utils](https://github.com/namuan/bin-utils) - Utility scripts / apps
@@ -2475,6 +2477,7 @@
 
 ## Shell 
 
+- [flashdagger/git-subrepo-pypi](https://github.com/flashdagger/git-subrepo-pypi) - python package for installing git-subrepo
 - [mfhepp/py4docker](https://github.com/mfhepp/py4docker) - Template for running Python 3.x shell scripts and notebooks in a Docker container for isolation, security, and portability
 - [HirbodBehnam/MTProtoProxyInstaller](https://github.com/HirbodBehnam/MTProtoProxyInstaller) - One-click script to install MTProto Proxy server on CentOS, Ubuntu and Debian
 - [docker/docker-install](https://github.com/docker/docker-install) - Docker installation script
