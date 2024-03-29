@@ -448,6 +448,8 @@
 
 ## Python 
 
+- [diezo/Ensta](https://github.com/diezo/Ensta) - 🔥 Fast & Reliable Python Package For Instagram API - 2024
+- [borisbabic/browser_cookie3](https://github.com/borisbabic/browser_cookie3) - This is a fork of browser_cookie
 - [abhinavsingh/proxy.py](https://github.com/abhinavsingh/proxy.py) - ⚡ Fast • 🪶 Lightweight • 0️⃣ Dependency • 🔌 Pluggable • 😈 TLS interception • 🔒 DNS-over-HTTPS • 🔥 Poor Man's VPN • ⏪ Reverse & ⏩ Forward • 👮🏿 "Proxy Server" framework • 🌐 "Web Server" framework • ➵ ➶ 
 - [jundymek/free-proxy](https://github.com/jundymek/free-proxy) - Free proxy scraper written in python. It is pypi library - free to use.
 - [gkpln3/Sand](https://github.com/gkpln3/Sand) - Python based Dockerfile generator
@@ -1317,7 +1319,7 @@
 - [arushadev/piraye](https://github.com/arushadev/piraye) - 
 - [softrebel/googleMapCrawler](https://github.com/softrebel/googleMapCrawler) - Crawler for google map using selenium driver
 - [97shivank/Hotel-Site-with-Django](https://github.com/97shivank/Hotel-Site-with-Django) - 
-- [mr-tafreshi/fbl](https://github.com/mr-tafreshi/fbl) - FBL is tool to find broken links in articles and files
+- [0vj/fbl](https://github.com/0vj/fbl) - FBL is tool to find broken links in articles and files
 - [iamvee/karafs](https://github.com/iamvee/karafs) - تولید اسم های رندوم فینگیلیش
 - [erfansaberi/Startup-wallpaper-creator---Jalali-calendar-and-Persian-poem](https://github.com/erfansaberi/Startup-wallpaper-creator---Jalali-calendar-and-Persian-poem) - این برنامه موقع بالا اومدن ویندوز با توجه به تنظیماتی که به برنامه دادین یه والپیپر میسازه و ست میکنه روی صفحتون شامل تاریخ شمسی، میلادی، شعر و عکس بکگراند رندوم
 - [turotakun98/WebmToGifTelegram](https://github.com/turotakun98/WebmToGifTelegram) - 
