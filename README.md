@@ -448,6 +448,8 @@
 
 ## Python 
 
+- [sayak-brm/espeakng-python](https://github.com/sayak-brm/espeakng-python) - An eSpeak NG TTS binding for Python3.
+- [FlorianEagox/WeeaBlind](https://github.com/FlorianEagox/WeeaBlind) - A program to dub non-english media with modern AI speech synthesis, diarization, and voice cloning!
 - [diezo/Ensta](https://github.com/diezo/Ensta) - 🔥 Fast & Reliable Python Package For Instagram API - 2024
 - [borisbabic/browser_cookie3](https://github.com/borisbabic/browser_cookie3) - This is a fork of browser_cookie
 - [abhinavsingh/proxy.py](https://github.com/abhinavsingh/proxy.py) - ⚡ Fast • 🪶 Lightweight • 0️⃣ Dependency • 🔌 Pluggable • 😈 TLS interception • 🔒 DNS-over-HTTPS • 🔥 Poor Man's VPN • ⏪ Reverse & ⏩ Forward • 👮🏿 "Proxy Server" framework • 🌐 "Web Server" framework • ➵ ➶ 
@@ -2539,7 +2541,7 @@
 - [Qiamast/PersianWordle](https://github.com/Qiamast/PersianWordle) - "Persian Wordle" is a fun and challenging word puzzle game designed to improve your Persian vocabulary. Built with TypeScript, ReactJS, TailwindCSS, PostCSS, and a Persian word dictionary, this game o
 - [HeySreelal/BitLinker](https://github.com/HeySreelal/BitLinker) - Just a Telegram Bot to shorten your long links!
 - [HeySreelal/xwordlebot](https://github.com/HeySreelal/xwordlebot) - Telegram Bot inspired by the Wordle game.
-- [alitnk/monopay](https://github.com/alitnk/monopay) - 💳 A node.js package for making payment transactions with different Iranian payment gateways
+- [alitnk/monopay](https://github.com/alitnk/monopay) - 💳 A node.js package for making payment transactions with different payment gateways
 - [rastikerdar/vazirmatn](https://github.com/rastikerdar/vazirmatn) - Vazirmatn is a Persian/Arabic font. وزیرمتن یک فونت فارسی/عربی است
 - [DustbinServer/DustbinBot](https://github.com/DustbinServer/DustbinBot) - A Telegram Bot Based On Dustbin API.
 - [snowplow-incubator/web-video-tracking-examples](https://github.com/snowplow-incubator/web-video-tracking-examples) - 
