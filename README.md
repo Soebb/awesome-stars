@@ -448,6 +448,8 @@
 
 ## Python 
 
+- [kkristof200/selenium_firefox](https://github.com/kkristof200/selenium_firefox) - User-friendly implementation of a firefox based selenium client
+- [shine-jayakumar/insta-likecom-bot](https://github.com/shine-jayakumar/insta-likecom-bot) - Automates likes and comments on an instagram account or tag
 - [sayak-brm/espeakng-python](https://github.com/sayak-brm/espeakng-python) - An eSpeak NG TTS binding for Python3.
 - [FlorianEagox/WeeaBlind](https://github.com/FlorianEagox/WeeaBlind) - A program to dub non-english media with modern AI speech synthesis, diarization, and voice cloning!
 - [diezo/Ensta](https://github.com/diezo/Ensta) - 🔥 Fast & Reliable Python Package For Instagram API - 2024
@@ -1338,8 +1340,8 @@
 - [bellingcat/instagram-location-search](https://github.com/bellingcat/instagram-location-search) - Finds Instagram location IDs near a specified latitude and longitude.
 - [bellingcat/telegram-phone-number-checker](https://github.com/bellingcat/telegram-phone-number-checker) - Check if phone numbers are connected to Telegram accounts.
 - [JBornman/telegram-inspire-bot](https://github.com/JBornman/telegram-inspire-bot) - A telegram bot that takes quotes and makes inspirational quote wallpapers
-- [rehmanali1337/instagram-to-telegram](https://github.com/rehmanali1337/instagram-to-telegram) - This bot scrapes the posts from specific instagram account and sends these posts(Images, Videos) to a telegram group.
-- [rehmanali1337/discord-telegram-bot](https://github.com/rehmanali1337/discord-telegram-bot) - Simple discord to telegram messages forward bot. It receives messages from filtered discord servers and channels and forward these messages to specified telegram channel using telegram api.
+- [runetech0/instagram-to-telegram](https://github.com/runetech0/instagram-to-telegram) - This bot scrapes the posts from specific instagram account and sends these posts(Images, Videos) to a telegram group.
+- [runetech0/discord-telegram-bot](https://github.com/runetech0/discord-telegram-bot) - Simple discord to telegram messages forward bot. It receives messages from filtered discord servers and channels and forward these messages to specified telegram channel using telegram api.
 - [Artis7eeR/ForwardTagRemoverBot](https://github.com/Artis7eeR/ForwardTagRemoverBot) - A Telegram Bot To Hide Forward Source
 - [Ah00ra/btc-price](https://github.com/Ah00ra/btc-price) - Get the price of bitcoin and insert it into a database
 - [StarkGang/RTMP-TG](https://github.com/StarkGang/RTMP-TG) - play your streams directly to telegram
