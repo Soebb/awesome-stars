@@ -882,7 +882,7 @@
 - [mandrelbrotset/same-network-group-chat](https://github.com/mandrelbrotset/same-network-group-chat) - GUI group chat for computers in the same network. The server and the client program both have a GUI.
 - [skorokithakis/shortuuid](https://github.com/skorokithakis/shortuuid) - A generator library for concise, unambiguous and URL-safe UUIDs.
 - [intervall-ludger/PyPDFMerger](https://github.com/intervall-ludger/PyPDFMerger) - PyPDFMerger is a Python-based application that allows users to merge multiple PDF files into a single document using a drag-and-drop interface.
-- [father-bot/chatgpt_telegram_bot](https://github.com/father-bot/chatgpt_telegram_bot) - 
+- [father-bot/chatgpt_telegram_bot](https://github.com/father-bot/chatgpt_telegram_bot) - 💬 Telegram bot with ChatGPT, Python-based, using OpenAI's API.
 - [armanyazdi/emailtools](https://github.com/armanyazdi/emailtools) - A Python library for email suggestions and validations.
 - [theos-ai/easy-paddle-ocr](https://github.com/theos-ai/easy-paddle-ocr) - This a clean and easy-to-use implementation of Paddle OCR. Made with ❤️ by Theos AI.
 - [vi/mkvparse](https://github.com/vi/mkvparse) - Simple Python matroska (mkv) reading library, also mkv2xml and xml2mkv
