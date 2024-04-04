@@ -448,6 +448,7 @@
 
 ## Python 
 
+- [FayasNoushad/Telegram-Dictionary-Bot](https://github.com/FayasNoushad/Telegram-Dictionary-Bot) - A simple Telegram Words Dictionary Bot
 - [kkristof200/selenium_firefox](https://github.com/kkristof200/selenium_firefox) - User-friendly implementation of a firefox based selenium client
 - [shine-jayakumar/insta-likecom-bot](https://github.com/shine-jayakumar/insta-likecom-bot) - Automates likes and comments on an instagram account or tag
 - [sayak-brm/espeakng-python](https://github.com/sayak-brm/espeakng-python) - An eSpeak NG TTS binding for Python3.
