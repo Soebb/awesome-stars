@@ -2307,7 +2307,7 @@
 - [oVoIndia/GDrive-Bot](https://github.com/oVoIndia/GDrive-Bot) - 
 - [iamLiquidX/MirrorX](https://github.com/iamLiquidX/MirrorX) - A fork of a fork of a fork of a fork.........
 - [vamsich30/YouTube-Converter](https://github.com/vamsich30/YouTube-Converter) - Youtube converter which accepts youtube url and downloads it in user desired format.This project helps us to download your desired url in three formats .mp3, WEBM, .mp4 and helps user to download the 
-- [geovanigaldemsugar/Youtube-Downloader](https://github.com/geovanigaldemsugar/Youtube-Downloader) - 
+- [geovanigaldemsugar/Youtube-Downloader](https://github.com/geovanigaldemsugar/Youtube-Downloader) - A simple YouTube Downloader desktop app
 - [mikeysan/yt_pytube_dl](https://github.com/mikeysan/yt_pytube_dl) - A Python script used to practice pytube library.
 - [raahulrathore/Python-YouTube-Scraper](https://github.com/raahulrathore/Python-YouTube-Scraper) - A simple YouTube Scraper to scrape data from YouTube using URL and download audio and video files.
 - [2raederdev/wikipedia_scraper](https://github.com/2raederdev/wikipedia_scraper) - Enter the url of a Wikipedia article and get all internal links within the article.
