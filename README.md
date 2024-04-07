@@ -142,7 +142,7 @@
 
 ## HTML 
 
-- [Soebb/streaming-url-gen-bot](https://github.com/Soebb/streaming-url-gen-bot) - Telegram bot to generate steaming link for youtube videos or from direct download links of videos.
+- [Soebb/streaming-url-gen-bot](https://github.com/Soebb/streaming-url-gen-bot) - Telegram bot to generate steaming link for youtube videos or from direct download links of videos. Videos will be hosted on the app server.
 - [vitalets/github-trending-repos](https://github.com/vitalets/github-trending-repos) - Track GitHub trending repositories in your favorite programming language by native GitHub notifications!
 - [karim23657/Subtr](https://github.com/karim23657/Subtr) - This user-friendly tool seamlessly translates SRT and DFXP subtitles to any language, making it the ideal choice for handling subtitle sentence breaks across tracks. Experience the ease and accuracy o
 - [vabs/youtube-channel-name-converter](https://github.com/vabs/youtube-channel-name-converter) - Convert Youtube Channel Name To Channel ID
@@ -308,6 +308,7 @@
 
 ## Makefile 
 
+- [Helsinki-NLP/Tatoeba-Challenge](https://github.com/Helsinki-NLP/Tatoeba-Challenge) - 
 - [aio-libs/aiohttp-demos](https://github.com/aio-libs/aiohttp-demos) - Demos for aiohttp project
 
 ## Objective-C 
@@ -448,6 +449,7 @@
 
 ## Python 
 
+- [Helsinki-NLP/Opus-MT](https://github.com/Helsinki-NLP/Opus-MT) - Open neural machine translation models and web services
 - [benyaminsh/creating-an-iranian-mobile-number](https://github.com/benyaminsh/creating-an-iranian-mobile-number) - این برنامه برای این ساخته شده که ما شماره های افرادی رو که در تلگرام عضو هستند پیدا کنیم و با استفاده از ربات بتونیم اون هارو اد کنیم داخل گروه یا کانال و...
 - [FayasNoushad/Telegram-Dictionary-Bot](https://github.com/FayasNoushad/Telegram-Dictionary-Bot) - A simple Telegram Words Dictionary Bot
 - [kkristof200/selenium_firefox](https://github.com/kkristof200/selenium_firefox) - User-friendly implementation of a firefox based selenium client
