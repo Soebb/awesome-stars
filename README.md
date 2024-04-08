@@ -142,6 +142,7 @@
 
 ## HTML 
 
+- [Alex27ak/ak-tg-index](https://github.com/Alex27ak/ak-tg-index) - 
 - [Soebb/streaming-url-gen-bot](https://github.com/Soebb/streaming-url-gen-bot) - Telegram bot to generate steaming link for youtube videos or from direct download links of videos. Videos will be hosted on the app server.
 - [vitalets/github-trending-repos](https://github.com/vitalets/github-trending-repos) - Track GitHub trending repositories in your favorite programming language by native GitHub notifications!
 - [karim23657/Subtr](https://github.com/karim23657/Subtr) - This user-friendly tool seamlessly translates SRT and DFXP subtitles to any language, making it the ideal choice for handling subtitle sentence breaks across tracks. Experience the ease and accuracy o
@@ -449,6 +450,12 @@
 
 ## Python 
 
+- [GamingBeast1/Ultra-forward-bot](https://github.com/GamingBeast1/Ultra-forward-bot) - A powerful forward bot to forward bulk messages from one channel to other
+- [TechGreyMatters/TG-URL-Shortener-Bot](https://github.com/TechGreyMatters/TG-URL-Shortener-Bot) - Telegram URL Shortener Bot With Many Amazing Features.
+- [persiannlp/parsinlu](https://github.com/persiannlp/parsinlu) - A comprehensive suite of high-level NLP tasks for Persian language
+- [AmirAref/Linkedbot](https://github.com/AmirAref/Linkedbot) - a telegram robot that provides the details of the Linkedin posts
+- [AmirAref/Torobot](https://github.com/AmirAref/Torobot) - a telegram bot to crawl data from torob.com and display in telegram.
+- [AmirAref/DivarCrawler](https://github.com/AmirAref/DivarCrawler) - an script to crawl divar.ir and extract phone numbers
 - [Helsinki-NLP/Opus-MT](https://github.com/Helsinki-NLP/Opus-MT) - Open neural machine translation models and web services
 - [benyaminsh/creating-an-iranian-mobile-number](https://github.com/benyaminsh/creating-an-iranian-mobile-number) - این برنامه برای این ساخته شده که ما شماره های افرادی رو که در تلگرام عضو هستند پیدا کنیم و با استفاده از ربات بتونیم اون هارو اد کنیم داخل گروه یا کانال و...
 - [FayasNoushad/Telegram-Dictionary-Bot](https://github.com/FayasNoushad/Telegram-Dictionary-Bot) - A simple Telegram Words Dictionary Bot
