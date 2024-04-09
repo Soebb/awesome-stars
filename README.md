@@ -301,6 +301,7 @@
 
 ## Kotlin 
 
+- [fast4x/RiMusic](https://github.com/fast4x/RiMusic) - A multilingual Android application for streaming music from YouTube Music.
 - [jing332/SherpaOnnxTtsEngineAndroid](https://github.com/jing332/SherpaOnnxTtsEngineAndroid) - 
 - [ShiftHackZ/WebViewApp](https://github.com/ShiftHackZ/WebViewApp) - Android WebView application scaffold
 - [jing332/tts-server-android](https://github.com/jing332/tts-server-android) - 这是一个Android系统TTS应用，内置微软演示接口，可自定义HTTP请求，可导入其他本地TTS引擎，以及根据中文双引号的简单旁白/对话识别朗读 ，还有自动重试，备用配置，文本替换等更多功能。
@@ -508,7 +509,7 @@
 - [AsoSoft/AsoSoft-Library-py](https://github.com/AsoSoft/AsoSoft-Library-py) - AsoSoft's Library for Kurdish language processing tasks in python
 - [NotCookey/Quote2Image](https://github.com/NotCookey/Quote2Image) - Quote2Image is a python library for turning text quotes into graphical images
 - [Azornes/ocrTranslator](https://github.com/Azornes/ocrTranslator) - Convert captured images to text using BaiduOCR, GoogleOCR, WindowsOCR, tesseractOCR, RapidOCR or Capture2Text, and translate the resulting text using Google, Chatgpt, Edgegpt, DeepL or many more. Desk
-- [theFest/python-scripts](https://github.com/theFest/python-scripts) - py2/3 | {educational content}
+- [theFest/python-scripts](https://github.com/theFest/python-scripts) - py 2/3 | {educational content}
 - [Fadi002/de4py](https://github.com/Fadi002/de4py) - toolkit for python reverse engineering
 - [Abyys001/TranslatorBot](https://github.com/Abyys001/TranslatorBot) - Convert your English texts to Farsi and your Farsi texts to English using Telegram bot
 - [nabidam/harzad_bot](https://github.com/nabidam/harzad_bot) - 
@@ -1685,7 +1686,7 @@
 - [riz4d/TempMail-Bot](https://github.com/riz4d/TempMail-Bot) - A python oriented telegram bot for generating temporary Emails
 - [samadii/web2pdf-bot](https://github.com/samadii/web2pdf-bot) - A simple Telegram bot to download webpages as PDF
 - [diogenesc/shortcut-changelog-generator](https://github.com/diogenesc/shortcut-changelog-generator) - 
-- [GBakaev/twitter-telegram-forward](https://github.com/GBakaev/twitter-telegram-forward) - A Bot that Forwards Tweets to Telegram using Airtable as a database.
+- [GeBakaev/twitter-telegram-forward](https://github.com/GeBakaev/twitter-telegram-forward) - A Bot that Forwards Tweets to Telegram using Airtable as a database.
 - [mishakorzik/MailFinder](https://github.com/mishakorzik/MailFinder) - OSINT tool for finding email by first and last name
 - [FichteFoll/resumeback](https://github.com/FichteFoll/resumeback) - Python module for using callbacks to resume your code
 - [Poolitzer/spotify_telegram_bio_updater](https://github.com/Poolitzer/spotify_telegram_bio_updater) - This userbot updates the biography of a telegram user according to their current spotify playback.
@@ -2267,7 +2268,7 @@
 - [m4mallu/DeleteMediaRobot](https://github.com/m4mallu/DeleteMediaRobot) - Telegram robot to delete media in a chat!
 - [AnjanaMadu/MentionAllBot](https://github.com/AnjanaMadu/MentionAllBot) - This bot can mention members upto 10,000 in groups and can mention members upto 200 in channels !
 - [dihanofficial/SophiaOLD](https://github.com/dihanofficial/SophiaOLD) - Old Vision of Sophia Source Code.....
-- [hadronepoch/python-ffmpeg-video-streaming](https://github.com/hadronepoch/python-ffmpeg-video-streaming) - 📼 Package media content for online streaming(DASH and HLS) using FFmpeg
+- [quasarstream/python-ffmpeg-video-streaming](https://github.com/quasarstream/python-ffmpeg-video-streaming) - 📼 Package media content for online streaming(DASH and HLS) using FFmpeg
 - [TeamDaisyX/DaisyXMusic](https://github.com/TeamDaisyX/DaisyXMusic) - Free and Open Source Group Voice chat music player for telegram ❤️ with button support youtube playback support
 - [BlazingWarlord/BeautifulSoup](https://github.com/BlazingWarlord/BeautifulSoup) - Get movie details with Python from imdb.com
 - [Karan-Malik/IMDb_bot](https://github.com/Karan-Malik/IMDb_bot) - Telegram bot to fetch details and ratings for any movie
@@ -2360,7 +2361,6 @@
 - [lntechnical2/forward-tag-remover-bot](https://github.com/lntechnical2/forward-tag-remover-bot) - 
 - [lntechnical2/YouTube_Thumbnail_Downloader](https://github.com/lntechnical2/YouTube_Thumbnail_Downloader) - Youtube Video  Thumbnail Downloader Telegram Bot
 - [lntechnical2/RENAMER_BOT_V2](https://github.com/lntechnical2/RENAMER_BOT_V2) - Telegram File Renamer Bot
-- [erfan4lx/Telegram-Channel-Posts-Counter](https://github.com/erfan4lx/Telegram-Channel-Posts-Counter) - Count the posts on your target Telegram channel
 - [rafpyprog/ImageSoup](https://github.com/rafpyprog/ImageSoup) - Python library designed for quick search and downloading images from Google Images.
 - [banhao/scrape-youtube-channel-videos-url](https://github.com/banhao/scrape-youtube-channel-videos-url) - This Python script is used to scrape all the video links from a youtube channel.
 - [Itz-fork/pyro-mega.py](https://github.com/Itz-fork/pyro-mega.py) - Modified Version of mega.py package for Pyrogram Bots
