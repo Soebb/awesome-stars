@@ -63,6 +63,7 @@
 
 ## C++ 
 
+- [k2-fsa/sherpa](https://github.com/k2-fsa/sherpa) - Speech-to-text server framework with next-gen Kaldi
 - [Mobile-Artificial-Intelligence/piper.cpp](https://github.com/Mobile-Artificial-Intelligence/piper.cpp) - 
 - [k2-fsa/sherpa-ncnn](https://github.com/k2-fsa/sherpa-ncnn) - Real-time speech recognition using next-gen Kaldi with ncnn without Internet connection. Support iOS, Android, Raspberry Pi, VisionFive2, LicheePi4A etc.
 - [mmdii/cpp-to-python-pkg](https://github.com/mmdii/cpp-to-python-pkg) - 
@@ -374,7 +375,6 @@
 - [DevelopersTree/awesome-kurds](https://github.com/DevelopersTree/awesome-kurds) - A curated list of awesome Kurds.
 - [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
-- [reza-tanha/aparat_api](https://github.com/reza-tanha/aparat_api) - راهنمای استفاده از خدمات اپارات
 - [oppsec/extensions-wordlist](https://github.com/oppsec/extensions-wordlist) - 🔍 Improve your files enumeration with specific extensions!
 - [m4mallu/clonebot-ui](https://github.com/m4mallu/clonebot-ui) - Redirecting link to the original and latest clonebot repository.
 - [PredatorHackerzZ/Renamer-Bot](https://github.com/PredatorHackerzZ/Renamer-Bot) - Best & Fastest Renamer Bot By @Clinton-Abraham & @PredatorHackerzZ. Star and Fork the repo if you like it else you are Gay!...  @TeamTeleRoid
@@ -451,6 +451,7 @@
 
 ## Python 
 
+- [jhsoby/telegram-wikilinksbot](https://github.com/jhsoby/telegram-wikilinksbot) - Telegram bot that links [[wiki links]] and Wikidata entities in chats
 - [GamingBeast1/Ultra-forward-bot](https://github.com/GamingBeast1/Ultra-forward-bot) - A powerful forward bot to forward bulk messages from one channel to other
 - [TechGreyMatters/TG-URL-Shortener-Bot](https://github.com/TechGreyMatters/TG-URL-Shortener-Bot) - Telegram URL Shortener Bot With Many Amazing Features.
 - [persiannlp/parsinlu](https://github.com/persiannlp/parsinlu) - A comprehensive suite of high-level NLP tasks for Persian language
@@ -1883,7 +1884,7 @@
 - [AlbertEinsteinTG/Adv-Auto-Filter-Bot-V2](https://github.com/AlbertEinsteinTG/Adv-Auto-Filter-Bot-V2) - 
 - [Itz-fork/Yui](https://github.com/Itz-fork/Yui) - Simple Telegram AI Chat bot made using OpenAI and Luna API
 - [watson-developer-cloud/python-sdk](https://github.com/watson-developer-cloud/python-sdk) - :snake: Client library to use the IBM Watson services in Python and available in pip as watson-developer-cloud
-- [reza-tanha/Duplicate-Finder](https://github.com/reza-tanha/Duplicate-Finder) - With this tool you can find duplicate words in lines of a text file and display the number of duplicates. And cleans them if needed.
+- [rz-k/Duplicate-Finder](https://github.com/rz-k/Duplicate-Finder) - With this tool you can find duplicate words in lines of a text file and display the number of duplicates. And cleans them if needed.
 - [Zylern/TGVid-Comp](https://github.com/Zylern/TGVid-Comp) - Video Encoder Telegram Bot Based On FFMPEG Can Generate Sample Videos Too!
 - [subinps/InterHelperBot](https://github.com/subinps/InterHelperBot) - 
 - [SpEcHiDe/UploadGram](https://github.com/SpEcHiDe/UploadGram) - https://pypi.org/project/uploadgram/
@@ -2006,7 +2007,7 @@
 - [RincemonReji/RSS-Feed](https://github.com/RincemonReji/RSS-Feed) - 
 - [piyx/YoutubeSpotifyDL](https://github.com/piyx/YoutubeSpotifyDL) - Youtube and Spotify music downloader with metadata.
 - [mps-youtube/pafy](https://github.com/mps-youtube/pafy) - Python library to download YouTube content and retrieve metadata
-- [probablynotyasho/Spotify_Playlist_Downloader](https://github.com/probablynotyasho/Spotify_Playlist_Downloader) - A python script to download spotify playlists from youtube.
+- [pyyrix/Spotify_Playlist_Downloader](https://github.com/pyyrix/Spotify_Playlist_Downloader) - A python script to download spotify playlists from youtube.
 - [pytube/pytube](https://github.com/pytube/pytube) - A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.
 - [iamLiquidX/MirLeechX](https://github.com/iamLiquidX/MirLeechX) - 
 - [im-bb/PH-DL](https://github.com/im-bb/PH-DL) - Simple python-based script to download PH STUFF
