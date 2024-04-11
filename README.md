@@ -1925,7 +1925,7 @@
 - [zankoAn/Pyrogram-Blog-Project](https://github.com/zankoAn/Pyrogram-Blog-Project) - pyrogram client bot  project
 - [Ns-Bots/TG-RENAMER-BOT](https://github.com/Ns-Bots/TG-RENAMER-BOT) - One of the best Telegram renamer bot with many new features
 - [Achu2234/String-gen](https://github.com/Achu2234/String-gen) - A Working repel to gen string
-- [pytgcalls/pytgcalls](https://github.com/pytgcalls/pytgcalls) - Async client API for the Telegram Group Calls
+- [pytgcalls/pytgcalls](https://github.com/pytgcalls/pytgcalls) - Async client API for the Telegram Calls
 - [XMYSTERlOUSX/mega-link-downloader-bot](https://github.com/XMYSTERlOUSX/mega-link-downloader-bot) - A telegram bot to download mega.nz links. (made with pyrogram).
 - [Nenirey/simplebot_tg](https://github.com/Nenirey/simplebot_tg) - 
 - [prxpostern/mp3_256k_extractor](https://github.com/prxpostern/mp3_256k_extractor) - 
@@ -2007,7 +2007,7 @@
 - [RincemonReji/RSS-Feed](https://github.com/RincemonReji/RSS-Feed) - 
 - [piyx/YoutubeSpotifyDL](https://github.com/piyx/YoutubeSpotifyDL) - Youtube and Spotify music downloader with metadata.
 - [mps-youtube/pafy](https://github.com/mps-youtube/pafy) - Python library to download YouTube content and retrieve metadata
-- [pyyrix/Spotify_Playlist_Downloader](https://github.com/pyyrix/Spotify_Playlist_Downloader) - A python script to download spotify playlists from youtube.
+- [at-pyrix/Spotify_Playlist_Downloader](https://github.com/at-pyrix/Spotify_Playlist_Downloader) - A python script to download spotify playlists from youtube.
 - [pytube/pytube](https://github.com/pytube/pytube) - A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.
 - [iamLiquidX/MirLeechX](https://github.com/iamLiquidX/MirLeechX) - 
 - [im-bb/PH-DL](https://github.com/im-bb/PH-DL) - Simple python-based script to download PH STUFF
