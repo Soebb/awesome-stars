@@ -251,6 +251,7 @@
 
 ## Jupyter Notebook 
 
+- [shashikg/WhisperS2T](https://github.com/shashikg/WhisperS2T) - An Optimized Speech-to-Text Pipeline for the Whisper Model Supporting Multiple Inference Engine
 - [nimaprgrmr/ocr_persian](https://github.com/nimaprgrmr/ocr_persian) - this system take a photo and do a lot preprocessing steps and then pass it to pytesseract model and you can see the texts extracted from image.
 - [Vaibhavs10/insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper) - 
 - [Pouyaexe/Farsi_PDF](https://github.com/Pouyaexe/Farsi_PDF) - Make editable Persian(Farsi) PDF from Non-Editable ones, using OCR.
@@ -451,6 +452,9 @@
 
 ## Python 
 
+- [GoogleCloudPlatform/functions-framework-python](https://github.com/GoogleCloudPlatform/functions-framework-python) - FaaS (Function as a service) framework for writing portable Python functions
+- [Pranjalya/google-calendar-telegram-bot](https://github.com/Pranjalya/google-calendar-telegram-bot) - A telegram bot for sending daily notifications of the events coming in upcoming days.
+- [Pranjalya/tts-tortoise-gradio](https://github.com/Pranjalya/tts-tortoise-gradio) - A Gradio setup for Tortoise TTS.
 - [jhsoby/telegram-wikilinksbot](https://github.com/jhsoby/telegram-wikilinksbot) - Telegram bot that links [[wiki links]] and Wikidata entities in chats
 - [GamingBeast1/Ultra-forward-bot](https://github.com/GamingBeast1/Ultra-forward-bot) - A powerful forward bot to forward bulk messages from one channel to other
 - [TechGreyMatters/TG-URL-Shortener-Bot](https://github.com/TechGreyMatters/TG-URL-Shortener-Bot) - Telegram URL Shortener Bot With Many Amazing Features.
