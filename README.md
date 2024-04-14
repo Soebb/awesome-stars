@@ -322,6 +322,7 @@
 
 ## Others 
 
+- [ebertti/awesome-telegram](https://github.com/ebertti/awesome-telegram) - Collection great groups, channels, bots and libraries for Telegram
 - [Nickeld28/Learning_Docker](https://github.com/Nickeld28/Learning_Docker) - I created this project to learn Docker in practice and how to work with it.
 - [ScribeMD/rootless-docker](https://github.com/ScribeMD/rootless-docker) - Run Docker in Rootless Mode to Prevent Permission Errors
 - [cdleon/awesome-terminals](https://github.com/cdleon/awesome-terminals) - Terminal Emulators
