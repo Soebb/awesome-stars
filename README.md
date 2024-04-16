@@ -322,6 +322,7 @@
 
 ## Others 
 
+- [rahulbhoyar1995/HF-Spaces-with-Github-Actions-Tutorial](https://github.com/rahulbhoyar1995/HF-Spaces-with-Github-Actions-Tutorial) - Learn to automate the creation of highly functional spaces using GitHub Actions. This tutorial repository guides you through setting up automated workflows for managing spaces efficiently within your 
 - [ebertti/awesome-telegram](https://github.com/ebertti/awesome-telegram) - Collection great groups, channels, bots and libraries for Telegram
 - [Nickeld28/Learning_Docker](https://github.com/Nickeld28/Learning_Docker) - I created this project to learn Docker in practice and how to work with it.
 - [ScribeMD/rootless-docker](https://github.com/ScribeMD/rootless-docker) - Run Docker in Rootless Mode to Prevent Permission Errors
@@ -351,7 +352,7 @@
 - [dkncus/CrowdRemoval](https://github.com/dkncus/CrowdRemoval) - 
 - [Cozy-Tech/regex_tutorial_and_examples](https://github.com/Cozy-Tech/regex_tutorial_and_examples) - 
 - [Hameds/IranCountryDivisions](https://github.com/Hameds/IranCountryDivisions) - Iran Country Divisions - کلیه تقسیمات کشوری ایران تا سطح آبادی بر اساس اطلاعات مرکز آمار ایران
-- [MrBotDeveloper/This-Repo-Has-118-Stars](https://github.com/MrBotDeveloper/This-Repo-Has-118-Stars) - Yes it's true :broken_heart:, currently it has 118 stars ⭐ and 21 forks 🍴.
+- [MrBotDeveloper/This-Repo-Has-119-Stars](https://github.com/MrBotDeveloper/This-Repo-Has-119-Stars) - Yes it's true :broken_heart:, currently it has 119 stars ⭐ and 21 forks 🍴.
 - [Alir3z4/stop-words](https://github.com/Alir3z4/stop-words) - List of common stop words in various languages.
 - [ahmadazizi/iran-cities](https://github.com/ahmadazizi/iran-cities) - The most accurate database of city, county, village and province names of Iran.
 - [iranremote/awesome-iran-remote](https://github.com/iranremote/awesome-iran-remote) - A list of remote-friendly or full-remote companies that targets iranian talents.
@@ -453,6 +454,8 @@
 
 ## Python 
 
+- [carl-steinbach/selenium-scraper](https://github.com/carl-steinbach/selenium-scraper) - 
+- [cognitivecomputations/github2file](https://github.com/cognitivecomputations/github2file) - 
 - [GoogleCloudPlatform/functions-framework-python](https://github.com/GoogleCloudPlatform/functions-framework-python) - FaaS (Function as a service) framework for writing portable Python functions
 - [Pranjalya/google-calendar-telegram-bot](https://github.com/Pranjalya/google-calendar-telegram-bot) - A telegram bot for sending daily notifications of the events coming in upcoming days.
 - [Pranjalya/tts-tortoise-gradio](https://github.com/Pranjalya/tts-tortoise-gradio) - A Gradio setup for Tortoise TTS.
@@ -982,7 +985,6 @@
 - [1plus1is3/kindle-translator](https://github.com/1plus1is3/kindle-translator) - A tool to convert foreign books to PDF written in your native language.
 - [SeroviICAI/Movie_Recommender](https://github.com/SeroviICAI/Movie_Recommender) - This program recommends you a movie for any genre, scraping data from IMDb. This project is done for educational purposes.
 - [mnsalimi/PersianSpellChecker](https://github.com/mnsalimi/PersianSpellChecker) - 
-- [mnsalimi/persian-speech2text](https://github.com/mnsalimi/persian-speech2text) - 
 - [Alir3z4/html2text](https://github.com/Alir3z4/html2text) - Convert HTML to Markdown-formatted text.
 - [khoben/telemirror](https://github.com/khoben/telemirror) - Telegram message forwarder (client API)
 - [kkrypt0nn/Python-Discord-Bot-Template](https://github.com/kkrypt0nn/Python-Discord-Bot-Template) - 🐍 A simple template to start to code your own and personalized Discord bot in the Python programming language
