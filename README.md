@@ -454,6 +454,8 @@
 
 ## Python 
 
+- [zackees/tx](https://github.com/zackees/tx) - Front end for wormhole, better transfers and more secure
+- [zackees/keyvalue_sqlite](https://github.com/zackees/keyvalue_sqlite) - Super simple KeyValue store for python, backed by sqlite.
 - [carl-steinbach/selenium-scraper](https://github.com/carl-steinbach/selenium-scraper) - 
 - [cognitivecomputations/github2file](https://github.com/cognitivecomputations/github2file) - 
 - [GoogleCloudPlatform/functions-framework-python](https://github.com/GoogleCloudPlatform/functions-framework-python) - FaaS (Function as a service) framework for writing portable Python functions
