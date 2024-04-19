@@ -660,7 +660,7 @@
 - [jepbura/potplayer-english-to-persian-translator](https://github.com/jepbura/potplayer-english-to-persian-translator) - Potplayer in normal mode can translate all subtitles simultaneously and provide word translations in the browser, which can be time-consuming. However, EnToFa, a Python code, enables instant English t
 - [zeoses/persian-gender-detection](https://github.com/zeoses/persian-gender-detection) - A simple python package to detect gender by Persian first name. (With more than 19K names)
 - [dsymbol/decipher](https://github.com/dsymbol/decipher) - Effortlessly add AI-generated transcription subtitles to your videos
-- [dsymbol/selench](https://github.com/dsymbol/selench) - Selenium WebDriver wrapper for Python
+- [dsymbol/selench](https://github.com/dsymbol/selench) - Selenium wrapper for Python
 - [dsymbol/yt-dlp-gui](https://github.com/dsymbol/yt-dlp-gui) - A cross-platform GUI wrapper for yt-dlp written in PySide6
 - [mkaz/termgraph](https://github.com/mkaz/termgraph) - a python command-line tool which draws basic graphs in the terminal
 - [mkaz/oneliner](https://github.com/mkaz/oneliner) - A command-line tool for saving one line notes in plain text files.
@@ -2542,7 +2542,7 @@
 - [pyronlaboratory/heroku-integrated-firefox-geckodriver](https://github.com/pyronlaboratory/heroku-integrated-firefox-geckodriver) - Buildpack enables your client code to access Firefox along with Geckodriver in a Heroku slug.
 - [buitron/geckodriver-buildpack](https://github.com/buitron/geckodriver-buildpack) - Heroku geckodriver buildpack for Selenium use with Firefox
 - [yegor256/firefox-buildpack](https://github.com/yegor256/firefox-buildpack) - Heroku buildpack for Firefox 68.0.2
-- [heroku/heroku-buildpack-chromedriver](https://github.com/heroku/heroku-buildpack-chromedriver) - Installs chromedriver in a Heroku slug
+- [heroku/heroku-buildpack-chromedriver](https://github.com/heroku/heroku-buildpack-chromedriver) - [DEPRECATED] Use https://github.com/heroku/heroku-buildpack-chrome-for-testing instead.
 - [heroku/heroku-buildpack-google-chrome](https://github.com/heroku/heroku-buildpack-google-chrome) - Run (headless) Google Chrome on Heroku
 - [rahulps1000/HerokuBannedDeployer](https://github.com/rahulps1000/HerokuBannedDeployer) - With this you can deploy repos that are banned/blacklisted by heroku
 - [BlueTeaLondon/heroku-buildpack-libreoffice-for-heroku-18](https://github.com/BlueTeaLondon/heroku-buildpack-libreoffice-for-heroku-18) - 
