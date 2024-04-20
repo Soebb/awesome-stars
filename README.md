@@ -290,7 +290,7 @@
 - [alphacep/vosk-api](https://github.com/alphacep/vosk-api) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
 - [HussamCheema/speech_to_text](https://github.com/HussamCheema/speech_to_text) - Noise Reduction, Signal Enhancement - VAD - Wave2Vec - Speech to Text
 - [neelshah2409/Bot-Collection](https://github.com/neelshah2409/Bot-Collection) - A collection of bots which will help to automate everything
-- [shirooo39/MiXLab](https://github.com/shirooo39/MiXLab) - Just another multi-purpose Colab Notebook
+- [shirooo39/MiXLab](https://github.com/shirooo39/MiXLab) - Yet another multi-purpose Colab Notebook
 - [Nishk23/TextBlob-Spelling-Correction](https://github.com/Nishk23/TextBlob-Spelling-Correction) - 
 - [avinashkranjan/Amazing-Python-Scripts](https://github.com/avinashkranjan/Amazing-Python-Scripts) - 🚀 Curated collection of Amazing Python scripts from Basics to Advance with automation task scripts.
 - [AlisterTA/Persian-text-to-speech](https://github.com/AlisterTA/Persian-text-to-speech) - 
@@ -303,6 +303,7 @@
 
 ## Kotlin 
 
+- [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android) - AnkiDroid: Anki flashcards on Android. Your secret trick to achieve superhuman information retention.
 - [fast4x/RiMusic](https://github.com/fast4x/RiMusic) - A multilingual Android application for streaming music from YouTube Music.
 - [jing332/SherpaOnnxTtsEngineAndroid](https://github.com/jing332/SherpaOnnxTtsEngineAndroid) - 
 - [ShiftHackZ/WebViewApp](https://github.com/ShiftHackZ/WebViewApp) - Android WebView application scaffold
@@ -2400,7 +2401,7 @@
 - [AsmSafone/RadioPlayerV2](https://github.com/AsmSafone/RadioPlayerV2) - This Is Advanced Version Of Old Radio Player, An Telegram Bot to Play Radio/Music in Channel or Group Voice Chats.
 - [AsmSafone/RadioPlayer](https://github.com/AsmSafone/RadioPlayer) - An Telegram Bot to Play Radio & Music in Voice Chat By @AsmSafone.
 - [AsmSafone/MegaDL-Bot](https://github.com/AsmSafone/MegaDL-Bot) - A Simple Telegram Bot By @AsmSafone to Download Files From Mega.nz and Upload It to Telegram
-- [nimiology/spotify_downloader_telegram__bot](https://github.com/nimiology/spotify_downloader_telegram__bot) - This simple Python script allows you to download songs from Spotify by Telegram bot
+- [nimiology/spotify_downloader_telegram__bot](https://github.com/nimiology/spotify_downloader_telegram__bot) - This Python script allows you to download songs from Spotify withTelegram bot
 - [FayasNoushad/Attach-Bot](https://github.com/FayasNoushad/Attach-Bot) - A telegram file or media in a message using their links attach bot.
 - [FayasNoushad/Pyrogram-Json-Bot](https://github.com/FayasNoushad/Pyrogram-Json-Bot) - A telegram to pyrogram json bot
 - [FayasNoushad/Telegraph-Uploader-Bot](https://github.com/FayasNoushad/Telegraph-Uploader-Bot) - A simple telegram file or media to telegra.ph link uploader bot
