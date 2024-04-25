@@ -323,6 +323,7 @@
 
 ## Others 
 
+- [redf0x1/Auto-Forward-Messages](https://github.com/redf0x1/Auto-Forward-Messages) - You can use this BOT as a distribution of messages from any telegram chats (private/public channels, private/public groups, topics, direct chats) into one or many chat.
 - [rahulbhoyar1995/HF-Spaces-with-Github-Actions-Tutorial](https://github.com/rahulbhoyar1995/HF-Spaces-with-Github-Actions-Tutorial) - Learn to automate the creation of highly functional spaces using GitHub Actions. This tutorial repository guides you through setting up automated workflows for managing spaces efficiently within your 
 - [ebertti/awesome-telegram](https://github.com/ebertti/awesome-telegram) - Collection great groups, channels, bots and libraries for Telegram
 - [Nickeld28/Learning_Docker](https://github.com/Nickeld28/Learning_Docker) - I created this project to learn Docker in practice and how to work with it.
@@ -353,7 +354,7 @@
 - [dkncus/CrowdRemoval](https://github.com/dkncus/CrowdRemoval) - 
 - [Cozy-Tech/regex_tutorial_and_examples](https://github.com/Cozy-Tech/regex_tutorial_and_examples) - 
 - [Hameds/IranCountryDivisions](https://github.com/Hameds/IranCountryDivisions) - Iran Country Divisions - کلیه تقسیمات کشوری ایران تا سطح آبادی بر اساس اطلاعات مرکز آمار ایران
-- [MrBotDeveloper/This-Repo-Has-119-Stars](https://github.com/MrBotDeveloper/This-Repo-Has-119-Stars) - Yes it's true :broken_heart:, currently it has 119 stars ⭐ and 21 forks 🍴.
+- [MrBotDeveloper/This-Repo-Has-120-Stars](https://github.com/MrBotDeveloper/This-Repo-Has-120-Stars) - Yes it's true :broken_heart:, currently it has 120 stars ⭐ and 21 forks 🍴.
 - [Alir3z4/stop-words](https://github.com/Alir3z4/stop-words) - List of common stop words in various languages.
 - [ahmadazizi/iran-cities](https://github.com/ahmadazizi/iran-cities) - The most accurate database of city, county, village and province names of Iran.
 - [iranremote/awesome-iran-remote](https://github.com/iranremote/awesome-iran-remote) - A list of remote-friendly or full-remote companies that targets iranian talents.
@@ -467,7 +468,7 @@
 - [TechGreyMatters/TG-URL-Shortener-Bot](https://github.com/TechGreyMatters/TG-URL-Shortener-Bot) - Telegram URL Shortener Bot With Many Amazing Features.
 - [persiannlp/parsinlu](https://github.com/persiannlp/parsinlu) - A comprehensive suite of high-level NLP tasks for Persian language
 - [AmirAref/Linkedbot](https://github.com/AmirAref/Linkedbot) - a telegram robot that provides the details of the Linkedin posts
-- [AmirAref/Torobot](https://github.com/AmirAref/Torobot) - a telegram bot to crawl data from torob.com and display in telegram.
+- [AmirAref/Torobot](https://github.com/AmirAref/Torobot) - an inline telegram robot to easy access and search in torob.com products from telegram.
 - [AmirAref/DivarCrawler](https://github.com/AmirAref/DivarCrawler) - an script to crawl divar.ir and extract phone numbers
 - [Helsinki-NLP/Opus-MT](https://github.com/Helsinki-NLP/Opus-MT) - Open neural machine translation models and web services
 - [benyaminsh/creating-an-iranian-mobile-number](https://github.com/benyaminsh/creating-an-iranian-mobile-number) - این برنامه برای این ساخته شده که ما شماره های افرادی رو که در تلگرام عضو هستند پیدا کنیم و با استفاده از ربات بتونیم اون هارو اد کنیم داخل گروه یا کانال و...
@@ -1098,7 +1099,6 @@
 - [buurro/spotify-now-playing-telegram](https://github.com/buurro/spotify-now-playing-telegram) - Share what you're playing on Spotify
 - [eriknyquist/tones](https://github.com/eriknyquist/tones) - Pure-python library for generating audio tones, with support for polyphony, pitch-bending and vibrato
 - [kul-sudo/Screened](https://github.com/kul-sudo/Screened) - Screened - Quick and Easy Screen Capturing
-- [kamyabzad/break-spotify](https://github.com/kamyabzad/break-spotify) - A workaround for Spotify's 403 error in Iran
 - [ali-hv/AvaFarsi](https://github.com/ali-hv/AvaFarsi) - AvaFarsi is an open-source graphical app which helps you to download the songs of iranian singers easily
 - [ricardojoserf/instagram-followers-bot](https://github.com/ricardojoserf/instagram-followers-bot) - A bot for Instagram. You can follow users using a tag or in a specific location, unfollow those who dont follow-you-back, and follow-back those who follow you
 - [buddhhu/localdb.json](https://github.com/buddhhu/localdb.json) - 
