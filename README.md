@@ -604,7 +604,6 @@
 - [sieve-community/examples](https://github.com/sieve-community/examples) - The code for some apps built with Sieve.
 - [meanii/Search4](https://github.com/meanii/Search4) - Search people on the Internet.
 - [meanii/downly](https://github.com/meanii/downly) - downly is a simple telegram bot that can download files from the internet and upload them to telegram.
-- [mortezanabavi/text-to-speech-persian](https://github.com/mortezanabavi/text-to-speech-persian) - Text to speech using Igap messenger
 - [hezarai/hezar](https://github.com/hezarai/hezar) - The all-in-one AI library for Persian, supporting a wide variety of tasks and modalities!
 - [MatteoH2O1999/python_code_extractor](https://github.com/MatteoH2O1999/python_code_extractor) - Python package to extract source code from live object
 - [bnsantoso/sub-to-audio](https://github.com/bnsantoso/sub-to-audio) - Subtitle to audio, generate audio from any subtitle file using Coqui-ai TTS and synchronize the audio timing according to subtitle time.
