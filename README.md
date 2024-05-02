@@ -467,7 +467,7 @@
 - [GamingBeast1/Ultra-forward-bot](https://github.com/GamingBeast1/Ultra-forward-bot) - A powerful forward bot to forward bulk messages from one channel to other
 - [TechGreyMatters/TG-URL-Shortener-Bot](https://github.com/TechGreyMatters/TG-URL-Shortener-Bot) - Telegram URL Shortener Bot With Many Amazing Features.
 - [persiannlp/parsinlu](https://github.com/persiannlp/parsinlu) - A comprehensive suite of high-level NLP tasks for Persian language
-- [AmirAref/Linkedbot](https://github.com/AmirAref/Linkedbot) - a telegram robot that provides the details of the Linkedin posts
+- [AmirAref/LinkedinBot](https://github.com/AmirAref/LinkedinBot) - a telegram robot that uploads media from the Linkedin.com posts into telegram.
 - [AmirAref/Torobot](https://github.com/AmirAref/Torobot) - an inline telegram robot to easy access and search in torob.com products from telegram.
 - [AmirAref/DivarCrawler](https://github.com/AmirAref/DivarCrawler) - an script to crawl divar.ir and extract phone numbers
 - [Helsinki-NLP/Opus-MT](https://github.com/Helsinki-NLP/Opus-MT) - Open neural machine translation models and web services
