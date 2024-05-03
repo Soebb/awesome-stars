@@ -409,6 +409,7 @@
 
 ## PHP 
 
+- [kihanb/jirjirakbot](https://github.com/kihanb/jirjirakbot) - JirJirakBot Project | Self-Destruct Messages (SDM)
 - [danog/downloadRenameBot](https://github.com/danog/downloadRenameBot) - 2gb+ Telegram file/YouTube upload&renamer bot based on MadelineProto
 - [PBhadoo/Rapidleech](https://github.com/PBhadoo/Rapidleech) - 
 - [Smartproxy/Social-Media-Scraping-API](https://github.com/Smartproxy/Social-Media-Scraping-API) - Social Media Scraping API code examples for Python, PHP and Node.js
