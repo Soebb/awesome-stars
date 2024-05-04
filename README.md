@@ -1926,7 +1926,7 @@
 - [iTaybb/pySmartDL](https://github.com/iTaybb/pySmartDL) - A Smart Download Manager for Python
 - [abhint/Telegram-URL-Upload](https://github.com/abhint/Telegram-URL-Upload) - This is a telegram bot. It will upload your file to Telegram using the link
 - [thesarthakjain/telegram_bot](https://github.com/thesarthakjain/telegram_bot) - This is a personal telegram bot. Hosted locally on a 'Raspberry Pi 4 Model-B 4GB' and an 'Android Mobile Device' (for battery backup).
-- [LiuYuancheng/WebDownloader](https://github.com/LiuYuancheng/WebDownloader) - We want to scrape and download all the components (.html, .css, img, xml, video, javascript ...) for several batch of webpages based on a list of URLs.
+- [LiuYuancheng/Py_Web_Contents_Download_Tool](https://github.com/LiuYuancheng/Py_Web_Contents_Download_Tool) - We want to scrape and download all the components (.html, .css, img, xml, video, javascript ...) for several batch of webpages based on a list of URLs.
 - [pyload/pyload](https://github.com/pyload/pyload) - The free and open-source Download Manager written in pure Python
 - [nuhmanpk/Mp4-to-Mp3-Converter](https://github.com/nuhmanpk/Mp4-to-Mp3-Converter) - Code Incubation
 - [AnshumanFauzdar/telegram-bot-heroku-deploy](https://github.com/AnshumanFauzdar/telegram-bot-heroku-deploy) - Detailed guide to initially deploy a simple telegram python bot to heroku
