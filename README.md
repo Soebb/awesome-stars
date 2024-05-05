@@ -174,6 +174,7 @@
 - [ArdeshirV/resources](https://github.com/ArdeshirV/resources) - My resources such as images for using in README file(s) of github
 - [dailydotdev/daily-scraper](https://github.com/dailydotdev/daily-scraper) - Fetches information about every webpage 🤖
 - [abhint/tg-session-string](https://github.com/abhint/tg-session-string) - 
+- [LiuYuancheng/Py_Web_Contents_Download_Tool](https://github.com/LiuYuancheng/Py_Web_Contents_Download_Tool) - Our goal is to develop a Python library tailored for big data projects, specifically designed for data collection purposes.
 - [devmaxxing/babylonjs-easyrtc-test](https://github.com/devmaxxing/babylonjs-easyrtc-test) - 
 - [Jigarvarma2005/Video-Player](https://github.com/Jigarvarma2005/Video-Player) - 
 - [tuhinpal/dynamic-image](https://github.com/tuhinpal/dynamic-image) - Dynamically generate images for open-graph or website
@@ -1919,14 +1920,13 @@
 - [R3flex212/Spotify-Downloader](https://github.com/R3flex212/Spotify-Downloader) - An autoamtic python script that downloads any audio in .mp3 from youtube and adds it to your Downlaods folder
 - [RazorKenway/All-Downloader](https://github.com/RazorKenway/All-Downloader) - You Can download any video/image in all social medias very easy and High Speed.
 - [bchen32/youtube-downloader](https://github.com/bchen32/youtube-downloader) - Small project to download youtube videos off a playlist and convert them to mp3 files
-- [LiuYuancheng/WebAttestation](https://github.com/LiuYuancheng/WebAttestation) - We want to check several batch of web URLs (1~100 K) and find the phishing website/URL among them. This module is designed to do the URL/web attestation by using the API from NUS-Phishperida-Project.
+- [LiuYuancheng/Python_Web_Attestation_Tool](https://github.com/LiuYuancheng/Python_Web_Attestation_Tool) - We want to check several batch of web URLs (1~100 K) and find the phishing website/URL among them. This module is designed to do the URL/web attestation by using the API from NUS-Phishperida-Project.
 - [yshalsager/ebook-converter-bot](https://github.com/yshalsager/ebook-converter-bot) - Convert ebooks with few clicks on Telegram!
 - [aryanvikash/Google-Drive-Uploader](https://github.com/aryanvikash/Google-Drive-Uploader) - Telegram bot To upload Files To Google Drive Remotely @gdriveupme_bot (outdated)
 - [samadii/WebDownloaderBot](https://github.com/samadii/WebDownloaderBot) - A Telegram bot to scrape and download all the components (.html, .css, img, xml, video, javascript..) from the URLs and send to you as an zip archive.
 - [iTaybb/pySmartDL](https://github.com/iTaybb/pySmartDL) - A Smart Download Manager for Python
 - [abhint/Telegram-URL-Upload](https://github.com/abhint/Telegram-URL-Upload) - This is a telegram bot. It will upload your file to Telegram using the link
 - [thesarthakjain/telegram_bot](https://github.com/thesarthakjain/telegram_bot) - This is a personal telegram bot. Hosted locally on a 'Raspberry Pi 4 Model-B 4GB' and an 'Android Mobile Device' (for battery backup).
-- [LiuYuancheng/Py_Web_Contents_Download_Tool](https://github.com/LiuYuancheng/Py_Web_Contents_Download_Tool) - We want to scrape and download all the components (.html, .css, img, xml, video, javascript ...) for several batch of webpages based on a list of URLs.
 - [pyload/pyload](https://github.com/pyload/pyload) - The free and open-source Download Manager written in pure Python
 - [nuhmanpk/Mp4-to-Mp3-Converter](https://github.com/nuhmanpk/Mp4-to-Mp3-Converter) - Code Incubation
 - [AnshumanFauzdar/telegram-bot-heroku-deploy](https://github.com/AnshumanFauzdar/telegram-bot-heroku-deploy) - Detailed guide to initially deploy a simple telegram python bot to heroku
