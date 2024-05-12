@@ -304,6 +304,7 @@
 
 ## Kotlin 
 
+- [mobad/tts-server-android](https://github.com/mobad/tts-server-android) - 这是一个Android系统TTS应用，内置微软演示接口，可自定义HTTP请求，可导入其他本地TTS引擎，以及根据中文双引号的简单旁白/对话识别朗读 ，还有自动重试，备用配置，文本替换等更多功能。
 - [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android) - AnkiDroid: Anki flashcards on Android. Your secret trick to achieve superhuman information retention.
 - [fast4x/RiMusic](https://github.com/fast4x/RiMusic) - A multilingual Android application for streaming music from YouTube Music.
 - [jing332/SherpaOnnxTtsEngineAndroid](https://github.com/jing332/SherpaOnnxTtsEngineAndroid) - 
@@ -458,6 +459,8 @@
 
 ## Python 
 
+- [KurimuzonAkuma/pyrogram](https://github.com/KurimuzonAkuma/pyrogram) - Elegant, modern and asynchronous Telegram MTProto API framework in Python for users and bots
+- [KiLJ4EdeN/train-tesseract4-persian](https://github.com/KiLJ4EdeN/train-tesseract4-persian) - Train Tesseract 4 for persian
 - [HKPROJECTS/aiokoyeb](https://github.com/HKPROJECTS/aiokoyeb) - Python API client for Koyeb
 - [weebzone/Surf-TG](https://github.com/weebzone/Surf-TG) - Python Web App which Indexes a Your Telegram Channel and Serves its Files for Download and Stream.
 - [zackees/tx](https://github.com/zackees/tx) - Front end for wormhole, better transfers and more secure
@@ -532,7 +535,7 @@
 - [nabidam/harzad_bot](https://github.com/nabidam/harzad_bot) - 
 - [nabidam/persian-names](https://github.com/nabidam/persian-names) - Persian names dataset
 - [RZ98/FarsiPDF](https://github.com/RZ98/FarsiPDF) - Generate PDF with Farsi Texts
-- [jlw4049/HDR-Multi-Tool](https://github.com/jlw4049/HDR-Multi-Tool) - A graphical user interface for parsing HDR10+ and Dolby Vision
+- [jessielw/HDR-Multi-Tool](https://github.com/jessielw/HDR-Multi-Tool) - A graphical user interface for parsing HDR10+ and Dolby Vision
 - [py2exe/py2exe](https://github.com/py2exe/py2exe) - Create standalone Windows programs from Python code
 - [TheMaster3558/easycpp](https://github.com/TheMaster3558/easycpp) - A Python module to easily use code from C++ in Python.
 - [wlav/cppyy](https://github.com/wlav/cppyy) - 
@@ -724,9 +727,9 @@
 - [rQBx91/Pydowner](https://github.com/rQBx91/Pydowner) - A multithreaded terminal downloader writen in Python
 - [sinedie/SRTranslator](https://github.com/sinedie/SRTranslator) - SRT files translator
 - [CrypticSignal/better-ffmpeg-progress](https://github.com/CrypticSignal/better-ffmpeg-progress) - A Python package that allows you to run an FFmpeg command & see percentage progress, ETA, etc.
-- [jlw4049/FFMPEG-Audio-Encoder](https://github.com/jlw4049/FFMPEG-Audio-Encoder) - A powerful FFMPEG audio encoder GUI
-- [jlw4049/MP4-Mux-Tool](https://github.com/jlw4049/MP4-Mux-Tool) - Mp4Box GUI
-- [jlw4049/Youtube-DL-GUI](https://github.com/jlw4049/Youtube-DL-GUI) - Graphical User Interace built around youtube-dl CLI
+- [jessielw/FFMPEG-Audio-Encoder](https://github.com/jessielw/FFMPEG-Audio-Encoder) - A powerful FFMPEG audio encoder GUI
+- [jessielw/MP4-Mux-Tool](https://github.com/jessielw/MP4-Mux-Tool) - Mp4Box GUI
+- [jessielw/Youtube-DL-GUI](https://github.com/jessielw/Youtube-DL-GUI) - Graphical User Interace built around youtube-dl CLI
 - [alisharify7/Programming-Questions](https://github.com/alisharify7/Programming-Questions) - Solve Some Programming Question || سوالات برنامه نویسی به همراه جواب
 - [funnyzak/pyproject-starter](https://github.com/funnyzak/pyproject-starter) - A template for the python project. It uses poetry for dependency management and tox for testing.
 - [nordmtr/cinemabot](https://github.com/nordmtr/cinemabot) - Asynchronous Telegram movie bot written on aiogram
@@ -2556,6 +2559,7 @@
 
 ## TypeScript 
 
+- [KnorpelSenf/link-preview-bot](https://github.com/KnorpelSenf/link-preview-bot) - Telegram bot to generate link previews for all links in messages.
 - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser
 - [viperadnan-git/telegram-forwarder-bot](https://github.com/viperadnan-git/telegram-forwarder-bot) - Forward Telegram messages between chats using pure Telegram Bot API and Webhooks
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
