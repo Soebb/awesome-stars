@@ -356,7 +356,7 @@
 - [dkncus/CrowdRemoval](https://github.com/dkncus/CrowdRemoval) - 
 - [Cozy-Tech/regex_tutorial_and_examples](https://github.com/Cozy-Tech/regex_tutorial_and_examples) - 
 - [Hameds/IranCountryDivisions](https://github.com/Hameds/IranCountryDivisions) - Iran Country Divisions - کلیه تقسیمات کشوری ایران تا سطح آبادی بر اساس اطلاعات مرکز آمار ایران
-- [MrBotDeveloper/This-Repo-Has-120-Stars](https://github.com/MrBotDeveloper/This-Repo-Has-120-Stars) - Yes it's true :broken_heart:, currently it has 120 stars ⭐ and 21 forks 🍴.
+- [MrBotDeveloper/This-Repo-Has-119-Stars](https://github.com/MrBotDeveloper/This-Repo-Has-119-Stars) - Yes it's true :broken_heart:, currently it has 119 stars ⭐ and 21 forks 🍴.
 - [Alir3z4/stop-words](https://github.com/Alir3z4/stop-words) - List of common stop words in various languages.
 - [ahmadazizi/iran-cities](https://github.com/ahmadazizi/iran-cities) - The most accurate database of city, county, village and province names of Iran.
 - [iranremote/awesome-iran-remote](https://github.com/iranremote/awesome-iran-remote) - A list of remote-friendly or full-remote companies that targets iranian talents.
@@ -459,6 +459,8 @@
 
 ## Python 
 
+- [TechShreyash/BetterTGStreamer](https://github.com/TechShreyash/BetterTGStreamer) - Transform video files into seamless M3U8 streams with Better TG Streamer! Supports multiple hosts, unlimited uploads, and features a robust bot, streaming API, and database integration.
+- [TechShreyash/TechZIndex](https://github.com/TechShreyash/TechZIndex) - Index Telegram Channel Over Internet
 - [KurimuzonAkuma/pyrogram](https://github.com/KurimuzonAkuma/pyrogram) - Elegant, modern and asynchronous Telegram MTProto API framework in Python for users and bots
 - [KiLJ4EdeN/train-tesseract4-persian](https://github.com/KiLJ4EdeN/train-tesseract4-persian) - Train Tesseract 4 for persian
 - [HKPROJECTS/aiokoyeb](https://github.com/HKPROJECTS/aiokoyeb) - Python API client for Koyeb
@@ -556,7 +558,7 @@
 - [torbjornbp/video-ocr2srt](https://github.com/torbjornbp/video-ocr2srt) - A simple script to extract text elements from video files
 - [yonatanrozin/OpenCV_OCR](https://github.com/yonatanrozin/OpenCV_OCR) - Performs OCR from webcam feed, image or video file.
 - [dam-cav/img-to-pgs-sup](https://github.com/dam-cav/img-to-pgs-sup) - PGS SUP subtitle generator (Image sequences), useful companion of VideoSubFinder
-- [stunlocked1/beat-manipulator](https://github.com/stunlocked1/beat-manipulator) - beat swapping powered by AI
+- [qq-me/beat-manipulator](https://github.com/qq-me/beat-manipulator) - beat swapping powered by AI
 - [rnnh/vaporiser](https://github.com/rnnh/vaporiser) - 🎵 Creates a vaporwave (slowed, with reverb) remix of a given MP3 file, with the option of playing over a looped GIF as a video.
 - [sakemin/cog-musicgen-remixer](https://github.com/sakemin/cog-musicgen-remixer) - Music remixer based on MusicGen-Chord
 - [PinkFloyded/video-ocr](https://github.com/PinkFloyded/video-ocr) - 
@@ -1606,7 +1608,7 @@
 - [isayakhov/duty-schedule-bot](https://github.com/isayakhov/duty-schedule-bot) - Bot sends into your Telegram group who is on duty today, tomorrow and also sends schedule for the next week.
 - [tsepanx/state-bot](https://github.com/tsepanx/state-bot) - A telegram bot uses transitions python module
 - [ss-d3v/BotTuber](https://github.com/ss-d3v/BotTuber) - Fully Automated YouTube Channel ▶️with Added Extra Features (Automated Title, Description, Tags, Watermark and much more)
-- [nathan-149/automated_youtube_channel](https://github.com/nathan-149/automated_youtube_channel) - Automated youtube that can scrape content, edit a compilation, and upload to youtube daily.
+- [nang-dev/automated_youtube_channel](https://github.com/nang-dev/automated_youtube_channel) - Automated youtube that can scrape content, edit a compilation, and upload to youtube daily.
 - [SafaSafari/proxydocker](https://github.com/SafaSafari/proxydocker) - 
 - [xcscxr/gplinks-bypass](https://github.com/xcscxr/gplinks-bypass) - gplinks Bypasser
 - [miloszowi/everyone-mention-telegram-bot](https://github.com/miloszowi/everyone-mention-telegram-bot) - Mention everyone user for telegram group!
