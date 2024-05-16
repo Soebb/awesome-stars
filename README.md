@@ -199,6 +199,7 @@
 - [http-party/http-server](https://github.com/http-party/http-server) - a simple zero-configuration command-line http server
 - [DavidCks/piper-wasm](https://github.com/DavidCks/piper-wasm) - 
 - [gyroing/Persian-Piper-TTS-WebAssembly](https://github.com/gyroing/Persian-Piper-TTS-WebAssembly) - WebAssembly Sherpa ONNX TTS for Persian language based on PIPER Model
+- [jessielw/HDR-Multi-Tool](https://github.com/jessielw/HDR-Multi-Tool) - A graphical user interface for parsing HDR10+ and Dolby Vision
 - [karim23657/GAS-Telegram-bot](https://github.com/karim23657/GAS-Telegram-bot) - A base code that shows how to make a telegram bot on google app script
 - [justpy-org/justpy](https://github.com/justpy-org/justpy) - An object oriented high-level Python Web Framework that requires no frontend programming
 - [tuhinpal/imdb-api](https://github.com/tuhinpal/imdb-api) - Serverless IMDB API powered by Cloudflare Worker
@@ -488,7 +489,7 @@
 - [FlorianEagox/WeeaBlind](https://github.com/FlorianEagox/WeeaBlind) - A program to dub non-english media with modern AI speech synthesis, diarization, and voice cloning!
 - [diezo/Ensta](https://github.com/diezo/Ensta) - 🔥 Fast & Reliable Python Package For Instagram API - 2024
 - [borisbabic/browser_cookie3](https://github.com/borisbabic/browser_cookie3) - This is a fork of browser_cookie
-- [abhinavsingh/proxy.py](https://github.com/abhinavsingh/proxy.py) - ⚡ Fast • 🪶 Lightweight • 0️⃣ Dependency • 🔌 Pluggable • 😈 TLS interception • 🔒 DNS-over-HTTPS • 🔥 Poor Man's VPN • ⏪ Reverse & ⏩ Forward • 👮🏿 "Proxy Server" framework • 🌐 "Web Server" framework • ➵ ➶ 
+- [abhinavsingh/proxy.py](https://github.com/abhinavsingh/proxy.py) - 💫 Ngrok Alternative • ⚡ Fast • 🪶 Lightweight • 0️⃣ Dependency • 🔌 Pluggable • 😈 TLS interception • 🔒 DNS-over-HTTPS • 🔥 Poor Man's VPN • ⏪ Reverse & ⏩ Forward • 👮🏿 "Proxy Server" framework • 🌐 "Web Se
 - [jundymek/free-proxy](https://github.com/jundymek/free-proxy) - Free proxy scraper written in python. It is pypi library - free to use.
 - [gkpln3/Sand](https://github.com/gkpln3/Sand) - Python based Dockerfile generator
 - [ankitjain28may/wifiPassword](https://github.com/ankitjain28may/wifiPassword) - It gives the password of your connected wifi's
@@ -537,7 +538,6 @@
 - [nabidam/harzad_bot](https://github.com/nabidam/harzad_bot) - 
 - [nabidam/persian-names](https://github.com/nabidam/persian-names) - Persian names dataset
 - [RZ98/FarsiPDF](https://github.com/RZ98/FarsiPDF) - Generate PDF with Farsi Texts
-- [jessielw/HDR-Multi-Tool](https://github.com/jessielw/HDR-Multi-Tool) - A graphical user interface for parsing HDR10+ and Dolby Vision
 - [py2exe/py2exe](https://github.com/py2exe/py2exe) - Create standalone Windows programs from Python code
 - [TheMaster3558/easycpp](https://github.com/TheMaster3558/easycpp) - A Python module to easily use code from C++ in Python.
 - [wlav/cppyy](https://github.com/wlav/cppyy) - 
@@ -890,7 +890,7 @@
 - [dataplayer12/shavenet](https://github.com/dataplayer12/shavenet) - Predict when you last shaved with machine learning
 - [woefe/ytcc](https://github.com/woefe/ytcc) - Command line tool to keep track of your favorite playlists on YouTube and many other places.
 - [newtoallofthis123/ytps](https://github.com/newtoallofthis123/ytps) - A Beautiful YouTube Search CLI
-- [kanjieater/SubPlease](https://github.com/kanjieater/SubPlease) - 🫴 Generate accurate subtitles from audio, align existing subs to videos, generate your own Kindle's Immersion Reading like audiobook subs (Currently Japanese only) 📖🎧
+- [kanjieater/SubPlz](https://github.com/kanjieater/SubPlz) - 🫴 Generate accurate subtitles from audio, align existing subs to videos, generate your own Kindle's Immersion Reading like audiobook subs (Currently Japanese only) 📖🎧
 - [namngh/auto-gui](https://github.com/namngh/auto-gui) - Better auto GUI
 - [theovercomer8/captionr](https://github.com/theovercomer8/captionr) - GIT/BLIP/CLIP Caption tool
 - [rapidfuzz/JaroWinkler](https://github.com/rapidfuzz/JaroWinkler) - Python library for fast approximate string matching using Jaro and Jaro-Winkler similarity
@@ -1711,7 +1711,7 @@
 - [Poolitzer/spotify_telegram_bio_updater](https://github.com/Poolitzer/spotify_telegram_bio_updater) - This userbot updates the biography of a telegram user according to their current spotify playback.
 - [kiwi0fruit/pyppdf](https://github.com/kiwi0fruit/pyppdf) - Pyppeteer PDF. Print html sites and files to pdf via pyppeteer (uses patched pyppeteer that by default downloads updated Chromium revision via https with certifi).
 - [aish2002/Movie-Info-Telegram-Bot](https://github.com/aish2002/Movie-Info-Telegram-Bot) - A telegram bot which scrapes IMDb website to get details on movies and TV shows
-- [anasty17/mirror-leech-telegram-bot](https://github.com/anasty17/mirror-leech-telegram-bot) - Official Repository: Telegram bot which can download direct links, torrents, google drive, telegram document, any file/folder from rclone supported clouds, all yt-dlp supported sites and jdownloader s
+- [anasty17/mirror-leech-telegram-bot](https://github.com/anasty17/mirror-leech-telegram-bot) - Official Repository: Telegram bot which can download direct links, torrents, nzb, google drive, telegram document, any file/folder from rclone supported clouds, all yt-dlp supported sites and jdownloa
 - [mohammad3020/django-zibal](https://github.com/mohammad3020/django-zibal) - A Django app for bank payments by Zibal (https://zibal.ir/)
 - [Helias/EPUB-to-PDF](https://github.com/Helias/EPUB-to-PDF) - Telegram bot EPUB to PDF converter
 - [Saravana0910/instadpinfobot](https://github.com/Saravana0910/instadpinfobot) - to grap anyone's insta dp info
@@ -1916,7 +1916,6 @@
 - [SpEcHiDe/UniBorg](https://github.com/SpEcHiDe/UniBorg) - Pluggable Telegram bot and userbot based on Telethon
 - [udf/uniborg](https://github.com/udf/uniborg) - Pluggable Telegram bot and userbot based on Telethon
 - [xditya/BorgBot](https://github.com/xditya/BorgBot) - Pluggable Telegram bot and userbot based on Telethon
-- [paavampayyan/Media-Delete-Bot](https://github.com/paavampayyan/Media-Delete-Bot) - This bot delete all video files instantly.
 - [gurland/telegram-delete-all-messages](https://github.com/gurland/telegram-delete-all-messages) - Delete all your messages in groups / supergroups using this python script
 - [TeamYukki/YukkiMusicBot](https://github.com/TeamYukki/YukkiMusicBot) - Telegram Group Calls Streaming bot with some useful features, written in Python with Pyrogram and Py-Tgcalls. Supporting platforms like Youtube, Spotify, Resso, AppleMusic, Soundcloud and M3u8 Links.
 - [AbirHasan2005/Image-Exif](https://github.com/AbirHasan2005/Image-Exif) - A python script for extracting/removing exif data from images by @AbirHasan2005
