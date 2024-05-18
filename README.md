@@ -460,6 +460,7 @@
 
 ## Python 
 
+- [shibing624/parrots](https://github.com/shibing624/parrots) - Automatic Speech Recognition(ASR), Text-To-Speech(TTS) engine. 中英语音识别、多角色语音合成，支持多语言，准确率高
 - [TechShreyash/BetterTGStreamer](https://github.com/TechShreyash/BetterTGStreamer) - Transform video files into seamless M3U8 streams with Better TG Streamer! Supports multiple hosts, unlimited uploads, and features a robust bot, streaming API, and database integration.
 - [TechShreyash/TechZIndex](https://github.com/TechShreyash/TechZIndex) - Index Telegram Channel Over Internet
 - [KurimuzonAkuma/pyrogram](https://github.com/KurimuzonAkuma/pyrogram) - Elegant, modern and asynchronous Telegram MTProto API framework in Python for users and bots
@@ -890,7 +891,7 @@
 - [dataplayer12/shavenet](https://github.com/dataplayer12/shavenet) - Predict when you last shaved with machine learning
 - [woefe/ytcc](https://github.com/woefe/ytcc) - Command line tool to keep track of your favorite playlists on YouTube and many other places.
 - [newtoallofthis123/ytps](https://github.com/newtoallofthis123/ytps) - A Beautiful YouTube Search CLI
-- [kanjieater/SubPlz](https://github.com/kanjieater/SubPlz) - 🫴 Generate accurate subtitles from audio, align existing subs to videos, generate your own Kindle's Immersion Reading like audiobook subs (Currently Japanese only) 📖🎧
+- [kanjieater/SubPlz](https://github.com/kanjieater/SubPlz) - 🫴 Generate accurate subtitles from audio, align existing subs to videos, generate your own Kindle's Immersion Reading like audiobook subs 📖🎧
 - [namngh/auto-gui](https://github.com/namngh/auto-gui) - Better auto GUI
 - [theovercomer8/captionr](https://github.com/theovercomer8/captionr) - GIT/BLIP/CLIP Caption tool
 - [rapidfuzz/JaroWinkler](https://github.com/rapidfuzz/JaroWinkler) - Python library for fast approximate string matching using Jaro and Jaro-Winkler similarity
