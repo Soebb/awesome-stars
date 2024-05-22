@@ -460,6 +460,7 @@
 
 ## Python 
 
+- [jeanslack/Videomass](https://github.com/jeanslack/Videomass) - Videomass is a free, open source and cross-platform GUI for FFmpeg and yt-dlp
 - [shibing624/parrots](https://github.com/shibing624/parrots) - Automatic Speech Recognition(ASR), Text-To-Speech(TTS) engine. 中英语音识别、多角色语音合成，支持多语言，准确率高
 - [TechShreyash/BetterTGStreamer](https://github.com/TechShreyash/BetterTGStreamer) - Transform video files into seamless M3U8 streams with Better TG Streamer! Supports multiple hosts, unlimited uploads, and features a robust bot, streaming API, and database integration.
 - [TechShreyash/TechZIndex](https://github.com/TechShreyash/TechZIndex) - Index Telegram Channel Over Internet
@@ -2018,7 +2019,7 @@
 - [avilash/TikTokAPI-Python](https://github.com/avilash/TikTokAPI-Python) - TikTok API Python Wrapper
 - [subzeroid/instagrapi](https://github.com/subzeroid/instagrapi) - 🔥 The fastest and powerful Python library for Instagram Private API 2024
 - [yashrathi-git/vimeo-dl](https://github.com/yashrathi-git/vimeo-dl) - Downloads Vimeo videos and retrieve metadata such as views, likes, comments, duration of the video.
-- [Ousret/charset_normalizer](https://github.com/Ousret/charset_normalizer) - Truly universal encoding detector in pure Python
+- [jawah/charset_normalizer](https://github.com/jawah/charset_normalizer) - Truly universal encoding detector in pure Python
 - [RincemonReji/RSS-Feed](https://github.com/RincemonReji/RSS-Feed) - 
 - [piyx/YoutubeSpotifyDL](https://github.com/piyx/YoutubeSpotifyDL) - Youtube and Spotify music downloader with metadata.
 - [mps-youtube/pafy](https://github.com/mps-youtube/pafy) - Python library to download YouTube content and retrieve metadata
@@ -2511,6 +2512,7 @@
 
 ## Shell 
 
+- [aronchick/Docker-NGINX-Gunicorn-Flask-Python-Example](https://github.com/aronchick/Docker-NGINX-Gunicorn-Flask-Python-Example) - 
 - [flashdagger/git-subrepo-pypi](https://github.com/flashdagger/git-subrepo-pypi) - python package for installing git-subrepo
 - [mfhepp/py4docker](https://github.com/mfhepp/py4docker) - Template for running Python 3.x shell scripts and notebooks in a Docker container for isolation, security, and portability
 - [HirbodBehnam/MTProtoProxyInstaller](https://github.com/HirbodBehnam/MTProtoProxyInstaller) - One-click script to install MTProto Proxy server on CentOS, Ubuntu and Debian
