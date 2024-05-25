@@ -47,7 +47,6 @@
 
 ## C# # 
 
-- [bypass-vip/bypass.vip](https://github.com/bypass-vip/bypass.vip) - API usage for bypass.vip
 - [KryptoST/SRTranslatorGUI](https://github.com/KryptoST/SRTranslatorGUI) - SRT files translator GUI
 - [ALIILAPRO/dns-changer](https://github.com/ALIILAPRO/dns-changer) - یه برنامه ساده برای دسترسی به سایت های تحریم شده
 - [amirshnll/Persian-Swear-Words](https://github.com/amirshnll/Persian-Swear-Words) - Persian Swear Dataset - you can use in your production to filter unwanted content.  دیتاست کلمات نامناسب و بد فارسی برای فیلتر کردن متن ها
@@ -201,6 +200,7 @@
 - [gyroing/Persian-Piper-TTS-WebAssembly](https://github.com/gyroing/Persian-Piper-TTS-WebAssembly) - WebAssembly Sherpa ONNX TTS for Persian language based on PIPER Model
 - [jessielw/HDR-Multi-Tool](https://github.com/jessielw/HDR-Multi-Tool) - A graphical user interface for parsing HDR10+ and Dolby Vision
 - [karim23657/GAS-Telegram-bot](https://github.com/karim23657/GAS-Telegram-bot) - A base code that shows how to make a telegram bot on google app script
+- [bypass-vip/bypass.vip](https://github.com/bypass-vip/bypass.vip) - The #1 Linkvertise bypasser is back!
 - [justpy-org/justpy](https://github.com/justpy-org/justpy) - An object oriented high-level Python Web Framework that requires no frontend programming
 - [tuhinpal/imdb-api](https://github.com/tuhinpal/imdb-api) - Serverless IMDB API powered by Cloudflare Worker
 - [webrecorder/pywb](https://github.com/webrecorder/pywb) - Core Python Web Archiving Toolkit for replay and recording of web archives
@@ -460,6 +460,7 @@
 
 ## Python 
 
+- [zackees/aicode](https://github.com/zackees/aicode) - 
 - [jeanslack/Videomass](https://github.com/jeanslack/Videomass) - Videomass is a free, open source and cross-platform GUI for FFmpeg and yt-dlp
 - [shibing624/parrots](https://github.com/shibing624/parrots) - Automatic Speech Recognition(ASR), Text-To-Speech(TTS) engine. 中英语音识别、多角色语音合成，支持多语言，准确率高
 - [TechShreyash/BetterTGStreamer](https://github.com/TechShreyash/BetterTGStreamer) - Transform video files into seamless M3U8 streams with Better TG Streamer! Supports multiple hosts, unlimited uploads, and features a robust bot, streaming API, and database integration.
