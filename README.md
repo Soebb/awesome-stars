@@ -1038,7 +1038,7 @@
 - [minasmz/Persian-Summarization](https://github.com/minasmz/Persian-Summarization) - Statistical and Semantical Text Summarizer in Persian Language
 - [nima-sa/persian-subtitle-fixer](https://github.com/nima-sa/persian-subtitle-fixer) - Fixes cp1256-encoded Persian subtitles by converting them to UTF-8. Like a piece of cake.
 - [Kourva/ChNumber](https://github.com/Kourva/ChNumber) - Python module that formats Persian number to Latin
-- [majidAdibian77/persian_fastpitch](https://github.com/majidAdibian77/persian_fastpitch) - Training FastPitch for Persian language as a Persian text-to-speech
+- [Adibian/persian_fastpitch](https://github.com/Adibian/persian_fastpitch) - Training FastPitch for Persian language as a Persian text-to-speech
 - [H-MAli/persian-localizations](https://github.com/H-MAli/persian-localizations) - A Python package to facilitate Persian language localizations
 - [altryne/chatGPT-telegram-bot](https://github.com/altryne/chatGPT-telegram-bot) - This is a very early attempt at having chatGPT work within a telegram bot
 - [pdfarranger/pdfarranger](https://github.com/pdfarranger/pdfarranger) - Small python-gtk application, which helps the user to merge or split PDF documents and rotate, crop and rearrange their pages using an interactive and intuitive graphical interface.
@@ -1301,7 +1301,7 @@
 - [themixray/install-pyaudio](https://github.com/themixray/install-pyaudio) - fast install pyaudio
 - [Alireza013/Persian_Recaptcha](https://github.com/Alireza013/Persian_Recaptcha) - Persian Recaptcha using python
 - [atikh/JalaliDatePicker](https://github.com/atikh/JalaliDatePicker) - Jalali (shamsi or persian) calendar DatePicker
-- [majidAdibian77/telegram_bot](https://github.com/majidAdibian77/telegram_bot) - Simple telegram bot implemented by python to send some information such as news.
+- [Adibian/telegram_bot](https://github.com/Adibian/telegram_bot) - Simple telegram bot implemented by python to send some information such as news.
 - [amirkaveh/persian-words](https://github.com/amirkaveh/persian-words) - 
 - [kargaranamir/parstdex](https://github.com/kargaranamir/parstdex) - A package that extracts Persian time and date markers by applying regexes.
 - [voria-py/ip2geo](https://github.com/voria-py/ip2geo) - 
@@ -1922,7 +1922,6 @@
 - [gurland/telegram-delete-all-messages](https://github.com/gurland/telegram-delete-all-messages) - Delete all your messages in groups / supergroups using this python script
 - [TeamYukki/YukkiMusicBot](https://github.com/TeamYukki/YukkiMusicBot) - Telegram Group Calls Streaming bot with some useful features, written in Python with Pyrogram and Py-Tgcalls. Supporting platforms like Youtube, Spotify, Resso, AppleMusic, Soundcloud and M3u8 Links.
 - [AbirHasan2005/Image-Exif](https://github.com/AbirHasan2005/Image-Exif) - A python script for extracting/removing exif data from images by @AbirHasan2005
-- [maizenalegal/media-quality-fucker](https://github.com/maizenalegal/media-quality-fucker) - A tool to fuck a video/audio quality using FFmpeg
 - [umutkonmus/InstagramPhotoDownloader](https://github.com/umutkonmus/InstagramPhotoDownloader) - Simple program for download any instagram profile photo
 - [duonglh711/python-video-downloader](https://github.com/duonglh711/python-video-downloader) - Download any video from website
 - [shabane/apd](https://github.com/shabane/apd) - Any Aparat link such as Playlist Or Normal video downloader
