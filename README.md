@@ -492,7 +492,7 @@
 - [FlorianEagox/WeeaBlind](https://github.com/FlorianEagox/WeeaBlind) - A program to dub non-english media with modern AI speech synthesis, diarization, and voice cloning!
 - [diezo/Ensta](https://github.com/diezo/Ensta) - 🔥 Fast & Reliable Python Package For Instagram API - 2024
 - [borisbabic/browser_cookie3](https://github.com/borisbabic/browser_cookie3) - This is a fork of browser_cookie
-- [abhinavsingh/proxy.py](https://github.com/abhinavsingh/proxy.py) - 💫 Ngrok Alternative • ⚡ Fast • 🪶 Lightweight • 0️⃣ Dependency • 🔌 Pluggable • 😈 TLS interception • 🔒 DNS-over-HTTPS • 🔥 Poor Man's VPN • ⏪ Reverse & ⏩ Forward • 👮🏿 "Proxy Server" framework • 🌐 "Web Se
+- [abhinavsingh/proxy.py](https://github.com/abhinavsingh/proxy.py) - 💫 Ngrok FRP Alternative • ⚡ Fast • 🪶 Lightweight • 0️⃣ Dependency • 🔌 Pluggable • 😈 TLS interception • 🔒 DNS-over-HTTPS • 🔥 Poor Man's VPN • ⏪ Reverse & ⏩ Forward • 👮🏿 "Proxy Server" framework • 🌐 "We
 - [jundymek/free-proxy](https://github.com/jundymek/free-proxy) - Free proxy scraper written in python. It is pypi library - free to use.
 - [gkpln3/Sand](https://github.com/gkpln3/Sand) - Python based Dockerfile generator
 - [ankitjain28may/wifiPassword](https://github.com/ankitjain28may/wifiPassword) - It gives the password of your connected wifi's
@@ -1339,7 +1339,6 @@
 - [harshitbansall/InstagramBOT](https://github.com/harshitbansall/InstagramBOT) - Script for Instagram to Download Posts, Profile Images and Hashtag Pictures. Will post and Manage images also in future.
 - [Koushikphy/TeleSpy](https://github.com/Koushikphy/TeleSpy) - Take Photo/Audio/Video from webcam by remotely controlling it using a Telegram bot.
 - [Fsunroo/PowerPointVoiceExtract](https://github.com/Fsunroo/PowerPointVoiceExtract) - this will extract voice from power points
-- [Abu3safeer/subscene-user-subtitle-downloader](https://github.com/Abu3safeer/subscene-user-subtitle-downloader) - Download all subtitles from subscene user profile.
 - [Abu3safeer/image-ocr-google-docs-srt](https://github.com/Abu3safeer/image-ocr-google-docs-srt) - OCR images exported by VideoSubFinder using Google docs OCR then export the result as srt file.
 - [johnkryptochain/TelegramScraper2022](https://github.com/johnkryptochain/TelegramScraper2022) - Scraper and adder for Telegram supporting multiple accounts at the same time. Adds via Telegram API and only by username. For adding via ID and not needing Telgram API contact me.
 - [berkaymizrak/Instagram-Followings-Followers-Bot](https://github.com/berkaymizrak/Instagram-Followings-Followers-Bot) - Find people that you follow but doesn't follow back to you.
