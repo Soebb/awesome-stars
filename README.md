@@ -461,7 +461,7 @@
 
 ## Python 
 
-- [EverythingSuckz/GeminiTelegramBot](https://github.com/EverythingSuckz/GeminiTelegramBot) - 
+- [EverythingSuckz/GeminiTelegramBot](https://github.com/EverythingSuckz/GeminiTelegramBot) - Telegram bot that uses Gemini multimodel API
 - [ozmartian/vidcutter](https://github.com/ozmartian/vidcutter) - A modern yet simple multi-platform video cutter and joiner.
 - [zackees/aicode](https://github.com/zackees/aicode) - 
 - [jeanslack/Videomass](https://github.com/jeanslack/Videomass) - Videomass is a free, open source and cross-platform GUI for FFmpeg and yt-dlp
