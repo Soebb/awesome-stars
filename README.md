@@ -462,6 +462,7 @@
 
 ## Python 
 
+- [Kennarttechl/flask_boilerplate_generator](https://github.com/Kennarttechl/flask_boilerplate_generator) - The project generates boilerplate code for Flask applications.
 - [EverythingSuckz/GeminiTelegramBot](https://github.com/EverythingSuckz/GeminiTelegramBot) - Telegram bot that uses Gemini multimodel API
 - [ozmartian/vidcutter](https://github.com/ozmartian/vidcutter) - A modern yet simple multi-platform video cutter and joiner.
 - [zackees/aicode](https://github.com/zackees/aicode) - 
@@ -693,7 +694,7 @@
 - [moi15moi/FontCollector](https://github.com/moi15moi/FontCollector) - FontCollector for Advanced SubStation Alpha file.
 - [WheneverDev/fontmerge](https://github.com/WheneverDev/fontmerge) - Automatically merge fonts used in a Matroska file.
 - [moi15moi/VideoSubOCR](https://github.com/moi15moi/VideoSubOCR) - OCR automation for VideoSubFinder
-- [kinite-gp/connect-to-wifi-with-python](https://github.com/kinite-gp/connect-to-wifi-with-python) - script for connect wifi in windows with python (pywifi)
+- [mohammad3a1eh/connect-to-wifi-with-python](https://github.com/mohammad3a1eh/connect-to-wifi-with-python) - script for connect wifi in windows with python (pywifi)
 - [awkman/pywifi](https://github.com/awkman/pywifi) - A cross-platform module for manipulating WiFi devices.
 - [stefanodvx/epyrogram](https://github.com/stefanodvx/epyrogram) - EPyrogram: extend the functionality of Pyrogram by enhancing it with new features.
 - [elevenlabs/elevenlabs-python](https://github.com/elevenlabs/elevenlabs-python) - The official Python API for ElevenLabs Text to Speech.
@@ -958,7 +959,7 @@
 - [AmoabaKelvin/saints-bot-public](https://github.com/AmoabaKelvin/saints-bot-public) - Repository for Saints Bot
 - [johnbumgarner/wordhoard](https://github.com/johnbumgarner/wordhoard) - This Python module can be used to obtain antonyms, synonyms, hypernyms, hyponyms, homophones and definitions.
 - [Prgckwb/ImageExtractor](https://github.com/Prgckwb/ImageExtractor) - ImageExtractor extracts images from a video at intervals of a specified number of frames and creates a PDF file by merging them together.
-- [Py-Contributors/Site-Cloner](https://github.com/Py-Contributors/Site-Cloner) - Quick & simple Python tool to clone website
+- [codeperfectplus/Site-Cloner](https://github.com/codeperfectplus/Site-Cloner) - Quick & simple Python tool to clone website
 - [Py-Contributors/PyEmailer](https://github.com/Py-Contributors/PyEmailer) - Send Emails In One Click With Python.
 - [epassaro/yt_clipper](https://github.com/epassaro/yt_clipper) - Easily make audio/video/gif clips from YouTube URLs
 - [Imangazaliev/syntax-highligter-bot](https://github.com/Imangazaliev/syntax-highligter-bot) - A Telegram bot for generating screenshots with highlighted code
