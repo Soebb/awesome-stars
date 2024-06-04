@@ -462,6 +462,7 @@
 
 ## Python 
 
+- [AbolDev/AparatLib](https://github.com/AbolDev/AparatLib) - A library for interacting with the Aparat API
 - [Kennarttechl/flask_boilerplate_generator](https://github.com/Kennarttechl/flask_boilerplate_generator) - The project generates boilerplate code for Flask applications.
 - [EverythingSuckz/GeminiTelegramBot](https://github.com/EverythingSuckz/GeminiTelegramBot) - Telegram bot that uses Gemini multimodel API
 - [ozmartian/vidcutter](https://github.com/ozmartian/vidcutter) - A modern yet simple multi-platform video cutter and joiner.
