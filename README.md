@@ -462,6 +462,7 @@
 
 ## Python 
 
+- [flet-dev/flet](https://github.com/flet-dev/flet) - Flet enables developers to easily build realtime web, mobile and desktop apps in Python. No frontend experience required.
 - [AbolDev/AparatLib](https://github.com/AbolDev/AparatLib) - A library for interacting with the Aparat API
 - [Kennarttechl/flask_boilerplate_generator](https://github.com/Kennarttechl/flask_boilerplate_generator) - The project generates boilerplate code for Flask applications.
 - [EverythingSuckz/GeminiTelegramBot](https://github.com/EverythingSuckz/GeminiTelegramBot) - Telegram bot that uses Gemini multimodel API
@@ -1273,7 +1274,7 @@
 - [amirho3inf/aiogram-structured](https://github.com/amirho3inf/aiogram-structured) - Code your aiogram bot faster, easier & modular.
 - [iraj-jelo/srtmerger](https://github.com/iraj-jelo/srtmerger) - subtitle merger is a tool for merging two or more subtitles for videos.
 - [kotnid/Youtube_Bot](https://github.com/kotnid/Youtube_Bot) - Download YouTube video by just typing commands in Telegram
-- [rain2wood/spotBot-OSS](https://github.com/rain2wood/spotBot-OSS) - // Download FLAC / MP3 from Spotify via Telegram Bot //
+- [wileylau/spotBot-OSS](https://github.com/wileylau/spotBot-OSS) - // Download FLAC / MP3 from Spotify via Telegram Bot //
 - [jakob-bagterp/browserist](https://github.com/jakob-bagterp/browserist) - 👩‍💻 Python extension for the Selenium web driver that makes browser automation even easier 👨‍💻
 - [jakob-bagterp/timer-for-python](https://github.com/jakob-bagterp/timer-for-python) - ⏳ Lightweight Python package that makes it easy to measure how much time it takes to run Python programs and gauge performance of multiple, smaller bits of code ⌛️
 - [uktrade/stream-unzip](https://github.com/uktrade/stream-unzip) - Python function to stream unzip all the files in a ZIP archive on the fly
@@ -1309,7 +1310,7 @@
 - [atikh/JalaliDatePicker](https://github.com/atikh/JalaliDatePicker) - Jalali (shamsi or persian) calendar DatePicker
 - [Adibian/telegram_bot](https://github.com/Adibian/telegram_bot) - Simple telegram bot implemented by python to send some information such as news.
 - [amirkaveh/persian-words](https://github.com/amirkaveh/persian-words) - 
-- [kargaranamir/parstdex](https://github.com/kargaranamir/parstdex) - A package that extracts Persian time and date markers by applying regexes.
+- [kargaranamir/parstdex](https://github.com/kargaranamir/parstdex) - A package that extracts Persian time and date markers by applying regexes -- AACL 2022
 - [voria-py/ip2geo](https://github.com/voria-py/ip2geo) - 
 - [voria-py/any2persian](https://github.com/voria-py/any2persian) - 
 - [abhiTronix/deffcode](https://github.com/abhiTronix/deffcode) - A cross-platform High-performance FFmpeg based Real-time Video Frames Decoder in Pure Python 🎞️⚡
