@@ -464,7 +464,7 @@
 
 - [flet-dev/flet](https://github.com/flet-dev/flet) - Flet enables developers to easily build realtime web, mobile and desktop apps in Python. No frontend experience required.
 - [AbolDev/AparatLib](https://github.com/AbolDev/AparatLib) - A library for interacting with the Aparat API
-- [Kennarttechl/flask_boilerplate_generator](https://github.com/Kennarttechl/flask_boilerplate_generator) - The project generates boilerplate code for Flask applications.
+- [Kennarttechl/flask_quickstart_generator](https://github.com/Kennarttechl/flask_quickstart_generator) - The project generates boilerplate code for Flask applications.
 - [EverythingSuckz/GeminiTelegramBot](https://github.com/EverythingSuckz/GeminiTelegramBot) - Telegram bot that uses Gemini multimodel API
 - [ozmartian/vidcutter](https://github.com/ozmartian/vidcutter) - A modern yet simple multi-platform video cutter and joiner.
 - [zackees/aicode](https://github.com/zackees/aicode) - 
@@ -2536,7 +2536,6 @@
 - [eyMarv/deploy-code-server](https://github.com/eyMarv/deploy-code-server) - 
 - [DaCapo7/CNW](https://github.com/DaCapo7/CNW) - Create New Website is a VERY SIMPLE shell script (actually for macOS, didnt tried on linux) that create a folder with a HTML, a CSS and a JS. The html will have doctype, html, head and body tag and it
 - [aptible/docker-mongodb](https://github.com/aptible/docker-mongodb) - MongoDB on Docker
-- [aptible/docker-mysql](https://github.com/aptible/docker-mysql) - MySQL on Docker
 - [aptible/docker-postgresql](https://github.com/aptible/docker-postgresql) - PostgreSQL on Docker
 - [OreosLab/VIP](https://github.com/OreosLab/VIP) - 🏃‍💨 Gone
 - [SpEcHiDe/whispering-boils](https://github.com/SpEcHiDe/whispering-boils) - 
