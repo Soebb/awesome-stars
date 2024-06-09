@@ -462,6 +462,7 @@
 
 ## Python 
 
+- [tntmod54321/soundcloud-autodownloader](https://github.com/tntmod54321/soundcloud-autodownloader) - Automatically download soundcloud tracks
 - [flet-dev/flet](https://github.com/flet-dev/flet) - Flet enables developers to easily build realtime web, mobile and desktop apps in Python. No frontend experience required.
 - [AbolDev/AparatLib](https://github.com/AbolDev/AparatLib) - A library for interacting with the Aparat API
 - [Kennarttechl/flask_quickstart_generator](https://github.com/Kennarttechl/flask_quickstart_generator) - The project generates boilerplate code for Flask applications.
