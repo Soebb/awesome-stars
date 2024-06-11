@@ -328,6 +328,7 @@
 
 ## Others 
 
+- [danyspin97/TelegramBotsList](https://github.com/danyspin97/TelegramBotsList) - A list of all Telegram bots source hosted on github.
 - [redf0x1/Auto-Forward-Messages](https://github.com/redf0x1/Auto-Forward-Messages) - You can use this BOT as a distribution of messages from any telegram chats (private/public channels, private/public groups, topics, direct chats) into one or many chat.
 - [rahulbhoyar1995/HF-Spaces-with-Github-Actions-Tutorial](https://github.com/rahulbhoyar1995/HF-Spaces-with-Github-Actions-Tutorial) - Learn to automate the creation of highly functional spaces using GitHub Actions. This tutorial repository guides you through setting up automated workflows for managing spaces efficiently within your 
 - [ebertti/awesome-telegram](https://github.com/ebertti/awesome-telegram) - Collection great groups, channels, bots and libraries for Telegram
@@ -2537,7 +2538,6 @@
 - [peicodes/heroku-buildpack-libsndfile](https://github.com/peicodes/heroku-buildpack-libsndfile) - 
 - [eyMarv/deploy-code-server](https://github.com/eyMarv/deploy-code-server) - 
 - [DaCapo7/CNW](https://github.com/DaCapo7/CNW) - Create New Website is a VERY SIMPLE shell script (actually for macOS, didnt tried on linux) that create a folder with a HTML, a CSS and a JS. The html will have doctype, html, head and body tag and it
-- [aptible/docker-postgresql](https://github.com/aptible/docker-postgresql) - PostgreSQL on Docker
 - [OreosLab/VIP](https://github.com/OreosLab/VIP) - 🏃‍💨 Gone
 - [SpEcHiDe/whispering-boils](https://github.com/SpEcHiDe/whispering-boils) - 
 - [tyalie/City-Maps-Poster-Generator](https://github.com/tyalie/City-Maps-Poster-Generator) - Creates beautiful posters from stylized arial views of cities or other places on earth
