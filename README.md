@@ -463,6 +463,7 @@
 
 ## Python 
 
+- [mgedmin/check-python-versions](https://github.com/mgedmin/check-python-versions) - Check that supported Python versions in a setup.py match tox.ini, .travis.yml and a bunch of other files
 - [nuhmanpk/Referral-Bot](https://github.com/nuhmanpk/Referral-Bot) - This bot serves as a demonstration of referral system implementation on the Telegram platform using the Pyrogram library in Python
 - [tntmod54321/soundcloud-autodownloader](https://github.com/tntmod54321/soundcloud-autodownloader) - Automatically download soundcloud tracks
 - [flet-dev/flet](https://github.com/flet-dev/flet) - Flet enables developers to easily build realtime web, mobile and desktop apps in Python. No frontend experience required.
