@@ -1056,7 +1056,7 @@
 - [Forden/aiogram-bot-template](https://github.com/Forden/aiogram-bot-template) - Template for creating scalable bots with aiogram
 - [Toufool/AutoSplit](https://github.com/Toufool/AutoSplit) - Easy to use image comparison based auto splitter for speedrunning on console or PC.
 - [WeAreMahsaAmini/FreeInternet](https://github.com/WeAreMahsaAmini/FreeInternet) - Women, Life, Freedom. The goal of this project is to provide free internet access to Iranian people by any means. #MahsaAmini
-- [WyattBlue/auto-editor](https://github.com/WyattBlue/auto-editor) - Auto-Editor: Effort free video editing!
+- [WyattBlue/auto-editor](https://github.com/WyattBlue/auto-editor) - Auto-Editor: Efficient media analyze and rendering
 - [subinps/InstaFeed](https://github.com/subinps/InstaFeed) - get your Instagram feeds on your telegram channel
 - [TronUb/Tron](https://github.com/TronUb/Tron) - A modern telegram userbot based on pyrogram, light weight and smooth
 - [alvicsam/ytap-python](https://github.com/alvicsam/ytap-python) - 
