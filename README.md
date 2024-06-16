@@ -328,6 +328,7 @@
 
 ## Others 
 
+- [nuhmanpk/pyro-snippets](https://github.com/nuhmanpk/pyro-snippets) - A Visual Studio Code extension providing ready-to-use code snippets for developing Telegram bots with Pyrogram.
 - [danyspin97/TelegramBotsList](https://github.com/danyspin97/TelegramBotsList) - A list of all Telegram bots source hosted on github.
 - [redf0x1/Auto-Forward-Messages](https://github.com/redf0x1/Auto-Forward-Messages) - You can use this BOT as a distribution of messages from any telegram chats (private/public channels, private/public groups, topics, direct chats) into one or many chat.
 - [rahulbhoyar1995/HF-Spaces-with-Github-Actions-Tutorial](https://github.com/rahulbhoyar1995/HF-Spaces-with-Github-Actions-Tutorial) - Learn to automate the creation of highly functional spaces using GitHub Actions. This tutorial repository guides you through setting up automated workflows for managing spaces efficiently within your 
