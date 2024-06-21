@@ -2488,7 +2488,7 @@
 - [Yeagerist-Music-Streamer-Bot-V3/YouTubeSongDownloader](https://github.com/Yeagerist-Music-Streamer-Bot-V3/YouTubeSongDownloader) - YouTube Song Downloader Bot For Telegram 🔮 Powerd By Yᴇᴀɢᴇʀɪsᴛ Bᴏᴛs. For Help Ask
 - [dixitaniket/tele_youtube_bot](https://github.com/dixitaniket/tele_youtube_bot) - 
 - [cbrgm/telegram-robot-rss](https://github.com/cbrgm/telegram-robot-rss) - A clean and easy to use RSS Newsfeed Bot for fabulous Telegram Messenger App! :robot: :envelope: :heart:
-- [mrcentimetre/gpytranslator-bot](https://github.com/mrcentimetre/gpytranslator-bot) - Pyrogram translate bot using GpyTranslate Library.
+- [mrcentimetre/gpytranslator-bot](https://github.com/mrcentimetre/gpytranslator-bot) - Pyrogram translate telegram bot using GpyTranslate Library.
 - [ijustbsd/watermark-telegram-bot](https://github.com/ijustbsd/watermark-telegram-bot) - 
 - [samadii/ChannelAutoCopy](https://github.com/samadii/ChannelAutoCopy) - A Script to automate fowarding all new messages from one/many channel(s) to another channel(s), without the forwarded tag.
 - [samadii/remove-all-members](https://github.com/samadii/remove-all-members) - A simple telegram bot for remove all members from group or channel.
