@@ -464,6 +464,9 @@
 
 ## Python 
 
+- [python-bale-bot/python-bale-bot](https://github.com/python-bale-bot/python-bale-bot) - An API wrapper for Bale written in Python.
+- [Saeed-Biabani/Scene-Text-Recognition](https://github.com/Saeed-Biabani/Scene-Text-Recognition) - Text recognition (optical character recognition) with deep learning methods in farsi.
+- [mohammadkhedmati/DataSet-Crawl](https://github.com/mohammadkhedmati/DataSet-Crawl) - DataSet Crawler for Speech in Persian language
 - [mgedmin/check-python-versions](https://github.com/mgedmin/check-python-versions) - Check that supported Python versions in a setup.py match tox.ini, .travis.yml and a bunch of other files
 - [nuhmanpk/Referral-Bot](https://github.com/nuhmanpk/Referral-Bot) - This bot serves as a demonstration of referral system implementation on the Telegram platform using the Pyrogram library in Python
 - [tntmod54321/soundcloud-autodownloader](https://github.com/tntmod54321/soundcloud-autodownloader) - Automatically download soundcloud tracks
@@ -994,7 +997,7 @@
 - [aahashemi/fake-user-bot](https://github.com/aahashemi/fake-user-bot) - This is a telegram bot made with python which generates fake user data
 - [musikalkemist/prophet](https://github.com/musikalkemist/prophet) - 
 - [eight04/pip-outdated](https://github.com/eight04/pip-outdated) - Find outdated dependencies in your requirements.txt or setup.cfg file. Report missing/outdated/incompatible packages with table and colors.
-- [ToshY/mkvextract-subs](https://github.com/ToshY/mkvextract-subs) - Docker image for extracting subtitle tracks, attachments, chapters and tags using MKVextract.
+- [ToshY/mkvexport](https://github.com/ToshY/mkvexport) - Docker image for extracting subtitle tracks, attachments, chapters and tags using MKVextract.
 - [danielhoherd/plexdl](https://github.com/danielhoherd/plexdl) - A plex direct downloader, with an emphasis on fetching media that has not been modified.
 - [noprobelm/tempy](https://github.com/noprobelm/tempy) - A simple, visually pleasing weather report in your terminal.
 - [PabloLec/website-to-gif](https://github.com/PabloLec/website-to-gif) - GitHub Action to turn your website into a GIF :camera:
