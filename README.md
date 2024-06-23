@@ -464,6 +464,7 @@
 
 ## Python 
 
+- [nuhmanpk/pyrogram-bot](https://github.com/nuhmanpk/pyrogram-bot) - Template for Pyrogram bot
 - [python-bale-bot/python-bale-bot](https://github.com/python-bale-bot/python-bale-bot) - An API wrapper for Bale written in Python.
 - [Saeed-Biabani/Scene-Text-Recognition](https://github.com/Saeed-Biabani/Scene-Text-Recognition) - Text recognition (optical character recognition) with deep learning methods in farsi.
 - [mohammadkhedmati/DataSet-Crawl](https://github.com/mohammadkhedmati/DataSet-Crawl) - DataSet Crawler for Speech in Persian language
@@ -997,7 +998,7 @@
 - [aahashemi/fake-user-bot](https://github.com/aahashemi/fake-user-bot) - This is a telegram bot made with python which generates fake user data
 - [musikalkemist/prophet](https://github.com/musikalkemist/prophet) - 
 - [eight04/pip-outdated](https://github.com/eight04/pip-outdated) - Find outdated dependencies in your requirements.txt or setup.cfg file. Report missing/outdated/incompatible packages with table and colors.
-- [ToshY/mkvexport](https://github.com/ToshY/mkvexport) - Docker image for extracting subtitle tracks, attachments, chapters and tags using MKVextract.
+- [ToshY/mkvexport](https://github.com/ToshY/mkvexport) - A command-line utility for extracting attachments (subtitles, fonts and chapters) of MKV files.
 - [danielhoherd/plexdl](https://github.com/danielhoherd/plexdl) - A plex direct downloader, with an emphasis on fetching media that has not been modified.
 - [noprobelm/tempy](https://github.com/noprobelm/tempy) - A simple, visually pleasing weather report in your terminal.
 - [PabloLec/website-to-gif](https://github.com/PabloLec/website-to-gif) - GitHub Action to turn your website into a GIF :camera:
