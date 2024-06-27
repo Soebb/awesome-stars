@@ -328,6 +328,7 @@
 
 ## Others 
 
+- [Himura2la/awesome-soft](https://github.com/Himura2la/awesome-soft) - My humble attempts to collect all great pieces of software I use, recommend, or know about
 - [nuhmanpk/pyro-snippets](https://github.com/nuhmanpk/pyro-snippets) - A Visual Studio Code extension providing ready-to-use code snippets for developing Telegram bots with Pyrogram.
 - [danyspin97/TelegramBotsList](https://github.com/danyspin97/TelegramBotsList) - A list of all Telegram bots source hosted on github.
 - [redf0x1/Auto-Forward-Messages](https://github.com/redf0x1/Auto-Forward-Messages) - You can use this BOT as a distribution of messages from any telegram chats (private/public channels, private/public groups, topics, direct chats) into one or many chat.
@@ -361,7 +362,7 @@
 - [dkncus/CrowdRemoval](https://github.com/dkncus/CrowdRemoval) - 
 - [Cozy-Tech/regex_tutorial_and_examples](https://github.com/Cozy-Tech/regex_tutorial_and_examples) - 
 - [Hameds/IranCountryDivisions](https://github.com/Hameds/IranCountryDivisions) - Iran Country Divisions - کلیه تقسیمات کشوری ایران تا سطح آبادی بر اساس اطلاعات مرکز آمار ایران
-- [MrBotDeveloper/This-Repo-Has-118-Stars](https://github.com/MrBotDeveloper/This-Repo-Has-118-Stars) - Yes it's true :broken_heart:, currently it has 118 stars ⭐ and 21 forks 🍴.
+- [MrBotDeveloper/This-Repo-Has-117-Stars](https://github.com/MrBotDeveloper/This-Repo-Has-117-Stars) - Yes it's true :broken_heart:, currently it has 117 stars ⭐ and 21 forks 🍴.
 - [Alir3z4/stop-words](https://github.com/Alir3z4/stop-words) - List of common stop words in various languages.
 - [ahmadazizi/iran-cities](https://github.com/ahmadazizi/iran-cities) - The most accurate database of city, county, village and province names of Iran.
 - [iranremote/awesome-iran-remote](https://github.com/iranremote/awesome-iran-remote) - A list of remote-friendly or full-remote companies that targets iranian talents.
@@ -464,6 +465,7 @@
 
 ## Python 
 
+- [streamlink/streamlink](https://github.com/streamlink/streamlink) - Streamlink is a CLI utility which pipes video streams from various services into a video player
 - [pdoc3/pdoc](https://github.com/pdoc3/pdoc) - :snake: :arrow_right: :scroll:  Auto-generate API documentation for Python projects
 - [nuhmanpk/pyrogram-bot](https://github.com/nuhmanpk/pyrogram-bot) - Template for Pyrogram bot
 - [python-bale-bot/python-bale-bot](https://github.com/python-bale-bot/python-bale-bot) - An API wrapper for Bale written in Python.
@@ -1021,7 +1023,7 @@
 - [kkrypt0nn/Python-Discord-Bot-Template](https://github.com/kkrypt0nn/Python-Discord-Bot-Template) - 🐍 A simple template to start to code your own and personalized Discord bot in the Python programming language
 - [fascot/Media-Download-Tool](https://github.com/fascot/Media-Download-Tool) - This is a Media Download Tool which can get videos from Youtube and other sites.
 - [piriyaraj/shortsMobileSpeci](https://github.com/piriyaraj/shortsMobileSpeci) - automatic youtube video uploading script. it's able to scrap web content and make it a youtube short video and upload it on youtube automatically.
-- [gregismotion/lazyshorts-py](https://github.com/gregismotion/lazyshorts-py) - Create short videos, like a lazy person.
+- [gregistech/lazyshorts-py](https://github.com/gregistech/lazyshorts-py) - Create short videos, like a lazy person.
 - [MHadiS/port-scanner](https://github.com/MHadiS/port-scanner) - A port scanner made with python socket
 - [DanielJDufour/date-extractor](https://github.com/DanielJDufour/date-extractor) - Extract dates from text
 - [Taiko2k/Avvie](https://github.com/Taiko2k/Avvie) - A GTK app for quick image cropping :flower_playing_cards:
@@ -1897,7 +1899,7 @@
 - [RobotTrick/WhatsApp-API-Bot](https://github.com/RobotTrick/WhatsApp-API-Bot) - This Telegram bot allows you to create direct links with pre-filled text to WhatsApp Chats
 - [ali-zahedi/az-iranian-bank-gateways](https://github.com/ali-zahedi/az-iranian-bank-gateways) - درگاه اتصال به بانک های ایرانی ( درگاه پرداخت بانک ملی ایران،بانک سامان، بانک ملت، درگاه پرداخت زرین پال و ... ) با استفاده از پایتون
 - [shimafallah/idPay-python](https://github.com/shimafallah/idPay-python) - idPay with python
-- [RobertoBochet/scraper-bot](https://github.com/RobertoBochet/scraper-bot) - A customizable web scraper which interfaces with telegram
+- [RobertoBochet/scraper-bot](https://github.com/RobertoBochet/scraper-bot) - A customizable web scraper
 - [dtdoom2245/GD-to-Telegram](https://github.com/dtdoom2245/GD-to-Telegram) - 
 - [bytesuji/telegram-wget-bot](https://github.com/bytesuji/telegram-wget-bot) - Download resources from the Internet through Telegram
 - [hlabsdev/discuss-to-pdf](https://github.com/hlabsdev/discuss-to-pdf) - A Telegram bot for exporting your discussions into PDF
