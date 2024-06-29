@@ -465,6 +465,7 @@
 
 ## Python 
 
+- [anzilr/SubEditBot](https://github.com/anzilr/SubEditBot) - SubEditBot is a powerful Telegram bot designed for easy and efficient subtitle editing. Whether you're re-syncing SRT files, adding or removing lines, merging or splitting lines, or adjusting the timi
 - [streamlink/streamlink](https://github.com/streamlink/streamlink) - Streamlink is a CLI utility which pipes video streams from various services into a video player
 - [pdoc3/pdoc](https://github.com/pdoc3/pdoc) - :snake: :arrow_right: :scroll:  Auto-generate API documentation for Python projects
 - [nuhmanpk/pyrogram-bot](https://github.com/nuhmanpk/pyrogram-bot) - Template for Pyrogram bot
@@ -1055,7 +1056,7 @@
 - [HamidRezaAttar/Persian-OCR-Streamlit](https://github.com/HamidRezaAttar/Persian-OCR-Streamlit) - Persian OCR allows users to scan documents and extract text from scanned image.
 - [minasmz/Persian-Summarization](https://github.com/minasmz/Persian-Summarization) - Statistical and Semantical Text Summarizer in Persian Language
 - [nima-sa/persian-subtitle-fixer](https://github.com/nima-sa/persian-subtitle-fixer) - Fixes cp1256-encoded Persian subtitles by converting them to UTF-8. Like a piece of cake.
-- [Kourva/ChNumber](https://github.com/Kourva/ChNumber) - Python module that formats Persian number to Latin
+- [KourvA/ChNumber](https://github.com/KourvA/ChNumber) - Python module that formats Persian number to Latin
 - [Adibian/persian_fastpitch](https://github.com/Adibian/persian_fastpitch) - Training FastPitch for Persian language as a Persian text-to-speech
 - [H-MAli/persian-localizations](https://github.com/H-MAli/persian-localizations) - A Python package to facilitate Persian language localizations
 - [altryne/chatGPT-telegram-bot](https://github.com/altryne/chatGPT-telegram-bot) - This is a very early attempt at having chatGPT work within a telegram bot
