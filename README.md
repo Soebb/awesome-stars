@@ -471,7 +471,6 @@
 - [nuhmanpk/pyrogram-bot](https://github.com/nuhmanpk/pyrogram-bot) - Template for Pyrogram bot
 - [python-bale-bot/python-bale-bot](https://github.com/python-bale-bot/python-bale-bot) - An API wrapper for Bale written in Python.
 - [Saeed-Biabani/Scene-Text-Recognition](https://github.com/Saeed-Biabani/Scene-Text-Recognition) - Text recognition (optical character recognition) with deep learning methods in farsi.
-- [mohammadkhedmati/DataSet-Crawl](https://github.com/mohammadkhedmati/DataSet-Crawl) - DataSet Crawler for Speech in Persian language
 - [mgedmin/check-python-versions](https://github.com/mgedmin/check-python-versions) - Check that supported Python versions in a setup.py match tox.ini, .travis.yml and a bunch of other files
 - [nuhmanpk/Referral-Bot](https://github.com/nuhmanpk/Referral-Bot) - This bot serves as a demonstration of referral system implementation on the Telegram platform using the Pyrogram library in Python
 - [tntmod54321/soundcloud-autodownloader](https://github.com/tntmod54321/soundcloud-autodownloader) - Automatically download soundcloud tracks
