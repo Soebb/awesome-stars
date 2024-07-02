@@ -184,6 +184,7 @@
 
 ## Java 
 
+- [Team-xManager/xManager](https://github.com/Team-xManager/xManager) - Ad-Free, New Features & Freedom
 - [PatrickAlex2019/ApkEditor](https://github.com/PatrickAlex2019/ApkEditor) - Used for APP reverse compilation, APK localization, APK cracking, APK signature...
 - [oussamabonnor1/TelegramClone](https://github.com/oussamabonnor1/TelegramClone) - JetGram is an open source desktop app Telegram clone made with JavaFx.
 - [OwlGramDev/OwlGram](https://github.com/OwlGramDev/OwlGram) - OwlGram is an unofficial messaging app that uses Telegram's API.
@@ -531,7 +532,6 @@
 - [dir01/tg-yt-dlp](https://github.com/dir01/tg-yt-dlp) - Telegram bot that extracts short videos from pages for you
 - [bellingcat/auto-archiver](https://github.com/bellingcat/auto-archiver) - Automatically archive links to videos, images, and social media content from Google Sheets (and more).
 - [Hrazhan/kurd-spell](https://github.com/Hrazhan/kurd-spell) - ✍🏼 Transformer based Neural Spell Corrector for Central Kurdish
-- [Hrazhan/whisper-kurdish](https://github.com/Hrazhan/whisper-kurdish) - 🔊 A repository to fine-tune Whisper on Central Kurdish
 - [sauravpanda/whisper-service](https://github.com/sauravpanda/whisper-service) - Simple API for deploying whisper on your own server
 - [AlexandreGazagnes/awdible](https://github.com/AlexandreGazagnes/awdible) - Awdible - Just the best free version of audible. Awdible is a free and open-source software that allows you to download music from youtube and convert it to mp3.  The idea is to provide a free version
 - [dawoudt/JustWatchAPI](https://github.com/dawoudt/JustWatchAPI) - Python 3 JustWatch.com API - https://justwatch.com
@@ -1063,7 +1063,7 @@
 - [Forden/aiogram-bot-template](https://github.com/Forden/aiogram-bot-template) - Template for creating scalable bots with aiogram
 - [Toufool/AutoSplit](https://github.com/Toufool/AutoSplit) - Easy to use image comparison based auto splitter for speedrunning on console or PC.
 - [WeAreMahsaAmini/FreeInternet](https://github.com/WeAreMahsaAmini/FreeInternet) - Women, Life, Freedom. The goal of this project is to provide free internet access to Iranian people by any means. #MahsaAmini
-- [WyattBlue/auto-editor](https://github.com/WyattBlue/auto-editor) - Auto-Editor: Efficient media analyze and rendering
+- [WyattBlue/auto-editor](https://github.com/WyattBlue/auto-editor) - Auto-Editor: Efficient media analysis and rendering
 - [subinps/InstaFeed](https://github.com/subinps/InstaFeed) - get your Instagram feeds on your telegram channel
 - [TronUb/Tron](https://github.com/TronUb/Tron) - A modern telegram userbot based on pyrogram, light weight and smooth
 - [alvicsam/ytap-python](https://github.com/alvicsam/ytap-python) - 
