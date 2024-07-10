@@ -363,7 +363,7 @@
 - [dkncus/CrowdRemoval](https://github.com/dkncus/CrowdRemoval) - 
 - [Cozy-Tech/regex_tutorial_and_examples](https://github.com/Cozy-Tech/regex_tutorial_and_examples) - 
 - [Hameds/IranCountryDivisions](https://github.com/Hameds/IranCountryDivisions) - Iran Country Divisions - کلیه تقسیمات کشوری ایران تا سطح آبادی بر اساس اطلاعات مرکز آمار ایران
-- [MrBotDeveloper/This-Repo-Has-117-Stars](https://github.com/MrBotDeveloper/This-Repo-Has-117-Stars) - Yes it's true :broken_heart:, currently it has 117 stars ⭐ and 21 forks 🍴.
+- [MrBotDeveloper/This-Repo-Has-116-Stars](https://github.com/MrBotDeveloper/This-Repo-Has-116-Stars) - Yes it's true :broken_heart:, currently it has 116 stars ⭐ and 21 forks 🍴.
 - [Alir3z4/stop-words](https://github.com/Alir3z4/stop-words) - List of common stop words in various languages.
 - [ahmadazizi/iran-cities](https://github.com/ahmadazizi/iran-cities) - The most accurate database of city, county, village and province names of Iran.
 - [iranremote/awesome-iran-remote](https://github.com/iranremote/awesome-iran-remote) - A list of remote-friendly or full-remote companies that targets iranian talents.
@@ -466,6 +466,7 @@
 
 ## Python 
 
+- [zackees/zcmds_win32](https://github.com/zackees/zcmds_win32) - Win32 commands that make windows feel more like linux
 - [New-dev0/OnePost](https://github.com/New-dev0/OnePost) - 
 - [anzilr/SubEditBot](https://github.com/anzilr/SubEditBot) - SubEditBot is a powerful Telegram bot designed for easy and efficient subtitle editing. Whether you're re-syncing SRT files, adding or removing lines, merging or splitting lines, or adjusting the timi
 - [streamlink/streamlink](https://github.com/streamlink/streamlink) - Streamlink is a CLI utility which pipes video streams from various services into a video player
@@ -2519,6 +2520,7 @@
 
 ## Rust 
 
+- [thewh1teagle/sherpa-rs](https://github.com/thewh1teagle/sherpa-rs) - Rust bindings to https://github.com/k2-fsa/sherpa-onnx
 - [thewh1teagle/rookie](https://github.com/thewh1teagle/rookie) - Load cookies from your web browsers
 - [edrevo/dockerfile-plus](https://github.com/edrevo/dockerfile-plus) - New commands for Dockerfile
 - [Hirevo/mega-rs](https://github.com/Hirevo/mega-rs) - An API client library for interacting with MEGA from Rust
