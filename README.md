@@ -466,6 +466,7 @@
 
 ## Python 
 
+- [cleder/login-picture](https://github.com/cleder/login-picture) - 📸️ Take a picture when you login 🥳️
 - [zackees/zcmds_win32](https://github.com/zackees/zcmds_win32) - Win32 commands that make windows feel more like linux
 - [New-dev0/OnePost](https://github.com/New-dev0/OnePost) - 
 - [anzilr/SubEditBot](https://github.com/anzilr/SubEditBot) - SubEditBot is a powerful Telegram bot designed for easy and efficient subtitle editing. Whether you're re-syncing SRT files, adding or removing lines, merging or splitting lines, or adjusting the timi
@@ -2582,6 +2583,7 @@
 
 ## TypeScript 
 
+- [thewh1teagle/vibe](https://github.com/thewh1teagle/vibe) - Transcribe on your own!
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [KnorpelSenf/link-preview-bot](https://github.com/KnorpelSenf/link-preview-bot) - Telegram bot to generate link previews for all links in messages.
 - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser
