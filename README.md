@@ -594,6 +594,7 @@
 - [umihico/pythonista-chromeless](https://github.com/umihico/pythonista-chromeless) - Serverless selenium which dynamically execute any given code.
 - [SergeyPirogov/webdriver_manager](https://github.com/SergeyPirogov/webdriver_manager) - 
 - [Dicklesworthstone/bulk_transcribe_youtube_videos_from_playlist](https://github.com/Dicklesworthstone/bulk_transcribe_youtube_videos_from_playlist) - Easily take an entire YouTube playlist and turn it into high quality transcripts using Whisper.
+- [MhdiTaheri/Radiojavan-dl](https://github.com/MhdiTaheri/Radiojavan-dl) - Simpel Radiojavan Downloader Telegram BoT
 - [hydrogram/hydrogram](https://github.com/hydrogram/hydrogram) - Sleek, advanced, and asynchronous Telegram MTProto API framework in Python, designed for fluid user and bot interactions.
 - [Ripeey/Conversation-Pyrogram](https://github.com/Ripeey/Conversation-Pyrogram) - A conversation plugin class for pyrogram using inbuild Update Handlers
 - [usernein/activate-virtualenv](https://github.com/usernein/activate-virtualenv) - Context manager to activate and deactivate Python virtualenvs programatically
@@ -1058,7 +1059,7 @@
 - [HamidRezaAttar/Persian-OCR-Streamlit](https://github.com/HamidRezaAttar/Persian-OCR-Streamlit) - Persian OCR allows users to scan documents and extract text from scanned image.
 - [minasmz/Persian-Summarization](https://github.com/minasmz/Persian-Summarization) - Statistical and Semantical Text Summarizer in Persian Language
 - [nima-sa/persian-subtitle-fixer](https://github.com/nima-sa/persian-subtitle-fixer) - Fixes cp1256-encoded Persian subtitles by converting them to UTF-8. Like a piece of cake.
-- [KourvA/ChNumber](https://github.com/KourvA/ChNumber) - Python module that formats Persian number to Latin
+- [kozyol/ChNumber](https://github.com/kozyol/ChNumber) - Python module that formats Persian number to Latin
 - [Adibian/persian_fastpitch](https://github.com/Adibian/persian_fastpitch) - Training FastPitch for Persian language as a Persian text-to-speech
 - [H-MAli/persian-localizations](https://github.com/H-MAli/persian-localizations) - A Python package to facilitate Persian language localizations
 - [altryne/chatGPT-telegram-bot](https://github.com/altryne/chatGPT-telegram-bot) - This is a very early attempt at having chatGPT work within a telegram bot
