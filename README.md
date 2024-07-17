@@ -363,7 +363,7 @@
 - [dkncus/CrowdRemoval](https://github.com/dkncus/CrowdRemoval) - 
 - [Cozy-Tech/regex_tutorial_and_examples](https://github.com/Cozy-Tech/regex_tutorial_and_examples) - 
 - [Hameds/IranCountryDivisions](https://github.com/Hameds/IranCountryDivisions) - Iran Country Divisions - کلیه تقسیمات کشوری ایران تا سطح آبادی بر اساس اطلاعات مرکز آمار ایران
-- [MrBotDeveloper/This-Repo-Has-116-Stars](https://github.com/MrBotDeveloper/This-Repo-Has-116-Stars) - Yes it's true :broken_heart:, currently it has 116 stars ⭐ and 21 forks 🍴.
+- [MrBotDeveloper/This-Repo-Has-117-Stars](https://github.com/MrBotDeveloper/This-Repo-Has-117-Stars) - Yes it's true :broken_heart:, currently it has 117 stars ⭐ and 22 forks 🍴.
 - [Alir3z4/stop-words](https://github.com/Alir3z4/stop-words) - List of common stop words in various languages.
 - [ahmadazizi/iran-cities](https://github.com/ahmadazizi/iran-cities) - The most accurate database of city, county, village and province names of Iran.
 - [iranremote/awesome-iran-remote](https://github.com/iranremote/awesome-iran-remote) - A list of remote-friendly or full-remote companies that targets iranian talents.
@@ -961,7 +961,7 @@
 - [18520339/facebook-data-extraction](https://github.com/18520339/facebook-data-extraction) - Experience for effectively fetching Facebook data by Querying Graph API with Account-based Token and Operating undetectable scraping Bots to extract Client/Server-side Rendered content
 - [18520339/image-search-downloader](https://github.com/18520339/image-search-downloader) - Download images including URLs from Google, Bing, Flickr and Instagram hashtags with given keyword
 - [lkabuci/Botflix](https://github.com/lkabuci/Botflix) - 🎥 Stream your favorite movie from the terminal!
-- [mherrmann/helium](https://github.com/mherrmann/helium) - Lighter web automation for Python
+- [mherrmann/helium](https://github.com/mherrmann/helium) - Lighter web automation with Python
 - [namuan/tele-tube-rider](https://github.com/namuan/tele-tube-rider) - Telegram Bot 🤖 to download videos from Youtube, Reddit and Twitter and send it back to you.
 - [namuan/bin-utils](https://github.com/namuan/bin-utils) - Utility scripts / apps
 - [soxoj/maigret-tg-bot](https://github.com/soxoj/maigret-tg-bot) - Maigret Telegram bot
@@ -1858,7 +1858,6 @@
 - [Jizzberry/Scrapers](https://github.com/Jizzberry/Scrapers) - 
 - [gil9red/SimplePyScripts](https://github.com/gil9red/SimplePyScripts) - Collection of various python script's.
 - [RepoLink/superfclone-public](https://github.com/RepoLink/superfclone-public) - @superfclone-public
-- [JinnSulthan/Forward-Mess-Remover](https://github.com/JinnSulthan/Forward-Mess-Remover) - A Bot To remove forwarded messages.
 - [AsmSafone/MusicPlayer](https://github.com/AsmSafone/MusicPlayer) - A Telegram Music Bot written in Python using Pyrogram and Py-Tgcalls. This is Also The Source Code of The UserBot Which is Playing Music in @S1-BOTS Support Group ❤️
 - [Glyphack/spotify_telegram_bot](https://github.com/Glyphack/spotify_telegram_bot) - Telegram bot helps you to listen to songs from spotify
 - [pyppeteer/pyppeteer](https://github.com/pyppeteer/pyppeteer) - Headless chrome/chromium automation library (unofficial port of puppeteer)
