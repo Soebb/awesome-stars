@@ -143,7 +143,6 @@
 ## HTML 
 
 - [viperadnan-git/telegram-filestream](https://github.com/viperadnan-git/telegram-filestream) - API to stream publically available Telegram files
-- [Alex27ak/ak-tg-index](https://github.com/Alex27ak/ak-tg-index) - 
 - [Soebb/streaming-url-gen-bot](https://github.com/Soebb/streaming-url-gen-bot) - Telegram bot to generate steaming link for youtube videos or from direct download links of videos. Videos will be hosted on the app server.
 - [vitalets/github-trending-repos](https://github.com/vitalets/github-trending-repos) - Track GitHub trending repositories in your favorite programming language by native GitHub notifications!
 - [karim23657/Subtr](https://github.com/karim23657/Subtr) - This user-friendly tool seamlessly translates SRT and DFXP subtitles to any language, making it the ideal choice for handling subtitle sentence breaks across tracks. Experience the ease and accuracy o
@@ -198,7 +197,6 @@
 ## JavaScript 
 
 - [http-party/http-server](https://github.com/http-party/http-server) - a simple zero-configuration command-line http server
-- [DavidCks/piper-wasm](https://github.com/DavidCks/piper-wasm) - 
 - [gyroing/Persian-Piper-TTS-WebAssembly](https://github.com/gyroing/Persian-Piper-TTS-WebAssembly) - WebAssembly Sherpa ONNX TTS for Persian language based on PIPER Model
 - [jessielw/HDR-Multi-Tool](https://github.com/jessielw/HDR-Multi-Tool) - A graphical user interface for parsing HDR10+ and Dolby Vision
 - [karim23657/GAS-Telegram-bot](https://github.com/karim23657/GAS-Telegram-bot) - A base code that shows how to make a telegram bot on google app script
