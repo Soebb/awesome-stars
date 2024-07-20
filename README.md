@@ -1404,7 +1404,7 @@
 - [alinerguio/vosk-transcript-tool](https://github.com/alinerguio/vosk-transcript-tool) - The goal is to transcript audios already processed using the Vosk API to transcript audios.
 - [anvaari/instagram_follow_bot](https://github.com/anvaari/instagram_follow_bot) - توی این پروژه به کمک پایتون و سلنیوم یک ربات توسعه دادم که وارد اینستاگرام بشه و فالور های یک یا چند اکانت رو به تعداد خواسته شده فالو کنه.
 - [anvaari/BarnameKon](https://github.com/anvaari/BarnameKon) - Barname Kon is telegram bot which create "Add to Calendar" link (Google Calendat) and file (.ics)  for your events.
-- [imalirezapy/selenium-instagram-bot](https://github.com/imalirezapy/selenium-instagram-bot) - get instagram likers
+- [aliCompose/selenium-instagram-bot](https://github.com/aliCompose/selenium-instagram-bot) - get instagram likers
 - [pytopia/stackoverflow-telegram-bot](https://github.com/pytopia/stackoverflow-telegram-bot) - Stackoverflow Telegram Bot
 - [gbagush/TikTokDownloaderBot](https://github.com/gbagush/TikTokDownloaderBot) - 
 - [4myr/tabchi](https://github.com/4myr/tabchi) - Advertimenter Telegram Cli Bot
