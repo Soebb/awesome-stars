@@ -1212,7 +1212,6 @@
 - [motahharm/verbs](https://github.com/motahharm/verbs) - تولید فعل های فارسی/عربی/انگلیسی
 - [AbRamazani/mahab](https://github.com/AbRamazani/mahab) - نرم افزار محافظ باتری محاب(فارسی)
 - [herotux/mozilla-voice-fa](https://github.com/herotux/mozilla-voice-fa) - مجموعه ای از جملات به زبان فارسی برای پروژه common voice موزیلا
-- [AmirRedHat/Search_Subtitle](https://github.com/AmirRedHat/Search_Subtitle) - search and download multiple subtitle in one command and a few time (persian)
 - [AshkanArabim/persian-word-extractor](https://github.com/AshkanArabim/persian-word-extractor) - This script creates a list of unique words from Persian text. Words can be sorted by frequency or alphabetical order. This is a new project, there could be major bugs in the code.
 - [Athirst1998/number_to_alphabet](https://github.com/Athirst1998/number_to_alphabet) - convert number to Persian alphabet
 - [adrian-kalinin/CheckNicknameBot](https://github.com/adrian-kalinin/CheckNicknameBot) - Telegram bot where you can check the availability of nicknames in various social networks
