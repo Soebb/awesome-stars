@@ -539,7 +539,6 @@
 - [dawoudt/JustWatchAPI](https://github.com/dawoudt/JustWatchAPI) - Python 3 JustWatch.com API - https://justwatch.com
 - [Electronic-Mango/rss-reader-telegram-bot](https://github.com/Electronic-Mango/rss-reader-telegram-bot) - A simple RSS reader Telegram bot.
 - [Electronic-Mango/simple-justwatch-python-api](https://github.com/Electronic-Mango/simple-justwatch-python-api) - A simple (and unofficial) JustWatch Python API.
-- [SadeghKrmi/derang](https://github.com/SadeghKrmi/derang) - derang (گرفته شده از دِرنگ‌نما), diacritics creation for Persian/Farsi language
 - [encode/httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋
 - [oVo-HxBots/RENAME-PRO](https://github.com/oVo-HxBots/RENAME-PRO) - Telegram File Renamer Bot & 4Gb Rename With Upgrade PLan .
 - [sns-sdks/python-youtube](https://github.com/sns-sdks/python-youtube) - A simple Python wrapper for YouTube Data API :sparkles: :cake: :sparkles: .
@@ -1023,7 +1022,7 @@
 - [mnsalimi/PersianSpellChecker](https://github.com/mnsalimi/PersianSpellChecker) - 
 - [Alir3z4/html2text](https://github.com/Alir3z4/html2text) - Convert HTML to Markdown-formatted text.
 - [khoben/telemirror](https://github.com/khoben/telemirror) - Telegram message forwarder (client API)
-- [kkrypt0nn/Python-Discord-Bot-Template](https://github.com/kkrypt0nn/Python-Discord-Bot-Template) - 🐍 A simple template to start to code your own and personalized Discord bot in the Python programming language
+- [kkrypt0nn/Python-Discord-Bot-Template](https://github.com/kkrypt0nn/Python-Discord-Bot-Template) - 🐍 A simple template to start to code your own and personalized Discord bot in Python
 - [fascot/Media-Download-Tool](https://github.com/fascot/Media-Download-Tool) - This is a Media Download Tool which can get videos from Youtube and other sites.
 - [piriyaraj/shortsMobileSpeci](https://github.com/piriyaraj/shortsMobileSpeci) - automatic youtube video uploading script. it's able to scrap web content and make it a youtube short video and upload it on youtube automatically.
 - [gregistech/lazyshorts-py](https://github.com/gregistech/lazyshorts-py) - Create short videos, like a lazy person.
