@@ -465,6 +465,7 @@
 
 ## Python 
 
+- [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper) - TTS-Wrapper makes it easier to use text-to-speech APIs by providing a unified and easy-to-use interface.
 - [Bogdanp/dramatiq](https://github.com/Bogdanp/dramatiq) - A fast and reliable background task processing library for Python 3.
 - [cleder/login-picture](https://github.com/cleder/login-picture) - 📸️ Take a picture when you login 🥳️
 - [zackees/zcmds_win32](https://github.com/zackees/zcmds_win32) - Win32 commands that make windows feel more like linux
