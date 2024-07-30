@@ -1175,7 +1175,7 @@
 - [AndydeCleyre/colorcodebot](https://github.com/AndydeCleyre/colorcodebot) - A simple Telegram bot for syntax highlighting
 - [iniridwanul/Crowgram](https://github.com/iniridwanul/Crowgram) - Crowgram is a powerful, advanced, multi-featured Telegram userbot.
 - [New-dev0/Telethon-Patch](https://github.com/New-dev0/Telethon-Patch) - Wrap over telethon with additional upgrades
-- [mahyadnet/telegram-auto-forwarder](https://github.com/mahyadnet/telegram-auto-forwarder) - Telegram Auto Forwarder
+- [nethunter-ir/telegram-auto-forwarder](https://github.com/nethunter-ir/telegram-auto-forwarder) - Telegram Auto Forwarder
 - [JKhakpour/petit](https://github.com/JKhakpour/petit) - Persian text -&gt; integer, ineteger -&gt; text converter
 - [Ahmadrezadl/MovieSorter](https://github.com/Ahmadrezadl/MovieSorter) - MovieSorter is a dynamic tool designed to simplify the management of your digital movie library. It offers automated sorting, customizable naming schemes, and rich metadata retrieval, ensuring your co
 - [xenova/chat-downloader](https://github.com/xenova/chat-downloader) - A simple tool used to retrieve chat messages from livestreams, videos, clips and past broadcasts. No authentication needed!
