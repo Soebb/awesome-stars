@@ -2328,7 +2328,6 @@
 - [samadii/AutoMusicTagEditor](https://github.com/samadii/AutoMusicTagEditor) - This bot is helpful for those who want to just remove usernames from the music tags or append their own usernames to the tags.
 - [TgCatUB/catuserbot](https://github.com/TgCatUB/catuserbot) - A simple Telegram userbot based on Telethon
 - [subinps/Instagram-Bot](https://github.com/subinps/Instagram-Bot) - Telegram bot to download almost all from Instagram
-- [benchamxd/Telegraph-Uploader](https://github.com/benchamxd/Telegraph-Uploader) - A Telegram Bot Written In Python To Upload Medias To telegra.ph
 - [KristoforMaynard/music-tag](https://github.com/KristoforMaynard/music-tag) - Simple interface to edit audio file metadata
 - [prkindia/AudioScript](https://github.com/prkindia/AudioScript) - Auto Generate Subtitle File For Any Type Of Audio and Video. Using Python and Google Speech-to-Text API.
 - [PaddlePaddle/PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech) - Easy-to-use Speech Toolkit including Self-Supervised Learning model, SOTA/Streaming ASR with punctuation, Streaming TTS with text frontend, Speaker Verification System, End-to-End Speech Translation a
