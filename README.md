@@ -63,7 +63,6 @@
 ## C++ 
 
 - [k2-fsa/sherpa](https://github.com/k2-fsa/sherpa) - Speech-to-text server framework with next-gen Kaldi
-- [Mobile-Artificial-Intelligence/piper.cpp](https://github.com/Mobile-Artificial-Intelligence/piper.cpp) - 
 - [k2-fsa/sherpa-ncnn](https://github.com/k2-fsa/sherpa-ncnn) - Real-time speech recognition using next-gen Kaldi with ncnn without Internet connection. Support iOS, Android, Raspberry Pi, VisionFive2, LicheePi4A etc.
 - [mmdii/cpp-to-python-pkg](https://github.com/mmdii/cpp-to-python-pkg) - 
 - [GuFFy12/CPP-to-Python-Syntax](https://github.com/GuFFy12/CPP-to-Python-Syntax) - 😎 Reformatting cpp code like a boss
