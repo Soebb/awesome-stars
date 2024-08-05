@@ -472,7 +472,7 @@
 - [anzilr/SubEditBot](https://github.com/anzilr/SubEditBot) - SubEditBot is a powerful Telegram bot designed for easy and efficient subtitle editing. Whether you're re-syncing SRT files, adding or removing lines, merging or splitting lines, or adjusting the timi
 - [streamlink/streamlink](https://github.com/streamlink/streamlink) - Streamlink is a CLI utility which pipes video streams from various services into a video player
 - [pdoc3/pdoc](https://github.com/pdoc3/pdoc) - :snake: :arrow_right: :scroll:  Auto-generate API documentation for Python projects
-- [nuhmanpk/pyrogram-bot](https://github.com/nuhmanpk/pyrogram-bot) - Template for Pyrogram bot
+- [nuhmanpk/hydrogram-bot](https://github.com/nuhmanpk/hydrogram-bot) - Template for Hydrogram bot - A pyrogram alternative
 - [python-bale-bot/python-bale-bot](https://github.com/python-bale-bot/python-bale-bot) - An API wrapper for Bale written in Python.
 - [Saeed-Biabani/Scene-Text-Recognition](https://github.com/Saeed-Biabani/Scene-Text-Recognition) - Text recognition (optical character recognition) with deep learning methods in farsi.
 - [mgedmin/check-python-versions](https://github.com/mgedmin/check-python-versions) - Check that supported Python versions in a setup.py match tox.ini, .travis.yml and a bunch of other files
@@ -582,7 +582,7 @@
 - [torbjornbp/video-ocr2srt](https://github.com/torbjornbp/video-ocr2srt) - A simple script to extract text elements from video files
 - [yonatanrozin/OpenCV_OCR](https://github.com/yonatanrozin/OpenCV_OCR) - Performs OCR from webcam feed, image or video file.
 - [dam-cav/img-to-pgs-sup](https://github.com/dam-cav/img-to-pgs-sup) - PGS SUP subtitle generator (Image sequences), useful companion of VideoSubFinder
-- [qq-me/beat-manipulator](https://github.com/qq-me/beat-manipulator) - beat swapping powered by AI
+- [inikishev/beat-manipulator](https://github.com/inikishev/beat-manipulator) - beat swapping powered by AI
 - [rnnh/vaporiser](https://github.com/rnnh/vaporiser) - 🎵 Creates a vaporwave (slowed, with reverb) remix of a given MP3 file, with the option of playing over a looped GIF as a video.
 - [sakemin/cog-musicgen-remixer](https://github.com/sakemin/cog-musicgen-remixer) - Music remixer based on MusicGen-Chord
 - [PinkFloyded/video-ocr](https://github.com/PinkFloyded/video-ocr) - 
