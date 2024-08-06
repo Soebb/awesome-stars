@@ -141,6 +141,7 @@
 
 ## HTML 
 
+- [Gl0deanR/create-flask-app](https://github.com/Gl0deanR/create-flask-app) - 
 - [viperadnan-git/telegram-filestream](https://github.com/viperadnan-git/telegram-filestream) - API to stream publically available Telegram files
 - [Soebb/streaming-url-gen-bot](https://github.com/Soebb/streaming-url-gen-bot) - Telegram bot to generate steaming link for youtube videos or from direct download links of videos. Videos will be hosted on the app server.
 - [vitalets/github-trending-repos](https://github.com/vitalets/github-trending-repos) - Track GitHub trending repositories in your favorite programming language by native GitHub notifications!
@@ -381,7 +382,6 @@
 - [Single-Developers/The_Shazam_BOT](https://github.com/Single-Developers/The_Shazam_BOT) - 🌷 This is Most Advanced Music Finder BOT 🎧, Keyword Searchers & Also 🎙 Voice Searchers Supported 🎵
 - [gautamajay52/TransloaderBot](https://github.com/gautamajay52/TransloaderBot) - SooN
 - [Mahmood-Taghavi/eSpeakPlus](https://github.com/Mahmood-Taghavi/eSpeakPlus) - eSpeakPlus is a free Text To Speech (TTS) engine for Persian and other languages in Windows which supports SAPI 5 speech driver. It is based on the legacy espeak TTS and the Mbrola voices.
-- [Ambrose114/TelegramForwardTagRemover](https://github.com/Ambrose114/TelegramForwardTagRemover) - 
 - [asyraffff/readme-with-video](https://github.com/asyraffff/readme-with-video) - 
 - [m1guelpf/readme-with-video](https://github.com/m1guelpf/readme-with-video) - An example of a repo with a video on its README
 - [DevelopersTree/awesome-kurds](https://github.com/DevelopersTree/awesome-kurds) - A curated list of awesome Kurds.
