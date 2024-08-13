@@ -748,7 +748,7 @@
 - [ultrafunkamsterdam/undetected-chromedriver](https://github.com/ultrafunkamsterdam/undetected-chromedriver) - Custom Selenium Chromedriver | Zero-Config | Passes ALL bot mitigation systems (like Distil / Imperva/ Datadadome / CloudFlare IUAM)
 - [frgt10/dvdremuxer](https://github.com/frgt10/dvdremuxer) - Remuxer DVD to MKV
 - [Simatwa/yt5](https://github.com/Simatwa/yt5) - Download YouTube Videos and Audios
-- [tiangolo/asyncer](https://github.com/tiangolo/asyncer) - Asyncer, async and await, focused on developer experience.
+- [fastapi/asyncer](https://github.com/fastapi/asyncer) - Asyncer, async and await, focused on developer experience.
 - [sail-sg/EditAnything](https://github.com/sail-sg/EditAnything) - Edit anything in images  powered by segment-anything, ControlNet, StableDiffusion, etc. (ACM MM)
 - [mamadgeek/mobile_price_prediction_farsi_scraping](https://github.com/mamadgeek/mobile_price_prediction_farsi_scraping) - 
 - [rQBx91/Pydowner](https://github.com/rQBx91/Pydowner) - A multithreaded terminal downloader writen in Python
