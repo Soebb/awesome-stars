@@ -674,7 +674,7 @@
 - [djfun/audio-visualizer-python](https://github.com/djfun/audio-visualizer-python) - a little GUI tool to render visualization videos of audio files
 - [coderholic/pyradio](https://github.com/coderholic/pyradio) - Curses based internet radio player
 - [jnsougata/aiotube](https://github.com/jnsougata/aiotube) - An Alternative to YouTube Public Data API v3
-- [david-lev/pywa](https://github.com/david-lev/pywa) - 💬 Python wrapper for the WhatsApp Cloud API
+- [david-lev/pywa](https://github.com/david-lev/pywa) - 🤖 Build WhatsApp Bots in Python
 - [mo1ein/Golchin](https://github.com/mo1ein/Golchin) - Golchin is a telegram bot that extract English words from file and translate it to Persian.
 - [mo1ein/TelegramArchive](https://github.com/mo1ein/TelegramArchive) - Export telegram chats.
 - [rany2/edge-tts](https://github.com/rany2/edge-tts) - Use Microsoft Edge's online text-to-speech service from Python WITHOUT needing Microsoft Edge or Windows or an API key
