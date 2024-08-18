@@ -63,7 +63,7 @@
 ## C++ 
 
 - [k2-fsa/sherpa](https://github.com/k2-fsa/sherpa) - Speech-to-text server framework with next-gen Kaldi
-- [k2-fsa/sherpa-ncnn](https://github.com/k2-fsa/sherpa-ncnn) - Real-time speech recognition using next-gen Kaldi with ncnn without Internet connection. Support iOS, Android, Raspberry Pi, VisionFive2, LicheePi4A etc.
+- [k2-fsa/sherpa-ncnn](https://github.com/k2-fsa/sherpa-ncnn) - Real-time speech recognition and voice activity detection (VAD) using next-gen Kaldi with ncnn without Internet connection. Support iOS, Android, Linux, macOS, Windows, Raspberry Pi, VisionFive2, Lich
 - [mmdii/cpp-to-python-pkg](https://github.com/mmdii/cpp-to-python-pkg) - 
 - [GuFFy12/CPP-to-Python-Syntax](https://github.com/GuFFy12/CPP-to-Python-Syntax) - 😎 Reformatting cpp code like a boss
 - [gyroing/Ezafeh-detection-with-HAZM](https://github.com/gyroing/Ezafeh-detection-with-HAZM) - C++ wrappers of the Python's Hazm module
@@ -197,6 +197,7 @@
 
 ## JavaScript 
 
+- [pallets-eco/flask-debugtoolbar](https://github.com/pallets-eco/flask-debugtoolbar) - A toolbar overlay for debugging Flask applications
 - [http-party/http-server](https://github.com/http-party/http-server) - a simple zero-configuration command-line http server
 - [gyroing/Persian-Piper-TTS-WebAssembly](https://github.com/gyroing/Persian-Piper-TTS-WebAssembly) - WebAssembly Sherpa ONNX TTS for Persian language based on PIPER Model
 - [jessielw/HDR-Multi-Tool](https://github.com/jessielw/HDR-Multi-Tool) - A graphical user interface for parsing HDR10+ and Dolby Vision
@@ -465,6 +466,8 @@
 
 ## Python 
 
+- [clbarnes/extreqs](https://github.com/clbarnes/extreqs) - Parse python requirements.txt files into setuptools extras
+- [IanHopkinson/mypackage](https://github.com/IanHopkinson/mypackage) - A demonstration project to show the layout for a Python package
 - [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper) - TTS-Wrapper makes it easier to use text-to-speech APIs by providing a unified and easy-to-use interface.
 - [Bogdanp/dramatiq](https://github.com/Bogdanp/dramatiq) - A fast and reliable background task processing library for Python 3.
 - [cleder/login-picture](https://github.com/cleder/login-picture) - 📸️ Take a picture when you login 🥳️
@@ -1468,7 +1471,7 @@
 - [palahsu/Insta-follow-bot](https://github.com/palahsu/Insta-follow-bot) - insta follower bot by python with selenium.
 - [korneevm/simplebot](https://github.com/korneevm/simplebot) - 
 - [dnovikov/tryvoha-bot](https://github.com/dnovikov/tryvoha-bot) - Plays air warning sound when detects a certain phrase or a word in a specified Telegram chat.
-- [AkkilMG/Feedback-bot](https://github.com/AkkilMG/Feedback-bot) - In Short This is An Personalized Livegram Bot Made Using Python.. Follow Me @HeimanPictures & Star This Repo
+- [AkkilMG/Feedback-bot](https://github.com/AkkilMG/Feedback-bot) - A personalized version of t.me/LivegramBot with some additional feature. If any issue or feature, contact owner. Any feature being pushed is welcome with proof of work.
 - [pejmanS21/PDF2TEXT](https://github.com/pejmanS21/PDF2TEXT) - 
 - [persepolisdm/persepolis](https://github.com/persepolisdm/persepolis) - Persepolis Download Manager is a GUI for aria2.
 - [sina-e/twitter2telegram](https://github.com/sina-e/twitter2telegram) - A simple script to post tweets from Twitter to Telegram
