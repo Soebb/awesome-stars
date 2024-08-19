@@ -1536,7 +1536,7 @@
 - [KristianAskk/Mp4-to-terminal](https://github.com/KristianAskk/Mp4-to-terminal) - A program that displays mp4 videos in the terminal.
 - [ArjunSahlot/vidmaker](https://github.com/ArjunSahlot/vidmaker) - A python library which simplifies creating and exporting videos.
 - [esaatci/rescale_crawler](https://github.com/esaatci/rescale_crawler) - 
-- [srstevenson/keyword-extractor](https://github.com/srstevenson/keyword-extractor) - Extract keywords from plain text documents
+- [srstevenson/keyword-extractor](https://github.com/srstevenson/keyword-extractor) - Extract keywords from plain text documents for quick analysis with spaCy and scikit-learn.
 - [JerrickLiu/Mask-generator](https://github.com/JerrickLiu/Mask-generator) - Various functions to generate masks for images and replace the background of images with some other image of your choosing
 - [BigweldIndustries/DownTube](https://github.com/BigweldIndustries/DownTube) - A simple GUI wrapper for yt-dlp that allows you to easily archive youtube channels
 - [skr1405/Feedback-and-Request-Bot-TG](https://github.com/skr1405/Feedback-and-Request-Bot-TG) - Telegram Bot to Request Content and Give Feedback
@@ -1748,7 +1748,7 @@
 - [avaakash/Tweet-From-Message](https://github.com/avaakash/Tweet-From-Message) - This application will tweet anything to forward to your Telegram bot
 - [hehpollon/Instagram-Crawler](https://github.com/hehpollon/Instagram-Crawler) - Non API. Crawling post (photo, likes, comments, date ...) by username, hashtags
 - [tuhinpal/audio-metatag-writer](https://github.com/tuhinpal/audio-metatag-writer) - Metatag writer with Mutagen
-- [sys113/negar](https://github.com/sys113/negar) - call negar in your python source code and write error log & text log to a file ...
+- [hamid-dionysus/negar](https://github.com/hamid-dionysus/negar) - call negar in your python source code and write error log & text log to a file ...
 - [shahinism/python-negar](https://github.com/shahinism/python-negar) - Negar trying to be a spell corrector for persian language.
 - [yididiyan/amharic_spell_corrector](https://github.com/yididiyan/amharic_spell_corrector) - Amharic Spelling Corrector based on SymSpell - Spelling corrector which is  1 million times faster through Symmetric Delete spelling correction algorithm
 - [bhattbhavesh91/spell-correction-gingerit-demo](https://github.com/bhattbhavesh91/spell-correction-gingerit-demo) - Tutorial on creating a spelling correction Python application using Gingerit and Streamlit
