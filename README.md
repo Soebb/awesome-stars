@@ -39,6 +39,7 @@
 
 ## C 
 
+- [Data-Oriented-House/PortableBuildTools](https://github.com/Data-Oriented-House/PortableBuildTools) - Portable VS Build Tools installer
 - [nicolas-van/multirun](https://github.com/nicolas-van/multirun) - A minimalist init process designed for Docker
 - [norihiro/alignaudio](https://github.com/norihiro/alignaudio) - a tool to align audio files
 - [gpac/gpac](https://github.com/gpac/gpac) - GPAC Ultramedia OSS for Video Streaming & Next-Gen Multimedia Transcoding, Packaging & Delivery
@@ -62,6 +63,7 @@
 
 ## C++ 
 
+- [mkleehammer/pyodbc](https://github.com/mkleehammer/pyodbc) - Python ODBC bridge
 - [k2-fsa/sherpa](https://github.com/k2-fsa/sherpa) - Speech-to-text server framework with next-gen Kaldi
 - [k2-fsa/sherpa-ncnn](https://github.com/k2-fsa/sherpa-ncnn) - Real-time speech recognition and voice activity detection (VAD) using next-gen Kaldi with ncnn without Internet connection. Support iOS, Android, Linux, macOS, Windows, Raspberry Pi, VisionFive2, Lich
 - [mmdii/cpp-to-python-pkg](https://github.com/mmdii/cpp-to-python-pkg) - 
