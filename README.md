@@ -71,7 +71,7 @@
 - [gyroing/Ezafeh-detection-with-HAZM](https://github.com/gyroing/Ezafeh-detection-with-HAZM) - C++ wrappers of the Python's Hazm module
 - [rhasspy/piper](https://github.com/rhasspy/piper) - A fast, local neural text to speech system
 - [vapoursynth/vapoursynth](https://github.com/vapoursynth/vapoursynth) - A video processing framework with simplicity in mind
-- [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) - Speech-to-text, text-to-speech, and speaker recognition using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, Raspberry Pi, RISC-V, x86_64 servers,
+- [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) - Speech-to-text, text-to-speech, speaker recognition, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, Raspberry Pi, RISC-V, x86_64 ser
 - [abdeladim-s/pywhispercpp](https://github.com/abdeladim-s/pywhispercpp) - Python bindings for whisper.cpp
 - [PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle) - PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）
 - [mozilla/DeepSpeech](https://github.com/mozilla/DeepSpeech) - DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.
@@ -468,6 +468,7 @@
 
 ## Python 
 
+- [alvarobartt/python-package-template](https://github.com/alvarobartt/python-package-template) - 🎈 A Python package template using pyproject.toml, hatch, pre-commit, black, ruff, and mkdocs.
 - [clbarnes/extreqs](https://github.com/clbarnes/extreqs) - Parse python requirements.txt files into setuptools extras
 - [IanHopkinson/mypackage](https://github.com/IanHopkinson/mypackage) - A demonstration project to show the layout for a Python package
 - [willwade/tts-wrapper](https://github.com/willwade/tts-wrapper) - TTS-Wrapper makes it easier to use text-to-speech APIs by providing a unified and easy-to-use interface.
