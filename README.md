@@ -1063,7 +1063,7 @@
 - [HamidRezaAttar/Persian-OCR-Streamlit](https://github.com/HamidRezaAttar/Persian-OCR-Streamlit) - Persian OCR allows users to scan documents and extract text from scanned image.
 - [minasmz/Persian-Summarization](https://github.com/minasmz/Persian-Summarization) - Statistical and Semantical Text Summarizer in Persian Language
 - [nima-sa/persian-subtitle-fixer](https://github.com/nima-sa/persian-subtitle-fixer) - Fixes cp1256-encoded Persian subtitles by converting them to UTF-8. Like a piece of cake.
-- [kozyol/ChNumber](https://github.com/kozyol/ChNumber) - Python module that formats Persian number to Latin
+- [Kourva/ChNumber](https://github.com/Kourva/ChNumber) - Python module that formats Persian number to Latin
 - [Adibian/persian_fastpitch](https://github.com/Adibian/persian_fastpitch) - Training FastPitch for Persian language as a Persian text-to-speech
 - [H-MAli/persian-localizations](https://github.com/H-MAli/persian-localizations) - A Python package to facilitate Persian language localizations
 - [altryne/chatGPT-telegram-bot](https://github.com/altryne/chatGPT-telegram-bot) - This is a very early attempt at having chatGPT work within a telegram bot
@@ -1408,7 +1408,7 @@
 - [alinerguio/vosk-transcript-tool](https://github.com/alinerguio/vosk-transcript-tool) - The goal is to transcript audios already processed using the Vosk API to transcript audios.
 - [anvaari/instagram_follow_bot](https://github.com/anvaari/instagram_follow_bot) - توی این پروژه به کمک پایتون و سلنیوم یک ربات توسعه دادم که وارد اینستاگرام بشه و فالور های یک یا چند اکانت رو به تعداد خواسته شده فالو کنه.
 - [anvaari/BarnameKon](https://github.com/anvaari/BarnameKon) - Barname Kon is telegram bot which create "Add to Calendar" link (Google Calendat) and file (.ics)  for your events.
-- [aliCompose/selenium-instagram-bot](https://github.com/aliCompose/selenium-instagram-bot) - get instagram likers
+- [alirezaudev/selenium-instagram-bot](https://github.com/alirezaudev/selenium-instagram-bot) - get instagram likers
 - [pytopia/stackoverflow-telegram-bot](https://github.com/pytopia/stackoverflow-telegram-bot) - Stackoverflow Telegram Bot
 - [gbagush/TikTokDownloaderBot](https://github.com/gbagush/TikTokDownloaderBot) - 
 - [4myr/tabchi](https://github.com/4myr/tabchi) - Advertimenter Telegram Cli Bot
@@ -1500,7 +1500,6 @@
 - [SuperKogito/pydiogment](https://github.com/SuperKogito/pydiogment) - :mega: Python library for audio augmentation
 - [SblipDev/PyServed](https://github.com/SblipDev/PyServed) - A beautiful cli with network transfer/hosting utilities to make life easier.
 - [kimhan1113/voice_recognition](https://github.com/kimhan1113/voice_recognition) - 
-- [parsapoorsh/Troll-Maker-tg-bot](https://github.com/parsapoorsh/Troll-Maker-tg-bot) - Troll Make Telegram Bot Source code. Thanks to skgsergio/dogefy-tg-bot
 - [pyroaddon/pyroaddon](https://github.com/pyroaddon/pyroaddon) - A monkeypatcher add-on for Pyrogram
 - [nishantssoni/KiloBot](https://github.com/nishantssoni/KiloBot) - a chatting bot which can download song.
 - [nishantssoni/Wats2PDF](https://github.com/nishantssoni/Wats2PDF) - convert whatsapp exported chat(without media) into a readable pdf format
