@@ -332,6 +332,7 @@
 
 ## Others 
 
+- [skills/introduction-to-github](https://github.com/skills/introduction-to-github) - Get started using GitHub in less than an hour.
 - [Himura2la/awesome-soft](https://github.com/Himura2la/awesome-soft) - My humble attempts to collect all great pieces of software I use, recommend, or know about
 - [nuhmanpk/pyro-snippets](https://github.com/nuhmanpk/pyro-snippets) - A Visual Studio Code extension providing ready-to-use code snippets for developing Telegram bots with Pyrogram.
 - [danyspin97/TelegramBotsList](https://github.com/danyspin97/TelegramBotsList) - A list of all Telegram bots source hosted on github.
