@@ -2548,7 +2548,6 @@
 - [jontewks/puppeteer-heroku-buildpack](https://github.com/jontewks/puppeteer-heroku-buildpack) - Installs dependencies needed in order to run puppeteer on heroku.
 - [chameleon-lizard/webcp](https://github.com/chameleon-lizard/webcp) - Simple pastebin-like script. Can also handle photos, videos and any other files - it creates a page with a download link.
 - [moeen/PersianSubtitleFixer](https://github.com/moeen/PersianSubtitleFixer) - Fix Arabic and Persian subtitles by converting them into UTF-8
-- [garret1317/make-softsub](https://github.com/garret1317/make-softsub) - quick and dirty script to OCR hardsubs into softsubs with videosubfinder. isn't good, but works.
 - [david-lev/apkpull](https://github.com/david-lev/apkpull) - 📱 Pull APK's from android devices and emulators
 - [Fazzani/grab](https://github.com/Fazzani/grab) - Daily webgrabber
 - [peicodes/heroku-buildpack-libsndfile](https://github.com/peicodes/heroku-buildpack-libsndfile) - 
