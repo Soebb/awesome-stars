@@ -1530,7 +1530,6 @@
 - [NathaliaBarreiros/audio_transcription_deepspeech](https://github.com/NathaliaBarreiros/audio_transcription_deepspeech) - Transcription .wav audio files with DeepSpeech library
 - [Arcadia2142/voice-recognize](https://github.com/Arcadia2142/voice-recognize) - 
 - [zackees/transcribe-anything](https://github.com/zackees/transcribe-anything) - Input a local file or url and this service will transcribe it using Whisper AI. Completely private and Free 🤯🤯🤯
-- [zackees/install.py](https://github.com/zackees/install.py) - Super easy script that can make a virtual env
 - [zackees/static_ffmpeg](https://github.com/zackees/static_ffmpeg) - Installs FFMPEG v5 On Win32/Ubuntu/MacOS
 - [revolter/FileConvertBot](https://github.com/revolter/FileConvertBot) - Telegram Bot that converts some file types to native photo, audio or video Telegram messages.
 - [rozari0/NeedMusicRobot](https://github.com/rozari0/NeedMusicRobot) - A Simple Music Downloader Bot For Telegram with Youtube Music, Spotify & Deezer Support.
@@ -2550,6 +2549,7 @@
 - [moeen/PersianSubtitleFixer](https://github.com/moeen/PersianSubtitleFixer) - Fix Arabic and Persian subtitles by converting them into UTF-8
 - [david-lev/apkpull](https://github.com/david-lev/apkpull) - 📱 Pull APK's from android devices and emulators
 - [Fazzani/grab](https://github.com/Fazzani/grab) - Daily webgrabber
+- [zackees/install.py](https://github.com/zackees/install.py) - Super easy script that can make a virtual env
 - [peicodes/heroku-buildpack-libsndfile](https://github.com/peicodes/heroku-buildpack-libsndfile) - 
 - [eyMarv/deploy-code-server](https://github.com/eyMarv/deploy-code-server) - 
 - [DaCapo7/CNW](https://github.com/DaCapo7/CNW) - Create New Website is a VERY SIMPLE shell script (actually for macOS, didnt tried on linux) that create a folder with a HTML, a CSS and a JS. The html will have doctype, html, head and body tag and it
