@@ -186,6 +186,7 @@
 
 ## Java 
 
+- [TGX-Android/Telegram-X](https://github.com/TGX-Android/Telegram-X) - The main repository of Telegram X — official alternative Telegram client for Android.
 - [Team-xManager/xManager](https://github.com/Team-xManager/xManager) - Ad-Free, New Features & Freedom
 - [PatrickAlex2019/ApkEditor](https://github.com/PatrickAlex2019/ApkEditor) - Used for APP reverse compilation, APK localization, APK cracking, APK signature...
 - [oussamabonnor1/TelegramClone](https://github.com/oussamabonnor1/TelegramClone) - JetGram is an open source desktop app Telegram clone made with JavaFx.
@@ -310,6 +311,7 @@
 
 ## Kotlin 
 
+- [teixeira0x/SubTypo](https://github.com/teixeira0x/SubTypo) - A video subtitle editor for Android
 - [deniscerri/ytdlnis](https://github.com/deniscerri/ytdlnis) - Android Video/Audio Downloader app using yt-dlp
 - [mobad/tts-server-android](https://github.com/mobad/tts-server-android) - 这是一个Android系统TTS应用，内置微软演示接口，可自定义HTTP请求，可导入其他本地TTS引擎，以及根据中文双引号的简单旁白/对话识别朗读 ，还有自动重试，备用配置，文本替换等更多功能。
 - [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android) - AnkiDroid: Anki flashcards on Android. Your secret trick to achieve superhuman information retention.
@@ -1045,7 +1047,7 @@
 - [Alyetama/internetarchive-youtube](https://github.com/Alyetama/internetarchive-youtube) - 🚀 GitHub Action and CLI tool to archive YouTube channels by uploading the channel's videos to archive.org
 - [YuliangXiu/ICON](https://github.com/YuliangXiu/ICON) - [CVPR'22] ICON: Implicit Clothed humans Obtained from Normals
 - [mpotane/PythonScriptPH](https://github.com/mpotane/PythonScriptPH) - 🤖🕹💸A collection of Python scripts to help you learn the language. 🇵🇭.
-- [ThioJoe/Auto-Synced-Translated-Dubs](https://github.com/ThioJoe/Auto-Synced-Translated-Dubs) - Automatically translates the text of a video based on a subtitle file, and also uses AI voice to dub the video, and synced using the subtitle's timings
+- [ThioJoe/Auto-Synced-Translated-Dubs](https://github.com/ThioJoe/Auto-Synced-Translated-Dubs) - Automatically translates the text of a video based on a subtitle file, and then uses AI voice services to create a new dubbed & translated audio track where the speech is synced using the subtitle's t
 - [dothq/lexicon](https://github.com/dothq/lexicon) - Translate text between languages with high-accuracy using artificial intelligence.
 - [ekm507/araste](https://github.com/ekm507/araste) - آراسته: تبدیل متن فارسی به هنر اسکی
 - [danielsoheil/ariana-discord-bot](https://github.com/danielsoheil/ariana-discord-bot) - این ربات آریانا در دیسکورد است، آریانا یک موتور تبدیل نوشتار به گفتار فارسی است
