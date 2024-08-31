@@ -1479,7 +1479,7 @@
 - [dnovikov/tryvoha-bot](https://github.com/dnovikov/tryvoha-bot) - Plays air warning sound when detects a certain phrase or a word in a specified Telegram chat.
 - [AkkilMG/Feedback-bot](https://github.com/AkkilMG/Feedback-bot) - A personalized version of t.me/LivegramBot with some additional feature. If any issue or feature, contact owner. Any feature being pushed is welcome with proof of work.
 - [pejmanS21/PDF2TEXT](https://github.com/pejmanS21/PDF2TEXT) - 
-- [persepolisdm/persepolis](https://github.com/persepolisdm/persepolis) - Persepolis Download Manager is a GUI for aria2.
+- [persepolisdm/persepolis](https://github.com/persepolisdm/persepolis) - Persepolis is a download manager written in Python.
 - [sina-e/twitter2telegram](https://github.com/sina-e/twitter2telegram) - A simple script to post tweets from Twitter to Telegram
 - [sina-e/subscene-api](https://github.com/sina-e/subscene-api) - A simple and unofficial API for subscene.com written in python.
 - [sina-e/sufix](https://github.com/sina-e/sufix) - a simple and fully functional subtitle fixer for persian subtitles!
@@ -1757,7 +1757,7 @@
 - [yididiyan/amharic_spell_corrector](https://github.com/yididiyan/amharic_spell_corrector) - Amharic Spelling Corrector based on SymSpell - Spelling corrector which is  1 million times faster through Symmetric Delete spelling correction algorithm
 - [bhattbhavesh91/spell-correction-gingerit-demo](https://github.com/bhattbhavesh91/spell-correction-gingerit-demo) - Tutorial on creating a spelling correction Python application using Gingerit and Streamlit
 - [Vengixlabs/spellingcorrector](https://github.com/Vengixlabs/spellingcorrector) - This is an algorithm inspired from norvig.com , we loved this and taking it  to next level.
-- [aghriss/SymSpell](https://github.com/aghriss/SymSpell) - Python3 implementation of SymSpell
+- [ayghri/SymSpell](https://github.com/ayghri/SymSpell) - Python3 implementation of SymSpell
 - [pirate/spellchecker](https://github.com/pirate/spellchecker) - :book: A spell-checker extending Peter Norvig's with multi-typo correction, hamming distance weighting, and more.
 - [reza1615/Persian-Spell-checker](https://github.com/reza1615/Persian-Spell-checker) - 
 - [CyanBook/spotipy2](https://github.com/CyanBook/spotipy2) - The next generation Spotify Web API wrapper for Python 3.7+
