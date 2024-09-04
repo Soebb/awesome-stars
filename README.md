@@ -311,6 +311,7 @@
 
 ## Kotlin 
 
+- [GFW-knocker/MahsaNG](https://github.com/GFW-knocker/MahsaNG) - a V2RayNG with Fragment , DoH , Rotating Configs , & free VPN servers
 - [teixeira0x/SubTypo](https://github.com/teixeira0x/SubTypo) - A video subtitle editor for Android
 - [deniscerri/ytdlnis](https://github.com/deniscerri/ytdlnis) - Android Video/Audio Downloader app using yt-dlp
 - [mobad/tts-server-android](https://github.com/mobad/tts-server-android) - 这是一个Android系统TTS应用，内置微软演示接口，可自定义HTTP请求，可导入其他本地TTS引擎，以及根据中文双引号的简单旁白/对话识别朗读 ，还有自动重试，备用配置，文本替换等更多功能。
@@ -334,6 +335,7 @@
 
 ## Others 
 
+- [rahgozar94725/freedom](https://github.com/rahgozar94725/freedom) - آموزش راه‌اندازی فیلتر شکن شخصی
 - [skills/introduction-to-github](https://github.com/skills/introduction-to-github) - Get started using GitHub in less than an hour.
 - [Himura2la/awesome-soft](https://github.com/Himura2la/awesome-soft) - My humble attempts to collect all great pieces of software I use, recommend, or know about
 - [nuhmanpk/pyro-snippets](https://github.com/nuhmanpk/pyro-snippets) - A Visual Studio Code extension providing ready-to-use code snippets for developing Telegram bots with Pyrogram.
