@@ -761,7 +761,7 @@
 - [Simatwa/yt5](https://github.com/Simatwa/yt5) - Download YouTube Videos and Audios
 - [fastapi/asyncer](https://github.com/fastapi/asyncer) - Asyncer, async and await, focused on developer experience.
 - [sail-sg/EditAnything](https://github.com/sail-sg/EditAnything) - Edit anything in images  powered by segment-anything, ControlNet, StableDiffusion, etc. (ACM MM)
-- [mamadgeek/mobile_price_prediction_farsi_scraping](https://github.com/mamadgeek/mobile_price_prediction_farsi_scraping) - 
+- [mamadgeek/mobile_price_prediction_farsi_scraping](https://github.com/mamadgeek/mobile_price_prediction_farsi_scraping) - the current project scrapes https://www.technolife.ir/ site with python module  beautiful soup and retrieve mobile specifics and price . lastly classify them based on decision three of scikit-learn mo
 - [rQBx91/Pydowner](https://github.com/rQBx91/Pydowner) - A multithreaded terminal downloader writen in Python
 - [sinedie/SRTranslator](https://github.com/sinedie/SRTranslator) - SRT files translator
 - [CrypticSignal/better-ffmpeg-progress](https://github.com/CrypticSignal/better-ffmpeg-progress) - A Python package that allows you to run an FFmpeg command & see percentage progress, ETA, etc.
