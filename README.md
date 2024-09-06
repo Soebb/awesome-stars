@@ -473,6 +473,7 @@
 
 ## Python 
 
+- [supermihi/pytaglib](https://github.com/supermihi/pytaglib) - Python audio tagging library
 - [alvarobartt/python-package-template](https://github.com/alvarobartt/python-package-template) - 🎈 A Python package template using pyproject.toml, hatch, pre-commit, black, ruff, and mkdocs.
 - [clbarnes/extreqs](https://github.com/clbarnes/extreqs) - Parse python requirements.txt files into setuptools extras
 - [IanHopkinson/mypackage](https://github.com/IanHopkinson/mypackage) - A demonstration project to show the layout for a Python package
@@ -2539,6 +2540,7 @@
 
 ## Shell 
 
+- [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [fzerorubigd/persian-fonts-linux](https://github.com/fzerorubigd/persian-fonts-linux) - Persian fonts installer for linux
 - [aronchick/Docker-NGINX-Gunicorn-Flask-Python-Example](https://github.com/aronchick/Docker-NGINX-Gunicorn-Flask-Python-Example) - 
 - [flashdagger/git-subrepo-pypi](https://github.com/flashdagger/git-subrepo-pypi) - python package for installing git-subrepo
