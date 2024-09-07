@@ -473,6 +473,8 @@
 
 ## Python 
 
+- [TelegramPlayGround/pyrogram](https://github.com/TelegramPlayGround/pyrogram) - PyroGramFORK | Telegram MTProto API framework in Python for users and bots | PyroGramFORK
+- [lunaticsm/catbox-uploader](https://github.com/lunaticsm/catbox-uploader) - Catbox Uploader is a simple Python library to upload files and URLs to Catbox.moe.
 - [supermihi/pytaglib](https://github.com/supermihi/pytaglib) - Python audio tagging library
 - [alvarobartt/python-package-template](https://github.com/alvarobartt/python-package-template) - 🎈 A Python package template using pyproject.toml, hatch, pre-commit, black, ruff, and mkdocs.
 - [clbarnes/extreqs](https://github.com/clbarnes/extreqs) - Parse python requirements.txt files into setuptools extras
@@ -2299,7 +2301,6 @@
 - [SpEcHiDe/PlayAStream](https://github.com/SpEcHiDe/PlayAStream) - 
 - [iytdl/iytdl](https://github.com/iytdl/iytdl) - Async Inline YouTube-DL for Pyrogram based Bots
 - [Jack-of-tg/MEDIA-EDITOR-BOT](https://github.com/Jack-of-tg/MEDIA-EDITOR-BOT) - 
-- [FayasNoushad/Bot-Status-UserBot](https://github.com/FayasNoushad/Bot-Status-UserBot) - A telegram bot status checking userbot for bot updates channel admins
 - [breakdowns/drive-searchbot](https://github.com/breakdowns/drive-searchbot) - Google Drive file searcher
 - [john-phonk/john_feedbackbot](https://github.com/john-phonk/john_feedbackbot) - A simple feedback bot with message response support
 - [odysseusmax/tg-index](https://github.com/odysseusmax/tg-index) - Python web app to index telegram chats and serve its files for download over HTTP.
