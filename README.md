@@ -312,7 +312,7 @@
 ## Kotlin 
 
 - [GFW-knocker/MahsaNG](https://github.com/GFW-knocker/MahsaNG) - a V2RayNG with Fragment , DoH , Rotating Configs , & free VPN servers
-- [teixeira0x/SubTypo](https://github.com/teixeira0x/SubTypo) - A video subtitle editor for Android
+- [teixeira0x/SubTypo](https://github.com/teixeira0x/SubTypo) - Subtitle editor for android
 - [deniscerri/ytdlnis](https://github.com/deniscerri/ytdlnis) - Android Video/Audio Downloader app using yt-dlp
 - [mobad/tts-server-android](https://github.com/mobad/tts-server-android) - 这是一个Android系统TTS应用，内置微软演示接口，可自定义HTTP请求，可导入其他本地TTS引擎，以及根据中文双引号的简单旁白/对话识别朗读 ，还有自动重试，备用配置，文本替换等更多功能。
 - [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android) - AnkiDroid: Anki flashcards on Android. Your secret trick to achieve superhuman information retention.
@@ -473,6 +473,7 @@
 
 ## Python 
 
+- [JR3IS/Batch-Audio-Tagger](https://github.com/JR3IS/Batch-Audio-Tagger) - A python script to add metadata to multiple audio files at once using pytaglib.
 - [TelegramPlayGround/pyrogram](https://github.com/TelegramPlayGround/pyrogram) - PyroGramFORK | Telegram MTProto API framework in Python for users and bots | PyroGramFORK
 - [lunaticsm/catbox-uploader](https://github.com/lunaticsm/catbox-uploader) - Catbox Uploader is a simple Python library to upload files and URLs to Catbox.moe.
 - [supermihi/pytaglib](https://github.com/supermihi/pytaglib) - Python audio tagging library
@@ -516,7 +517,7 @@
 - [Pranjalya/tts-tortoise-gradio](https://github.com/Pranjalya/tts-tortoise-gradio) - A Gradio setup for Tortoise TTS.
 - [jhsoby/telegram-wikilinksbot](https://github.com/jhsoby/telegram-wikilinksbot) - Telegram bot that links [[wiki links]] and Wikidata entities in chats
 - [GamingBeast1/Ultra-forward-bot](https://github.com/GamingBeast1/Ultra-forward-bot) - A powerful forward bot to forward bulk messages from one channel to other
-- [TechGreyMatters/TG-URL-Shortener-Bot](https://github.com/TechGreyMatters/TG-URL-Shortener-Bot) - Telegram URL Shortener Bot With Many Amazing Features.
+- [GreyMatters-Tech/TG-URL-Shortener-Bot](https://github.com/GreyMatters-Tech/TG-URL-Shortener-Bot) - Telegram URL Shortener Bot With Many Amazing Features.
 - [persiannlp/parsinlu](https://github.com/persiannlp/parsinlu) - A comprehensive suite of high-level NLP tasks for Persian language
 - [AmirAref/LinkedinBot](https://github.com/AmirAref/LinkedinBot) - a telegram robot that uploads media from the Linkedin.com posts into telegram.
 - [AmirAref/Torobot](https://github.com/AmirAref/Torobot) - an inline telegram robot to easy access and search in torob.com products from telegram.
@@ -740,7 +741,7 @@
 - [bndr/pipreqs](https://github.com/bndr/pipreqs) - pipreqs - Generate pip requirements.txt file based on imports of any project. Looking for maintainers to move this project forward.
 - [stlukey/whispercpp.py](https://github.com/stlukey/whispercpp.py) - Python bindings for whisper.cpp
 - [kfatehi/persian-tts-server](https://github.com/kfatehi/persian-tts-server) - Simple HTTP server wrapping Coqui TTS
-- [TechGreyMatters/public-forward-bot](https://github.com/TechGreyMatters/public-forward-bot) - 
+- [GreyMatters-Tech/public-forward-bot](https://github.com/GreyMatters-Tech/public-forward-bot) - 
 - [MiguelX413/IgTgBot](https://github.com/MiguelX413/IgTgBot) - Let's me post Instagram posts on Telegram.
 - [dory111111/Pengenuity](https://github.com/dory111111/Pengenuity) - Pengunuity is an experimental open-source autonomous AI Agent that aims to replicate the structure of human memory.
 - [amirhoseinsb/Cloud_Player_V2](https://github.com/amirhoseinsb/Cloud_Player_V2) - You can use the cloudplayer tool to listen to the music of the singer you want without going to a specific website and at a very high speed.
