@@ -1098,7 +1098,7 @@
 - [mahsaghn/Auto_Speech_Recognition_Persian](https://github.com/mahsaghn/Auto_Speech_Recognition_Persian) - Automatic Speech Recognition
 - [m4mallu/Pyrogram-V2-SessionStringMaker](https://github.com/m4mallu/Pyrogram-V2-SessionStringMaker) - V2 pyrogram compatible session string maker script.
 - [sepandhaghighi/art](https://github.com/sepandhaghighi/art) - 🎨 ASCII art library for Python
-- [sepandhaghighi/samila](https://github.com/sepandhaghighi/samila) - Generative Art Generator
+- [sepandhaghighi/samila](https://github.com/sepandhaghighi/samila) - A Generative Art Generator
 - [pourmand1376/PersianCrawler](https://github.com/pourmand1376/PersianCrawler) - Open source crawler for Persian websites.
 - [rahulps1000/pyropatch](https://github.com/rahulps1000/pyropatch) - An advanced monkeypatcher add-on for Pyrogram. Docs : https://rahulps1000.gitbook.io/pyropatch
 - [kiasar/Dictionary_crawler](https://github.com/kiasar/Dictionary_crawler) - This is a python code based on Scrapy package to crawl famous online dictionaries like Oxford, Longman, Cambridge, Webster, and Collins to make a dataset
