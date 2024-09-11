@@ -14,7 +14,6 @@
 - [EJS](#ejs)
 - [Fluent](#fluent)
 - [Go](#go)
-- [HCL](#hcl)
 - [HTML](#html)
 - [Java](#java)
 - [JavaScript](#javascript)
@@ -73,7 +72,7 @@
 - [vapoursynth/vapoursynth](https://github.com/vapoursynth/vapoursynth) - A video processing framework with simplicity in mind
 - [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) - Speech-to-text, text-to-speech, speaker recognition, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, Raspberry Pi, RISC-V, x86_64 ser
 - [abdeladim-s/pywhispercpp](https://github.com/abdeladim-s/pywhispercpp) - Python bindings for whisper.cpp
-- [PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle) - PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）
+- [PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle) - PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）【安全加固，暂停交互，请耐心等待】
 - [mozilla/DeepSpeech](https://github.com/mozilla/DeepSpeech) - DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.
 
 ## CSS 
@@ -137,10 +136,6 @@
 - [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
 - [Intaco/yt-audio-telegram-bot](https://github.com/Intaco/yt-audio-telegram-bot) - A simple youtube video-to-audio converter bot for telegram with chat filtering support
 - [EverythingSuckz/TG-FileStreamBot](https://github.com/EverythingSuckz/TG-FileStreamBot) - A telegram bot that will give instant stream links for telegram files without the need of waiting till the download completes.
-
-## HCL 
-
-- [JaderDias/gcloud-telegram-bot](https://github.com/JaderDias/gcloud-telegram-bot) - 
 
 ## HTML 
 
@@ -473,6 +468,7 @@
 
 ## Python 
 
+- [jdepoix/youtube-transcript-api](https://github.com/jdepoix/youtube-transcript-api) - This is a python API which allows you to get the transcript/subtitles for a given YouTube video. It also works for automatically generated subtitles and it does not require an API key nor a headless b
 - [JR3IS/Batch-Audio-Tagger](https://github.com/JR3IS/Batch-Audio-Tagger) - A python script to add metadata to multiple audio files at once using pytaglib.
 - [TelegramPlayGround/pyrogram](https://github.com/TelegramPlayGround/pyrogram) - PyroGramFORK | Telegram MTProto API framework in Python for users and bots | PyroGramFORK
 - [lunaticsm/catbox-uploader](https://github.com/lunaticsm/catbox-uploader) - Catbox Uploader is a simple Python library to upload files and URLs to Catbox.moe.
