@@ -467,6 +467,7 @@
 
 ## Python 
 
+- [ruzhila/voiceapi](https://github.com/ruzhila/voiceapi) - Streaming ASR and TTS  based on FastAPI+ sherpa-onnx
 - [jdepoix/youtube-transcript-api](https://github.com/jdepoix/youtube-transcript-api) - This is a python API which allows you to get the transcript/subtitles for a given YouTube video. It also works for automatically generated subtitles and it does not require an API key nor a headless b
 - [JR3IS/Batch-Audio-Tagger](https://github.com/JR3IS/Batch-Audio-Tagger) - A python script to add metadata to multiple audio files at once using pytaglib.
 - [TelegramPlayGround/pyrogram](https://github.com/TelegramPlayGround/pyrogram) - PyroGramFORK | Telegram MTProto API framework in Python for users and bots | PyroGramFORK
