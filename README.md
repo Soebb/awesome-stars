@@ -138,6 +138,7 @@
 
 ## HTML 
 
+- [FlagMotori/writeups](https://github.com/FlagMotori/writeups) - رایتاپ‌های تیم فلگ موتوری
 - [Gl0deanR/create-flask-app](https://github.com/Gl0deanR/create-flask-app) - 
 - [viperadnan-git/telegram-filestream](https://github.com/viperadnan-git/telegram-filestream) - API to stream publically available Telegram files
 - [Soebb/streaming-url-gen-bot](https://github.com/Soebb/streaming-url-gen-bot) - Telegram bot to generate steaming link for youtube videos or from direct download links of videos. Videos will be hosted on the app server.
@@ -412,7 +413,7 @@
 - [Itz-fork/My-Python-Libs](https://github.com/Itz-fork/My-Python-Libs) - List of Python Libraries made by me
 - [cassidoo/scrapers](https://github.com/cassidoo/scrapers) - A list of scrapers from around the web.
 - [RajatVarshney18/Movie_Describer](https://github.com/RajatVarshney18/Movie_Describer) - Its a basic PWA single page web application which searches for a movie using the OMDb API call and gives all the info related to that movie such as genre, release date, producer name etc.
-- [SpEcHiDe/IMDbOT](https://github.com/SpEcHiDe/IMDbOT) - The Telegram IMDbOT
+- [TelegramPlayGround/Unofficial-IMDb-API](https://github.com/TelegramPlayGround/Unofficial-IMDb-API) - The Telegram IMDbOT
 - [isaacxbt/TransfershAPI](https://github.com/isaacxbt/TransfershAPI) - Transfer.sh API Wrapper
 - [isaacxbt/AnonfilesAPI](https://github.com/isaacxbt/AnonfilesAPI) - Anonfiles.com API Wrapper
 - [m4mallu/inline-tube-mate](https://github.com/m4mallu/inline-tube-mate) - An Inline Telegram YouTube downloader bot with custom, permanent thumbnail support, force subscription and cancel upload facility. The bot can send or broadcast messages to the users.
@@ -468,6 +469,7 @@
 
 ## Python 
 
+- [AliGhaffarian/git-in-there](https://github.com/AliGhaffarian/git-in-there) - a simple backup script that uses git
 - [ruzhila/voiceapi](https://github.com/ruzhila/voiceapi) - Streaming ASR and TTS  based on FastAPI+ sherpa-onnx
 - [jdepoix/youtube-transcript-api](https://github.com/jdepoix/youtube-transcript-api) - This is a python API which allows you to get the transcript/subtitles for a given YouTube video. It also works for automatically generated subtitles and it does not require an API key nor a headless b
 - [JR3IS/Batch-Audio-Tagger](https://github.com/JR3IS/Batch-Audio-Tagger) - A python script to add metadata to multiple audio files at once using pytaglib.
@@ -725,7 +727,6 @@
 - [moi15moi/VideoSubOCR](https://github.com/moi15moi/VideoSubOCR) - OCR automation for VideoSubFinder
 - [mohammad3a1eh/connect-to-wifi-with-python](https://github.com/mohammad3a1eh/connect-to-wifi-with-python) - script for connect wifi in windows with python (pywifi)
 - [awkman/pywifi](https://github.com/awkman/pywifi) - A cross-platform module for manipulating WiFi devices.
-- [stefanodvx/epyrogram](https://github.com/stefanodvx/epyrogram) - EPyrogram: extend the functionality of Pyrogram by enhancing it with new features.
 - [elevenlabs/elevenlabs-python](https://github.com/elevenlabs/elevenlabs-python) - The official Python API for ElevenLabs Text to Speech.
 - [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper) - Faster Whisper transcription with CTranslate2
 - [pallets/click](https://github.com/pallets/click) - Python composable command line interface toolkit
