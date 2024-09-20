@@ -898,7 +898,6 @@
 - [mrunderline/cli-progressbar](https://github.com/mrunderline/cli-progressbar) - lightweight library to print progress bar in cli
 - [p-ranav/PhotoLab](https://github.com/p-ranav/PhotoLab) - AI-Powered Photo Editor (Python, PyQt6, PyTorch)
 - [WoeUSB/WoeUSB-ng](https://github.com/WoeUSB/WoeUSB-ng) - WoeUSB-ng is a simple tool that enable you to create your own usb stick windows installer from an iso image or a real DVD. This is a rewrite of original WoeUSB.
-- [compsup/FileServer](https://github.com/compsup/FileServer) - FileServer is a fileserver website where people can upload files and give people access to them.
 - [binh-vu/hugedict](https://github.com/binh-vu/hugedict) - A drop-in replacement for dictionary objects that are too big to fit in memory
 - [daijro/SearchifyX](https://github.com/daijro/SearchifyX) - Fast flashcard searcher study tool
 - [somnathrakshit/geograpy3](https://github.com/somnathrakshit/geograpy3) - Extract place names from a URL or text, and add context to those names -- for example distinguishing between a country, region or city.
@@ -1407,7 +1406,7 @@
 - [JBornman/telegram-inspire-bot](https://github.com/JBornman/telegram-inspire-bot) - A telegram bot that takes quotes and makes inspirational quote wallpapers
 - [runetech0/instagram-to-telegram](https://github.com/runetech0/instagram-to-telegram) - This bot scrapes the posts from specific instagram account and sends these posts(Images, Videos) to a telegram group.
 - [runetech0/discord-telegram-bot](https://github.com/runetech0/discord-telegram-bot) - Simple discord to telegram messages forward bot. It receives messages from filtered discord servers and channels and forward these messages to specified telegram channel using telegram api.
-- [Artis7eeR/ForwardTagRemoverBot](https://github.com/Artis7eeR/ForwardTagRemoverBot) - A Telegram Bot To Hide Forward Source
+- [artis7eer/ForwardTagRemoverBot](https://github.com/artis7eer/ForwardTagRemoverBot) - A Telegram Bot To Hide Forward Source
 - [Ah00ra/btc-price](https://github.com/Ah00ra/btc-price) - Get the price of bitcoin and insert it into a database
 - [StarkGang/RTMP-TG](https://github.com/StarkGang/RTMP-TG) - play your streams directly to telegram
 - [milahu/speech_recognition](https://github.com/milahu/speech_recognition) - Speech recognition module for Python, supporting several engines and APIs, online and offline.
