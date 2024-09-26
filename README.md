@@ -1286,7 +1286,7 @@
 - [codenamewei/youtube2text](https://github.com/codenamewei/youtube2text) - Converts Youtube URLs to Text with Speech Recognition
 - [FastestMolasses/fBrowser](https://github.com/FastestMolasses/fBrowser) - Helpful Selenium functions to make web-scraping easier and faster
 - [wkentaro/video-cli](https://github.com/wkentaro/video-cli) - Command line tools for quick video editing.
-- [sina-e/aiogram-template](https://github.com/sina-e/aiogram-template) - A bootstrap template for building Telegram bots with Aiogram
+- [astronuttt/aiogram-template](https://github.com/astronuttt/aiogram-template) - A bootstrap template for building Telegram bots with Aiogram
 - [ZenMaxe/GeckoDriver-Downlaoder](https://github.com/ZenMaxe/GeckoDriver-Downlaoder) - Cross Platform Geckodriver Downloader
 - [aiombots/Renamer-Bot](https://github.com/aiombots/Renamer-Bot) - Best & Fastest Renamer Bot By @Clinton-Abraham & @PredatorHackerzZ. Star and Fork the repo if you like it else you are Gay!...  @TeamTeleRoid
 - [back-to/generic](https://github.com/back-to/generic) - generic streamlink plugin
@@ -1473,7 +1473,7 @@
 - [Dhrumil-Zion/Mini-Python-Utilites](https://github.com/Dhrumil-Zion/Mini-Python-Utilites) - This repository contains utilities that are often used in web development.
 - [awhipp/generated-short-story-videos](https://github.com/awhipp/generated-short-story-videos) - Randomly Generates and Publishes Short Story Videos to YT
 - [arny-wilk/codewars](https://github.com/arny-wilk/codewars) - My progress so far in Problem solving with Python
-- [hwpoison/voice-assistant](https://github.com/hwpoison/voice-assistant) - a offline small voice desktop assistant written on a booring sunday afternoon, uses autoit for automatitation, vosk for voice recognition a gtts for speech synth.
+- [hwpoison/voice-assistant](https://github.com/hwpoison/voice-assistant) - an offline small voice desktop assistant written on a booring sunday afternoon, uses autoit for automatitation, vosk for voice recognition a gtts for speech synth.
 - [TaylorSMarks/playsound](https://github.com/TaylorSMarks/playsound) - Pure Python, cross platform, single function module with no dependencies for playing sounds.
 - [palahsu/Image-Compressed](https://github.com/palahsu/Image-Compressed) - GUI Based Image Compressor. Fastly, image size reducer.
 - [palahsu/ScraperImages](https://github.com/palahsu/ScraperImages) - Simple Web Images Scraper From Websites!
@@ -1483,9 +1483,9 @@
 - [AkkilMG/Feedback-bot](https://github.com/AkkilMG/Feedback-bot) - A personalized version of t.me/LivegramBot with some additional feature. If any issue or feature, contact owner. Any feature being pushed is welcome with proof of work.
 - [pejmanS21/PDF2TEXT](https://github.com/pejmanS21/PDF2TEXT) - 
 - [persepolisdm/persepolis](https://github.com/persepolisdm/persepolis) - Persepolis is a download manager written in Python.
-- [sina-e/twitter2telegram](https://github.com/sina-e/twitter2telegram) - A simple script to post tweets from Twitter to Telegram
-- [sina-e/subscene-api](https://github.com/sina-e/subscene-api) - A simple and unofficial API for subscene.com written in python.
-- [sina-e/sufix](https://github.com/sina-e/sufix) - a simple and fully functional subtitle fixer for persian subtitles!
+- [astronuttt/twitter2telegram](https://github.com/astronuttt/twitter2telegram) - A simple script to post tweets from Twitter to Telegram
+- [astronuttt/subscene-api](https://github.com/astronuttt/subscene-api) - A simple and unofficial API for subscene.com written in python.
+- [astronuttt/sufix](https://github.com/astronuttt/sufix) - a simple and fully functional subtitle fixer for persian subtitles!
 - [abtinmo/faker_bill](https://github.com/abtinmo/faker_bill) - Faker provider for bill.
 - [numb95/yaldasho-bot](https://github.com/numb95/yaldasho-bot) - A Telegram bot to attach a banner about Yalda on your avatar.
 - [aliva/SubtitleFixer](https://github.com/aliva/SubtitleFixer) - fixes persian subtitles encoding
