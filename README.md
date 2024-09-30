@@ -1280,7 +1280,6 @@
 - [AndreMiras/tubedl](https://github.com/AndreMiras/tubedl) - Online video downloader
 - [justin8/convert_videos](https://github.com/justin8/convert_videos) - 
 - [coignetp/uploadBot](https://github.com/coignetp/uploadBot) - A telegram bot in python which upload the photos on Google Drive in a group conversation.
-- [undrcrxwn/hide-this-bot](https://github.com/undrcrxwn/hide-this-bot) - An inline Telegram bot to keep your private messages hidden from prying eyes.
 - [classabbyamp/vidifierbot](https://github.com/classabbyamp/vidifierbot) - A telegram bot for getting videos from URLs with yt-dlp
 - [Animewala/gppass-telegram-bot](https://github.com/Animewala/gppass-telegram-bot) - 
 - [codenamewei/youtube2text](https://github.com/codenamewei/youtube2text) - Converts Youtube URLs to Text with Speech Recognition
@@ -1465,8 +1464,8 @@
 - [BenyaminZojaji/Python-Assignments](https://github.com/BenyaminZojaji/Python-Assignments) - Python exercises.
 - [MaryamBoneh/Vehicle-Detection](https://github.com/MaryamBoneh/Vehicle-Detection) - Vehicle Detection Using Deep Learning and YOLO Algorithm
 - [MehrdadNajafi/CAPTCHA-Generator](https://github.com/MehrdadNajafi/CAPTCHA-Generator) - 
-- [hatienloi/cmdown](https://github.com/hatienloi/cmdown) - CMdown - A tool for Multi-threaded download.
-- [hatienloi/Soundcloud](https://github.com/hatienloi/Soundcloud) - Soundcloud - A tool for download track Soundcloud.
+- [hatienl0i2612/cmdown](https://github.com/hatienl0i2612/cmdown) - CMdown - A tool for Multi-threaded download.
+- [hatienl0i2612/Soundcloud](https://github.com/hatienl0i2612/Soundcloud) - Soundcloud - A tool for download track Soundcloud.
 - [morucci/repoxplorer](https://github.com/morucci/repoxplorer) - RepoXplorer - Git stats explorer
 - [saket13/youtube_fetch](https://github.com/saket13/youtube_fetch) - API to get latest videos of certain topic from Youtube (fetched from the Youtube Data API)
 - [elastic/elasticsearch-py](https://github.com/elastic/elasticsearch-py) - Official Python client for Elasticsearch
