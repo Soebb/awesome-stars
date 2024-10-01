@@ -253,7 +253,7 @@
 
 ## Jupyter Notebook 
 
-- [SharifiZarchi/Introduction_to_Machine_Learning](https://github.com/SharifiZarchi/Introduction_to_Machine_Learning) - دوره‌ی مقدمه‌ای بر یادگیری ماشین، برای دانشجویان
+- [SharifiZarchi/Introduction_to_Machine_Learning](https://github.com/SharifiZarchi/Introduction_to_Machine_Learning) - Machine Learning Course, Sharif University of Technology
 - [AnswerDotAI/fasthtml](https://github.com/AnswerDotAI/fasthtml) - The fastest way to create an HTML app
 - [shashikg/WhisperS2T](https://github.com/shashikg/WhisperS2T) - An Optimized Speech-to-Text Pipeline for the Whisper Model Supporting Multiple Inference Engine
 - [nimaprgrmr/ocr_persian](https://github.com/nimaprgrmr/ocr_persian) - this system take a photo and do a lot preprocessing steps and then pass it to pytesseract model and you can see the texts extracted from image.
