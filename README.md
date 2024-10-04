@@ -926,7 +926,7 @@
 - [dataplayer12/shavenet](https://github.com/dataplayer12/shavenet) - Predict when you last shaved with machine learning
 - [woefe/ytcc](https://github.com/woefe/ytcc) - Command line tool to keep track of your favorite playlists on YouTube and many other places.
 - [newtoallofthis123/ytps](https://github.com/newtoallofthis123/ytps) - A Beautiful YouTube Search CLI
-- [kanjieater/SubPlz](https://github.com/kanjieater/SubPlz) - 🫴 Generate accurate subtitles from audio, align existing subs to videos, generate your own Kindle's Immersion Reading like audiobook subs 📖🎧
+- [kanjieater/SubPlz](https://github.com/kanjieater/SubPlz) - 🫴 Generate, sync, and manage subtitle files for any media; Generate your own audiobook subs similar to Kindle's Immersion Reading 📖🎧
 - [namngh/auto-gui](https://github.com/namngh/auto-gui) - Better auto GUI
 - [theovercomer8/captionr](https://github.com/theovercomer8/captionr) - GIT/BLIP/CLIP Caption tool
 - [rapidfuzz/JaroWinkler](https://github.com/rapidfuzz/JaroWinkler) - Python library for fast approximate string matching using Jaro and Jaro-Winkler similarity
