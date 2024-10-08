@@ -770,7 +770,7 @@
 - [jessielw/FFMPEG-Audio-Encoder](https://github.com/jessielw/FFMPEG-Audio-Encoder) - A powerful FFMPEG audio encoder GUI
 - [jessielw/MP4-Mux-Tool](https://github.com/jessielw/MP4-Mux-Tool) - Mp4Box GUI
 - [jessielw/Youtube-DL-GUI](https://github.com/jessielw/Youtube-DL-GUI) - Graphical User Interace built around youtube-dl CLI
-- [alisharify7/Programming-Questions](https://github.com/alisharify7/Programming-Questions) - Solve Some Programming Question || سوالات برنامه نویسی به همراه جواب
+- [alisharify7/Programming-Questions](https://github.com/alisharify7/Programming-Questions) - Solve Some Programming Questions || سوالات برنامه نویسی به همراه جواب
 - [funnyzak/pyproject-starter](https://github.com/funnyzak/pyproject-starter) - A template for the python project. It uses poetry for dependency management and tox for testing.
 - [nordmtr/cinemabot](https://github.com/nordmtr/cinemabot) - Asynchronous Telegram movie bot written on aiogram
 - [python-ffmpegio/python-ffmpegio](https://github.com/python-ffmpegio/python-ffmpegio) - Python package to read/write media files with FFmpeg
@@ -920,7 +920,7 @@
 - [Nv7-GitHub/googlesearch](https://github.com/Nv7-GitHub/googlesearch) - A Python library for scraping the Google search engine.
 - [opsdisk/yagooglesearch](https://github.com/opsdisk/yagooglesearch) - Yet another googlesearch - A Python library for executing intelligent, realistic-looking, and tunable Google searches.
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is a data framework for your LLM applications
-- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
+- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Chatbot for documentation, that allows you to chat with your data. Privately deployable, provides AI knowledge sharing and integrates knowledge into your AI workflow
 - [najafiseo/OpenAI-tool](https://github.com/najafiseo/OpenAI-tool) - This is a tool that you can use to do different things, such as writing articles in bulk
 - [ninjakx/youtube-video2ppt](https://github.com/ninjakx/youtube-video2ppt) - Turning the video explanation to ppt using opencv.
 - [dataplayer12/shavenet](https://github.com/dataplayer12/shavenet) - Predict when you last shaved with machine learning
@@ -1280,6 +1280,7 @@
 - [AndreMiras/tubedl](https://github.com/AndreMiras/tubedl) - Online video downloader
 - [justin8/convert_videos](https://github.com/justin8/convert_videos) - 
 - [coignetp/uploadBot](https://github.com/coignetp/uploadBot) - A telegram bot in python which upload the photos on Google Drive in a group conversation.
+- [undrcrxwn/hide-this-bot](https://github.com/undrcrxwn/hide-this-bot) - An inline Telegram bot to keep your private messages hidden from prying eyes.
 - [classabbyamp/vidifierbot](https://github.com/classabbyamp/vidifierbot) - A telegram bot for getting videos from URLs with yt-dlp
 - [Animewala/gppass-telegram-bot](https://github.com/Animewala/gppass-telegram-bot) - 
 - [codenamewei/youtube2text](https://github.com/codenamewei/youtube2text) - Converts Youtube URLs to Text with Speech Recognition
