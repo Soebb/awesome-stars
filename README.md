@@ -1185,7 +1185,7 @@
 - [tweak1337/telegram_parser-v.2---Telethon](https://github.com/tweak1337/telegram_parser-v.2---Telethon) - Second version of public channels parser in telegram using Telethon library. (Postgresql)
 - [tweak1337/telegrabber](https://github.com/tweak1337/telegrabber) - To parse telegram public channels and reply it to your public and rec to DB
 - [AndydeCleyre/colorcodebot](https://github.com/AndydeCleyre/colorcodebot) - A simple Telegram bot for syntax highlighting
-- [iniridwanul/Crowgram](https://github.com/iniridwanul/Crowgram) - Crowgram is a powerful, advanced, multi-featured Telegram userbot.
+- [Ifritgram/Ifritgram](https://github.com/Ifritgram/Ifritgram) - Crowgram is a powerful, advanced, multi-featured Telegram userbot.
 - [New-dev0/Telethon-Patch](https://github.com/New-dev0/Telethon-Patch) - Wrap over telethon with additional upgrades
 - [nethunter-ir/telegram-auto-forwarder](https://github.com/nethunter-ir/telegram-auto-forwarder) - Telegram Auto Forwarder
 - [JKhakpour/petit](https://github.com/JKhakpour/petit) - Persian text -&gt; integer, ineteger -&gt; text converter
