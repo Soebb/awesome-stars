@@ -632,7 +632,7 @@
 - [moehmeni/syncedlyrics](https://github.com/moehmeni/syncedlyrics) - Get an LRC format (synchronized) lyrics for your music
 - [SadeghKrmi/pertts-streamlit](https://github.com/SadeghKrmi/pertts-streamlit) - Persian text-to-speech streamlit interface
 - [TDHM/Subtitles-Translator](https://github.com/TDHM/Subtitles-Translator) - Automatic subtitles translation with a local neural machine translation model. No third-party service required: the translation is done locally with small but efficient neural network models.
-- [VikParuchuri/surya](https://github.com/VikParuchuri/surya) - OCR, layout analysis, reading order, line detection in 90+ languages
+- [VikParuchuri/surya](https://github.com/VikParuchuri/surya) - OCR, layout analysis, reading order, table recognition in 90+ languages
 - [smacke/ffsubsync](https://github.com/smacke/ffsubsync) - Automagically synchronize subtitles with video.
 - [abdeladim-s/subsai](https://github.com/abdeladim-s/subsai) - 🎞️ Subtitles generation tool (Web-UI + CLI + Python package) powered by OpenAI's Whisper and its variants 🎞️
 - [bipinkrish/Link-Bypasser-Bot](https://github.com/bipinkrish/Link-Bypasser-Bot) - A Telegram Bot (with Site) that can Bypass Ad Links, Generate Direct Links and Jump Paywalls
@@ -2299,7 +2299,6 @@
 - [iytdl/iytdl](https://github.com/iytdl/iytdl) - Async Inline YouTube-DL for Pyrogram based Bots
 - [Jack-of-tg/MEDIA-EDITOR-BOT](https://github.com/Jack-of-tg/MEDIA-EDITOR-BOT) - 
 - [breakdowns/drive-searchbot](https://github.com/breakdowns/drive-searchbot) - Google Drive file searcher
-- [john-phonk/john_feedbackbot](https://github.com/john-phonk/john_feedbackbot) - A simple feedback bot with message response support
 - [odysseusmax/tg-index](https://github.com/odysseusmax/tg-index) - Python web app to index telegram chats and serve its files for download over HTTP.
 - [paul-nameless/tg](https://github.com/paul-nameless/tg) - terminal telegram client
 - [gautamajay52/UdemyBot](https://github.com/gautamajay52/UdemyBot) - UdemyBot - A Simple Udemy Free Courses Scrapper
