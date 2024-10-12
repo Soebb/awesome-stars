@@ -253,6 +253,7 @@
 
 ## Jupyter Notebook 
 
+- [MahtaFetrat/ManaTTS-Persian-Speech-Dataset](https://github.com/MahtaFetrat/ManaTTS-Persian-Speech-Dataset) - ManaTTS is the largest open Persian speech dataset with 86+ hours of transcribed audio. Includes data collection pipeline and tools. Suitable for Persian text-to-speech models.
 - [SharifiZarchi/Introduction_to_Machine_Learning](https://github.com/SharifiZarchi/Introduction_to_Machine_Learning) - Machine Learning Course, Sharif University of Technology
 - [AnswerDotAI/fasthtml](https://github.com/AnswerDotAI/fasthtml) - The fastest way to create an HTML app
 - [shashikg/WhisperS2T](https://github.com/shashikg/WhisperS2T) - An Optimized Speech-to-Text Pipeline for the Whisper Model Supporting Multiple Inference Engine
