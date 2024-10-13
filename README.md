@@ -298,6 +298,7 @@
 - [neelshah2409/Bot-Collection](https://github.com/neelshah2409/Bot-Collection) - A collection of bots which will help to automate everything
 - [shirooo39/MiXLab](https://github.com/shirooo39/MiXLab) - Yet another multi-purpose Colab Notebook
 - [Nishk23/TextBlob-Spelling-Correction](https://github.com/Nishk23/TextBlob-Spelling-Correction) - 
+- [SamEdwardes/spacytextblob](https://github.com/SamEdwardes/spacytextblob) - A TextBlob sentiment analysis pipeline component for spaCy.
 - [avinashkranjan/Amazing-Python-Scripts](https://github.com/avinashkranjan/Amazing-Python-Scripts) - 🚀 Curated collection of Amazing Python scripts from Basics to Advance with automation task scripts.
 - [AlisterTA/Persian-text-to-speech](https://github.com/AlisterTA/Persian-text-to-speech) - 
 - [hemanshanand/Movie-Genre-Prediction](https://github.com/hemanshanand/Movie-Genre-Prediction) - Movie Genre Prediction using Natural Language Processing(NLP)
@@ -603,7 +604,7 @@
 - [sakemin/cog-musicgen-remixer](https://github.com/sakemin/cog-musicgen-remixer) - Music remixer based on MusicGen-Chord
 - [PinkFloyded/video-ocr](https://github.com/PinkFloyded/video-ocr) - 
 - [victorjoh/hard-subs-to-srt](https://github.com/victorjoh/hard-subs-to-srt) - Creates an SRT file from a video file that has hardcoded subtitles
-- [Mayuri-Chan/pyrofork](https://github.com/Mayuri-Chan/pyrofork) - Pyrogram fork with Adjustable web page preview, Quote Reply, Story & Topics Support, Mongodb session storage, and much more. go to https://pyrofork.mayuri.my.id/ for documentation.
+- [Mayuri-Chan/pyrofork](https://github.com/Mayuri-Chan/pyrofork) - Pyrogram fork with Adjustable web page preview, Quote Reply, Story & Topics Support, Mongodb session storage, and much more. go to https://pyrofork.wulan17.top/ for documentation.
 - [yeongbin-jo/python-chromedriver-autoinstaller](https://github.com/yeongbin-jo/python-chromedriver-autoinstaller) - The chromedriver auto installer for distribution.
 - [kaliiiiiiiiii/Selenium-Driverless](https://github.com/kaliiiiiiiiii/Selenium-Driverless) - undetected Selenium without usage of chromedriver
 - [umihico/pythonista-chromeless](https://github.com/umihico/pythonista-chromeless) - Serverless selenium which dynamically execute any given code.
@@ -1769,7 +1770,6 @@
 - [subinps/pyrogram](https://github.com/subinps/pyrogram) - Telegram MTProto API Client Library and Framework in Pure Python for Users and Bots
 - [SamEdwardes/prettynum](https://github.com/SamEdwardes/prettynum) - Simple number formatting for python.
 - [SamEdwardes/pydatafaker](https://github.com/SamEdwardes/pydatafaker) - A python package to create fake data with relationships between tables.
-- [SamEdwardes/spacytextblob](https://github.com/SamEdwardes/spacytextblob) - A TextBlob sentiment analysis pipeline component for spaCy.
 - [sloria/TextBlob](https://github.com/sloria/TextBlob) - Simple, Pythonic, text processing--Sentiment analysis, part-of-speech tagging, noun phrase extraction, translation, and more.
 - [AmihayHassan/PTB_exchange_telegram_bot](https://github.com/AmihayHassan/PTB_exchange_telegram_bot) - 
 - [Nachtalb/DanbooruChannelBot](https://github.com/Nachtalb/DanbooruChannelBot) - Mirror Danbooru posts filtered or unflitered to any channel, group or private chat on Telegram. It is used to run @danbooru_dump which mirrors the complete Danbooru live.
@@ -2121,7 +2121,6 @@
 - [m4mallu/compress-pdf-tg-bot](https://github.com/m4mallu/compress-pdf-tg-bot) - A Telegram bot can compress the size of PDF documents. Useful for digital documentations.
 - [FayasNoushad/Pixeldrain-Bot](https://github.com/FayasNoushad/Pixeldrain-Bot) - A telegram media to pixeldrain stream link bot
 - [AnjanaMadu/RenameBot](https://github.com/AnjanaMadu/RenameBot) - A simple rename bot for telegram
-- [Matin-B/Bazaar_DlBot](https://github.com/Matin-B/Bazaar_DlBot) - Simple Telegram bot for direct download applications from Cafe Bazaar (CafeBazaar.ir)
 - [Neeleshrj/Image-Colorization-API](https://github.com/Neeleshrj/Image-Colorization-API) - An API which would colorize a black and white image
 - [matplotlib/matplotlib](https://github.com/matplotlib/matplotlib) - matplotlib: plotting with Python
 - [sahadz/simple-upload-bot](https://github.com/sahadz/simple-upload-bot) - 
