@@ -564,7 +564,7 @@
 - [kcarnold/fixwav](https://github.com/kcarnold/fixwav) - Quick utility to fix WAV files with incorrect lengths
 - [livingbio/typed-ffmpeg](https://github.com/livingbio/typed-ffmpeg) - Modern Python FFmpeg wrappers offer comprehensive support for complex filters, complete with detailed typing and documentation.
 - [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3) - Offline Text To Speech synthesis for python
-- [mborsetti/webchanges](https://github.com/mborsetti/webchanges) - webchanges checks web content and notifies you via e-mail (or one of many other supported services) if a change is detected. webchanges can also check the output of local commands. The notification in
+- [mborsetti/webchanges](https://github.com/mborsetti/webchanges) - webchanges anonymously checks web content (including images) and commands for changes, delivering instant notifications and AI-powered summaries to your favorite platform.
 - [DeeepMaker/subtitle-to-audio](https://github.com/DeeepMaker/subtitle-to-audio) - A python script to generate .wav audio files for .srt subtitle files
 - [editorconfig/editorconfig-core-py](https://github.com/editorconfig/editorconfig-core-py) - Clone of EditorConfig core written in Python
 - [mallorbc/whisper_mic](https://github.com/mallorbc/whisper_mic) - Project that allows one to use a microphone with OpenAI whisper.
