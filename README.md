@@ -2519,7 +2519,6 @@
 
 - [community/community](https://github.com/community/community) - Public feedback discussions for: GitHub Mobile, GitHub Discussions, GitHub Codespaces, GitHub Sponsors, GitHub Issues and more!
 - [Z-H-Sun/SubGen](https://github.com/Z-H-Sun/SubGen) - Semi-automatic extraction of hardcode subtitles
-- [heroku/heroku-buildpack-python](https://github.com/heroku/heroku-buildpack-python) - Heroku's buildpack for Python applications.
 - [devmaxxing/fireemblem-herobuilder](https://github.com/devmaxxing/fireemblem-herobuilder) - Hero builder for Fire Emblem Heroes
 
 ## Rust 
@@ -2576,8 +2575,6 @@
 - [pyronlaboratory/heroku-integrated-firefox-geckodriver](https://github.com/pyronlaboratory/heroku-integrated-firefox-geckodriver) - Buildpack enables your client code to access Firefox along with Geckodriver in a Heroku slug.
 - [buitron/geckodriver-buildpack](https://github.com/buitron/geckodriver-buildpack) - Heroku geckodriver buildpack for Selenium use with Firefox
 - [yegor256/firefox-buildpack](https://github.com/yegor256/firefox-buildpack) - Heroku buildpack for Firefox 68.0.2
-- [heroku/heroku-buildpack-chromedriver](https://github.com/heroku/heroku-buildpack-chromedriver) - [DEPRECATED] Use https://github.com/heroku/heroku-buildpack-chrome-for-testing instead.
-- [heroku/heroku-buildpack-google-chrome](https://github.com/heroku/heroku-buildpack-google-chrome) - Run (headless) Google Chrome on Heroku
 - [rahulps1000/HerokuBannedDeployer](https://github.com/rahulps1000/HerokuBannedDeployer) - With this you can deploy repos that are banned/blacklisted by heroku
 - [BlueTeaLondon/heroku-buildpack-libreoffice-for-heroku-18](https://github.com/BlueTeaLondon/heroku-buildpack-libreoffice-for-heroku-18) - 
 - [jonathanong/heroku-buildpack-ffmpeg-latest](https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest) - A Heroku buildpack for ffmpeg that always downloads the latest static build
