@@ -178,7 +178,7 @@
 - [abhint/tg-session-string](https://github.com/abhint/tg-session-string) - 
 - [LiuYuancheng/Py_Web_Contents_Download_Tool](https://github.com/LiuYuancheng/Py_Web_Contents_Download_Tool) - Our goal is to develop a Python library tailored for big data projects, specifically designed for data collection purposes.
 - [devmaxxing/babylonjs-easyrtc-test](https://github.com/devmaxxing/babylonjs-easyrtc-test) - 
-- [Jigarvarma2005/Video-Player](https://github.com/Jigarvarma2005/Video-Player) - 
+- [jigarvarma2k20/Video-Player](https://github.com/jigarvarma2k20/Video-Player) - 
 - [tuhinpal/dynamic-image](https://github.com/tuhinpal/dynamic-image) - Dynamically generate images for open-graph or website
 - [InFoTelbot/subcounter-public](https://github.com/InFoTelbot/subcounter-public) - #1 realtime subscriber counter for Telegram which supports multiple groups and channels
 - [SakshayMahna/WebScraping](https://github.com/SakshayMahna/WebScraping) - Trying out web scraping using different techniques
@@ -262,6 +262,7 @@
 - [SharifiZarchi/Introduction_to_Machine_Learning](https://github.com/SharifiZarchi/Introduction_to_Machine_Learning) - Machine Learning Course, Sharif University of Technology
 - [AnswerDotAI/fasthtml](https://github.com/AnswerDotAI/fasthtml) - The fastest way to create an HTML app
 - [shashikg/WhisperS2T](https://github.com/shashikg/WhisperS2T) - An Optimized Speech-to-Text Pipeline for the Whisper Model Supporting Multiple Inference Engine
+- [mfhepp/py4docker](https://github.com/mfhepp/py4docker) - Template for running Python 3.x shell scripts and notebooks in a Docker container for isolation, security, and portability
 - [nimaprgrmr/ocr_persian](https://github.com/nimaprgrmr/ocr_persian) - this system take a photo and do a lot preprocessing steps and then pass it to pytesseract model and you can see the texts extracted from image.
 - [Vaibhavs10/insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper) - 
 - [Pouyaexe/Farsi_PDF](https://github.com/Pouyaexe/Farsi_PDF) - Make editable Persian(Farsi) PDF from Non-Editable ones, using OCR.
@@ -695,7 +696,7 @@
 - [djfun/audio-visualizer-python](https://github.com/djfun/audio-visualizer-python) - a little GUI tool to render visualization videos of audio files
 - [coderholic/pyradio](https://github.com/coderholic/pyradio) - Curses based internet radio player
 - [jnsougata/aiotube](https://github.com/jnsougata/aiotube) - An Alternative to YouTube Public Data API v3
-- [david-lev/pywa](https://github.com/david-lev/pywa) - 🤖 Build WhatsApp Bots in Python
+- [david-lev/pywa](https://github.com/david-lev/pywa) - 🤖 Hey there! I am using PyWa.
 - [mo1ein/Golchin](https://github.com/mo1ein/Golchin) - Golchin is a telegram bot that extract English words from file and translate it to Persian.
 - [mo1ein/TelegramArchive](https://github.com/mo1ein/TelegramArchive) - Export telegram chats.
 - [rany2/edge-tts](https://github.com/rany2/edge-tts) - Use Microsoft Edge's online text-to-speech service from Python WITHOUT needing Microsoft Edge or Windows or an API key
@@ -773,7 +774,7 @@
 - [mamadgeek/mobile_price_prediction_farsi_scraping](https://github.com/mamadgeek/mobile_price_prediction_farsi_scraping) - the current project scrapes https://www.technolife.ir/ site with python module  beautiful soup and retrieve mobile specifics and price . lastly classify them based on decision three of scikit-learn mo
 - [rQBx91/Pydowner](https://github.com/rQBx91/Pydowner) - A multithreaded terminal downloader writen in Python
 - [sinedie/SRTranslator](https://github.com/sinedie/SRTranslator) - SRT files translator
-- [CrypticSignal/better-ffmpeg-progress](https://github.com/CrypticSignal/better-ffmpeg-progress) - A Python package that allows you to run an FFmpeg command & see percentage progress, ETA, etc.
+- [CrypticSignal/better-ffmpeg-progress](https://github.com/CrypticSignal/better-ffmpeg-progress) - A Python package for running an FFmpeg command & showing better progress info - percentage progress, a progress bar and ETA.
 - [jessielw/FFMPEG-Audio-Encoder](https://github.com/jessielw/FFMPEG-Audio-Encoder) - A powerful FFMPEG audio encoder GUI
 - [jessielw/MP4-Mux-Tool](https://github.com/jessielw/MP4-Mux-Tool) - Mp4Box GUI
 - [jessielw/Youtube-DL-GUI](https://github.com/jessielw/Youtube-DL-GUI) - Graphical User Interace built around youtube-dl CLI
@@ -1466,7 +1467,7 @@
 - [timweri/deal-watcher](https://github.com/timweri/deal-watcher) - Watch subreddits and RSS for new posts
 - [TechiError/GadgetsAPI](https://github.com/TechiError/GadgetsAPI) - 
 - [UsergeTeam/Loader](https://github.com/UsergeTeam/Loader) - Userge Loader
-- [Jigarvarma2005/HelperScript-V2](https://github.com/Jigarvarma2005/HelperScript-V2) - 
+- [jigarvarma2k20/HelperScript-V2](https://github.com/jigarvarma2k20/HelperScript-V2) - 
 - [nishantssoni/Qt-tic-tac-toe](https://github.com/nishantssoni/Qt-tic-tac-toe) - A GUI Tic-Tac-Toe game between player and computer using python and PyQt5.
 - [BenyaminZojaji/versatile-bot](https://github.com/BenyaminZojaji/versatile-bot) - You can check the bot using this link https://t.me/versatile-bot
 - [BenyaminZojaji/Python-Assignments](https://github.com/BenyaminZojaji/Python-Assignments) - Python exercises.
@@ -1476,7 +1477,6 @@
 - [hatienl0i2612/Soundcloud](https://github.com/hatienl0i2612/Soundcloud) - Soundcloud - A tool for download track Soundcloud.
 - [morucci/repoxplorer](https://github.com/morucci/repoxplorer) - RepoXplorer - Git stats explorer
 - [saket13/youtube_fetch](https://github.com/saket13/youtube_fetch) - API to get latest videos of certain topic from Youtube (fetched from the Youtube Data API)
-- [elastic/elasticsearch-py](https://github.com/elastic/elasticsearch-py) - Official Python client for Elasticsearch
 - [Dhrumil-Zion/Mini-Python-Utilites](https://github.com/Dhrumil-Zion/Mini-Python-Utilites) - This repository contains utilities that are often used in web development.
 - [awhipp/generated-short-story-videos](https://github.com/awhipp/generated-short-story-videos) - Randomly Generates and Publishes Short Story Videos to YT
 - [arny-wilk/codewars](https://github.com/arny-wilk/codewars) - My progress so far in Problem solving with Python
@@ -1947,7 +1947,7 @@
 - [PaulSonOfLars/telegram-bot-api-spec](https://github.com/PaulSonOfLars/telegram-bot-api-spec) - A simple JSON description of the telegram bot API which updates itself every day.
 - [aio-libs/aiohttp](https://github.com/aio-libs/aiohttp) - Asynchronous HTTP client/server framework for asyncio and Python
 - [SpEcHiDe/PublicLeech](https://github.com/SpEcHiDe/PublicLeech) - can be found on Telegram as https://telegram.dog/PublicLeechGroup
-- [Jigarvarma2005/Anti-Channel-bot](https://github.com/Jigarvarma2005/Anti-Channel-bot) - 
+- [jigarvarma2k20/Anti-Channel-bot](https://github.com/jigarvarma2k20/Anti-Channel-bot) - 
 - [SpEcHiDe/UniBorg](https://github.com/SpEcHiDe/UniBorg) - Pluggable Telegram bot and userbot based on Telethon
 - [udf/uniborg](https://github.com/udf/uniborg) - Pluggable Telegram bot and userbot based on Telethon
 - [xditya/BorgBot](https://github.com/xditya/BorgBot) - Pluggable Telegram bot and userbot based on Telethon
@@ -2077,7 +2077,7 @@
 - [PuZhiweizuishuai/OCR-CopyText-And-Search](https://github.com/PuZhiweizuishuai/OCR-CopyText-And-Search) - 适用于一些单位组织的那种在专门的APP上答题，但是又有题库的开卷考试，方便搜索答案，基于PaddleOCR开发😂😂😂
 - [elahe-dastan/first-grade](https://github.com/elahe-dastan/first-grade) - OCR for Iranian national ID card, etc.
 - [Belval/TextRecognitionDataGenerator](https://github.com/Belval/TextRecognitionDataGenerator) - A synthetic data generator for text recognition
-- [RapidAI/RapidOCR](https://github.com/RapidAI/RapidOCR) - Awesome OCR multiple programing languages toolkits based on ONNXRuntime, OpenVION and PaddlePaddle.
+- [RapidAI/RapidOCR](https://github.com/RapidAI/RapidOCR) - 📄 Awesome OCR multiple programing languages toolkits based on ONNXRuntime, OpenVION and PaddlePaddle.
 - [apm1467/videocr](https://github.com/apm1467/videocr) - Extract hardcoded subtitles from videos using machine learning
 - [SWHL/RapidVideOCR](https://github.com/SWHL/RapidVideOCR) - Extract video hard subtitles and automatically generate corresponding srt files.
 - [krviolent/subtitles_extract](https://github.com/krviolent/subtitles_extract) - Tool for extraction hard-coded (hardsub) Chinese subtitles from video files with 720p resolution
@@ -2278,9 +2278,9 @@
 - [FayasNoushad/URL-Shortner-Bot](https://github.com/FayasNoushad/URL-Shortner-Bot) - A link shortner telegram bot
 - [X-Gorn/File-Sharing](https://github.com/X-Gorn/File-Sharing) - Telegram bot to share any telegram files and get the shareable link
 - [FayasNoushad/Youtube-Video-Thumbnail](https://github.com/FayasNoushad/Youtube-Video-Thumbnail) - A youtube video link or id to video thumbnail python package.
-- [Jigarvarma2005/VideoCompress](https://github.com/Jigarvarma2005/VideoCompress) - 
+- [jigarvarma2k20/VideoCompress](https://github.com/jigarvarma2k20/VideoCompress) - 
 - [EL-Coders/ELYoutubeBot](https://github.com/EL-Coders/ELYoutubeBot) - 
-- [Jigarvarma2005/Streaming-Link-Gen](https://github.com/Jigarvarma2005/Streaming-Link-Gen) - 
+- [jigarvarma2k20/Streaming-Link-Gen](https://github.com/jigarvarma2k20/Streaming-Link-Gen) - 
 - [Fumaz/TTSBotPython](https://github.com/Fumaz/TTSBotPython) - 
 - [subinps/VCPlayerBot](https://github.com/subinps/VCPlayerBot) - Telegram bot to stream videos in telegram voicechat for both groups and channels. Supports live steams, YouTube videos and telegram media. Supports scheduling streams, recording and many more.
 - [musa-42/streamer_file](https://github.com/musa-42/streamer_file) - Robot to convert files to direct links, hosting files on Telegram servers, unlimited and without restrictions
@@ -2545,7 +2545,6 @@
 - [aronchick/Docker-NGINX-Gunicorn-Flask-Python-Example](https://github.com/aronchick/Docker-NGINX-Gunicorn-Flask-Python-Example) - 
 - [flashdagger/git-subrepo-pypi](https://github.com/flashdagger/git-subrepo-pypi) - python package for installing git-subrepo
 - [cruizba/ubuntu-dind](https://github.com/cruizba/ubuntu-dind) - A docker image based in ubuntu to run docker containers inside docker containers
-- [mfhepp/py4docker](https://github.com/mfhepp/py4docker) - Template for running Python 3.x shell scripts and notebooks in a Docker container for isolation, security, and portability
 - [HirbodBehnam/MTProtoProxyInstaller](https://github.com/HirbodBehnam/MTProtoProxyInstaller) - One-click script to install MTProto Proxy server on CentOS, Ubuntu and Debian
 - [docker/docker-install](https://github.com/docker/docker-install) - Docker installation script
 - [unixorn/git-extra-commands](https://github.com/unixorn/git-extra-commands) - A collection of git utilities, useful extra git scripts, tutorials and other useful articles.
