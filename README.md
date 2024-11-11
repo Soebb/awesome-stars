@@ -15,6 +15,7 @@
 - [EJS](#ejs)
 - [Fluent](#fluent)
 - [Go](#go)
+- [HCL](#hcl)
 - [HTML](#html)
 - [Java](#java)
 - [JavaScript](#javascript)
@@ -141,6 +142,10 @@
 - [Intaco/yt-audio-telegram-bot](https://github.com/Intaco/yt-audio-telegram-bot) - A simple youtube video-to-audio converter bot for telegram with chat filtering support
 - [EverythingSuckz/TG-FileStreamBot](https://github.com/EverythingSuckz/TG-FileStreamBot) - A telegram bot that will give instant stream links for telegram files without the need of waiting till the download completes.
 
+## HCL 
+
+- [JaderDias/gcloud-telegram-bot](https://github.com/JaderDias/gcloud-telegram-bot) - 
+
 ## HTML 
 
 - [FlagMotori/writeups](https://github.com/FlagMotori/writeups) - رایتاپ‌های تیم فلگ موتوری
@@ -162,6 +167,7 @@
 - [khalby786/REHeader](https://github.com/khalby786/REHeader) - Generate beautiful header images for your GitHub profile READMEs.
 - [GameGenesis/Youtube-Video-Downloader](https://github.com/GameGenesis/Youtube-Video-Downloader) - Convert a YouTube video or playlist to an MP3 audio or MP4 video format. Includes conversion history when signed in.
 - [AnonC0DER/NovaFilm](https://github.com/AnonC0DER/NovaFilm) - A django movie website.
+- [theofficialvkr/VKRdownloader](https://github.com/theofficialvkr/VKRdownloader) - VKrDownloader : All in one Video Downloader - Download videos from facebook twitter youtube tiktok and 1000+ other sites . YouTube downloader , facebook downloader . made by Vijay Kumar
 - [ImJanindu/imjanindu.github.io](https://github.com/ImJanindu/imjanindu.github.io) - Simple portfolio website
 - [donno2048/win95.exe](https://github.com/donno2048/win95.exe) - Microsoft Windows 95 as an executable (using python and pyinstaller)
 - [DustbinServer/Dustbin](https://github.com/DustbinServer/Dustbin) - Just Another Text Storage Service.
@@ -216,7 +222,6 @@
 - [sa-akhavani/video-streamer](https://github.com/sa-akhavani/video-streamer) - Node.js Video File Streamer
 - [1995parham/github-do-not-ban-us](https://github.com/1995parham/github-do-not-ban-us) - GitHub do not ban us from open source world :iran:
 - [ssc-public/Web-Workshop](https://github.com/ssc-public/Web-Workshop) - Angular, Ansible, CI/CD, Flutter, ElasticSearch, Redis, NSQ, RabbitMQ,  Jenkins, Jest, React, Redux, TypeScript, Django, GraphQL, Rest Framework, Docker and Kubernetes Tutorial
-- [theofficialvkr/VKRdownloader](https://github.com/theofficialvkr/VKRdownloader) - VKrDownloader : All in one Video Downloader - Download videos from facebook twitter youtube tiktok and 1000+ other sites . YouTube downloader , facebook downloader . made by Vijay Kumar
 - [Kunal-Diwan/FileSearchBot](https://github.com/Kunal-Diwan/FileSearchBot) - Telegram Inline Files Search Bot made using JS by @Kunal-Diwan
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [elthondsaraujo/railway-drive](https://github.com/elthondsaraujo/railway-drive) - 
@@ -644,7 +649,7 @@
 - [smacke/ffsubsync](https://github.com/smacke/ffsubsync) - Automagically synchronize subtitles with video.
 - [abdeladim-s/subsai](https://github.com/abdeladim-s/subsai) - 🎞️ Subtitles generation tool (Web-UI + CLI + Python package) powered by OpenAI's Whisper and its variants 🎞️
 - [bipinkrish/Link-Bypasser-Bot](https://github.com/bipinkrish/Link-Bypasser-Bot) - A Telegram Bot (with Site) that can Bypass Ad Links, Generate Direct Links and Jump Paywalls
-- [jianchang512/pyvideotrans](https://github.com/jianchang512/pyvideotrans) - Translate the video from one language to another and add dubbing.         将视频从一种语言翻译为另一种语言，并支持api调用
+- [jianchang512/pyvideotrans](https://github.com/jianchang512/pyvideotrans) - Translate the video from one language to another and add dubbing.         将视频从一种语言翻译为另一种语言，同时支持语音识别转录、语音合成、字幕翻译。
 - [zackees/isolated-environment](https://github.com/zackees/isolated-environment) - Internal venv management to fix AI dependency hell in python
 - [SilentDemonSD/FZBypassBot](https://github.com/SilentDemonSD/FZBypassBot) - A Elegant Fast Multi Threaded Bypass Bot for Bigger Deeds. Try Now !!
 - [DeadNews/images-upload-cli](https://github.com/DeadNews/images-upload-cli) - Upload images via APIs
