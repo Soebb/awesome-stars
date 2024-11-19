@@ -1709,7 +1709,6 @@
 - [vasusen-code/SaveRestrictedContentBot](https://github.com/vasusen-code/SaveRestrictedContentBot) - Stable telegram bot to save Restricted content with custom thumbnail support.
 - [moses-palmer/pynput](https://github.com/moses-palmer/pynput) - Sends virtual input commands
 - [tristanhdez/QR-Generator](https://github.com/tristanhdez/QR-Generator) - 
-- [AmirWolberg/Calculator](https://github.com/AmirWolberg/Calculator) - written in python 3.6
 - [GuilhermeSantosCoelho/insta_comment](https://github.com/GuilhermeSantosCoelho/insta_comment) - 
 - [ShihabYasin/ImportantCodes](https://github.com/ShihabYasin/ImportantCodes) - Some Repetative Important Code.
 - [jcconnol/home-server-bot](https://github.com/jcconnol/home-server-bot) - Personal home server bot for face recognition, speech commands and home automation
@@ -2082,9 +2081,9 @@
 - [PuZhiweizuishuai/OCR-CopyText-And-Search](https://github.com/PuZhiweizuishuai/OCR-CopyText-And-Search) - 适用于一些单位组织的那种在专门的APP上答题，但是又有题库的开卷考试，方便搜索答案，基于PaddleOCR开发😂😂😂
 - [elahe-dastan/first-grade](https://github.com/elahe-dastan/first-grade) - OCR for Iranian national ID card, etc.
 - [Belval/TextRecognitionDataGenerator](https://github.com/Belval/TextRecognitionDataGenerator) - A synthetic data generator for text recognition
-- [RapidAI/RapidOCR](https://github.com/RapidAI/RapidOCR) - 📄 Awesome OCR multiple programing languages toolkits based on ONNXRuntime, OpenVION and PaddlePaddle.
+- [RapidAI/RapidOCR](https://github.com/RapidAI/RapidOCR) - 📄 Awesome OCR multiple programing languages toolkits based on ONNXRuntime, OpenVINO and PaddlePaddle.
 - [apm1467/videocr](https://github.com/apm1467/videocr) - Extract hardcoded subtitles from videos using machine learning
-- [SWHL/RapidVideOCR](https://github.com/SWHL/RapidVideOCR) - Extract video hard subtitles and automatically generate corresponding srt files.
+- [SWHL/RapidVideOCR](https://github.com/SWHL/RapidVideOCR) - 🎥 Extract video hard subtitles and automatically generate corresponding srt files.
 - [krviolent/subtitles_extract](https://github.com/krviolent/subtitles_extract) - Tool for extraction hard-coded (hardsub) Chinese subtitles from video files with 720p resolution
 - [escape0707/extract-rename-subtitle](https://github.com/escape0707/extract-rename-subtitle) - 
 - [musa-42/stream-cloud](https://github.com/musa-42/stream-cloud) - Robot to convert files to direct links, hosting files on Telegram servers, unlimited and without restrictions
@@ -2528,6 +2527,7 @@
 
 - [community/community](https://github.com/community/community) - Public feedback discussions for: GitHub Mobile, GitHub Discussions, GitHub Codespaces, GitHub Sponsors, GitHub Issues and more!
 - [Z-H-Sun/SubGen](https://github.com/Z-H-Sun/SubGen) - Semi-automatic extraction of hardcode subtitles
+- [heroku/heroku-buildpack-python](https://github.com/heroku/heroku-buildpack-python) - Heroku's buildpack for Python applications.
 - [devmaxxing/fireemblem-herobuilder](https://github.com/devmaxxing/fireemblem-herobuilder) - Hero builder for Fire Emblem Heroes
 
 ## Rust 
@@ -2583,6 +2583,8 @@
 - [pyronlaboratory/heroku-integrated-firefox-geckodriver](https://github.com/pyronlaboratory/heroku-integrated-firefox-geckodriver) - Buildpack enables your client code to access Firefox along with Geckodriver in a Heroku slug.
 - [buitron/geckodriver-buildpack](https://github.com/buitron/geckodriver-buildpack) - Heroku geckodriver buildpack for Selenium use with Firefox
 - [yegor256/firefox-buildpack](https://github.com/yegor256/firefox-buildpack) - Heroku buildpack for Firefox 68.0.2
+- [heroku/heroku-buildpack-chromedriver](https://github.com/heroku/heroku-buildpack-chromedriver) - [DEPRECATED] Use https://github.com/heroku/heroku-buildpack-chrome-for-testing instead.
+- [heroku/heroku-buildpack-google-chrome](https://github.com/heroku/heroku-buildpack-google-chrome) - Run (headless) Google Chrome on Heroku
 - [rahulps1000/HerokuBannedDeployer](https://github.com/rahulps1000/HerokuBannedDeployer) - With this you can deploy repos that are banned/blacklisted by heroku
 - [BlueTeaLondon/heroku-buildpack-libreoffice-for-heroku-18](https://github.com/BlueTeaLondon/heroku-buildpack-libreoffice-for-heroku-18) - 
 - [jonathanong/heroku-buildpack-ffmpeg-latest](https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest) - A Heroku buildpack for ffmpeg that always downloads the latest static build
