@@ -617,7 +617,7 @@
 - [victorjoh/hard-subs-to-srt](https://github.com/victorjoh/hard-subs-to-srt) - Creates an SRT file from a video file that has hardcoded subtitles
 - [Mayuri-Chan/pyrofork](https://github.com/Mayuri-Chan/pyrofork) - Pyrogram fork with Adjustable web page preview, Quote Reply, Story & Topics Support, Mongodb session storage, and much more. go to https://pyrofork.wulan17.top/ for documentation.
 - [yeongbin-jo/python-chromedriver-autoinstaller](https://github.com/yeongbin-jo/python-chromedriver-autoinstaller) - The chromedriver auto installer for distribution.
-- [kaliiiiiiiiii/Selenium-Driverless](https://github.com/kaliiiiiiiiii/Selenium-Driverless) - undetected Selenium without usage of chromedriver
+- [kaliiiiiiiiii/Selenium-Driverless](https://github.com/kaliiiiiiiiii/Selenium-Driverless) - a stealthy browser automation framework
 - [umihico/pythonista-chromeless](https://github.com/umihico/pythonista-chromeless) - Serverless selenium which dynamically execute any given code.
 - [SergeyPirogov/webdriver_manager](https://github.com/SergeyPirogov/webdriver_manager) - 
 - [Dicklesworthstone/bulk_transcribe_youtube_videos_from_playlist](https://github.com/Dicklesworthstone/bulk_transcribe_youtube_videos_from_playlist) - Easily take an entire YouTube playlist and turn it into high quality transcripts using Whisper.
