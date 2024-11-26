@@ -167,7 +167,7 @@
 - [khalby786/REHeader](https://github.com/khalby786/REHeader) - Generate beautiful header images for your GitHub profile READMEs.
 - [GameGenesis/Youtube-Video-Downloader](https://github.com/GameGenesis/Youtube-Video-Downloader) - Convert a YouTube video or playlist to an MP3 audio or MP4 video format. Includes conversion history when signed in.
 - [AnonC0DER/NovaFilm](https://github.com/AnonC0DER/NovaFilm) - A django movie website.
-- [theofficialvkr/VKRdownloader](https://github.com/theofficialvkr/VKRdownloader) - VKrDownloader : All in one Video Downloader - Download videos from facebook twitter youtube tiktok and 1000+ other sites . YouTube downloader , facebook downloader . made by Vijay Kumar
+- [theofficialvkr/VKrDownloader](https://github.com/theofficialvkr/VKrDownloader) - VKrDownloader : All in one Video Downloader - Download videos from facebook twitter youtube tiktok and 1000+ other sites . YouTube downloader , facebook downloader . made by Vijay Kumar
 - [ImJanindu/imjanindu.github.io](https://github.com/ImJanindu/imjanindu.github.io) - Simple portfolio website
 - [donno2048/win95.exe](https://github.com/donno2048/win95.exe) - Microsoft Windows 95 as an executable (using python and pyinstaller)
 - [DustbinServer/Dustbin](https://github.com/DustbinServer/Dustbin) - Just Another Text Storage Service.
