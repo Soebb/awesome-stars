@@ -2053,7 +2053,7 @@
 - [abhijeetbhagat/mp4box](https://github.com/abhijeetbhagat/mp4box) - Python 3 port of the MP4Box tool
 - [derpferpmerp/ffmpeg-combine-directory](https://github.com/derpferpmerp/ffmpeg-combine-directory) - Combine all videos in current directory (Print out MP4Box Command)
 - [avilash/TikTokAPI-Python](https://github.com/avilash/TikTokAPI-Python) - TikTok API Python Wrapper
-- [subzeroid/instagrapi](https://github.com/subzeroid/instagrapi) - 🔥 The fastest and powerful Python library for Instagram Private API 2024
+- [subzeroid/instagrapi](https://github.com/subzeroid/instagrapi) - 🔥 The fastest and powerful Python library for Instagram Private API 2024 with HikerAPI SaaS
 - [yashrathi-git/vimeo-dl](https://github.com/yashrathi-git/vimeo-dl) - Downloads Vimeo videos and retrieve metadata such as views, likes, comments, duration of the video.
 - [jawah/charset_normalizer](https://github.com/jawah/charset_normalizer) - Truly universal encoding detector in pure Python
 - [RincemonReji/RSS-Feed](https://github.com/RincemonReji/RSS-Feed) - 
@@ -2527,7 +2527,7 @@
 
 - [community/community](https://github.com/community/community) - Public feedback discussions for: GitHub Mobile, GitHub Discussions, GitHub Codespaces, GitHub Sponsors, GitHub Issues and more!
 - [Z-H-Sun/SubGen](https://github.com/Z-H-Sun/SubGen) - Semi-automatic extraction of hardcode subtitles
-- [heroku/heroku-buildpack-python](https://github.com/heroku/heroku-buildpack-python) - Heroku's buildpack for Python applications.
+- [heroku/heroku-buildpack-python](https://github.com/heroku/heroku-buildpack-python) - Heroku's classic buildpack for Python applications.
 - [devmaxxing/fireemblem-herobuilder](https://github.com/devmaxxing/fireemblem-herobuilder) - Hero builder for Fire Emblem Heroes
 
 ## Rust 
@@ -2584,7 +2584,7 @@
 - [buitron/geckodriver-buildpack](https://github.com/buitron/geckodriver-buildpack) - Heroku geckodriver buildpack for Selenium use with Firefox
 - [yegor256/firefox-buildpack](https://github.com/yegor256/firefox-buildpack) - Heroku buildpack for Firefox 68.0.2
 - [heroku/heroku-buildpack-chromedriver](https://github.com/heroku/heroku-buildpack-chromedriver) - [DEPRECATED] Use https://github.com/heroku/heroku-buildpack-chrome-for-testing instead.
-- [heroku/heroku-buildpack-google-chrome](https://github.com/heroku/heroku-buildpack-google-chrome) - Run (headless) Google Chrome on Heroku
+- [heroku/heroku-buildpack-google-chrome](https://github.com/heroku/heroku-buildpack-google-chrome) - [DEPRECATED] Classic buildpack that installs Google Chrome.
 - [rahulps1000/HerokuBannedDeployer](https://github.com/rahulps1000/HerokuBannedDeployer) - With this you can deploy repos that are banned/blacklisted by heroku
 - [BlueTeaLondon/heroku-buildpack-libreoffice-for-heroku-18](https://github.com/BlueTeaLondon/heroku-buildpack-libreoffice-for-heroku-18) - 
 - [jonathanong/heroku-buildpack-ffmpeg-latest](https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest) - A Heroku buildpack for ffmpeg that always downloads the latest static build
