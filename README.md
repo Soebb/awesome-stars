@@ -176,7 +176,7 @@
 - [li195111/li195111.github.io](https://github.com/li195111/li195111.github.io) - Some Note Here
 - [zappycode/portfolio-project](https://github.com/zappycode/portfolio-project) - 
 - [taneliang/lifespan](https://github.com/taneliang/lifespan) - Website which counts up from your birthday down to your death
-- [ChankitSaini/redirector](https://github.com/ChankitSaini/redirector) - 
+- [chankitsaini/redirector](https://github.com/chankitsaini/redirector) - 
 - [viperadnan-git/wallpaper-api](https://github.com/viperadnan-git/wallpaper-api) - An api which can use different sites to scrape images and serve them through API
 - [b00f/lilak](https://github.com/b00f/lilak) - Persian Spell Checking Dictionary
 - [ArdeshirV/resources](https://github.com/ArdeshirV/resources) - My resources such as images for using in README file(s) of github
@@ -216,7 +216,7 @@
 - [tuhinpal/imdb-api](https://github.com/tuhinpal/imdb-api) - Serverless IMDB API powered by Cloudflare Worker
 - [webrecorder/pywb](https://github.com/webrecorder/pywb) - Core Python Web Archiving Toolkit for replay and recording of web archives
 - [AnotiaWang/AntiChannelSpammersBot](https://github.com/AnotiaWang/AntiChannelSpammersBot) - A Telegram bot that can delete messages from users appearing as channels, also messages from anonymous admins and the linked channels.
-- [ChankitSaini/InstaChat](https://github.com/ChankitSaini/InstaChat) - 
+- [chankitsaini/InstaChat](https://github.com/chankitsaini/InstaChat) - 
 - [parnexcodes/yt-dl-api](https://github.com/parnexcodes/yt-dl-api) - A Youtube-DL API Made in NodeJS.
 - [mamal72/telegram-github-search-bot](https://github.com/mamal72/telegram-github-search-bot) - :octocat: A Github search bot for Telegram
 - [sa-akhavani/video-streamer](https://github.com/sa-akhavani/video-streamer) - Node.js Video File Streamer
@@ -396,7 +396,7 @@
 - [Toukacloud/TGFlix](https://github.com/Toukacloud/TGFlix) - Yet Another Idea 💡 | TGFlix - Use Telegram as your Drive & stream.
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 - [mackorone/spotify-playlist-archive](https://github.com/mackorone/spotify-playlist-archive) - Daily snapshots of public Spotify playlists
-- [ChankitSaini/TelegramScrapper](https://github.com/ChankitSaini/TelegramScrapper) - Telegram member scrapper script
+- [chankitsaini/TelegramScrapper](https://github.com/chankitsaini/TelegramScrapper) - Telegram member scrapper script
 - [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template) - An awesome README template to jumpstart your projects!
 - [Single-Developers/The_Shazam_BOT](https://github.com/Single-Developers/The_Shazam_BOT) - 🌷 This is Most Advanced Music Finder BOT 🎧, Keyword Searchers & Also 🎙 Voice Searchers Supported 🎵
 - [gautamajay52/TransloaderBot](https://github.com/gautamajay52/TransloaderBot) - SooN
@@ -1050,7 +1050,7 @@
 - [kkrypt0nn/Python-Discord-Bot-Template](https://github.com/kkrypt0nn/Python-Discord-Bot-Template) - 🐍 A simple template to start to code your own and personalized Discord bot in Python
 - [fascot/Media-Download-Tool](https://github.com/fascot/Media-Download-Tool) - This is a Media Download Tool which can get videos from Youtube and other sites.
 - [piriyaraj/shortsMobileSpeci](https://github.com/piriyaraj/shortsMobileSpeci) - automatic youtube video uploading script. it's able to scrap web content and make it a youtube short video and upload it on youtube automatically.
-- [gregistech/lazyshorts-py](https://github.com/gregistech/lazyshorts-py) - Create short videos, like a lazy person.
+- [gergovari/lazyshorts-py](https://github.com/gergovari/lazyshorts-py) - Create short videos, like a lazy person.
 - [MHadiS/port-scanner](https://github.com/MHadiS/port-scanner) - A port scanner made with python socket
 - [DanielJDufour/date-extractor](https://github.com/DanielJDufour/date-extractor) - Extract dates from text
 - [Taiko2k/Avvie](https://github.com/Taiko2k/Avvie) - A GTK app for quick image cropping :flower_playing_cards:
