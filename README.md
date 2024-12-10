@@ -167,7 +167,6 @@
 - [khalby786/REHeader](https://github.com/khalby786/REHeader) - Generate beautiful header images for your GitHub profile READMEs.
 - [GameGenesis/Youtube-Video-Downloader](https://github.com/GameGenesis/Youtube-Video-Downloader) - Convert a YouTube video or playlist to an MP3 audio or MP4 video format. Includes conversion history when signed in.
 - [AnonC0DER/NovaFilm](https://github.com/AnonC0DER/NovaFilm) - A django movie website.
-- [theofficialvkr/VKrDownloader](https://github.com/theofficialvkr/VKrDownloader) - VKrDownloader : All in one Video Downloader - Download videos from facebook twitter youtube tiktok and 1000+ other sites . YouTube downloader , facebook downloader . made by Vijay Kumar
 - [ImJanindu/imjanindu.github.io](https://github.com/ImJanindu/imjanindu.github.io) - Simple portfolio website
 - [donno2048/win95.exe](https://github.com/donno2048/win95.exe) - Microsoft Windows 95 as an executable (using python and pyinstaller)
 - [DustbinServer/Dustbin](https://github.com/DustbinServer/Dustbin) - Just Another Text Storage Service.
@@ -222,6 +221,7 @@
 - [sa-akhavani/video-streamer](https://github.com/sa-akhavani/video-streamer) - Node.js Video File Streamer
 - [1995parham/github-do-not-ban-us](https://github.com/1995parham/github-do-not-ban-us) - GitHub do not ban us from open source world :iran:
 - [ssc-public/Web-Workshop](https://github.com/ssc-public/Web-Workshop) - Angular, Ansible, CI/CD, Flutter, ElasticSearch, Redis, NSQ, RabbitMQ,  Jenkins, Jest, React, Redux, TypeScript, Django, GraphQL, Rest Framework, Docker and Kubernetes Tutorial
+- [theofficialvkr/VKrDownloader](https://github.com/theofficialvkr/VKrDownloader) - VKrDownloader : All in one Video Downloader - Download videos from facebook twitter youtube tiktok and 1000+ other sites . YouTube downloader , facebook downloader . made by Vijay Kumar
 - [Kunal-Diwan/FileSearchBot](https://github.com/Kunal-Diwan/FileSearchBot) - Telegram Inline Files Search Bot made using JS by @Kunal-Diwan
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [elthondsaraujo/railway-drive](https://github.com/elthondsaraujo/railway-drive) - 
@@ -562,7 +562,7 @@
 - [JBDAC/TelegramDeDup](https://github.com/JBDAC/TelegramDeDup) - Telegram Duplicate Message Detector Bot
 - [dir01/tg-yt-dlp](https://github.com/dir01/tg-yt-dlp) - Telegram bot that extracts short videos from pages for you
 - [bellingcat/auto-archiver](https://github.com/bellingcat/auto-archiver) - Automatically archive links to videos, images, and social media content from Google Sheets (and more).
-- [Hrazhan/kurd-spell](https://github.com/Hrazhan/kurd-spell) - ✍🏼 Transformer based Neural Spell Corrector for Central Kurdish
+- [RazhanHameed/kurd-spell](https://github.com/RazhanHameed/kurd-spell) - ✍🏼 Transformer based Neural Spell Corrector for Central Kurdish
 - [sauravpanda/whisper-service](https://github.com/sauravpanda/whisper-service) - Simple API for deploying whisper on your own server
 - [AlexandreGazagnes/awdible](https://github.com/AlexandreGazagnes/awdible) - Awdible - Just the best free version of audible. Awdible is a free and open-source software that allows you to download music from youtube and convert it to mp3.  The idea is to provide a free version
 - [dawoudt/JustWatchAPI](https://github.com/dawoudt/JustWatchAPI) - Python 3 JustWatch.com API - https://justwatch.com
@@ -1198,7 +1198,7 @@
 - [tweak1337/telegram_parser-v.2---Telethon](https://github.com/tweak1337/telegram_parser-v.2---Telethon) - Second version of public channels parser in telegram using Telethon library. (Postgresql)
 - [tweak1337/telegrabber](https://github.com/tweak1337/telegrabber) - To parse telegram public channels and reply it to your public and rec to DB
 - [AndydeCleyre/colorcodebot](https://github.com/AndydeCleyre/colorcodebot) - A simple Telegram bot for syntax highlighting
-- [Ifritgram/Ifritgram](https://github.com/Ifritgram/Ifritgram) - A powerful multi-featured userbot on Telegram.
+- [iniridwanul/Ifritgram](https://github.com/iniridwanul/Ifritgram) - A powerful multi-featured userbot on Telegram.
 - [New-dev0/Telethon-Patch](https://github.com/New-dev0/Telethon-Patch) - Wrap over telethon with additional upgrades
 - [nethunter-ir/telegram-auto-forwarder](https://github.com/nethunter-ir/telegram-auto-forwarder) - Telegram Auto Forwarder
 - [JKhakpour/petit](https://github.com/JKhakpour/petit) - Persian text -&gt; integer, ineteger -&gt; text converter
@@ -1472,6 +1472,7 @@
 - [timweri/deal-watcher](https://github.com/timweri/deal-watcher) - Watch subreddits and RSS for new posts
 - [TechiError/GadgetsAPI](https://github.com/TechiError/GadgetsAPI) - 
 - [UsergeTeam/Loader](https://github.com/UsergeTeam/Loader) - Userge Loader
+- [elastic/elasticsearch-py](https://github.com/elastic/elasticsearch-py) - Official Python client for Elasticsearch
 - [jigarvarma2k20/HelperScript-V2](https://github.com/jigarvarma2k20/HelperScript-V2) - 
 - [nishantssoni/Qt-tic-tac-toe](https://github.com/nishantssoni/Qt-tic-tac-toe) - A GUI Tic-Tac-Toe game between player and computer using python and PyQt5.
 - [BenyaminZojaji/versatile-bot](https://github.com/BenyaminZojaji/versatile-bot) - You can check the bot using this link https://t.me/versatile-bot
@@ -1661,7 +1662,6 @@
 - [shabane/countdown-vi](https://github.com/shabane/countdown-vi) - telegram bot which programed to countdown.
 - [subinps/tglogging](https://github.com/subinps/tglogging) - A python package to send your app logs to a telegram chat in realtime.
 - [jakkemomo/twalker](https://github.com/jakkemomo/twalker) - Twalker is a library that gathers information from big influencers.
-- [alcortazzo/tg-message-forwarder](https://github.com/alcortazzo/tg-message-forwarder) - Telegram bot for inline forwarding (specified user's) messages from one chat (or channel) to another.
 - [alcortazzo/vktgbot](https://github.com/alcortazzo/vktgbot) - 🇺🇦 Telegram Bot for reposting from VKontakte to Telegram channel
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [suhasa010/securejoinbot](https://github.com/suhasa010/securejoinbot) - Secure Generation of Invite links for Private Telegram groups
