@@ -77,7 +77,7 @@
 - [rhasspy/piper](https://github.com/rhasspy/piper) - A fast, local neural text to speech system
 - [vapoursynth/vapoursynth](https://github.com/vapoursynth/vapoursynth) - A video processing framework with simplicity in mind
 - [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) - Speech-to-text, text-to-speech, speaker diarization, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V,
-- [abdeladim-s/pywhispercpp](https://github.com/abdeladim-s/pywhispercpp) - Python bindings for whisper.cpp
+- [absadiki/pywhispercpp](https://github.com/absadiki/pywhispercpp) - Python bindings for whisper.cpp
 - [PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle) - PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）
 - [mozilla/DeepSpeech](https://github.com/mozilla/DeepSpeech) - DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.
 
@@ -379,6 +379,7 @@
 - [alipyth/Aparat_bot](https://github.com/alipyth/Aparat_bot) - ربات افزایش فالورر و بازدید آپارات . این ربات کاملا طبیعی عمل میکنه و خبری از ربات فالوور فیک نیست .
 - [MrYazdan/IranianProxyList](https://github.com/MrYazdan/IranianProxyList) - :globe_with_meridians: The best proxies that can be used in Iranian ISPs
 - [dkncus/CrowdRemoval](https://github.com/dkncus/CrowdRemoval) - 
+- [iniridwanul/Ciraag](https://github.com/iniridwanul/Ciraag) - A powerful multi-featured userbot on Telegram.
 - [Cozy-Tech/regex_tutorial_and_examples](https://github.com/Cozy-Tech/regex_tutorial_and_examples) - 
 - [Hameds/IranCountryDivisions](https://github.com/Hameds/IranCountryDivisions) - Iran Country Divisions - کلیه تقسیمات کشوری ایران تا سطح آبادی بر اساس اطلاعات مرکز آمار ایران
 - [MrBotDeveloper/This-Repo-Has-117-Stars](https://github.com/MrBotDeveloper/This-Repo-Has-117-Stars) - Yes it's true :broken_heart:, currently it has 117 stars ⭐ and 21 forks 🍴.
@@ -647,7 +648,7 @@
 - [TDHM/Subtitles-Translator](https://github.com/TDHM/Subtitles-Translator) - Automatic subtitles translation with a local neural machine translation model. No third-party service required: the translation is done locally with small but efficient neural network models.
 - [VikParuchuri/surya](https://github.com/VikParuchuri/surya) - OCR, layout analysis, reading order, table recognition in 90+ languages
 - [smacke/ffsubsync](https://github.com/smacke/ffsubsync) - Automagically synchronize subtitles with video.
-- [abdeladim-s/subsai](https://github.com/abdeladim-s/subsai) - 🎞️ Subtitles generation tool (Web-UI + CLI + Python package) powered by OpenAI's Whisper and its variants 🎞️
+- [absadiki/subsai](https://github.com/absadiki/subsai) - 🎞️ Subtitles generation tool (Web-UI + CLI + Python package) powered by OpenAI's Whisper and its variants 🎞️
 - [bipinkrish/Link-Bypasser-Bot](https://github.com/bipinkrish/Link-Bypasser-Bot) - A Telegram Bot (with Site) that can Bypass Ad Links, Generate Direct Links and Jump Paywalls
 - [jianchang512/pyvideotrans](https://github.com/jianchang512/pyvideotrans) - Translate the video from one language to another and add dubbing.         将视频从一种语言翻译为另一种语言，同时支持语音识别转录、语音合成、字幕翻译。
 - [zackees/isolated-environment](https://github.com/zackees/isolated-environment) - Internal venv management to fix AI dependency hell in python
@@ -1198,7 +1199,6 @@
 - [tweak1337/telegram_parser-v.2---Telethon](https://github.com/tweak1337/telegram_parser-v.2---Telethon) - Second version of public channels parser in telegram using Telethon library. (Postgresql)
 - [tweak1337/telegrabber](https://github.com/tweak1337/telegrabber) - To parse telegram public channels and reply it to your public and rec to DB
 - [AndydeCleyre/colorcodebot](https://github.com/AndydeCleyre/colorcodebot) - A simple Telegram bot for syntax highlighting
-- [iniridwanul/Ifritgram](https://github.com/iniridwanul/Ifritgram) - A powerful multi-featured userbot on Telegram.
 - [New-dev0/Telethon-Patch](https://github.com/New-dev0/Telethon-Patch) - Wrap over telethon with additional upgrades
 - [nethunter-ir/telegram-auto-forwarder](https://github.com/nethunter-ir/telegram-auto-forwarder) - Telegram Auto Forwarder
 - [JKhakpour/petit](https://github.com/JKhakpour/petit) - Persian text -&gt; integer, ineteger -&gt; text converter
@@ -2559,7 +2559,7 @@
 - [chameleon-lizard/webcp](https://github.com/chameleon-lizard/webcp) - Simple pastebin-like script. Can also handle photos, videos and any other files - it creates a page with a download link.
 - [moeen/PersianSubtitleFixer](https://github.com/moeen/PersianSubtitleFixer) - Fix Arabic and Persian subtitles by converting them into UTF-8
 - [david-lev/apkpull](https://github.com/david-lev/apkpull) - 📱 Pull APK's from android devices and emulators
-- [Fazzani/grab](https://github.com/Fazzani/grab) - Daily webgrabber
+- [Fazzani/grab](https://github.com/Fazzani/grab) - Daily EPG grabber (xmltv format)
 - [zackees/install.py](https://github.com/zackees/install.py) - Super easy script that can make a virtual env
 - [peicodes/heroku-buildpack-libsndfile](https://github.com/peicodes/heroku-buildpack-libsndfile) - 
 - [eyMarv/deploy-code-server](https://github.com/eyMarv/deploy-code-server) - 
