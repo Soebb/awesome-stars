@@ -673,7 +673,7 @@
 - [changh95/video-scraper](https://github.com/changh95/video-scraper) - Easy interface for batch video downloading using youtube-dl
 - [R4j4n/CaptionCraft](https://github.com/R4j4n/CaptionCraft) - 
 - [maximofn/subtify](https://github.com/maximofn/subtify) - 
-- [riverscuomo/mp3tagger](https://github.com/riverscuomo/mp3tagger) - A Python GUI for building filter strings for the Mp3Tag Windows app
+- [riverscuomo/mp3tagger_python](https://github.com/riverscuomo/mp3tagger_python) - A Python GUI for building filter strings for the Mp3Tag Windows app
 - [oVo-HxBots/Utubeitbot](https://github.com/oVo-HxBots/Utubeitbot) - Youtube Video Uploader Bot From Telegram
 - [karim23657/AparatUploader](https://github.com/karim23657/AparatUploader) - Upload videos to Aparat , very fast ,  just using browser cookies
 - [Energetic3906/m3u8DL_tgbot](https://github.com/Energetic3906/m3u8DL_tgbot) - 
@@ -1051,7 +1051,7 @@
 - [kkrypt0nn/Python-Discord-Bot-Template](https://github.com/kkrypt0nn/Python-Discord-Bot-Template) - 🐍 A simple template to start to code your own and personalized Discord bot in Python
 - [fascot/Media-Download-Tool](https://github.com/fascot/Media-Download-Tool) - This is a Media Download Tool which can get videos from Youtube and other sites.
 - [piriyaraj/shortsMobileSpeci](https://github.com/piriyaraj/shortsMobileSpeci) - automatic youtube video uploading script. it's able to scrap web content and make it a youtube short video and upload it on youtube automatically.
-- [gergovari/lazyshorts-py](https://github.com/gergovari/lazyshorts-py) - Create short videos, like a lazy person.
+- [gregvari/lazyshorts-py](https://github.com/gregvari/lazyshorts-py) - Create short videos, like a lazy person.
 - [MHadiS/port-scanner](https://github.com/MHadiS/port-scanner) - A port scanner made with python socket
 - [DanielJDufour/date-extractor](https://github.com/DanielJDufour/date-extractor) - Extract dates from text
 - [Taiko2k/Avvie](https://github.com/Taiko2k/Avvie) - A GTK app for quick image cropping :flower_playing_cards:
@@ -2532,6 +2532,7 @@
 
 ## Rust 
 
+- [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [thewh1teagle/sherpa-rs](https://github.com/thewh1teagle/sherpa-rs) - Rust bindings to https://github.com/k2-fsa/sherpa-onnx
 - [thewh1teagle/rookie](https://github.com/thewh1teagle/rookie) - Load cookies from your web browsers
 - [edrevo/dockerfile-plus](https://github.com/edrevo/dockerfile-plus) - New commands for Dockerfile
