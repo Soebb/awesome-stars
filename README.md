@@ -1050,7 +1050,7 @@
 - [kkrypt0nn/Python-Discord-Bot-Template](https://github.com/kkrypt0nn/Python-Discord-Bot-Template) - 🐍 A simple template to start to code your own and personalized Discord bot in Python
 - [fascot/Media-Download-Tool](https://github.com/fascot/Media-Download-Tool) - This is a Media Download Tool which can get videos from Youtube and other sites.
 - [piriyaraj/shortsMobileSpeci](https://github.com/piriyaraj/shortsMobileSpeci) - automatic youtube video uploading script. it's able to scrap web content and make it a youtube short video and upload it on youtube automatically.
-- [gregvari/lazyshorts-py](https://github.com/gregvari/lazyshorts-py) - Create short videos, like a lazy person.
+- [gergovari/lazyshorts-py](https://github.com/gergovari/lazyshorts-py) - Create short videos, like a lazy person.
 - [MHadiS/port-scanner](https://github.com/MHadiS/port-scanner) - A port scanner made with python socket
 - [DanielJDufour/date-extractor](https://github.com/DanielJDufour/date-extractor) - Extract dates from text
 - [Taiko2k/Avvie](https://github.com/Taiko2k/Avvie) - A GTK app for quick image cropping :flower_playing_cards:
@@ -1958,7 +1958,7 @@
 - [gurland/telegram-delete-all-messages](https://github.com/gurland/telegram-delete-all-messages) - Delete all your messages in groups / supergroups using this python script
 - [TeamYukki/YukkiMusicBot](https://github.com/TeamYukki/YukkiMusicBot) - Telegram Group Calls Streaming bot with some useful features, written in Python with Pyrogram and Py-Tgcalls. Supporting platforms like Youtube, Spotify, Resso, AppleMusic, Soundcloud and M3u8 Links.
 - [AbirHasan2005/Image-Exif](https://github.com/AbirHasan2005/Image-Exif) - A python script for extracting/removing exif data from images by @AbirHasan2005
-- [umutkonmus/InstagramPhotoDownloader](https://github.com/umutkonmus/InstagramPhotoDownloader) - Simple program for download any instagram profile photo
+- [umutkonmus/instagram_photo_downloader](https://github.com/umutkonmus/instagram_photo_downloader) - Simple program for download any instagram profile photo
 - [duonglh711/python-video-downloader](https://github.com/duonglh711/python-video-downloader) - Download any video from website
 - [shabane/apd](https://github.com/shabane/apd) - Any Aparat link such as Playlist Or Normal video downloader
 - [R3flex212/Spotify-Downloader](https://github.com/R3flex212/Spotify-Downloader) - An autoamtic python script that downloads any audio in .mp3 from youtube and adds it to your Downlaods folder
