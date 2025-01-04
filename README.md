@@ -167,6 +167,7 @@
 - [khalby786/REHeader](https://github.com/khalby786/REHeader) - Generate beautiful header images for your GitHub profile READMEs.
 - [GameGenesis/Youtube-Video-Downloader](https://github.com/GameGenesis/Youtube-Video-Downloader) - Convert a YouTube video or playlist to an MP3 audio or MP4 video format. Includes conversion history when signed in.
 - [AnonC0DER/NovaFilm](https://github.com/AnonC0DER/NovaFilm) - A django movie website.
+- [theofficialvkr/VKrDownloader](https://github.com/theofficialvkr/VKrDownloader) - VKrDownloader : All in one Video Downloader - Download videos from facebook twitter youtube tiktok and 1000+ other sites . YouTube downloader , facebook downloader . made by Vijay Kumar
 - [ImJanindu/imjanindu.github.io](https://github.com/ImJanindu/imjanindu.github.io) - Simple portfolio website
 - [donno2048/win95.exe](https://github.com/donno2048/win95.exe) - Microsoft Windows 95 as an executable (using python and pyinstaller)
 - [DustbinServer/Dustbin](https://github.com/DustbinServer/Dustbin) - Just Another Text Storage Service.
@@ -221,7 +222,6 @@
 - [sa-akhavani/video-streamer](https://github.com/sa-akhavani/video-streamer) - Node.js Video File Streamer
 - [1995parham/github-do-not-ban-us](https://github.com/1995parham/github-do-not-ban-us) - GitHub do not ban us from open source world :iran:
 - [ssc-public/Web-Workshop](https://github.com/ssc-public/Web-Workshop) - Angular, Ansible, CI/CD, Flutter, ElasticSearch, Redis, NSQ, RabbitMQ,  Jenkins, Jest, React, Redux, TypeScript, Django, GraphQL, Rest Framework, Docker and Kubernetes Tutorial
-- [theofficialvkr/VKrDownloader](https://github.com/theofficialvkr/VKrDownloader) - VKrDownloader : All in one Video Downloader - Download videos from facebook twitter youtube tiktok and 1000+ other sites . YouTube downloader , facebook downloader . made by Vijay Kumar
 - [Kunal-Diwan/FileSearchBot](https://github.com/Kunal-Diwan/FileSearchBot) - Telegram Inline Files Search Bot made using JS by @Kunal-Diwan
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [elthondsaraujo/railway-drive](https://github.com/elthondsaraujo/railway-drive) - 
@@ -487,7 +487,7 @@
 - [ruzhila/voiceapi](https://github.com/ruzhila/voiceapi) - Streaming ASR and TTS  based on FastAPI+ sherpa-onnx
 - [jdepoix/youtube-transcript-api](https://github.com/jdepoix/youtube-transcript-api) - This is a python API which allows you to get the transcript/subtitles for a given YouTube video. It also works for automatically generated subtitles and it does not require an API key nor a headless b
 - [JR3IS/Batch-Audio-Tagger](https://github.com/JR3IS/Batch-Audio-Tagger) - A python script to add metadata to multiple audio files at once using pytaglib.
-- [TelegramPlayGround/pyrogram](https://github.com/TelegramPlayGround/pyrogram) - PyroGramFORK | Telegram MTProto API framework in Python for users and bots | PyroGramFORK
+- [TelegramPlayGround/pyrogram](https://github.com/TelegramPlayGround/pyrogram) - PyroGram (https://github.com/pyrogram/pyrogram) FORK | Telegram MTProto API framework in Python for users and bots
 - [lunaticsm/catbox-uploader](https://github.com/lunaticsm/catbox-uploader) - Catbox Uploader is a simple Python library to upload files and URLs to Catbox.moe.
 - [supermihi/pytaglib](https://github.com/supermihi/pytaglib) - Python audio tagging library
 - [alvarobartt/python-package-template](https://github.com/alvarobartt/python-package-template) - 🎈 A Python package template using pyproject.toml, hatch, pre-commit, black, ruff, and mkdocs.
@@ -562,7 +562,7 @@
 - [JBDAC/TelegramDeDup](https://github.com/JBDAC/TelegramDeDup) - Telegram Duplicate Message Detector Bot
 - [dir01/tg-yt-dlp](https://github.com/dir01/tg-yt-dlp) - Telegram bot that extracts short videos from pages for you
 - [bellingcat/auto-archiver](https://github.com/bellingcat/auto-archiver) - Automatically archive links to videos, images, and social media content from Google Sheets (and more).
-- [RazhanHameed/kurd-spell](https://github.com/RazhanHameed/kurd-spell) - ✍🏼 Transformer based Neural Spell Corrector for Central Kurdish
+- [RazhanHameed/kurd-spell](https://github.com/RazhanHameed/kurd-spell) - ✍🏼 Neural Spell Checker for Central Kurdish (Sorani)
 - [sauravpanda/whisper-service](https://github.com/sauravpanda/whisper-service) - Simple API for deploying whisper on your own server
 - [AlexandreGazagnes/awdible](https://github.com/AlexandreGazagnes/awdible) - Awdible - Just the best free version of audible. Awdible is a free and open-source software that allows you to download music from youtube and convert it to mp3.  The idea is to provide a free version
 - [dawoudt/JustWatchAPI](https://github.com/dawoudt/JustWatchAPI) - Python 3 JustWatch.com API - https://justwatch.com
@@ -933,7 +933,6 @@
 - [Nv7-GitHub/googlesearch](https://github.com/Nv7-GitHub/googlesearch) - A Python library for scraping the Google search engine.
 - [opsdisk/yagooglesearch](https://github.com/opsdisk/yagooglesearch) - Yet another googlesearch - A Python library for executing intelligent, realistic-looking, and tunable Google searches.
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is a data framework for your LLM applications
-- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Chatbot for documentation, that allows you to chat with your data. Privately deployable, provides AI knowledge sharing and integrates knowledge into your AI workflow
 - [najafiseo/OpenAI-tool](https://github.com/najafiseo/OpenAI-tool) - This is a tool that you can use to do different things, such as writing articles in bulk
 - [ninjakx/youtube-video2ppt](https://github.com/ninjakx/youtube-video2ppt) - Turning the video explanation to ppt using opencv.
 - [dataplayer12/shavenet](https://github.com/dataplayer12/shavenet) - Predict when you last shaved with machine learning
@@ -1000,7 +999,7 @@
 - [AmoabaKelvin/saints-bot-public](https://github.com/AmoabaKelvin/saints-bot-public) - Repository for Saints Bot
 - [johnbumgarner/wordhoard](https://github.com/johnbumgarner/wordhoard) - This Python module can be used to obtain antonyms, synonyms, hypernyms, hyponyms, homophones and definitions.
 - [Prgckwb/ImageExtractor](https://github.com/Prgckwb/ImageExtractor) - ImageExtractor extracts images from a video at intervals of a specified number of frames and creates a PDF file by merging them together.
-- [codeperfectplus/Site-Cloner](https://github.com/codeperfectplus/Site-Cloner) - Quick & simple Python tool to clone website
+- [Py-Contributors/Site-Cloner](https://github.com/Py-Contributors/Site-Cloner) - Quick & simple Python tool to clone website
 - [Py-Contributors/PyEmailer](https://github.com/Py-Contributors/PyEmailer) - Send Emails In One Click With Python.
 - [epassaro/yt_clipper](https://github.com/epassaro/yt_clipper) - Easily make audio/video/gif clips from YouTube URLs
 - [Imangazaliev/syntax-highligter-bot](https://github.com/Imangazaliev/syntax-highligter-bot) - A Telegram bot for generating screenshots with highlighted code
@@ -2605,6 +2604,7 @@
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 - [SpEcHiDe/ButtonHTMLBot](https://github.com/SpEcHiDe/ButtonHTMLBot) - https://ButtonHTMLBot.t.me
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
+- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Chatbot for documentation, that allows you to chat with your data. Privately deployable, provides AI knowledge sharing and integrates knowledge into your AI workflow
 - [backmeupplz/archivelinksbot](https://github.com/backmeupplz/archivelinksbot) - Telegram bot that saves links to web archive
 - [arghyac35/aria-telegram-mirror-bot](https://github.com/arghyac35/aria-telegram-mirror-bot) - This is a fork of https://github.com/out386/aria-telegram-mirror-bot. A Telegram bot to download files via HTTP(S)/BitTorrent and upload them to Google Drive
 - [Qiamast/PersianWordle](https://github.com/Qiamast/PersianWordle) - "Persian Wordle" is a fun and challenging word puzzle game designed to improve your Persian vocabulary. Built with TypeScript, ReactJS, TailwindCSS, PostCSS, and a Persian word dictionary, this game o
