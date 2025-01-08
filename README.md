@@ -1119,7 +1119,7 @@
 - [dolph/dictionary](https://github.com/dolph/dictionary) - A list of the most popular English words.
 - [wkentaro/gdown](https://github.com/wkentaro/gdown) - Google Drive Public File Downloader when Curl/Wget Fails
 - [amirhoseinsb/musicfinder](https://github.com/amirhoseinsb/musicfinder) - A script to find and download music fast
-- [UNICT-Fake-Audio/fake-audio-detector](https://github.com/UNICT-Fake-Audio/fake-audio-detector) - Simple fake audio detector
+- [UNICT-Fake-Audio/fake-audio-detector](https://github.com/UNICT-Fake-Audio/fake-audio-detector) - Simple synthetic audio feature extractor
 - [Coolshanlan/HighlightTranslator](https://github.com/Coolshanlan/HighlightTranslator) - Highlight Translator can help you to translate the words quickly and accurately. By only highlighting, copying, or screenshoting the content you want to translate anywhere on your computer (ex. PDF, P
 - [sadegh-masoumi/persian-ocr-pdf-to-word](https://github.com/sadegh-masoumi/persian-ocr-pdf-to-word) - persian ocr pdf to word
 - [petez-sufe/timelapse_slicer](https://github.com/petez-sufe/timelapse_slicer) - This script is for photographers to do timeslice with one click.
