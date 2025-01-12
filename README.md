@@ -182,6 +182,7 @@
 - [ArdeshirV/resources](https://github.com/ArdeshirV/resources) - My resources such as images for using in README file(s) of github
 - [dailydotdev/daily-scraper](https://github.com/dailydotdev/daily-scraper) - Fetches information about every webpage 🤖
 - [abhint/tg-session-string](https://github.com/abhint/tg-session-string) - 
+- [tginfo/Telegram-Limits](https://github.com/tginfo/Telegram-Limits) - This project describes Telegram limitations
 - [LiuYuancheng/Py_Web_Contents_Download_Tool](https://github.com/LiuYuancheng/Py_Web_Contents_Download_Tool) - Our goal is to develop a Python library tailored for big data projects, specifically designed for data collection purposes.
 - [devmaxxing/babylonjs-easyrtc-test](https://github.com/devmaxxing/babylonjs-easyrtc-test) - 
 - [jigarvarma2k20/Video-Player](https://github.com/jigarvarma2k20/Video-Player) - 
@@ -451,7 +452,6 @@
 - [NabiKAZ/fetch-telegram](https://github.com/NabiKAZ/fetch-telegram) - Fetch and download all video contents of channels telegram by PHP (Not used Bot API, Core API, or not need any authenticate telegram! It's anonymouse downloader!)
 - [koel/koel](https://github.com/koel/koel) - 🐦 A personal music streaming server that works.
 - [YOURLS/YOURLS](https://github.com/YOURLS/YOURLS) - 🔗 The de facto standard self hosted URL shortener in PHP
-- [tginfo/Telegram-Limits](https://github.com/tginfo/Telegram-Limits) - This project describes Telegram limitations
 - [shetabit/payment](https://github.com/shetabit/payment) - simple laravel payment package , supports multiple drivers
 - [shahind/Persian-Spell-Corrector-PHP](https://github.com/shahind/Persian-Spell-Corrector-PHP) - a PHP Script for correcting Persian Spell
 - [NeleB54Gold/NeleBotX](https://github.com/NeleB54Gold/NeleBotX) - PHP Framework for Telegram Bot API
@@ -530,7 +530,7 @@
 - [Pranjalya/tts-tortoise-gradio](https://github.com/Pranjalya/tts-tortoise-gradio) - A Gradio setup for Tortoise TTS.
 - [jhsoby/telegram-wikilinksbot](https://github.com/jhsoby/telegram-wikilinksbot) - Telegram bot that links [[wiki links]] and Wikidata entities in chats
 - [GamingBeast1/Ultra-forward-bot](https://github.com/GamingBeast1/Ultra-forward-bot) - A powerful forward bot to forward bulk messages from one channel to other
-- [GreyMatters-Tech/TG-URL-Shortener-Bot](https://github.com/GreyMatters-Tech/TG-URL-Shortener-Bot) - Telegram URL Shortener Bot With Many Amazing Features.
+- [Moksh-Bhardwaj/TG-URL-Shortener-Bot](https://github.com/Moksh-Bhardwaj/TG-URL-Shortener-Bot) - Telegram URL Shortener Bot With Many Amazing Features.
 - [persiannlp/parsinlu](https://github.com/persiannlp/parsinlu) - A comprehensive suite of high-level NLP tasks for Persian language
 - [AmirAref/LinkedinBot](https://github.com/AmirAref/LinkedinBot) - a telegram robot that uploads media from the Linkedin.com posts into telegram.
 - [AmirAref/Torobot](https://github.com/AmirAref/Torobot) - an inline telegram robot to easy access and search in torob.com products from telegram.
@@ -752,7 +752,7 @@
 - [bndr/pipreqs](https://github.com/bndr/pipreqs) - pipreqs - Generate pip requirements.txt file based on imports of any project. Looking for maintainers to move this project forward.
 - [stlukey/whispercpp.py](https://github.com/stlukey/whispercpp.py) - Python bindings for whisper.cpp
 - [kfatehi/persian-tts-server](https://github.com/kfatehi/persian-tts-server) - Simple HTTP server wrapping Coqui TTS
-- [GreyMatters-Tech/public-forward-bot](https://github.com/GreyMatters-Tech/public-forward-bot) - 
+- [Moksh-Bhardwaj/public-forward-bot](https://github.com/Moksh-Bhardwaj/public-forward-bot) - 
 - [MiguelX413/IgTgBot](https://github.com/MiguelX413/IgTgBot) - Let's me post Instagram posts on Telegram.
 - [dory111111/Pengenuity](https://github.com/dory111111/Pengenuity) - Pengunuity is an experimental open-source autonomous AI Agent that aims to replicate the structure of human memory.
 - [amirhoseinsb/Cloud_Player_V2](https://github.com/amirhoseinsb/Cloud_Player_V2) - You can use the cloudplayer tool to listen to the music of the singer you want without going to a specific website and at a very high speed.
@@ -932,7 +932,7 @@
 - [venthur/gscholar](https://github.com/venthur/gscholar) - Query Google Scholar with Python
 - [Nv7-GitHub/googlesearch](https://github.com/Nv7-GitHub/googlesearch) - A Python library for scraping the Google search engine.
 - [opsdisk/yagooglesearch](https://github.com/opsdisk/yagooglesearch) - Yet another googlesearch - A Python library for executing intelligent, realistic-looking, and tunable Google searches.
-- [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is a data framework for your LLM applications
+- [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the leading framework for building LLM-powered agents over your data
 - [najafiseo/OpenAI-tool](https://github.com/najafiseo/OpenAI-tool) - This is a tool that you can use to do different things, such as writing articles in bulk
 - [ninjakx/youtube-video2ppt](https://github.com/ninjakx/youtube-video2ppt) - Turning the video explanation to ppt using opencv.
 - [dataplayer12/shavenet](https://github.com/dataplayer12/shavenet) - Predict when you last shaved with machine learning
@@ -1197,7 +1197,7 @@
 - [tweak1337/telegram_parser-v.2---Telethon](https://github.com/tweak1337/telegram_parser-v.2---Telethon) - Second version of public channels parser in telegram using Telethon library. (Postgresql)
 - [tweak1337/telegrabber](https://github.com/tweak1337/telegrabber) - To parse telegram public channels and reply it to your public and rec to DB
 - [AndydeCleyre/colorcodebot](https://github.com/AndydeCleyre/colorcodebot) - A simple Telegram bot for syntax highlighting
-- [iniridwanul/Ciraag](https://github.com/iniridwanul/Ciraag) - A powerful multi-featured userbot on Telegram.
+- [iniridwanul/Ciraag](https://github.com/iniridwanul/Ciraag) - A powerful pluggable userbot on Telegram.
 - [New-dev0/Telethon-Patch](https://github.com/New-dev0/Telethon-Patch) - Wrap over telethon with additional upgrades
 - [nethunter-ir/telegram-auto-forwarder](https://github.com/nethunter-ir/telegram-auto-forwarder) - Telegram Auto Forwarder
 - [JKhakpour/petit](https://github.com/JKhakpour/petit) - Persian text -&gt; integer, ineteger -&gt; text converter
@@ -1855,7 +1855,7 @@
 - [dadolens/Website-Updater-Bot](https://github.com/dadolens/Website-Updater-Bot) - Telegram Bot that notify when a web page (or a piece of it) changes
 - [ohaval/auto-doh](https://github.com/ohaval/auto-doh) - A Python package which serves as an API client, with a scheduled task (cronjob) and a Telegram bot to automate the daily process of doh.
 - [Zycho-Dev-66/GiveawayZ](https://github.com/Zycho-Dev-66/GiveawayZ) - A Powerful telegram giveawayz bot based on the python-telegram-bot API. Powered by Team Zyntax and Team DFX
-- [contyadvait/AdvancedGoogleSearchDev](https://github.com/contyadvait/AdvancedGoogleSearchDev) - 
+- [advaitconty/AdvancedGoogleSearchDev](https://github.com/advaitconty/AdvancedGoogleSearchDev) - 
 - [kmille/deezer-downloader](https://github.com/kmille/deezer-downloader) - Download music from Deezer with a nice front end
 - [pythonecuador/pythonecuador.github.io](https://github.com/pythonecuador/pythonecuador.github.io) - Sitio web de la comunidad de Python del Ecuador
 - [cozy/cozy.github.io](https://github.com/cozy/cozy.github.io) - Official documentation for Cozy.
@@ -2052,7 +2052,7 @@
 - [abhijeetbhagat/mp4box](https://github.com/abhijeetbhagat/mp4box) - Python 3 port of the MP4Box tool
 - [derpferpmerp/ffmpeg-combine-directory](https://github.com/derpferpmerp/ffmpeg-combine-directory) - Combine all videos in current directory (Print out MP4Box Command)
 - [avilash/TikTokAPI-Python](https://github.com/avilash/TikTokAPI-Python) - TikTok API Python Wrapper
-- [subzeroid/instagrapi](https://github.com/subzeroid/instagrapi) - 🔥 The fastest and powerful Python library for Instagram Private API 2024 with HikerAPI SaaS
+- [subzeroid/instagrapi](https://github.com/subzeroid/instagrapi) - 🔥 The fastest and powerful Python library for Instagram Private API 2025 with HikerAPI SaaS
 - [yashrathi-git/vimeo-dl](https://github.com/yashrathi-git/vimeo-dl) - Downloads Vimeo videos and retrieve metadata such as views, likes, comments, duration of the video.
 - [jawah/charset_normalizer](https://github.com/jawah/charset_normalizer) - Truly universal encoding detector in pure Python
 - [RincemonReji/RSS-Feed](https://github.com/RincemonReji/RSS-Feed) - 
