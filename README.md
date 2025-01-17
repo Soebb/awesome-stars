@@ -483,6 +483,7 @@
 
 ## Python 
 
+- [ggogel/SocialMediaDownloadMaubot](https://github.com/ggogel/SocialMediaDownloadMaubot) - 
 - [AliGhaffarian/git-in-there](https://github.com/AliGhaffarian/git-in-there) - a simple backup script that uses git
 - [ruzhila/voiceapi](https://github.com/ruzhila/voiceapi) - Streaming ASR and TTS  based on FastAPI+ sherpa-onnx
 - [jdepoix/youtube-transcript-api](https://github.com/jdepoix/youtube-transcript-api) - This is a python API which allows you to get the transcript/subtitles for a given YouTube video. It also works for automatically generated subtitles and it does not require an API key nor a headless b
@@ -712,7 +713,7 @@
 - [metachris/logzero](https://github.com/metachris/logzero) - Robust and effective logging for Python 2 and 3.
 - [saizk/auto-selenium](https://github.com/saizk/auto-selenium) - Automatic download of Selenium Web Drivers for all browsers
 - [kotttee/pyrogram_patch](https://github.com/kotttee/pyrogram_patch) - pyrogram_patch is a Python library this is a library that adds middlewares and fsm to pyrogram.
-- [AlirezaTheH/medicure](https://github.com/AlirezaTheH/medicure) - A cosmetic treatment for your media files: movies, tv shows  and also their subtitles.
+- [alirezatheh/medicure](https://github.com/alirezatheh/medicure) - A cosmetic treatment for your media files: movies, tv shows  and also their subtitles.
 - [baxtree/subaligner](https://github.com/baxtree/subaligner) - Automatically synchronize and translate subtitles, or create new ones by transcribing, using pre-trained DNNs, Forced Alignments and Transformers. https://subaligner.readthedocs.io/
 - [xditya/GetRestrictedMessages](https://github.com/xditya/GetRestrictedMessages) - Copy messages from telegram chats with forward restrictions enabled.
 - [am-mohammadi/NameGenderFA](https://github.com/am-mohammadi/NameGenderFA) - Detecting gender of Persian names with auto cleaning the input
@@ -932,7 +933,7 @@
 - [venthur/gscholar](https://github.com/venthur/gscholar) - Query Google Scholar with Python
 - [Nv7-GitHub/googlesearch](https://github.com/Nv7-GitHub/googlesearch) - A Python library for scraping the Google search engine.
 - [opsdisk/yagooglesearch](https://github.com/opsdisk/yagooglesearch) - Yet another googlesearch - A Python library for executing intelligent, realistic-looking, and tunable Google searches.
-- [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the leading framework for building LLM-powered agents over your data
+- [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the leading framework for building LLM-powered agents over your data.
 - [najafiseo/OpenAI-tool](https://github.com/najafiseo/OpenAI-tool) - This is a tool that you can use to do different things, such as writing articles in bulk
 - [ninjakx/youtube-video2ppt](https://github.com/ninjakx/youtube-video2ppt) - Turning the video explanation to ppt using opencv.
 - [dataplayer12/shavenet](https://github.com/dataplayer12/shavenet) - Predict when you last shaved with machine learning
@@ -1378,7 +1379,7 @@
 - [ytdl-patched/ytdl-patched](https://github.com/ytdl-patched/ytdl-patched) - yt-dlp fork with some more features
 - [codingdudepy/Tik-Tok-Downloader](https://github.com/codingdudepy/Tik-Tok-Downloader) - 📱Download Tik Tok Videos Without Watermark in flask
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
-- [CrispenGari/python-and-flask](https://github.com/CrispenGari/python-and-flask) - 💎 A quick start for web server development using python flask.
+- [CrispenGari/python-backend](https://github.com/CrispenGari/python-backend) - 💎 A quick start for web server development using python flask, django and fastapi.
 - [harshitbansall/InstagramBOT](https://github.com/harshitbansall/InstagramBOT) - Script for Instagram to Download Posts, Profile Images and Hashtag Pictures. Will post and Manage images also in future.
 - [Koushikphy/TeleSpy](https://github.com/Koushikphy/TeleSpy) - Take Photo/Audio/Video from webcam by remotely controlling it using a Telegram bot.
 - [Fsunroo/PowerPointVoiceExtract](https://github.com/Fsunroo/PowerPointVoiceExtract) - this will extract voice from power points
@@ -1461,7 +1462,7 @@
 - [rezkam/persian](https://github.com/rezkam/persian) - Simple Python tool for Persian language localization.
 - [amir-saniyan/HodaDatasetReader](https://github.com/amir-saniyan/HodaDatasetReader) - Python code for reading Hoda farsi digit dataset.
 - [ICTRC/Parsivar](https://github.com/ICTRC/Parsivar) - A Language Processing Toolkit for Persian
-- [AlirezaTheH/perke](https://github.com/AlirezaTheH/perke) - A keyphrase extractor for Persian
+- [alirezatheh/perke](https://github.com/alirezatheh/perke) - A keyphrase extractor for Persian
 - [afshinrudgar/Finglish2FarsiTelegramBot](https://github.com/afshinrudgar/Finglish2FarsiTelegramBot) - This is a Finglish to Farsi telegram bot
 - [roshan-research/moratab](https://github.com/roshan-research/moratab) - Persian markdown editor.
 - [roshan-research/hazm](https://github.com/roshan-research/hazm) - Persian NLP Toolkit
