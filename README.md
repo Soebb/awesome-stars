@@ -49,7 +49,7 @@
 - [norihiro/alignaudio](https://github.com/norihiro/alignaudio) - a tool to align audio files
 - [gpac/gpac](https://github.com/gpac/gpac) - GPAC Ultramedia OSS for Video Streaming & Next-Gen Multimedia Transcoding, Packaging & Delivery
 - [TheZoc/sub3dtool](https://github.com/TheZoc/sub3dtool) - Convert subtitle to 3D (ASS Format) to use with VLC or MPlayer
-- [ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick) - 🧙‍♂️ ImageMagick 7
+- [ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick) - ImageMagick is a powerful, open-source software suite for creating, editing, converting, and manipulating images in over 200 formats. Ideal for web developers, graphic designers, and researchers, it o
 
 ## C# # 
 
@@ -346,6 +346,7 @@
 
 ## Others 
 
+- [MoonWalker440/TeleBotList](https://github.com/MoonWalker440/TeleBotList) - A cool collection of awesome Telegram bots source code hosted on github
 - [rahgozar94725/freedom](https://github.com/rahgozar94725/freedom) - آموزش راه‌اندازی فیلتر شکن شخصی
 - [skills/introduction-to-github](https://github.com/skills/introduction-to-github) - Get started using GitHub in less than an hour.
 - [Himura2la/awesome-soft](https://github.com/Himura2la/awesome-soft) - My humble attempts to collect all great pieces of software I use, recommend, or know about
@@ -1176,7 +1177,7 @@
 - [swaaz/InstaBot](https://github.com/swaaz/InstaBot) - Instagram bot built using Python and Selenium
 - [rzashakeri/instagram-getter](https://github.com/rzashakeri/instagram-getter) - Download anything from Instagram with this robot 📥
 - [Gumbraise/instagram-bomber](https://github.com/Gumbraise/instagram-bomber) - An open-source project. Instagram Messages Spammer/Bomber
-- [gerald-lnj/duplicate-video-finder](https://github.com/gerald-lnj/duplicate-video-finder) - A python module to detect duplicate videos in a directory.
+- [glau-bd/duplicate-video-finder](https://github.com/glau-bd/duplicate-video-finder) - A python module to detect duplicate videos in a directory.
 - [ICRAR/ijson](https://github.com/ICRAR/ijson) - Iterative JSON parser with Pythonic interfaces
 - [Alir3z4/negar-cli](https://github.com/Alir3z4/negar-cli) - Negar Command Line Interface
 - [javadr/negar-gui](https://github.com/javadr/negar-gui) - Graphical User Interface for Negar -- Persian Text Editor
