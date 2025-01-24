@@ -367,7 +367,7 @@
 - [Soebb/awesome-stars](https://github.com/Soebb/awesome-stars) - All the best python repositories in github.
 - [DmitryScaletta/free-heroku-alternatives](https://github.com/DmitryScaletta/free-heroku-alternatives) - Comparison of free Heroku alternatives for backend applications
 - [karim23657/awesome-Persian-Speech](https://github.com/karim23657/awesome-Persian-Speech) - A collection of inspiring lists, repos, datasets, models, tools and more for Persian language speech to text(stt) and text to speech(tts) .
-- [cgohlke/win_arm64-wheels](https://github.com/cgohlke/win_arm64-wheels) - Experimental wheels for Python for Windows on ARM64
+- [cgohlke/win_arm64-wheels](https://github.com/cgohlke/win_arm64-wheels) - Experimental wheels for Python for Windows on ARM64.
 - [archinetai/audio-ai-timeline](https://github.com/archinetai/audio-ai-timeline) - A timeline of the latest AI models for audio generation, starting in 2023!
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [karim23657/ParsiGoo](https://github.com/karim23657/ParsiGoo) - ParsiGoo is a Persian multispeaker dataset for text-to-speech purposes. It includes recordings from different speakers and is designed to be used for training and evaluating text-to-speech models.
@@ -1554,7 +1554,7 @@
 - [rozari0/NeedMusicRobot](https://github.com/rozari0/NeedMusicRobot) - A Simple Music Downloader Bot For Telegram with Youtube Music, Spotify & Deezer Support.
 - [abnatal/botobot](https://github.com/abnatal/botobot) - 🐬 BotoBot is an easy to configure menu-based chatbot for Whatsapp / Telegram.
 - [oohwooh/github-telegram-bot](https://github.com/oohwooh/github-telegram-bot) - A telegram bot to interact with GitHub
-- [KristianAskk/Mp4-to-terminal](https://github.com/KristianAskk/Mp4-to-terminal) - A program that displays mp4 videos in the terminal.
+- [KristianAskS/Mp4-to-terminal](https://github.com/KristianAskS/Mp4-to-terminal) - A program that displays mp4 videos in the terminal.
 - [ArjunSahlot/vidmaker](https://github.com/ArjunSahlot/vidmaker) - A python library which simplifies creating and exporting videos.
 - [esaatci/rescale_crawler](https://github.com/esaatci/rescale_crawler) - 
 - [srstevenson/keyword-extractor](https://github.com/srstevenson/keyword-extractor) - Extract keywords from plain text documents for quick analysis with spaCy and scikit-learn.
@@ -2315,7 +2315,7 @@
 - [gautamajay52/ufile.io](https://github.com/gautamajay52/ufile.io) - Asynchronous Python Wrapper for the Ufile API
 - [New-dev0/TgTwitterBot](https://github.com/New-dev0/TgTwitterBot) - TgTwitterBot -  Control and Explore Twitter from Telegram
 - [lntechnical2/live_count_channelv2](https://github.com/lntechnical2/live_count_channelv2) - 
-- [nuhmanpk/WebScrapper](https://github.com/nuhmanpk/WebScrapper) - Simple and powerfull all in one Telegram Bot to scrap / crawl webpages using Requests, html5lib and Beautifulsoup
+- [nuhmanpk/WebScrapper](https://github.com/nuhmanpk/WebScrapper) - Powerful Telegram bot for web scraping and crawling. Fast, easy, and loved by thousands!
 - [m4mallu/DeleteMediaRobot](https://github.com/m4mallu/DeleteMediaRobot) - Telegram robot to delete media in a chat!
 - [AnjanaMadu/MentionAllBot](https://github.com/AnjanaMadu/MentionAllBot) - This bot can mention members upto 10,000 in groups and can mention members upto 200 in channels !
 - [dihanofficial/SophiaOLD](https://github.com/dihanofficial/SophiaOLD) - Old Vision of Sophia Source Code.....
@@ -2411,6 +2411,7 @@
 - [lntechnical2/forward-tag-remover-bot](https://github.com/lntechnical2/forward-tag-remover-bot) - 
 - [lntechnical2/YouTube_Thumbnail_Downloader](https://github.com/lntechnical2/YouTube_Thumbnail_Downloader) - Youtube Video  Thumbnail Downloader Telegram Bot
 - [lntechnical2/RENAMER_BOT_V2](https://github.com/lntechnical2/RENAMER_BOT_V2) - Telegram File Renamer Bot
+- [erfan4lx/Telegram-Channel-Posts-Counter](https://github.com/erfan4lx/Telegram-Channel-Posts-Counter) - Count the posts on your target Telegram channel
 - [rafpyprog/ImageSoup](https://github.com/rafpyprog/ImageSoup) - Python library designed for quick search and downloading images from Google Images.
 - [banhao/scrape-youtube-channel-videos-url](https://github.com/banhao/scrape-youtube-channel-videos-url) - This Python script is used to scrape all the video links from a youtube channel.
 - [Itz-fork/pyro-mega.py](https://github.com/Itz-fork/pyro-mega.py) - Modified Version of mega.py package for Pyrogram Bots
