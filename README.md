@@ -762,7 +762,7 @@
 - [m1guelpf/yt-whisper](https://github.com/m1guelpf/yt-whisper) - Using OpenAI's Whisper to automatically generate YouTube subtitles
 - [mvdctop/Movie_Data_Capture](https://github.com/mvdctop/Movie_Data_Capture) - Local Movies Organizer
 - [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
-- [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - ✨ Build AI interfaces that spark joy
+- [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - ✨ AI agents that spark joy
 - [Textualize/frogmouth](https://github.com/Textualize/frogmouth) - A Markdown browser for your terminal
 - [gleitz/howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
 - [darrenburns/kupo](https://github.com/darrenburns/kupo) - A terminal file browser, kupo!
@@ -771,7 +771,7 @@
 - [ar-ekt/IncognitoBot](https://github.com/ar-ekt/IncognitoBot) - یه بات تلگرام که پیام‌ها رو به‌صورت ناشناس داخل کانال قرار میده.
 - [reza00farjam/rjdl](https://github.com/reza00farjam/rjdl) - Python package to download Music, Video, Album, Podcast & Playlists from www.RadioJavan.com
 - [Smartproxy/Python-scraper-tutorial](https://github.com/Smartproxy/Python-scraper-tutorial) - A short introduction to scraping with Python with given steps and an example scraper script.
-- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | gpt-4o and deepseek v3 & r1
 - [spatialaudio/python-sounddevice](https://github.com/spatialaudio/python-sounddevice) - :sound: Play and Record Sound with Python :snake:
 - [ultrafunkamsterdam/undetected-chromedriver](https://github.com/ultrafunkamsterdam/undetected-chromedriver) - Custom Selenium Chromedriver | Zero-Config | Passes ALL bot mitigation systems (like Distil / Imperva/ Datadadome / CloudFlare IUAM)
 - [frgt10/dvdremuxer](https://github.com/frgt10/dvdremuxer) - Remuxer DVD to MKV
@@ -1184,7 +1184,7 @@
 - [javadr/negar-gui](https://github.com/javadr/negar-gui) - Graphical User Interface for Negar -- Persian Text Editor
 - [pytitle/PyTitle-cli](https://github.com/pytitle/PyTitle-cli) - Command line tool for editing and manipulating subtitles.
 - [skyme5/deepgram-cli](https://github.com/skyme5/deepgram-cli) - Python CLI for bulk transcribing audio files/urls using deepgram.com
-- [deepgram/deepgram-python-sdk](https://github.com/deepgram/deepgram-python-sdk) - Official Python SDK for Deepgram's automated speech recognition APIs.
+- [deepgram/deepgram-python-sdk](https://github.com/deepgram/deepgram-python-sdk) - Official Python SDK for Deepgram.
 - [quodlibet/mutagen](https://github.com/quodlibet/mutagen) - Python module for handling audio metadata
 - [diprajpatra/selenium-stealth](https://github.com/diprajpatra/selenium-stealth) - Trying to make python selenium more stealthy.
 - [zuruoke/watermark-removal](https://github.com/zuruoke/watermark-removal) - a machine learning image inpainting task that instinctively removes watermarks from image indistinguishable from the ground truth image
