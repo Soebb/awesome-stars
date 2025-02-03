@@ -1548,7 +1548,7 @@
 - [ocatias/AutoMash](https://github.com/ocatias/AutoMash) - Automatically create YouTube mashups. Given videos and a text, AutoMash will cut the videos together so the speakers in the video appears to says the given text.
 - [NathaliaBarreiros/audio_transcription_deepspeech](https://github.com/NathaliaBarreiros/audio_transcription_deepspeech) - Transcription .wav audio files with DeepSpeech library
 - [Arcadia2142/voice-recognize](https://github.com/Arcadia2142/voice-recognize) - 
-- [zackees/transcribe-anything](https://github.com/zackees/transcribe-anything) - Input a local file or url and this service will transcribe it using Whisper AI. Completely private and Free 🤯🤯🤯
+- [zackees/transcribe-anything](https://github.com/zackees/transcribe-anything) - Multi-backend whisper app. Blazing fast. Mac-arm optimized. Easy install. Input a local file or url and this service will transcribe it using Whisper AI. Completely private and Free 🤯🤯🤯
 - [zackees/static_ffmpeg](https://github.com/zackees/static_ffmpeg) - Installs FFMPEG v5 On Win32/Ubuntu/MacOS
 - [revolter/FileConvertBot](https://github.com/revolter/FileConvertBot) - Telegram Bot that converts some file types to native photo, audio or video Telegram messages.
 - [rozari0/NeedMusicRobot](https://github.com/rozari0/NeedMusicRobot) - A Simple Music Downloader Bot For Telegram with Youtube Music, Spotify & Deezer Support.
