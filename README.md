@@ -935,7 +935,6 @@
 - [Nv7-GitHub/googlesearch](https://github.com/Nv7-GitHub/googlesearch) - A Python library for scraping the Google search engine.
 - [opsdisk/yagooglesearch](https://github.com/opsdisk/yagooglesearch) - Yet another googlesearch - A Python library for executing intelligent, realistic-looking, and tunable Google searches.
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the leading framework for building LLM-powered agents over your data.
-- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Chatbot for documentation, that allows you to chat with your data. Privately deployable, provides AI knowledge sharing and integrates knowledge into your AI workflow
 - [najafiseo/OpenAI-tool](https://github.com/najafiseo/OpenAI-tool) - This is a tool that you can use to do different things, such as writing articles in bulk
 - [ninjakx/youtube-video2ppt](https://github.com/ninjakx/youtube-video2ppt) - Turning the video explanation to ppt using opencv.
 - [dataplayer12/shavenet](https://github.com/dataplayer12/shavenet) - Predict when you last shaved with machine learning
@@ -1405,7 +1404,7 @@
 - [iamvee/karafs](https://github.com/iamvee/karafs) - تولید اسم های رندوم فینگیلیش
 - [erfansaberi/Startup-wallpaper-creator---Jalali-calendar-and-Persian-poem](https://github.com/erfansaberi/Startup-wallpaper-creator---Jalali-calendar-and-Persian-poem) - این برنامه موقع بالا اومدن ویندوز با توجه به تنظیماتی که به برنامه دادین یه والپیپر میسازه و ست میکنه روی صفحتون شامل تاریخ شمسی، میلادی، شعر و عکس بکگراند رندوم
 - [turotakun98/WebmToGifTelegram](https://github.com/turotakun98/WebmToGifTelegram) - 
-- [MrCharouon/Spotify-downloader-python](https://github.com/MrCharouon/Spotify-downloader-python) - 
+- [terladev/Spotify-downloader-python](https://github.com/terladev/Spotify-downloader-python) - 
 - [SepehrRasouli/DigikalaWebScraper](https://github.com/SepehrRasouli/DigikalaWebScraper) - Digikala Webscraper Connected to excel
 - [kordaki/IRFriendsTelBot](https://github.com/kordaki/IRFriendsTelBot) - Fun telegram bot for IRFriends telegram group :)
 - [calganaygun/YoutubeTranscriber](https://github.com/calganaygun/YoutubeTranscriber) - Easily find words in YouTube videos.
@@ -2064,7 +2063,7 @@
 - [pytube/pytube](https://github.com/pytube/pytube) - A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.
 - [iamLiquidX/MirLeechX](https://github.com/iamLiquidX/MirLeechX) - 
 - [im-bb/PH-DL](https://github.com/im-bb/PH-DL) - Simple python-based script to download PH STUFF
-- [itsrojasleon/personal-video-merger](https://github.com/itsrojasleon/personal-video-merger) - A personal video merger that sometimes I use
+- [rojasleon/personal-video-merger](https://github.com/rojasleon/personal-video-merger) - A personal video merger that sometimes I use
 - [jeffanberg/AVMerger](https://github.com/jeffanberg/AVMerger) - Creates a simple video by merging audio with photo.
 - [hazybluedot/ffmpeg_split](https://github.com/hazybluedot/ffmpeg_split) - Split a video file using ffmpeg into separate audio-only and video-only segments based on an input file containg start/end times of each segment
 - [Nguh-Prince/video_trimmer](https://github.com/Nguh-Prince/video_trimmer) - a python script that trims a video file from arguments passed via the command line
@@ -2608,6 +2607,7 @@
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 - [SpEcHiDe/ButtonHTMLBot](https://github.com/SpEcHiDe/ButtonHTMLBot) - https://ButtonHTMLBot.t.me
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
+- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Chatbot for documentation, that allows you to chat with your data. Privately deployable, provides AI knowledge sharing and integrates knowledge into your AI workflow
 - [backmeupplz/archivelinksbot](https://github.com/backmeupplz/archivelinksbot) - Telegram bot that saves links to web archive
 - [arghyac35/aria-telegram-mirror-bot](https://github.com/arghyac35/aria-telegram-mirror-bot) - This is a fork of https://github.com/out386/aria-telegram-mirror-bot. A Telegram bot to download files via HTTP(S)/BitTorrent and upload them to Google Drive
 - [Qiamast/PersianWordle](https://github.com/Qiamast/PersianWordle) - "Persian Wordle" is a fun and challenging word puzzle game designed to improve your Persian vocabulary. Built with TypeScript, ReactJS, TailwindCSS, PostCSS, and a Persian word dictionary, this game o
