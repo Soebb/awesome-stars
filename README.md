@@ -771,7 +771,7 @@
 - [ar-ekt/IncognitoBot](https://github.com/ar-ekt/IncognitoBot) - یه بات تلگرام که پیام‌ها رو به‌صورت ناشناس داخل کانال قرار میده.
 - [reza00farjam/rjdl](https://github.com/reza00farjam/rjdl) - Python package to download Music, Video, Album, Podcast & Playlists from www.RadioJavan.com
 - [Smartproxy/Python-scraper-tutorial](https://github.com/Smartproxy/Python-scraper-tutorial) - A short introduction to scraping with Python with given steps and an example scraper script.
-- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | gpt-4o and deepseek v3 & r1
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o3 mini and deepseek r1
 - [spatialaudio/python-sounddevice](https://github.com/spatialaudio/python-sounddevice) - :sound: Play and Record Sound with Python :snake:
 - [ultrafunkamsterdam/undetected-chromedriver](https://github.com/ultrafunkamsterdam/undetected-chromedriver) - Custom Selenium Chromedriver | Zero-Config | Passes ALL bot mitigation systems (like Distil / Imperva/ Datadadome / CloudFlare IUAM)
 - [frgt10/dvdremuxer](https://github.com/frgt10/dvdremuxer) - Remuxer DVD to MKV
@@ -2081,7 +2081,7 @@
 - [PuZhiweizuishuai/OCR-CopyText-And-Search](https://github.com/PuZhiweizuishuai/OCR-CopyText-And-Search) - 适用于一些单位组织的那种在专门的APP上答题，但是又有题库的开卷考试，方便搜索答案，基于PaddleOCR开发😂😂😂
 - [elahe-dastan/first-grade](https://github.com/elahe-dastan/first-grade) - OCR for Iranian national ID card, etc.
 - [Belval/TextRecognitionDataGenerator](https://github.com/Belval/TextRecognitionDataGenerator) - A synthetic data generator for text recognition
-- [RapidAI/RapidOCR](https://github.com/RapidAI/RapidOCR) - 📄 Awesome OCR multiple programing languages toolkits based on ONNXRuntime, OpenVINO and PaddlePaddle.
+- [RapidAI/RapidOCR](https://github.com/RapidAI/RapidOCR) - 📄 Awesome OCR multiple programing languages toolkits based on ONNXRuntime, OpenVINO, PaddlePaddle and PyTorch.
 - [apm1467/videocr](https://github.com/apm1467/videocr) - Extract hardcoded subtitles from videos using machine learning
 - [SWHL/RapidVideOCR](https://github.com/SWHL/RapidVideOCR) - 🎥 Extract video hard subtitles and automatically generate corresponding srt files.
 - [krviolent/subtitles_extract](https://github.com/krviolent/subtitles_extract) - Tool for extraction hard-coded (hardsub) Chinese subtitles from video files with 720p resolution
