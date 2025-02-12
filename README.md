@@ -914,7 +914,7 @@
 - [p-ranav/PhotoLab](https://github.com/p-ranav/PhotoLab) - AI-Powered Photo Editor (Python, PyQt6, PyTorch)
 - [WoeUSB/WoeUSB-ng](https://github.com/WoeUSB/WoeUSB-ng) - WoeUSB-ng is a simple tool that enable you to create your own usb stick windows installer from an iso image or a real DVD. This is a rewrite of original WoeUSB.
 - [binh-vu/hugedict](https://github.com/binh-vu/hugedict) - A drop-in replacement for dictionary objects that are too big to fit in memory
-- [daijro/SearchifyX](https://github.com/daijro/SearchifyX) - Fast flashcard searcher study tool
+- [daijro/SearchifyX](https://github.com/daijro/SearchifyX) - Fast flashcard searcher tool
 - [somnathrakshit/geograpy3](https://github.com/somnathrakshit/geograpy3) - Extract place names from a URL or text, and add context to those names -- for example distinguishing between a country, region or city.
 - [elyase/geotext](https://github.com/elyase/geotext) - Geotext extracts country and city mentions from text
 - [elyase/locasticsearch](https://github.com/elyase/locasticsearch) - Serverless full text search in Python
