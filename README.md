@@ -1518,7 +1518,7 @@
 - [J-Rios/TLG_JoinCaptchaBot](https://github.com/J-Rios/TLG_JoinCaptchaBot) - Telegram Bot to verify if users joining a group are human. The Bot sends an image captcha for each new user and kicks any of them who can't solve the captcha in a specified time.
 - [AlexMetsai/computer-vision-utils](https://github.com/AlexMetsai/computer-vision-utils) - Various scripts that may be useful, mostly python and bash scripts.
 - [SuperKogito/pydiogment](https://github.com/SuperKogito/pydiogment) - :mega: Python library for audio augmentation
-- [ARCADIAGROUPS/PyServed](https://github.com/ARCADIAGROUPS/PyServed) - A beautiful cli with network transfer/hosting utilities to make life easier.
+- [SvalTech/PyServed](https://github.com/SvalTech/PyServed) - A beautiful cli with network transfer/hosting utilities to make life easier.
 - [kimhan1113/voice_recognition](https://github.com/kimhan1113/voice_recognition) - 
 - [pyroaddon/pyroaddon](https://github.com/pyroaddon/pyroaddon) - A monkeypatcher add-on for Pyrogram
 - [nishantssoni/KiloBot](https://github.com/nishantssoni/KiloBot) - a chatting bot which can download song.
