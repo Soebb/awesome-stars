@@ -76,7 +76,7 @@
 - [gyroing/Ezafeh-detection-with-HAZM](https://github.com/gyroing/Ezafeh-detection-with-HAZM) - C++ wrappers of the Python's Hazm module
 - [rhasspy/piper](https://github.com/rhasspy/piper) - A fast, local neural text to speech system
 - [vapoursynth/vapoursynth](https://github.com/vapoursynth/vapoursynth) - A video processing framework with simplicity in mind
-- [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) - Speech-to-text, text-to-speech, speaker diarization, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V,
+- [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) - Speech-to-text, text-to-speech, speaker diarization, speech enhancement, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, R
 - [absadiki/pywhispercpp](https://github.com/absadiki/pywhispercpp) - Python bindings for whisper.cpp
 - [PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle) - PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）
 - [mozilla/DeepSpeech](https://github.com/mozilla/DeepSpeech) - DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.
@@ -119,7 +119,6 @@
 - [v2fly/v2ray-core](https://github.com/v2fly/v2ray-core) - A platform for building proxies to bypass network restrictions.
 - [bergkvist/includeimage](https://github.com/bergkvist/includeimage) - Dockerfile syntax extension for combining multiple Docker images into one. (INCLUDE &lt;image&gt;)
 - [warpdl/warpdl](https://github.com/warpdl/warpdl) - A powerful and versatile cross-platform download manager.
-- [tgdrive/teldrive](https://github.com/tgdrive/teldrive) - Teldrive
 - [EverythingSuckz/github-telegram-notify](https://github.com/EverythingSuckz/github-telegram-notify) - Actions that sends commit updates of a repository to any chat in Telegram
 - [utkusen/wholeaked](https://github.com/utkusen/wholeaked) - a file-sharing tool that allows you to find the responsible person in case of a leakage
 - [Brawl345/rssbot](https://github.com/Brawl345/rssbot) - RSS Bot for the Telegram Messenger
@@ -2278,7 +2277,7 @@
 - [AmanoTeam/Unalix](https://github.com/AmanoTeam/Unalix) - Small, dependency-free, fast Python package for removing tracking fields from URLs.
 - [AmanoTeam/EduuRobot](https://github.com/AmanoTeam/EduuRobot) - EduuRobot Telegram bot source code.
 - [Liupold/demeter_dl](https://github.com/Liupold/demeter_dl) - Demeter_DL is a open source download manager. Built for speed, efficiency and comfort! Download YouTube videos directly! or use it in your project with API
-- [amirhoseinsalimi/music-tool-bot](https://github.com/amirhoseinsalimi/music-tool-bot) - The one and only Telegram bot you need to manage your music files
+- [amirhoseinsalimi/music-tool-bot](https://github.com/amirhoseinsalimi/music-tool-bot) - Music Tool Bot is the ultimate bot for managing your music files effortlessly! 🎵✨
 - [atamakahere-git/ytadlbot](https://github.com/atamakahere-git/ytadlbot) - Youtube audio downloader telegram bot
 - [FayasNoushad/URL-Shortner-Bot](https://github.com/FayasNoushad/URL-Shortner-Bot) - A link shortner telegram bot
 - [X-Gorn/File-Sharing](https://github.com/X-Gorn/File-Sharing) - Telegram bot to share any telegram files and get the shareable link
@@ -2608,7 +2607,7 @@
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 - [SpEcHiDe/ButtonHTMLBot](https://github.com/SpEcHiDe/ButtonHTMLBot) - https://ButtonHTMLBot.t.me
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
-- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Chatbot for documentation, that allows you to chat with your data. Privately deployable, provides AI knowledge sharing and integrates knowledge into your AI workflow
+- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - DocsGPT is an open-source genAI tool that helps users get reliable answers from knowledge source, while avoiding hallucinations. It enables private and reliable information retrieval, with tooling and
 - [backmeupplz/archivelinksbot](https://github.com/backmeupplz/archivelinksbot) - Telegram bot that saves links to web archive
 - [arghyac35/aria-telegram-mirror-bot](https://github.com/arghyac35/aria-telegram-mirror-bot) - This is a fork of https://github.com/out386/aria-telegram-mirror-bot. A Telegram bot to download files via HTTP(S)/BitTorrent and upload them to Google Drive
 - [Qiamast/PersianWordle](https://github.com/Qiamast/PersianWordle) - "Persian Wordle" is a fun and challenging word puzzle game designed to improve your Persian vocabulary. Built with TypeScript, ReactJS, TailwindCSS, PostCSS, and a Persian word dictionary, this game o
