@@ -88,7 +88,7 @@
 - [P-Konstantin/Image_slider](https://github.com/P-Konstantin/Image_slider) - HTML, CSS, JavaScript project
 - [Crazy-Marvin/YouTubeStatsTelegramBot](https://github.com/Crazy-Marvin/YouTubeStatsTelegramBot) - Receive updates of YouTube videos
 - [Itz-fork/Redirect-to-Heroku](https://github.com/Itz-fork/Redirect-to-Heroku) - Get Deploy to Heroku Link with your repo!
-- [h4x4d/FilmFinder](https://github.com/h4x4d/FilmFinder) - 
+- [hextract/FilmFinder](https://github.com/hextract/FilmFinder) - 
 
 ## Dart 
 
@@ -483,6 +483,7 @@
 
 ## Python 
 
+- [voun7/Video_Sub_Extractor](https://github.com/voun7/Video_Sub_Extractor) - A program for extracting hard coded (burned in) subtitle from a video and generating an external subtitle.
 - [moradpoor/FTP-UploaderBot](https://github.com/moradpoor/FTP-UploaderBot) - Upload File To FTP through Telegram Bot
 - [moradpoor/FileToLinkbot](https://github.com/moradpoor/FileToLinkbot) - 
 - [ggogel/SocialMediaDownloadMaubot](https://github.com/ggogel/SocialMediaDownloadMaubot) - 
@@ -1650,7 +1651,6 @@
 - [KamiTopalyan/AutoClicker](https://github.com/KamiTopalyan/AutoClicker) - 
 - [isayakhov/duplicate-stickers-remover-bot](https://github.com/isayakhov/duplicate-stickers-remover-bot) - Bot can find and remove duplicates stickers from different sticker sets
 - [isayakhov/duty-schedule-bot](https://github.com/isayakhov/duty-schedule-bot) - Bot sends into your Telegram group who is on duty today, tomorrow and also sends schedule for the next week.
-- [s-tsepa/state-bot](https://github.com/s-tsepa/state-bot) - A telegram bot uses transitions python module
 - [sam5epi0l/BotTuber](https://github.com/sam5epi0l/BotTuber) - Fully Automated YouTube Channel ▶️with Added Extra Features (Automated Title, Description, Tags, Watermark and much more)
 - [nang-dev/automated_youtube_channel](https://github.com/nang-dev/automated_youtube_channel) - Automated youtube that can scrape content, edit a compilation, and upload to youtube daily.
 - [SafaSafari/proxydocker](https://github.com/SafaSafari/proxydocker) - 
