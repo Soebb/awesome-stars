@@ -156,7 +156,6 @@
 - [vabs/youtube-channel-name-converter](https://github.com/vabs/youtube-channel-name-converter) - Convert Youtube Channel Name To Channel ID
 - [ZapperDJ/DiogenesList](https://github.com/ZapperDJ/DiogenesList) - Multiplatform HTML directory listing creator
 - [deanmalmgren/textract](https://github.com/deanmalmgren/textract) - extract text from any document. no muss. no fuss.
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [GoFarsi/book](https://github.com/GoFarsi/book) - کتاب آزاد  (آنلاین/آفلاین) زبان برنامه‌نویسی گو فارسی
 - [khuyentran1401/top-github-scraper](https://github.com/khuyentran1401/top-github-scraper) - Scape top GitHub repositories and users based on keywords
 - [AhmadIbrahiim/Website-downloader](https://github.com/AhmadIbrahiim/Website-downloader) - 💡  Download the complete source code of any website (including all assets). [ Javascripts, Stylesheets, Images ]  using Node.js
@@ -213,6 +212,7 @@
 - [karim23657/GAS-Telegram-bot](https://github.com/karim23657/GAS-Telegram-bot) - A base code that shows how to make a telegram bot on google app script
 - [bypass-vip/bypass.vip](https://github.com/bypass-vip/bypass.vip) - The #1 Linkvertise bypasser is back!
 - [justpy-org/justpy](https://github.com/justpy-org/justpy) - An object oriented high-level Python Web Framework that requires no frontend programming
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [tuhinpal/imdb-api](https://github.com/tuhinpal/imdb-api) - Serverless IMDB API powered by Cloudflare Worker
 - [webrecorder/pywb](https://github.com/webrecorder/pywb) - Core Python Web Archiving Toolkit for replay and recording of web archives
 - [AnotiaWang/AntiChannelSpammersBot](https://github.com/AnotiaWang/AntiChannelSpammersBot) - A Telegram bot that can delete messages from users appearing as channels, also messages from anonymous admins and the linked channels.
@@ -1639,7 +1639,7 @@
 - [matbgn/transcript-extractor](https://github.com/matbgn/transcript-extractor) - Extract transcript from a video or audio file (offline)
 - [subhsamal/Python-Programming](https://github.com/subhsamal/Python-Programming) - This repo contains interesting python programs I have come across.
 - [bluec/telegram-word-bot](https://github.com/bluec/telegram-word-bot) - A simple Telegram bot that analyses a given word, built with python-telegram-bot
-- [DebXD/link-media-scraper-bot](https://github.com/DebXD/link-media-scraper-bot) - Scraper of  cyberdrop, bunkr, streamtape links, Supports Streamtape uploading, Made Using Pyrogram Framework
+- [debnation/link-media-scraper-bot](https://github.com/debnation/link-media-scraper-bot) - Scraper of  cyberdrop, bunkr, streamtape links, Supports Streamtape uploading, Made Using Pyrogram Framework
 - [XDBots/Word-Of-The-Day-TGBot](https://github.com/XDBots/Word-Of-The-Day-TGBot) - Warning : Not Maintained, A Telegram Bot To send Scheduled Message at every morning or any time with the word of the day with meanings and Pronounciation.
 - [ArnabXD/GmailBomber](https://github.com/ArnabXD/GmailBomber) - A Simple Tool To Bomb Emails using Your Gmail .
 - [MontyIOX/HowFarBot](https://github.com/MontyIOX/HowFarBot) - A telegram bot that determines the user's distance form a requested place utilizing the Nomatim geocoding API
