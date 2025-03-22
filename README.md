@@ -119,6 +119,7 @@
 - [v2fly/v2ray-core](https://github.com/v2fly/v2ray-core) - A platform for building proxies to bypass network restrictions.
 - [bergkvist/includeimage](https://github.com/bergkvist/includeimage) - Dockerfile syntax extension for combining multiple Docker images into one. (INCLUDE &lt;image&gt;)
 - [warpdl/warpdl](https://github.com/warpdl/warpdl) - A powerful and versatile cross-platform download manager.
+- [tgdrive/teldrive](https://github.com/tgdrive/teldrive) - Teldrive
 - [EverythingSuckz/github-telegram-notify](https://github.com/EverythingSuckz/github-telegram-notify) - Actions that sends commit updates of a repository to any chat in Telegram
 - [utkusen/wholeaked](https://github.com/utkusen/wholeaked) - a file-sharing tool that allows you to find the responsible person in case of a leakage
 - [Brawl345/rssbot](https://github.com/Brawl345/rssbot) - RSS Bot for the Telegram Messenger
@@ -326,7 +327,7 @@
 - [deniscerri/ytdlnis](https://github.com/deniscerri/ytdlnis) - Full Featured Video/Audio Downloader for Android using yt-dlp
 - [mobad/tts-server-android](https://github.com/mobad/tts-server-android) - 这是一个Android系统TTS应用，内置微软演示接口，可自定义HTTP请求，可导入其他本地TTS引擎，以及根据中文双引号的简单旁白/对话识别朗读 ，还有自动重试，备用配置，文本替换等更多功能。
 - [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android) - AnkiDroid: Anki flashcards on Android. Your secret trick to achieve superhuman information retention.
-- [fast4x/RiMusic](https://github.com/fast4x/RiMusic) - A multilingual Android application for streaming music from YouTube Music.
+- [fast4x/RiMusic](https://github.com/fast4x/RiMusic) - A multilingual Android application for streaming music from Youtube Music.
 - [jing332/SherpaOnnxTtsEngineAndroid](https://github.com/jing332/SherpaOnnxTtsEngineAndroid) - 
 - [ShiftHackZ/WebViewApp](https://github.com/ShiftHackZ/WebViewApp) - Android WebView application scaffold
 - [jing332/tts-server-android](https://github.com/jing332/tts-server-android) - 这是一个Android系统TTS应用，内置微软演示接口，可自定义HTTP请求，可导入其他本地TTS引擎，以及根据中文双引号的简单旁白/对话识别朗读 ，还有自动重试，备用配置，文本替换等更多功能。
@@ -483,6 +484,7 @@
 
 ## Python 
 
+- [tuzibr/Real_time_caption_translate](https://github.com/tuzibr/Real_time_caption_translate) - A real-time caption translation tool based on VOSK speech recognition and machine translation, which supports transcribing audio into target language subtitles in real time and displaying the translat
 - [voun7/Video_Sub_Extractor](https://github.com/voun7/Video_Sub_Extractor) - A program for extracting hard coded (burned in) subtitle from a video and generating an external subtitle.
 - [moradpoor/FTP-UploaderBot](https://github.com/moradpoor/FTP-UploaderBot) - Upload File To FTP through Telegram Bot
 - [moradpoor/FileToLinkbot](https://github.com/moradpoor/FileToLinkbot) - 
@@ -1515,7 +1517,7 @@
 - [coder2020official/telebot_template](https://github.com/coder2020official/telebot_template) - Template for synchronous implementation of telebot
 - [coder2020official/asynctelebot_template](https://github.com/coder2020official/asynctelebot_template) - Template for asynchronous implementation of telebot.
 - [AnonC0DER/NovaMusic](https://github.com/AnonC0DER/NovaMusic) - A music sharing telegram robot using Redis (PostgreSQL in new version) database and Telebot python library.
-- [J-Rios/TLG_JoinCaptchaBot](https://github.com/J-Rios/TLG_JoinCaptchaBot) - Telegram Bot to verify if users joining a group are human. The Bot sends an image captcha for each new user and kicks any of them who can't solve the captcha in a specified time.
+- [J-Rios/TLG_JoinCaptchaBot](https://github.com/J-Rios/TLG_JoinCaptchaBot) - Telegram Bot to verify if users joining a group are human. The Bot sends an image captcha to each new user and removes those who fail to solve it within a specified time.
 - [AlexMetsai/computer-vision-utils](https://github.com/AlexMetsai/computer-vision-utils) - Various scripts that may be useful, mostly python and bash scripts.
 - [SuperKogito/pydiogment](https://github.com/SuperKogito/pydiogment) - :mega: Python library for audio augmentation
 - [SvalTech/PyServed](https://github.com/SvalTech/PyServed) - A beautiful cli with network transfer/hosting utilities to make life easier.
@@ -2636,7 +2638,7 @@
 
 ## Visual Basic .NET 
 
-- [AAndyProgram/SCrawler](https://github.com/AAndyProgram/SCrawler) - 🏳️‍🌈 Media downloader from any sites, including Twitter, Reddit, Instagram, Threads, Facebook, OnlyFans, YouTube, Pinterest, PornHub, XHamster, XVIDEOS, ThisVid etc.
+- [AAndyProgram/SCrawler](https://github.com/AAndyProgram/SCrawler) - 🏳️‍🌈 Media downloader from any sites, including Twitter, Reddit, Instagram, TikTok, Threads, Facebook, OnlyFans, YouTube, Pinterest, PornHub, XHamster, XVIDEOS, ThisVid etc.
 - [staxrip/staxrip](https://github.com/staxrip/staxrip) - 🎞 Video encoding GUI for Windows.
 
 
