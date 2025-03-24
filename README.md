@@ -484,6 +484,7 @@
 
 ## Python 
 
+- [ALIILAPRO/pyuuploader](https://github.com/ALIILAPRO/pyuuploader) - آپلودر پایتونی برای uupload.ir با پشتیبانی از لینک مستقیم.
 - [tuzibr/Real_time_caption_translate](https://github.com/tuzibr/Real_time_caption_translate) - A real-time caption translation tool based on VOSK speech recognition and machine translation, which supports transcribing audio into target language subtitles in real time and displaying the translat
 - [voun7/Video_Sub_Extractor](https://github.com/voun7/Video_Sub_Extractor) - A program for extracting hard coded (burned in) subtitle from a video and generating an external subtitle.
 - [moradpoor/FTP-UploaderBot](https://github.com/moradpoor/FTP-UploaderBot) - Upload File To FTP through Telegram Bot
