@@ -327,7 +327,7 @@
 - [deniscerri/ytdlnis](https://github.com/deniscerri/ytdlnis) - Full Featured Video/Audio Downloader for Android using yt-dlp
 - [mobad/tts-server-android](https://github.com/mobad/tts-server-android) - 这是一个Android系统TTS应用，内置微软演示接口，可自定义HTTP请求，可导入其他本地TTS引擎，以及根据中文双引号的简单旁白/对话识别朗读 ，还有自动重试，备用配置，文本替换等更多功能。
 - [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android) - AnkiDroid: Anki flashcards on Android. Your secret trick to achieve superhuman information retention.
-- [fast4x/RiMusic](https://github.com/fast4x/RiMusic) - A multilingual Android application for streaming music from Youtube Music.
+- [fast4x/RiMusic](https://github.com/fast4x/RiMusic) - A multilingual Android application for streaming music
 - [jing332/SherpaOnnxTtsEngineAndroid](https://github.com/jing332/SherpaOnnxTtsEngineAndroid) - 
 - [ShiftHackZ/WebViewApp](https://github.com/ShiftHackZ/WebViewApp) - Android WebView application scaffold
 - [jing332/tts-server-android](https://github.com/jing332/tts-server-android) - 这是一个Android系统TTS应用，内置微软演示接口，可自定义HTTP请求，可导入其他本地TTS引擎，以及根据中文双引号的简单旁白/对话识别朗读 ，还有自动重试，备用配置，文本替换等更多功能。
@@ -429,7 +429,7 @@
 - [Itz-fork/My-Python-Libs](https://github.com/Itz-fork/My-Python-Libs) - List of Python Libraries made by me
 - [cassidoo/scrapers](https://github.com/cassidoo/scrapers) - A list of scrapers from around the web.
 - [RajatVarshney18/Movie_Describer](https://github.com/RajatVarshney18/Movie_Describer) - Its a basic PWA single page web application which searches for a movie using the OMDb API call and gives all the info related to that movie such as genre, release date, producer name etc.
-- [TelegramPlayGround/Free-Movie-Series-DB-API](https://github.com/TelegramPlayGround/Free-Movie-Series-DB-API) - FREE UnOfficial Movie / Series Search API, without APIKeys
+- [TelegramPlayground/Free-Movie-Series-DB-API](https://github.com/TelegramPlayground/Free-Movie-Series-DB-API) - FREE UnOfficial Movie / Series Search API, without APIKeys
 - [isaacxbt/TransfershAPI](https://github.com/isaacxbt/TransfershAPI) - Transfer.sh API Wrapper
 - [isaacxbt/AnonfilesAPI](https://github.com/isaacxbt/AnonfilesAPI) - Anonfiles.com API Wrapper
 - [m4mallu/inline-tube-mate](https://github.com/m4mallu/inline-tube-mate) - An Inline Telegram YouTube downloader bot with custom, permanent thumbnail support, force subscription and cancel upload facility. The bot can send or broadcast messages to the users.
@@ -494,7 +494,7 @@
 - [ruzhila/voiceapi](https://github.com/ruzhila/voiceapi) - Streaming ASR and TTS  based on FastAPI+ sherpa-onnx
 - [jdepoix/youtube-transcript-api](https://github.com/jdepoix/youtube-transcript-api) - This is a python API which allows you to get the transcript/subtitles for a given YouTube video. It also works for automatically generated subtitles and it does not require an API key nor a headless b
 - [JR3IS/Batch-Audio-Tagger](https://github.com/JR3IS/Batch-Audio-Tagger) - A python script to add metadata to multiple audio files at once using pytaglib.
-- [TelegramPlayGround/pyrogram](https://github.com/TelegramPlayGround/pyrogram) - PyroGram (https://github.com/pyrogram/pyrogram) FORK | Telegram MTProto API framework in Python for users and bots
+- [TelegramPlayground/pyrogram](https://github.com/TelegramPlayground/pyrogram) - PyroGram (https://github.com/pyrogram/pyrogram) FORK | Telegram MTProto API framework in Python for users and bots
 - [lunaticsm/catbox-uploader](https://github.com/lunaticsm/catbox-uploader) - Catbox Uploader is a simple Python library to upload files and URLs to Catbox.moe.
 - [supermihi/pytaglib](https://github.com/supermihi/pytaglib) - Python audio tagging library
 - [alvarobartt/python-package-template](https://github.com/alvarobartt/python-package-template) - 🎈 A Python package template using pyproject.toml, hatch, pre-commit, black, ruff, and mkdocs.
