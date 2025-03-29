@@ -327,7 +327,7 @@
 - [deniscerri/ytdlnis](https://github.com/deniscerri/ytdlnis) - Full Featured Video/Audio Downloader for Android using yt-dlp
 - [mobad/tts-server-android](https://github.com/mobad/tts-server-android) - 这是一个Android系统TTS应用，内置微软演示接口，可自定义HTTP请求，可导入其他本地TTS引擎，以及根据中文双引号的简单旁白/对话识别朗读 ，还有自动重试，备用配置，文本替换等更多功能。
 - [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android) - AnkiDroid: Anki flashcards on Android. Your secret trick to achieve superhuman information retention.
-- [fast4x/RiMusic](https://github.com/fast4x/RiMusic) - A multilingual Android application for streaming music
+- [fast4x/RiMusic](https://github.com/fast4x/RiMusic) - A multilingual and multiplatform extensible offline player
 - [jing332/SherpaOnnxTtsEngineAndroid](https://github.com/jing332/SherpaOnnxTtsEngineAndroid) - 
 - [ShiftHackZ/WebViewApp](https://github.com/ShiftHackZ/WebViewApp) - Android WebView application scaffold
 - [jing332/tts-server-android](https://github.com/jing332/tts-server-android) - 这是一个Android系统TTS应用，内置微软演示接口，可自定义HTTP请求，可导入其他本地TTS引擎，以及根据中文双引号的简单旁白/对话识别朗读 ，还有自动重试，备用配置，文本替换等更多功能。
@@ -1142,7 +1142,7 @@
 - [prashantsengar/ArrangePy](https://github.com/prashantsengar/ArrangePy) - Organizes files in folders and helps you to clean your PC
 - [dhruvSHA256/instaquotebot](https://github.com/dhruvSHA256/instaquotebot) - Instagram Quote Bot
 - [divideprojects/VidMergeBot](https://github.com/divideprojects/VidMergeBot) - 🤖 Telegram Bot which can merge multiple 🎥 video files into one.
-- [aliie62/preper](https://github.com/aliie62/preper) - A Persian (Farsi) Preprocessing Python Module
+- [alihoss3ini/preper](https://github.com/alihoss3ini/preper) - A Persian (Farsi) Preprocessing Python Module
 - [de-mh/persian_phonemizer](https://github.com/de-mh/persian_phonemizer) - A tool for translating Persian text to IPA (International Phonetic Alphabet).
 - [Djdefrag/NiceScaler](https://github.com/Djdefrag/NiceScaler) - NiceScaler - image/video deeplearning upscaler (OpenCV)
 - [Djdefrag/QualityScaler](https://github.com/Djdefrag/QualityScaler) - QualityScaler - image/video AI upscaler app
@@ -1205,7 +1205,7 @@
 - [AndydeCleyre/colorcodebot](https://github.com/AndydeCleyre/colorcodebot) - A simple Telegram bot for syntax highlighting
 - [iniridwanul/Ciraag](https://github.com/iniridwanul/Ciraag) - A powerful pluggable userbot on Telegram.
 - [New-dev0/Telethon-Patch](https://github.com/New-dev0/Telethon-Patch) - Wrap over telethon with additional upgrades
-- [nethunter-ir/telegram-auto-forwarder](https://github.com/nethunter-ir/telegram-auto-forwarder) - Telegram Auto Forwarder
+- [mehdisayyadnahed/telegram-auto-forwarder](https://github.com/mehdisayyadnahed/telegram-auto-forwarder) - Telegram Auto Forwarder
 - [JKhakpour/petit](https://github.com/JKhakpour/petit) - Persian text -&gt; integer, ineteger -&gt; text converter
 - [Ahmadrezadl/MovieSorter](https://github.com/Ahmadrezadl/MovieSorter) - MovieSorter is a dynamic tool designed to simplify the management of your digital movie library. It offers automated sorting, customizable naming schemes, and rich metadata retrieval, ensuring your co
 - [xenova/chat-downloader](https://github.com/xenova/chat-downloader) - A simple tool used to retrieve chat messages from livestreams, videos, clips and past broadcasts. No authentication needed!
@@ -1847,7 +1847,7 @@
 - [jmcarp/robobrowser](https://github.com/jmcarp/robobrowser) - 
 - [lorien/grab](https://github.com/lorien/grab) - Web Scraping Framework
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
-- [slashmili/django-jalali](https://github.com/slashmili/django-jalali) - Jalali DateField support for Django model
+- [slashmili/jdatetime](https://github.com/slashmili/jdatetime) - Jalali DateField support for Django model
 - [slashmili/python-jalali](https://github.com/slashmili/python-jalali) - Jalali calendar binding for Python based on Python's datetime module
 - [expectocode/telegram-export](https://github.com/expectocode/telegram-export) - Export Telegram chat data and history
 - [Anorov/cloudflare-scrape](https://github.com/Anorov/cloudflare-scrape) - A Python module to bypass Cloudflare's anti-bot page.
