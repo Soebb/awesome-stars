@@ -1847,8 +1847,8 @@
 - [jmcarp/robobrowser](https://github.com/jmcarp/robobrowser) - 
 - [lorien/grab](https://github.com/lorien/grab) - Web Scraping Framework
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
-- [slashmili/jdatetime](https://github.com/slashmili/jdatetime) - Jalali DateField support for Django model
-- [slashmili/python-jalali](https://github.com/slashmili/python-jalali) - Jalali calendar binding for Python based on Python's datetime module
+- [slashmili/django_jalali](https://github.com/slashmili/django_jalali) - Jalali DateField support for Django model
+- [slashmili/jdatetime](https://github.com/slashmili/jdatetime) - Jalali calendar binding for Python based on Python's datetime module
 - [expectocode/telegram-export](https://github.com/expectocode/telegram-export) - Export Telegram chat data and history
 - [Anorov/cloudflare-scrape](https://github.com/Anorov/cloudflare-scrape) - A Python module to bypass Cloudflare's anti-bot page.
 - [vasusen-code/VIDEOconvertor](https://github.com/vasusen-code/VIDEOconvertor) - A stable and Fast telegram video convertor bot which can encode into different libs and resolution, compress videos, convert video into audio and other video formats, rename with thumbnail support, ge
