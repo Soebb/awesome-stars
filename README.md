@@ -77,7 +77,6 @@
 - [rhasspy/piper](https://github.com/rhasspy/piper) - A fast, local neural text to speech system
 - [vapoursynth/vapoursynth](https://github.com/vapoursynth/vapoursynth) - A video processing framework with simplicity in mind
 - [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) - Speech-to-text, text-to-speech, speaker diarization, speech enhancement, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, R
-- [absadiki/pywhispercpp](https://github.com/absadiki/pywhispercpp) - Python bindings for whisper.cpp
 - [PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle) - PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）
 - [mozilla/DeepSpeech](https://github.com/mozilla/DeepSpeech) - DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.
 
@@ -148,6 +147,7 @@
 
 ## HTML 
 
+- [ALIILAPRO/MusicFinder](https://github.com/ALIILAPRO/MusicFinder) - 🎵 Music Finder — A modern, stylish web app to search for your favorite songs using the Deezer API and download them easily via Telegram.
 - [FlagMotori/writeups](https://github.com/FlagMotori/writeups) - رایتاپ‌های تیم فلگ موتوری
 - [Gl0deanR/create-flask-app](https://github.com/Gl0deanR/create-flask-app) - 
 - [viperadnan-git/telegram-filestream](https://github.com/viperadnan-git/telegram-filestream) - API to stream publically available Telegram files
@@ -409,7 +409,7 @@
 - [DevelopersTree/awesome-kurds](https://github.com/DevelopersTree/awesome-kurds) - A curated list of awesome Kurds.
 - [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
-- [oppsec/extensions-wordlist](https://github.com/oppsec/extensions-wordlist) - 🔍 Improve your files enumeration with specific extensions!
+- [000pp/extensions-wordlist](https://github.com/000pp/extensions-wordlist) - 🔍 Improve your files enumeration with specific extensions!
 - [m4mallu/clonebot-ui](https://github.com/m4mallu/clonebot-ui) - Redirecting link to the original and latest clonebot repository.
 - [PredatorHackerzZ/Renamer-Bot](https://github.com/PredatorHackerzZ/Renamer-Bot) - Best & Fastest Renamer Bot By @Clinton-Abraham & @PredatorHackerzZ. Star and Fork the repo if you like it else you are Gay!...  @TeamTeleRoid
 - [devmaxxing/fbx_files](https://github.com/devmaxxing/fbx_files) - 
@@ -612,7 +612,6 @@
 - [licksylick/AutoTrackAnything](https://github.com/licksylick/AutoTrackAnything) - AutoTrackAnything is a universal, flexible and interactive tool for insane automatic object tracking over thousands of frames. It is developed upon XMem, Yolov8 and MobileSAM (Segment Anything), can t
 - [tvey/youtube-playlist-duration](https://github.com/tvey/youtube-playlist-duration) - Are you gonna watch this? :boom:
 - [tvey/synk](https://github.com/tvey/synk) - Shorten your link
-- [hopeman1102/Video_OCR](https://github.com/hopeman1102/Video_OCR) - Extract hardcoded (burned-in) subtitles from videos using the Tesseract OCR engine with Python.
 - [obgnail/video-subtitle-extractor](https://github.com/obgnail/video-subtitle-extractor) - 提取视频硬字幕。采用 PaddleOCR。
 - [hooni238/persian-video-ocr](https://github.com/hooni238/persian-video-ocr) - Persian video ocr is a python code that performs OCR on video frames.
 - [torbjornbp/video-ocr2srt](https://github.com/torbjornbp/video-ocr2srt) - A simple script to extract text elements from video files
@@ -656,6 +655,7 @@
 - [VikParuchuri/surya](https://github.com/VikParuchuri/surya) - OCR, layout analysis, reading order, table recognition in 90+ languages
 - [smacke/ffsubsync](https://github.com/smacke/ffsubsync) - Automagically synchronize subtitles with video.
 - [absadiki/subsai](https://github.com/absadiki/subsai) - 🎞️ Subtitles generation tool (Web-UI + CLI + Python package) powered by OpenAI's Whisper and its variants 🎞️
+- [absadiki/pywhispercpp](https://github.com/absadiki/pywhispercpp) - Python bindings for whisper.cpp
 - [bipinkrish/Link-Bypasser-Bot](https://github.com/bipinkrish/Link-Bypasser-Bot) - A Telegram Bot (with Site) that can Bypass Ad Links, Generate Direct Links and Jump Paywalls
 - [jianchang512/pyvideotrans](https://github.com/jianchang512/pyvideotrans) - Translate the video from one language to another and add dubbing.         将视频从一种语言翻译为另一种语言，同时支持语音识别转录、语音合成、字幕翻译。
 - [zackees/isolated-environment](https://github.com/zackees/isolated-environment) - Internal venv management to fix AI dependency hell in python
@@ -2289,7 +2289,7 @@
 - [jigarvarma2k20/VideoCompress](https://github.com/jigarvarma2k20/VideoCompress) - 
 - [EL-Coders/ELYoutubeBot](https://github.com/EL-Coders/ELYoutubeBot) - 
 - [jigarvarma2k20/Streaming-Link-Gen](https://github.com/jigarvarma2k20/Streaming-Link-Gen) - 
-- [Fumaz/TTSBotPython](https://github.com/Fumaz/TTSBotPython) - 
+- [alexdotpink/TTSBotPython](https://github.com/alexdotpink/TTSBotPython) - 
 - [subinps/VCPlayerBot](https://github.com/subinps/VCPlayerBot) - Telegram bot to stream videos in telegram voicechat for both groups and channels. Supports live steams, YouTube videos and telegram media. Supports scheduling streams, recording and many more.
 - [musa-42/streamer_file](https://github.com/musa-42/streamer_file) - Robot to convert files to direct links, hosting files on Telegram servers, unlimited and without restrictions
 - [EverythingSuckz/tgvc-video-tests](https://github.com/EverythingSuckz/tgvc-video-tests) - ignore my commit history cuz It'll be messy af
