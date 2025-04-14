@@ -82,6 +82,7 @@
 
 ## CSS 
 
+- [jothepro/doxygen-awesome-css](https://github.com/jothepro/doxygen-awesome-css) - Custom CSS theme for doxygen html-documentation with lots of customization parameters.
 - [saeiddrv/PythonPersianTutorial](https://github.com/saeiddrv/PythonPersianTutorial) - "Python in Persian" is an open-source online book that offers a comprehensive tutorial on the Python programming language in Persian.
 - [0xdolan/roj_dictionary](https://github.com/0xdolan/roj_dictionary) - Roj Dictionary (English - Kurdish)
 - [P-Konstantin/Image_slider](https://github.com/P-Konstantin/Image_slider) - HTML, CSS, JavaScript project
@@ -115,6 +116,7 @@
 
 ## Go 
 
+- [asdfzxcvbn/TeleURLUploader](https://github.com/asdfzxcvbn/TeleURLUploader) - the most demure url uploader written in go
 - [v2fly/v2ray-core](https://github.com/v2fly/v2ray-core) - A platform for building proxies to bypass network restrictions.
 - [bergkvist/includeimage](https://github.com/bergkvist/includeimage) - Dockerfile syntax extension for combining multiple Docker images into one. (INCLUDE &lt;image&gt;)
 - [warpdl/warpdl](https://github.com/warpdl/warpdl) - A powerful and versatile cross-platform download manager.
