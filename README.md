@@ -53,6 +53,7 @@
 
 ## C# # 
 
+- [SubtitleEdit/subtitleedit](https://github.com/SubtitleEdit/subtitleedit) - the subtitle editor :)
 - [KryptoST/SRTranslatorGUI](https://github.com/KryptoST/SRTranslatorGUI) - SRT files translator GUI
 - [ALIILAPRO/dns-changer](https://github.com/ALIILAPRO/dns-changer) - یه برنامه ساده برای دسترسی به سایت های تحریم شده
 - [amirshnll/Persian-Swear-Words](https://github.com/amirshnll/Persian-Swear-Words) - Persian Swear Dataset - you can use in your production to filter unwanted content.  دیتاست کلمات نامناسب و بد فارسی برای فیلتر کردن متن ها
@@ -487,6 +488,7 @@
 
 ## Python 
 
+- [timminator/VideoDupChecker](https://github.com/timminator/VideoDupChecker) - Check your video collection for duplicates!
 - [SSHpectator/WPfinder](https://github.com/SSHpectator/WPfinder) - WPfinder finds in a given URL the most juicy WP directories and if it find some WP directories, it prints them to you.
 - [ALIILAPRO/pyuuploader](https://github.com/ALIILAPRO/pyuuploader) - آپلودر پایتونی برای uupload.ir با پشتیبانی از لینک مستقیم.
 - [tuzibr/Real_time_caption_translate](https://github.com/tuzibr/Real_time_caption_translate) - A real-time caption translation tool based on VOSK speech recognition and machine translation, which supports transcribing audio into target language subtitles in real time and displaying the translat
@@ -2090,7 +2092,7 @@
 - [Belval/TextRecognitionDataGenerator](https://github.com/Belval/TextRecognitionDataGenerator) - A synthetic data generator for text recognition
 - [RapidAI/RapidOCR](https://github.com/RapidAI/RapidOCR) - 📄 Awesome OCR multiple programing languages toolkits based on ONNXRuntime, OpenVINO, PaddlePaddle and PyTorch.
 - [apm1467/videocr](https://github.com/apm1467/videocr) - Extract hardcoded subtitles from videos using machine learning
-- [SWHL/RapidVideOCR](https://github.com/SWHL/RapidVideOCR) - 🎥 Extract video hard subtitles and automatically generate corresponding srt files.
+- [SWHL/RapidVideOCR](https://github.com/SWHL/RapidVideOCR) - 🎦 Extract video hard subtitles and automatically generate corresponding srt files.
 - [krviolent/subtitles_extract](https://github.com/krviolent/subtitles_extract) - Tool for extraction hard-coded (hardsub) Chinese subtitles from video files with 720p resolution
 - [escape0707/extract-rename-subtitle](https://github.com/escape0707/extract-rename-subtitle) - 
 - [musa-42/stream-cloud](https://github.com/musa-42/stream-cloud) - Robot to convert files to direct links, hosting files on Telegram servers, unlimited and without restrictions
