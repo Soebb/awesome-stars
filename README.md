@@ -83,6 +83,7 @@
 
 ## CSS 
 
+- [ALIILAPRO/keyboard-fixer](https://github.com/ALIILAPRO/keyboard-fixer) - این پروژه یک ابزار کاربردی برای تبدیل سریع حروف اشتباه تایپ‌شده به فارسی است
 - [jothepro/doxygen-awesome-css](https://github.com/jothepro/doxygen-awesome-css) - Custom CSS theme for doxygen html-documentation with lots of customization parameters.
 - [saeiddrv/PythonPersianTutorial](https://github.com/saeiddrv/PythonPersianTutorial) - "Python in Persian" is an open-source online book that offers a comprehensive tutorial on the Python programming language in Persian.
 - [0xdolan/roj_dictionary](https://github.com/0xdolan/roj_dictionary) - Roj Dictionary (English - Kurdish)
@@ -444,7 +445,7 @@
 - [kihanb/jirjirakbot](https://github.com/kihanb/jirjirakbot) - JirJirakBot Project | Self-Destruct Messages (SDM)
 - [danog/downloadRenameBot](https://github.com/danog/downloadRenameBot) - 2gb+ Telegram file/YouTube upload&renamer bot based on MadelineProto
 - [PBhadoo/Rapidleech](https://github.com/PBhadoo/Rapidleech) - 
-- [Smartproxy/Social-Media-Scraping-API](https://github.com/Smartproxy/Social-Media-Scraping-API) - Social Media Scraping API code examples for Python, PHP and Node.js
+- [Decodo/Social-Media-Scraping-API](https://github.com/Decodo/Social-Media-Scraping-API) - Social Media Scraping API code examples for Python, PHP and Node.js
 - [alikm6/chToolsBot](https://github.com/alikm6/chToolsBot) - Telegram Bot to Help Channel Administrators
 - [bluedreamcoder/createyourbot](https://github.com/bluedreamcoder/createyourbot) - Code Examples for createyourbot telegram bots
 - [ErfanBahramali/Telegram-Bot-PHP](https://github.com/ErfanBahramali/Telegram-Bot-PHP) - Telegram-Bot-PHP is a PHP library for interacting with the official Telegram Bot API
@@ -488,6 +489,10 @@
 
 ## Python 
 
+- [py2many/py2many](https://github.com/py2many/py2many) - Transpiler of Python to many other languages
+- [k44t/videocr](https://github.com/k44t/videocr) - Extract hardcoded subtitles from videos using machine learning
+- [timminator/VideOCR](https://github.com/timminator/VideOCR) - Extract hardcoded subtitles from videos via a simple GUI using machine learning
+- [SREEHARI1994/InstagramScraper](https://github.com/SREEHARI1994/InstagramScraper) - Download photos,reels and stories of any instagram account, public or Private(that you have access to) to your PC folders
 - [timminator/VideoDupChecker](https://github.com/timminator/VideoDupChecker) - Check your video collection for duplicates!
 - [SSHpectator/WPfinder](https://github.com/SSHpectator/WPfinder) - WPfinder finds in a given URL the most juicy WP directories and if it find some WP directories, it prints them to you.
 - [ALIILAPRO/pyuuploader](https://github.com/ALIILAPRO/pyuuploader) - آپلودر پایتونی برای uupload.ir با پشتیبانی از لینک مستقیم.
@@ -781,8 +786,8 @@
 - [ar-ekt/Google-Translator-Bot](https://github.com/ar-ekt/Google-Translator-Bot) - Telegram bot to translate messages and files
 - [ar-ekt/IncognitoBot](https://github.com/ar-ekt/IncognitoBot) - یه بات تلگرام که پیام‌ها رو به‌صورت ناشناس داخل کانال قرار میده.
 - [reza00farjam/rjdl](https://github.com/reza00farjam/rjdl) - Python package to download Music, Video, Album, Podcast & Playlists from www.RadioJavan.com
-- [Smartproxy/Python-scraper-tutorial](https://github.com/Smartproxy/Python-scraper-tutorial) - A short introduction to scraping with Python with given steps and an example scraper script.
-- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o3 and deepseek r1, gpt-4.5
+- [Decodo/Python-scraper-tutorial](https://github.com/Decodo/Python-scraper-tutorial) - A short introduction to scraping with Python with given steps and an example scraper script.
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o4, o3 and deepseek r1, gpt-4.1, gemini 2.5
 - [spatialaudio/python-sounddevice](https://github.com/spatialaudio/python-sounddevice) - :sound: Play and Record Sound with Python :snake:
 - [ultrafunkamsterdam/undetected-chromedriver](https://github.com/ultrafunkamsterdam/undetected-chromedriver) - Custom Selenium Chromedriver | Zero-Config | Passes ALL bot mitigation systems (like Distil / Imperva/ Datadadome / CloudFlare IUAM)
 - [frgt10/dvdremuxer](https://github.com/frgt10/dvdremuxer) - Remuxer DVD to MKV
@@ -977,7 +982,6 @@
 - [skorokithakis/shortuuid](https://github.com/skorokithakis/shortuuid) - A generator library for concise, unambiguous and URL-safe UUIDs.
 - [intervall-ludger/PyPDFMerger](https://github.com/intervall-ludger/PyPDFMerger) - PyPDFMerger is a Python-based application that allows users to merge multiple PDF files into a single document using a drag-and-drop interface.
 - [father-bot/chatgpt_telegram_bot](https://github.com/father-bot/chatgpt_telegram_bot) - 💬 Telegram bot with ChatGPT, Python-based, using OpenAI's API.
-- [armanyazdi/emailtools](https://github.com/armanyazdi/emailtools) - A Python library for email suggestions and validations.
 - [theos-ai/easy-paddle-ocr](https://github.com/theos-ai/easy-paddle-ocr) - This a clean and easy-to-use implementation of Paddle OCR. Made with ❤️ by Theos AI.
 - [vi/mkvparse](https://github.com/vi/mkvparse) - Simple Python matroska (mkv) reading library, also mkv2xml and xml2mkv
 - [ALIILAPRO/yun-ir](https://github.com/ALIILAPRO/yun-ir) - A Python client for https://Yun.ir URL shortener API.
@@ -1008,7 +1012,7 @@
 - [AmirMohammad2003/soundcloud-downloader](https://github.com/AmirMohammad2003/soundcloud-downloader) - Soundcloud Downloader implemented in python
 - [AmirHosseinCV/UpdateFromGithub](https://github.com/AmirHosseinCV/UpdateFromGithub) - Update projects automatically from GitHub
 - [AmirHosseinCV/PdfSearcher](https://github.com/AmirHosseinCV/PdfSearcher) - Search texts within images or locked PDFs using tesseract OCR
-- [amirhnir/sang-kaghaz-gheychi](https://github.com/amirhnir/sang-kaghaz-gheychi) - سورس پایتون بازی سنگ کاغذ قیچی
+- [AmirHossein-Naei/sang-kaghaz-gheychi](https://github.com/AmirHossein-Naei/sang-kaghaz-gheychi) - سورس پایتون بازی سنگ کاغذ قیچی
 - [AmoabaKelvin/saints-bot-public](https://github.com/AmoabaKelvin/saints-bot-public) - Repository for Saints Bot
 - [johnbumgarner/wordhoard](https://github.com/johnbumgarner/wordhoard) - This Python module can be used to obtain antonyms, synonyms, hypernyms, hyponyms, homophones and definitions.
 - [Prgckwb/ImageExtractor](https://github.com/Prgckwb/ImageExtractor) - ImageExtractor extracts images from a video at intervals of a specified number of frames and creates a PDF file by merging them together.
@@ -2091,7 +2095,6 @@
 - [elahe-dastan/first-grade](https://github.com/elahe-dastan/first-grade) - OCR for Iranian national ID card, etc.
 - [Belval/TextRecognitionDataGenerator](https://github.com/Belval/TextRecognitionDataGenerator) - A synthetic data generator for text recognition
 - [RapidAI/RapidOCR](https://github.com/RapidAI/RapidOCR) - 📄 Awesome OCR multiple programing languages toolkits based on ONNXRuntime, OpenVINO, PaddlePaddle and PyTorch.
-- [apm1467/videocr](https://github.com/apm1467/videocr) - Extract hardcoded subtitles from videos using machine learning
 - [SWHL/RapidVideOCR](https://github.com/SWHL/RapidVideOCR) - 🎦 Extract video hard subtitles and automatically generate corresponding srt files.
 - [krviolent/subtitles_extract](https://github.com/krviolent/subtitles_extract) - Tool for extraction hard-coded (hardsub) Chinese subtitles from video files with 720p resolution
 - [escape0707/extract-rename-subtitle](https://github.com/escape0707/extract-rename-subtitle) - 
