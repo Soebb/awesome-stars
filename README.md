@@ -196,6 +196,7 @@
 
 ## Java 
 
+- [w-coding/hanban_borina](https://github.com/w-coding/hanban_borina) - فەرهەنگی کوردی فارسی هەنبانبۆرینە
 - [TGX-Android/Telegram-X](https://github.com/TGX-Android/Telegram-X) - The main repository of Telegram X — official alternative Telegram client for Android.
 - [Team-xManager/xManager](https://github.com/Team-xManager/xManager) - Ad-Free, New Features & Freedom
 - [PatrickAlex2019/ApkEditor](https://github.com/PatrickAlex2019/ApkEditor) - Used for APP reverse compilation, APK localization, APK cracking, APK signature...
@@ -1433,7 +1434,7 @@
 - [bellingcat/telegram-phone-number-checker](https://github.com/bellingcat/telegram-phone-number-checker) - Check if phone numbers are connected to Telegram accounts.
 - [JBornman/telegram-inspire-bot](https://github.com/JBornman/telegram-inspire-bot) - A telegram bot that takes quotes and makes inspirational quote wallpapers
 - [runetech0/instagram-to-telegram](https://github.com/runetech0/instagram-to-telegram) - This bot scrapes the posts from specific instagram account and sends these posts(Images, Videos) to a telegram group.
-- [runetech0/discord-telegram-bot](https://github.com/runetech0/discord-telegram-bot) - Simple discord to telegram messages forward bot. It receives messages from filtered discord servers and channels and forward these messages to specified telegram channel using telegram api.
+- [runetech0/discord-telegram-bot](https://github.com/runetech0/discord-telegram-bot) - [Not Working Anymore] Simple discord to telegram messages forward bot. It receives messages from filtered discord servers and channels and forward these messages to specified telegram channel using te
 - [artis7eer/ForwardTagRemoverBot](https://github.com/artis7eer/ForwardTagRemoverBot) - A Telegram Bot To Hide Forward Source
 - [Ah00ra/btc-price](https://github.com/Ah00ra/btc-price) - Get the price of bitcoin and insert it into a database
 - [StarkGang/RTMP-TG](https://github.com/StarkGang/RTMP-TG) - play your streams directly to telegram
@@ -2625,7 +2626,7 @@
 - [Qiamast/PersianWordle](https://github.com/Qiamast/PersianWordle) - "Persian Wordle" is a fun and challenging word puzzle game designed to improve your Persian vocabulary. Built with TypeScript, ReactJS, TailwindCSS, PostCSS, and a Persian word dictionary, this game o
 - [HeySreelal/BitLinker](https://github.com/HeySreelal/BitLinker) - Just a Telegram Bot to shorten your long links!
 - [HeySreelal/xwordlebot](https://github.com/HeySreelal/xwordlebot) - Telegram Bot inspired by the Wordle game.
-- [alitnk/monopay](https://github.com/alitnk/monopay) - 💳 A node.js package for making payment transactions with different payment gateways
+- [cerpinn/monopay](https://github.com/cerpinn/monopay) - 💳 A node.js package for making payment transactions with different payment gateways
 - [rastikerdar/vazirmatn](https://github.com/rastikerdar/vazirmatn) - Vazirmatn is a Persian/Arabic font. وزیرمتن یک فونت فارسی/عربی است
 - [DustbinServer/DustbinBot](https://github.com/DustbinServer/DustbinBot) - A Telegram Bot Based On Dustbin API.
 - [snowplow-industry-solutions/web-video-tracking-examples](https://github.com/snowplow-industry-solutions/web-video-tracking-examples) - 
