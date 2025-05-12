@@ -2198,7 +2198,7 @@
 - [codxmodsofc/Telegraph-Uploader-Bot](https://github.com/codxmodsofc/Telegraph-Uploader-Bot) - A simple telegram file or media to telegra.ph link uploader bot
 - [FayasNoushad/QR-Code-Bot](https://github.com/FayasNoushad/QR-Code-Bot) - An advanced QR Code telegram bot with more features.
 - [polak0v/ReSuber](https://github.com/polak0v/ReSuber) - 
-- [MrMissx/Telegram_Forwarder](https://github.com/MrMissx/Telegram_Forwarder) - Simple telegram bot to forward message from channel/group
+- [MrMissx/Telegram_Forwarder](https://github.com/MrMissx/Telegram_Forwarder) - Telegram bot to forward message from channel/group
 - [gurjeet29/telegram_members_scrapper](https://github.com/gurjeet29/telegram_members_scrapper) - Python Script to scrape members from a selected Telegram group.
 - [kawaiiDango/telegram-delete-logger](https://github.com/kawaiiDango/telegram-delete-logger) - Userbot to log deleted and edited messages on Telegram
 - [Reeshuxd/NightModeBot](https://github.com/Reeshuxd/NightModeBot) - A Telegram Bot to prevent Night Spams
