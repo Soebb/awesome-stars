@@ -151,7 +151,6 @@
 
 ## HTML 
 
-- [ALIILAPRO/MusicFinder](https://github.com/ALIILAPRO/MusicFinder) - 🎵 Music Finder — A modern, stylish web app to search for your favorite songs using the Deezer API and download them easily via Telegram.
 - [FlagMotori/writeups](https://github.com/FlagMotori/writeups) - رایتاپ‌های تیم فلگ موتوری
 - [Gl0deanR/create-flask-app](https://github.com/Gl0deanR/create-flask-app) - 
 - [viperadnan-git/telegram-filestream](https://github.com/viperadnan-git/telegram-filestream) - API to stream publically available Telegram files
@@ -352,6 +351,7 @@
 
 ## Others 
 
+- [ALIILAPRO/MusicFinder](https://github.com/ALIILAPRO/MusicFinder) - 🎵 Music Finder is a browser extension that allows you to search for music and download tracks via a Telegram bot.
 - [MoonWalker440/TeleBotList](https://github.com/MoonWalker440/TeleBotList) - A cool collection of awesome Telegram bots source code hosted on github
 - [rahgozar94725/freedom](https://github.com/rahgozar94725/freedom) - آموزش راه‌اندازی فیلتر شکن شخصی
 - [skills/introduction-to-github](https://github.com/skills/introduction-to-github) - Get started using GitHub in less than an hour.
