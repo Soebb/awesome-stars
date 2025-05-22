@@ -490,6 +490,8 @@
 
 ## Python 
 
+- [zackees/setenvironment](https://github.com/zackees/setenvironment) - Cross platform way to set the environment and add paths
+- [moradpoor/V_to_T_bot](https://github.com/moradpoor/V_to_T_bot) - Telegram Voice-to-Text Bot
 - [py2many/py2many](https://github.com/py2many/py2many) - Transpiler of Python to many other languages
 - [k44t/videocr](https://github.com/k44t/videocr) - Extract hardcoded subtitles from videos using machine learning
 - [timminator/VideOCR](https://github.com/timminator/VideOCR) - Extract hardcoded subtitles from videos via a simple GUI using machine learning
@@ -979,7 +981,7 @@
 - [stanvanrooy/instauto](https://github.com/stanvanrooy/instauto) - Simple to use wrapper around the private Instagram API, written in Python.
 - [onionj/smsboomber](https://github.com/onionj/smsboomber) - sms boomber for Iran!
 - [jsavargas/telethon_downloader](https://github.com/jsavargas/telethon_downloader) - 
-- [mandrelbrotset/same-network-group-chat](https://github.com/mandrelbrotset/same-network-group-chat) - GUI group chat for computers in the same network. The server and the client program both have a GUI.
+- [mandrelbrotset/chat-room](https://github.com/mandrelbrotset/chat-room) - GUI group chat for computers in the same network. The server and the client program both have a GUI.
 - [skorokithakis/shortuuid](https://github.com/skorokithakis/shortuuid) - A generator library for concise, unambiguous and URL-safe UUIDs.
 - [intervall-ludger/PyPDFMerger](https://github.com/intervall-ludger/PyPDFMerger) - PyPDFMerger is a Python-based application that allows users to merge multiple PDF files into a single document using a drag-and-drop interface.
 - [father-bot/chatgpt_telegram_bot](https://github.com/father-bot/chatgpt_telegram_bot) - 💬 Telegram bot with ChatGPT, Python-based, using OpenAI's API.
@@ -1364,8 +1366,8 @@
 - [Adibian/telegram_bot](https://github.com/Adibian/telegram_bot) - Simple telegram bot implemented by python to send some information such as news.
 - [amirkaveh/persian-words](https://github.com/amirkaveh/persian-words) - 
 - [kargaranamir/parstdex](https://github.com/kargaranamir/parstdex) - A package that extracts Persian time and date markers by applying regexes -- AACL 2022
-- [voria-py/ip2geo](https://github.com/voria-py/ip2geo) - 
-- [voria-py/any2persian](https://github.com/voria-py/any2persian) - 
+- [algorithmic-mind/ip2geo](https://github.com/algorithmic-mind/ip2geo) - 
+- [algorithmic-mind/any2persian](https://github.com/algorithmic-mind/any2persian) - 
 - [abhiTronix/deffcode](https://github.com/abhiTronix/deffcode) - A cross-platform High-performance FFmpeg based Real-time Video Frames Decoder in Pure Python 🎞️⚡
 - [AliRezaBeigy/Gitools](https://github.com/AliRezaBeigy/Gitools) - A handy tool to modify git history
 - [dolphinorg/pydolphin](https://github.com/dolphinorg/pydolphin) - a convenient solution to heroku web apps / APIs.
@@ -1874,7 +1876,7 @@
 - [kmille/deezer-downloader](https://github.com/kmille/deezer-downloader) - Download music from Deezer with a nice front end
 - [pythonecuador/pythonecuador.github.io](https://github.com/pythonecuador/pythonecuador.github.io) - Sitio web de la comunidad de Python del Ecuador
 - [cozy/cozy.github.io](https://github.com/cozy/cozy.github.io) - Official documentation for Cozy.
-- [zevtyardt/lk21](https://github.com/zevtyardt/lk21) - Cari anime dan film subtitle indonesia
+- [lucasbuilds/lk21](https://github.com/lucasbuilds/lk21) - Cari anime dan film subtitle indonesia
 - [xditya/TelethonBot](https://github.com/xditya/TelethonBot) - Simple base for a telethon bot!
 - [tulir/Telethon](https://github.com/tulir/Telethon) - Pure Python 3 MTProto API Telegram client library, for bots too!
 - [charindithjaindu/InviteLinkGen](https://github.com/charindithjaindu/InviteLinkGen) - Invites link generator for telegram(made for channel referral links)
@@ -2617,7 +2619,7 @@
 - [KnorpelSenf/link-preview-bot](https://github.com/KnorpelSenf/link-preview-bot) - Telegram bot to generate link previews for all links in messages.
 - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser
 - [viperadnan-git/telegram-forwarder-bot](https://github.com/viperadnan-git/telegram-forwarder-bot) - Forward Telegram messages between chats using pure Telegram Bot API and Webhooks
-- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
+- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
 - [SpEcHiDe/ButtonHTMLBot](https://github.com/SpEcHiDe/ButtonHTMLBot) - https://ButtonHTMLBot.t.me
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - DocsGPT is an open-source genAI tool that helps users get reliable answers from knowledge source, while avoiding hallucinations. It enables private and reliable information retrieval, with tooling and
