@@ -306,7 +306,6 @@
 - [San-B-09/Speech-Recognition](https://github.com/San-B-09/Speech-Recognition) - This repository contains python code to convert audio to text. This system is codded using API as well as without using API.
 - [abbycabs/Tutorial-train-dutch-model](https://github.com/abbycabs/Tutorial-train-dutch-model) - Using Mozilla's DeepSpeech and Common Voice to train a Dutch speech-to-text model.
 - [MhmdFneish/similar-images](https://github.com/MhmdFneish/similar-images) - Similar images using python and tensorflow
-- [duckydares/mood-music-generator](https://github.com/duckydares/mood-music-generator) - A simple playlist generator for moods
 - [Jessica0008/Object-Detection-Telegram-Bot](https://github.com/Jessica0008/Object-Detection-Telegram-Bot) - Telegram Bot that detects cars and road defects on uploaded images
 - [mgeier/python-audio](https://github.com/mgeier/python-audio) - Some Jupyter notebooks about audio signal processing with Python
 - [alphacep/vosk-api](https://github.com/alphacep/vosk-api) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
@@ -1216,7 +1215,7 @@
 - [tweak1337/telegram_parser-v.2---Telethon](https://github.com/tweak1337/telegram_parser-v.2---Telethon) - Second version of public channels parser in telegram using Telethon library. (Postgresql)
 - [tweak1337/telegrabber](https://github.com/tweak1337/telegrabber) - To parse telegram public channels and reply it to your public and rec to DB
 - [AndydeCleyre/colorcodebot](https://github.com/AndydeCleyre/colorcodebot) - A simple Telegram bot for syntax highlighting
-- [iniridwanul/Ciraag](https://github.com/iniridwanul/Ciraag) - A powerful pluggable userbot on Telegram.
+- [sheikhreed/Crowthon](https://github.com/sheikhreed/Crowthon) - A powerful pluggable userbot on Telegram.
 - [New-dev0/Telethon-Patch](https://github.com/New-dev0/Telethon-Patch) - Wrap over telethon with additional upgrades
 - [mehdisayyadnahed/telegram-auto-forwarder](https://github.com/mehdisayyadnahed/telegram-auto-forwarder) - Telegram Auto Forwarder
 - [JKhakpour/petit](https://github.com/JKhakpour/petit) - Persian text -&gt; integer, ineteger -&gt; text converter
@@ -1655,7 +1654,7 @@
 - [matbgn/transcript-extractor](https://github.com/matbgn/transcript-extractor) - Extract transcript from a video or audio file (offline)
 - [subhsamal/Python-Programming](https://github.com/subhsamal/Python-Programming) - This repo contains interesting python programs I have come across.
 - [bluec/telegram-word-bot](https://github.com/bluec/telegram-word-bot) - A simple Telegram bot that analyses a given word, built with python-telegram-bot
-- [debnation/link-media-scraper-bot](https://github.com/debnation/link-media-scraper-bot) - Scraper of  cyberdrop, bunkr, streamtape links, Supports Streamtape uploading, Made Using Pyrogram Framework
+- [DebNation/link-media-scraper-bot](https://github.com/DebNation/link-media-scraper-bot) - Scraper of  cyberdrop, bunkr, streamtape links, Supports Streamtape uploading, Made Using Pyrogram Framework
 - [XDBots/Word-Of-The-Day-TGBot](https://github.com/XDBots/Word-Of-The-Day-TGBot) - Warning : Not Maintained, A Telegram Bot To send Scheduled Message at every morning or any time with the word of the day with meanings and Pronounciation.
 - [ArnabXD/GmailBomber](https://github.com/ArnabXD/GmailBomber) - A Simple Tool To Bomb Emails using Your Gmail .
 - [MontyIOX/HowFarBot](https://github.com/MontyIOX/HowFarBot) - A telegram bot that determines the user's distance form a requested place utilizing the Nomatim geocoding API
@@ -1872,7 +1871,6 @@
 - [dadolens/Website-Updater-Bot](https://github.com/dadolens/Website-Updater-Bot) - Telegram Bot that notify when a web page (or a piece of it) changes
 - [ohaval/auto-doh](https://github.com/ohaval/auto-doh) - A Python package which serves as an API client, with a scheduled task (cronjob) and a Telegram bot to automate the daily process of doh.
 - [Zycho-Dev-66/GiveawayZ](https://github.com/Zycho-Dev-66/GiveawayZ) - A Powerful telegram giveawayz bot based on the python-telegram-bot API. Powered by Team Zyntax and Team DFX
-- [advaitconty/AdvancedGoogleSearchDev](https://github.com/advaitconty/AdvancedGoogleSearchDev) - 
 - [kmille/deezer-downloader](https://github.com/kmille/deezer-downloader) - Download music from Deezer with a nice front end
 - [pythonecuador/pythonecuador.github.io](https://github.com/pythonecuador/pythonecuador.github.io) - Sitio web de la comunidad de Python del Ecuador
 - [cozy/cozy.github.io](https://github.com/cozy/cozy.github.io) - Official documentation for Cozy.
