@@ -616,7 +616,7 @@
 - [nuhmanpk/text2imagebot](https://github.com/nuhmanpk/text2imagebot) - A Telegram bot that is capable of running stable diffusion Models (Support all model from huggingface) and generate images based on user prompts. Loaded with 20 Models .
 - [kivy/python-for-android](https://github.com/kivy/python-for-android) - Turn your Python application into an Android APK
 - [inveniosoftware/dictdiffer](https://github.com/inveniosoftware/dictdiffer) - Dictdiffer is a module that helps you to diff and patch dictionaries.
-- [rochacbruno/flask-project-template](https://github.com/rochacbruno/flask-project-template) - DO NOT FORK, CLICK "Use this template" - A github template to start a Flask Project - this uses github actions to generate your project based on the template.
+- [rochacbruno/flask-project-template](https://github.com/rochacbruno/flask-project-template) - This template is **archived**.   &gt; UV can now [generate a sample project](https://docs.astral.sh/uv/guides/projects/#creating-a-new-project)   &gt; I recommend using **UV** to bootstrap your peojec
 - [kurtmckee/feedparser](https://github.com/kurtmckee/feedparser) - Parse feeds in Python
 - [sudoAlireza/GeminiBot](https://github.com/sudoAlireza/GeminiBot) - TelegramBot Tool to Interact with Google's Gemini AI Chatbot
 - [Soebb/persian-tts-bot](https://github.com/Soebb/persian-tts-bot) - Persian ASR, farsi text to speech telegram bot.
