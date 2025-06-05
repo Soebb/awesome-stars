@@ -77,7 +77,7 @@
 - [gyroing/Ezafeh-detection-with-HAZM](https://github.com/gyroing/Ezafeh-detection-with-HAZM) - C++ wrappers of the Python's Hazm module
 - [rhasspy/piper](https://github.com/rhasspy/piper) - A fast, local neural text to speech system
 - [vapoursynth/vapoursynth](https://github.com/vapoursynth/vapoursynth) - A video processing framework with simplicity in mind
-- [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) - Speech-to-text, text-to-speech, speaker diarization, speech enhancement, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, R
+- [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) - Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android
 - [PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle) - PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）
 - [mozilla/DeepSpeech](https://github.com/mozilla/DeepSpeech) - DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.
 
@@ -273,7 +273,7 @@
 - [AnswerDotAI/fasthtml](https://github.com/AnswerDotAI/fasthtml) - The fastest way to create an HTML app
 - [shashikg/WhisperS2T](https://github.com/shashikg/WhisperS2T) - An Optimized Speech-to-Text Pipeline for the Whisper Model Supporting Multiple Inference Engine
 - [mfhepp/py4docker](https://github.com/mfhepp/py4docker) - Template for running Python 3.x shell scripts and notebooks in a Docker container for isolation, security, and portability
-- [nimaprgrmr/ocr_persian](https://github.com/nimaprgrmr/ocr_persian) - this system take a photo and do a lot preprocessing steps and then pass it to pytesseract model and you can see the texts extracted from image.
+- [NimaAslToghiri/ocr_persian](https://github.com/NimaAslToghiri/ocr_persian) - this system take a photo and do a lot preprocessing steps and then pass it to pytesseract model and you can see the texts extracted from image.
 - [Vaibhavs10/insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper) - 
 - [Pouyaexe/Farsi_PDF](https://github.com/Pouyaexe/Farsi_PDF) - Make editable Persian(Farsi) PDF from Non-Editable ones, using OCR.
 - [pyannote/pyannote-audio](https://github.com/pyannote/pyannote-audio) - Neural building blocks for speaker diarization: speech activity detection, speaker change detection, overlapped speech detection, speaker embedding
@@ -384,7 +384,6 @@
 - [rapidfuzz/python-Levenshtein](https://github.com/rapidfuzz/python-Levenshtein) - The Levenshtein Python C extension module contains functions for fast computation of Levenshtein distance and string similarity
 - [Hameds/APIs-made-in-Iran](https://github.com/Hameds/APIs-made-in-Iran) - A list of APIs from Iran
 - [alipyth/Aparat_bot](https://github.com/alipyth/Aparat_bot) - ربات افزایش فالورر و بازدید آپارات . این ربات کاملا طبیعی عمل میکنه و خبری از ربات فالوور فیک نیست .
-- [MrYazdan/IranianProxyList](https://github.com/MrYazdan/IranianProxyList) - :globe_with_meridians: The best proxies that can be used in Iranian ISPs
 - [dkncus/CrowdRemoval](https://github.com/dkncus/CrowdRemoval) - 
 - [Cozy-Tech/regex_tutorial_and_examples](https://github.com/Cozy-Tech/regex_tutorial_and_examples) - 
 - [Hameds/IranCountryDivisions](https://github.com/Hameds/IranCountryDivisions) - Iran Country Divisions - کلیه تقسیمات کشوری ایران تا سطح آبادی بر اساس اطلاعات مرکز آمار ایران
@@ -456,7 +455,7 @@
 - [NabiKAZ/filimo-downloader](https://github.com/NabiKAZ/filimo-downloader) - Download movies from filimo.com | لینک جایگزین جهت احتیاط: https://gitlab.com/NabiKAZ/filimo-downloader
 - [JayRizzo/Random_Scripts](https://github.com/JayRizzo/Random_Scripts) - My Own Creations & Stack Overflow Answers To Questions
 - [NabiKAZ/fetch-telegram](https://github.com/NabiKAZ/fetch-telegram) - Fetch and download all video contents of channels telegram by PHP (Not used Bot API, Core API, or not need any authenticate telegram! It's anonymouse downloader!)
-- [koel/koel](https://github.com/koel/koel) - 🐦 A personal music streaming server that works.
+- [koel/koel](https://github.com/koel/koel) - Music streaming solution that works.
 - [YOURLS/YOURLS](https://github.com/YOURLS/YOURLS) - 🔗 The de facto standard self hosted URL shortener in PHP
 - [shetabit/payment](https://github.com/shetabit/payment) - simple laravel payment package , supports multiple drivers
 - [shahind/Persian-Spell-Corrector-PHP](https://github.com/shahind/Persian-Spell-Corrector-PHP) - a PHP Script for correcting Persian Spell
@@ -780,7 +779,7 @@
 - [m1guelpf/yt-whisper](https://github.com/m1guelpf/yt-whisper) - Using OpenAI's Whisper to automatically generate YouTube subtitles
 - [mvdctop/Movie_Data_Capture](https://github.com/mvdctop/Movie_Data_Capture) - Local Movies Organizer
 - [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
-- [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - ✨ AI agents that spark joy
+- [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - an ambient intelligence library
 - [Textualize/frogmouth](https://github.com/Textualize/frogmouth) - A Markdown browser for your terminal
 - [gleitz/howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
 - [darrenburns/kupo](https://github.com/darrenburns/kupo) - A terminal file browser, kupo!
@@ -848,7 +847,6 @@
 - [jina-ai/executor-pdfsegmenter](https://github.com/jina-ai/executor-pdfsegmenter) - Jina Executor used for extracting images and text as chunks from PDF data
 - [encode/databases](https://github.com/encode/databases) - Async database support for Python. 🗄
 - [bipinkrish/File-Converter-Bot](https://github.com/bipinkrish/File-Converter-Bot) - File Converter Telegram Bot that can Convert Images, Videos, Audios, Fonts, Documents and Ebooks
-- [uktrade/stream-zip](https://github.com/uktrade/stream-zip) - Python function to construct a ZIP archive on the fly
 - [frostming/marko](https://github.com/frostming/marko) - A markdown parser with high extensibility.
 - [frostming/unearth](https://github.com/frostming/unearth) - A utility to fetch and download python packages
 - [nuhmanpk/Webtrench](https://github.com/nuhmanpk/Webtrench) - A powerful and easy-to-use web scrapper for collecting data from the web. Supports scraping of images, text, videos, meta data, and more. Ideal for machine learning and deep learning engineers. Downlo
@@ -1331,7 +1329,6 @@
 - [wileylau/spotBot-OSS](https://github.com/wileylau/spotBot-OSS) - // Download FLAC / MP3 from Spotify via Telegram Bot //
 - [jakob-bagterp/browserist](https://github.com/jakob-bagterp/browserist) - 👩‍💻 Python extension for the Selenium web driver that makes browser automation even easier 👨‍💻
 - [jakob-bagterp/timer-for-python](https://github.com/jakob-bagterp/timer-for-python) - ⏳ Lightweight Python package that makes it easy to measure how much time it takes to run Python programs and gauge performance of multiple, smaller bits of code ⌛️
-- [uktrade/stream-unzip](https://github.com/uktrade/stream-unzip) - Python function to stream unzip all the files in a ZIP archive on the fly
 - [language-ml/parsi.io](https://github.com/language-ml/parsi.io) - 
 - [haraai/ParsiNorm](https://github.com/haraai/ParsiNorm) - 
 - [CharlesPikachu/pytools](https://github.com/CharlesPikachu/pytools) - Pytools: Some useful tools written by pure python.
@@ -1624,7 +1621,7 @@
 - [bastibe/python-soundfile](https://github.com/bastibe/python-soundfile) - SoundFile is an audio library based on libsndfile, CFFI, and NumPy
 - [hyPnOtICDo0g/rss-chan](https://github.com/hyPnOtICDo0g/rss-chan) - A telegram RSS feed reader bot, written using python and feedparser.
 - [diwu1989/Fake-Headers](https://github.com/diwu1989/Fake-Headers) - Simple headers generator for requests lib
-- [superdima05/deezer-grabber](https://github.com/superdima05/deezer-grabber) - Download any track from deezer in CD quality
+- [dmitzsaz/deezer-grabber](https://github.com/dmitzsaz/deezer-grabber) - Download any track from deezer in CD quality
 - [devalv/repo-cloner](https://github.com/devalv/repo-cloner) - 
 - [Faouzizi/Insta_logo_finder](https://github.com/Faouzizi/Insta_logo_finder) - 
 - [solankiravi/Python](https://github.com/solankiravi/Python) - 
