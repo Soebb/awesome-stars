@@ -101,7 +101,7 @@
 
 - [fazibaba/Building-Containers-Podman](https://github.com/fazibaba/Building-Containers-Podman) - Docker is a popular tool for building and running containers, but it's not the only one. Podman is a similar tool that can be used as a drop-in replacement for Docker. One advantage of Podman is that 
 - [hmahdiany/dind](https://github.com/hmahdiany/dind) - An image for Docker in Docker use cases
-- [venkyvajrala/docker-exercises](https://github.com/venkyvajrala/docker-exercises) - This Repository offers tasks to test and enhance expertise in creating optimized Docker images and containers
+- [venkateswarluvajrala/docker-exercises](https://github.com/venkateswarluvajrala/docker-exercises) - This Repository offers tasks to test and enhance expertise in creating optimized Docker images and containers
 - [ITZ-ZAID/Doprax](https://github.com/ITZ-ZAID/Doprax) - 
 - [Itz-fork/X-Bin-Patch](https://github.com/Itz-fork/X-Bin-Patch) - Method to deploy Mega.nz-Bot to Heroku
 - [divideprojects/docker-telegram-bot-api](https://github.com/divideprojects/docker-telegram-bot-api) - Auto build repository for 🐳 docker image of telegram-bot-api using Github Actions
@@ -592,7 +592,7 @@
 - [sns-sdks/python-youtube](https://github.com/sns-sdks/python-youtube) - A simple Python wrapper for YouTube Data API :sparkles: :cake: :sparkles: .
 - [k2-fsa/icefall](https://github.com/k2-fsa/icefall) - 
 - [kcarnold/fixwav](https://github.com/kcarnold/fixwav) - Quick utility to fix WAV files with incorrect lengths
-- [livingbio/typed-ffmpeg](https://github.com/livingbio/typed-ffmpeg) - Modern Python FFmpeg wrappers offer comprehensive support for complex filters, complete with detailed typing and documentation.
+- [livingbio/typed-ffmpeg](https://github.com/livingbio/typed-ffmpeg) - Python FFmpeg wrappers support filters with typing and docs
 - [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3) - Offline Text To Speech synthesis for python
 - [mborsetti/webchanges](https://github.com/mborsetti/webchanges) - webchanges anonymously checks web content (including images) and commands for changes, delivering instant notifications and AI-powered summaries to your favorite platform.
 - [DeeepMaker/subtitle-to-audio](https://github.com/DeeepMaker/subtitle-to-audio) - A python script to generate .wav audio files for .srt subtitle files
@@ -633,7 +633,7 @@
 - [sakemin/cog-musicgen-remixer](https://github.com/sakemin/cog-musicgen-remixer) - Music remixer based on MusicGen-Chord
 - [PinkFloyded/video-ocr](https://github.com/PinkFloyded/video-ocr) - 
 - [victorjoh/hard-subs-to-srt](https://github.com/victorjoh/hard-subs-to-srt) - Creates an SRT file from a video file that has hardcoded subtitles
-- [Mayuri-Chan/pyrofork](https://github.com/Mayuri-Chan/pyrofork) - Pyrogram fork with Adjustable web page preview, Quote Reply, Story & Topics Support, Mongodb session storage, and much more. go to https://pyrofork.wulan17.top/ for documentation.
+- [Mayuri-Chan/pyrofork](https://github.com/Mayuri-Chan/pyrofork) - Pyrogram fork with Adjustable web page preview, Quote Reply, Story & Topics Support, Mongodb session storage, and much more. go to https://pyrofork.wulan17.dev for documentation.
 - [yeongbin-jo/python-chromedriver-autoinstaller](https://github.com/yeongbin-jo/python-chromedriver-autoinstaller) - The chromedriver auto installer for distribution.
 - [kaliiiiiiiiii/Selenium-Driverless](https://github.com/kaliiiiiiiiii/Selenium-Driverless) - a stealthy browser automation framework
 - [umihico/pythonista-chromeless](https://github.com/umihico/pythonista-chromeless) - Serverless selenium which dynamically execute any given code.
@@ -663,7 +663,7 @@
 - [moehmeni/syncedlyrics](https://github.com/moehmeni/syncedlyrics) - Get an LRC format (synchronized) lyrics for your music
 - [SadeghKrmi/pertts-streamlit](https://github.com/SadeghKrmi/pertts-streamlit) - Persian text-to-speech streamlit interface
 - [TDHM/Subtitles-Translator](https://github.com/TDHM/Subtitles-Translator) - Automatic subtitles translation with a local neural machine translation model. No third-party service required: the translation is done locally with small but efficient neural network models.
-- [VikParuchuri/surya](https://github.com/VikParuchuri/surya) - OCR, layout analysis, reading order, table recognition in 90+ languages
+- [datalab-to/surya](https://github.com/datalab-to/surya) - OCR, layout analysis, reading order, table recognition in 90+ languages
 - [smacke/ffsubsync](https://github.com/smacke/ffsubsync) - Automagically synchronize subtitles with video.
 - [absadiki/subsai](https://github.com/absadiki/subsai) - 🎞️ Subtitles generation tool (Web-UI + CLI + Python package) powered by OpenAI's Whisper and its variants 🎞️
 - [absadiki/pywhispercpp](https://github.com/absadiki/pywhispercpp) - Python bindings for whisper.cpp
