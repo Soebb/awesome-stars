@@ -1040,8 +1040,6 @@
 - [BashirAljounaidy/ytd-bot](https://github.com/BashirAljounaidy/ytd-bot) - 
 - [MossabDiae/Subtitles-Renamer](https://github.com/MossabDiae/Subtitles-Renamer) - Renames Subtitles to match the videos naming pattern.
 - [MossabDiae/instaReelPy](https://github.com/MossabDiae/instaReelPy) - Generating Instagram reels from image frames and video cuts.
-- [aahashemi/URL_Shotener](https://github.com/aahashemi/URL_Shotener) - 
-- [aahashemi/fake-user-bot](https://github.com/aahashemi/fake-user-bot) - This is a telegram bot made with python which generates fake user data
 - [musikalkemist/prophet](https://github.com/musikalkemist/prophet) - 
 - [eight04/pip-outdated](https://github.com/eight04/pip-outdated) - Find outdated dependencies in your requirements.txt or setup.cfg file. Report missing/outdated/incompatible packages with table and colors.
 - [ToshY/mkvexport](https://github.com/ToshY/mkvexport) - A command-line utility for extracting attachments (subtitles, fonts and chapters) of MKV files.
@@ -2388,7 +2386,7 @@
 - [Ryen-042/Youtube-Links-Grabber](https://github.com/Ryen-042/Youtube-Links-Grabber) - Provide a YouTube playlist link and get all the links of the playlist videos along with the name and the length of these videos.
 - [haruhi-dl/haruhi-dl](https://github.com/haruhi-dl/haruhi-dl) - Online video downloader CLI tool/Python library. Mirror of the GitLab repository.
 - [mr-sharmaji/download_video_online](https://github.com/mr-sharmaji/download_video_online) - 
-- [hacker-h/youtube-telegram-downloader](https://github.com/hacker-h/youtube-telegram-downloader) - This is a Telegram bot which automatically downloads videos or streams, extracts the audiotrack and uploads it to your online storage backend.
+- [hacker-h/youtube-telegram-downloader](https://github.com/hacker-h/youtube-telegram-downloader) - A Telegram bot which automatically downloads videos or streams, extracts the audiotrack and saves it to your (online) storage backend.
 - [Itz-fork/Nexa-Userbot](https://github.com/Itz-fork/Nexa-Userbot) - Nexa Userbot - Dev Version
 - [Itz-fork/py-extract](https://github.com/Itz-fork/py-extract) - A simple, light-weight python library to handle some extraction tasks using less lines of code.
 - [ram-jayapalan/filesplit](https://github.com/ram-jayapalan/filesplit) - A python module to split file into multiple chunks based on the given size.
