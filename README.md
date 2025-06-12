@@ -438,6 +438,7 @@
 - [isaacxbt/AnonfilesAPI](https://github.com/isaacxbt/AnonfilesAPI) - Anonfiles.com API Wrapper
 - [m4mallu/inline-tube-mate](https://github.com/m4mallu/inline-tube-mate) - An Inline Telegram YouTube downloader bot with custom, permanent thumbnail support, force subscription and cancel upload facility. The bot can send or broadcast messages to the users.
 - [aahnik/tgcf-on-gh-action](https://github.com/aahnik/tgcf-on-gh-action) - Running tgcf periodically in past mode for free using GitHub Actions.
+- [AbirHasan2005/TelegramScraper](https://github.com/AbirHasan2005/TelegramScraper) - Scrape Telegram group members (hidden members also) and add them to yours.
 
 ## PHP 
 
@@ -2508,7 +2509,6 @@
 - [AbirHasan2005/Cloud-UPManager-Bot](https://github.com/AbirHasan2005/Cloud-UPManager-Bot) - Telegram Cloud Upload Manager Bot by @AbirHasan2005
 - [AbirHasan2005/GdriveSearcherBot](https://github.com/AbirHasan2005/GdriveSearcherBot) - Google Drive Searcher Bot Written In Python Using Pyrogram. Moded by @AbirHasan2005
 - [AbirHasan2005/Forward-Client](https://github.com/AbirHasan2005/Forward-Client) - This is Telegram Messages Forwarder Userbot by @AbirHasan2005
-- [AbirHasan2005/TelegramScraper](https://github.com/AbirHasan2005/TelegramScraper) - Using this tool you can easily add so many members from any group to your group. Less than 2 minutes. Super easy. Time saver. But this tool is only for educational purpose. You could be banned from Te
 - [AbirHasan2005/Save-Group](https://github.com/AbirHasan2005/Save-Group) - A Group Files Store Userbot + Bot by @AbirHasan2005
 - [AbirHasan2005/VideoCompress](https://github.com/AbirHasan2005/VideoCompress) - Telegram Video Compressor Bot By @AbirHasan2005
 - [AbirHasan2005/Rename-Bot](https://github.com/AbirHasan2005/Rename-Bot) - A Very Simple Telegram Files Rename Bot by @AbirHasan2005
