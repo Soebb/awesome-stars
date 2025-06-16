@@ -49,7 +49,7 @@
 - [norihiro/alignaudio](https://github.com/norihiro/alignaudio) - a tool to align audio files
 - [gpac/gpac](https://github.com/gpac/gpac) - GPAC Ultramedia OSS for Video Streaming & Next-Gen Multimedia Transcoding, Packaging & Delivery
 - [TheZoc/sub3dtool](https://github.com/TheZoc/sub3dtool) - Convert subtitle to 3D (ASS Format) to use with VLC or MPlayer
-- [ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick) - ImageMagick is a powerful, open-source software suite for creating, editing, converting, and manipulating images in over 200 formats. Ideal for web developers, graphic designers, and researchers, it o
+- [ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick) - ImageMagick is a free, open-source software suite for creating, editing, converting, and displaying images. It supports 200+ formats and offers powerful command-line tools and APIs for automation, scr
 
 ## C# # 
 
@@ -94,6 +94,7 @@
 
 ## Dart 
 
+- [Begzar/BegzarApp](https://github.com/Begzar/BegzarApp) - Begzar, is a free software for internet freedom.
 - [Itz-fork/Bypasser-CLI](https://github.com/Itz-fork/Bypasser-CLI) - CLI for bypass.vip api
 - [DinoLeung/TeleDart](https://github.com/DinoLeung/TeleDart) - A Dart library interfacing with the latest Telegram Bot API.
 
