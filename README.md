@@ -196,6 +196,7 @@
 
 ## Java 
 
+- [bepass-org/oblivion](https://github.com/bepass-org/oblivion) - Unofficial warp client for android
 - [w-coding/hanban_borina](https://github.com/w-coding/hanban_borina) - فەرهەنگی کوردی فارسی هەنبانبۆرینە
 - [TGX-Android/Telegram-X](https://github.com/TGX-Android/Telegram-X) - The main repository of Telegram X — official alternative Telegram client for Android.
 - [Team-xManager/xManager](https://github.com/Team-xManager/xManager) - Ad-Free, New Features & Freedom
@@ -2609,6 +2610,7 @@
 
 ## TypeScript 
 
+- [bepass-org/oblivion-desktop](https://github.com/bepass-org/oblivion-desktop) - Oblivion Desktop - Unofficial Warp Client for Windows/Mac/Linux
 - [sajjadmrx/btime-desktop](https://github.com/sajjadmrx/btime-desktop) - ویجت نمایش تاریخ و آب و هوا برای سیستم عامل های ویندوز،مک، لینوکس
 - [thewh1teagle/vibe](https://github.com/thewh1teagle/vibe) - Transcribe on your own!
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
