@@ -491,6 +491,7 @@
 
 ## Python 
 
+- [0x11DFE/Auto-Forwarder-Plugin](https://github.com/0x11DFE/Auto-Forwarder-Plugin) - An advanced and highly configurable auto-forwarding plugin for exteraGram. Create powerful rules to copy or forward messages between any chat, with support for content filtering, album handling, and a
 - [stephanlensky/zendriver](https://github.com/stephanlensky/zendriver) - A blazing fast, async-first, undetectable webscraping/web automation framework based on ultrafunkamsterdam/nodriver. Now with Docker support!
 - [m1guelpf/auto-subtitle](https://github.com/m1guelpf/auto-subtitle) - Automatically generate and overlay subtitles for any video.
 - [zackees/setenvironment](https://github.com/zackees/setenvironment) - Cross platform way to set the environment and add paths
@@ -2560,6 +2561,7 @@
 
 ## Shell 
 
+- [nimiology/nginx-wizard](https://github.com/nimiology/nginx-wizard) - interactive Bash wizard that configures Nginx with SSL (Let's Encrypt), WebSocket support, reverse proxy, and static/media file serving — perfect for Django or Docker deployments.
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [fzerorubigd/persian-fonts-linux](https://github.com/fzerorubigd/persian-fonts-linux) - Persian fonts installer for linux
 - [aronchick/Docker-NGINX-Gunicorn-Flask-Python-Example](https://github.com/aronchick/Docker-NGINX-Gunicorn-Flask-Python-Example) - 
