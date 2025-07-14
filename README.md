@@ -327,6 +327,7 @@
 
 ## Kotlin 
 
+- [motmaenbash/motmaenbash-android](https://github.com/motmaenbash/motmaenbash-android) - MotmaenBash
 - [woheller69/ttsEngine](https://github.com/woheller69/ttsEngine) - 
 - [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) - A Download Manager that speeds up your downloads
 - [GFW-knocker/MahsaNG](https://github.com/GFW-knocker/MahsaNG) - a V2RayNG with Fragment , DoH , Rotating Configs , & free VPN servers
@@ -549,7 +550,7 @@
 - [zackees/tx](https://github.com/zackees/tx) - Front end for wormhole, better transfers and more secure
 - [zackees/keyvalue_sqlite](https://github.com/zackees/keyvalue_sqlite) - Super simple KeyValue store for python, backed by sqlite.
 - [carl-steinbach/selenium-scraper](https://github.com/carl-steinbach/selenium-scraper) - 
-- [cognitivecomputations/github2file](https://github.com/cognitivecomputations/github2file) - 
+- [QuixiAI/github2file](https://github.com/QuixiAI/github2file) - 
 - [GoogleCloudPlatform/functions-framework-python](https://github.com/GoogleCloudPlatform/functions-framework-python) - FaaS (Function as a service) framework for writing portable Python functions
 - [Pranjalya/google-calendar-telegram-bot](https://github.com/Pranjalya/google-calendar-telegram-bot) - A telegram bot for sending daily notifications of the events coming in upcoming days.
 - [Pranjalya/tts-tortoise-gradio](https://github.com/Pranjalya/tts-tortoise-gradio) - A Gradio setup for Tortoise TTS.
