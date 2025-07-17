@@ -327,6 +327,7 @@
 
 ## Kotlin 
 
+- [LibChecker/LibChecker](https://github.com/LibChecker/LibChecker) - An app to view libraries used in apps in your device.
 - [motmaenbash/motmaenbash-android](https://github.com/motmaenbash/motmaenbash-android) - MotmaenBash
 - [woheller69/ttsEngine](https://github.com/woheller69/ttsEngine) - 
 - [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) - A Download Manager that speeds up your downloads
@@ -493,7 +494,7 @@
 ## Python 
 
 - [0x11DFE/Auto-Forwarder-Plugin](https://github.com/0x11DFE/Auto-Forwarder-Plugin) - An advanced and highly configurable auto-forwarding plugin for exteraGram. Create powerful rules to copy or forward messages between any chat, with support for content filtering, album handling, and a
-- [stephanlensky/zendriver](https://github.com/stephanlensky/zendriver) - A blazing fast, async-first, undetectable webscraping/web automation framework based on ultrafunkamsterdam/nodriver. Now with Docker support!
+- [cdpdriver/zendriver](https://github.com/cdpdriver/zendriver) - A blazing fast, async-first, undetectable webscraping/web automation framework based on ultrafunkamsterdam/nodriver. Now with Docker support!
 - [m1guelpf/auto-subtitle](https://github.com/m1guelpf/auto-subtitle) - Automatically generate and overlay subtitles for any video.
 - [zackees/setenvironment](https://github.com/zackees/setenvironment) - Cross platform way to set the environment and add paths
 - [moradpoor/V_to_T_bot](https://github.com/moradpoor/V_to_T_bot) - Telegram Voice-to-Text Bot
@@ -2075,7 +2076,6 @@
 - [RincemonReji/RSS-Feed](https://github.com/RincemonReji/RSS-Feed) - 
 - [piyx/YoutubeSpotifyDL](https://github.com/piyx/YoutubeSpotifyDL) - Youtube and Spotify music downloader with metadata.
 - [mps-youtube/pafy](https://github.com/mps-youtube/pafy) - Python library to download YouTube content and retrieve metadata
-- [at-pyrix/Spotify_Playlist_Downloader](https://github.com/at-pyrix/Spotify_Playlist_Downloader) - A python script to download spotify playlists from youtube.
 - [pytube/pytube](https://github.com/pytube/pytube) - A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.
 - [iamLiquidX/MirLeechX](https://github.com/iamLiquidX/MirLeechX) - 
 - [im-bb/PH-DL](https://github.com/im-bb/PH-DL) - Simple python-based script to download PH STUFF
