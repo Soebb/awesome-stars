@@ -563,7 +563,7 @@
 - [AmirAref/Torobot](https://github.com/AmirAref/Torobot) - an inline telegram robot to easy access and search in torob.com products from telegram.
 - [AmirAref/DivarCrawler](https://github.com/AmirAref/DivarCrawler) - an script to crawl divar.ir and extract phone numbers
 - [Helsinki-NLP/Opus-MT](https://github.com/Helsinki-NLP/Opus-MT) - Open neural machine translation models and web services
-- [FayasNoushad/Telegram-Dictionary-Bot](https://github.com/FayasNoushad/Telegram-Dictionary-Bot) - A simple Telegram Words Dictionary Bot
+- [fayasnoushad/telegram-dictionary-bot](https://github.com/fayasnoushad/telegram-dictionary-bot) - A simple Telegram Words Dictionary Bot
 - [kkristof200/selenium_firefox](https://github.com/kkristof200/selenium_firefox) - User-friendly implementation of a firefox based selenium client
 - [shine-jayakumar/insta-likecom-bot](https://github.com/shine-jayakumar/insta-likecom-bot) - Automates likes and comments on an instagram account or tag
 - [sayak-brm/espeakng-python](https://github.com/sayak-brm/espeakng-python) - An eSpeak NG TTS binding for Python3.
@@ -579,8 +579,8 @@
 - [zackees/python-compile](https://github.com/zackees/python-compile) - Compile your python apps into linux binaries
 - [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) - 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
 - [containers/podman-compose](https://github.com/containers/podman-compose) - a script to run docker-compose.yml using podman
-- [FayasNoushad/Tools-Bot](https://github.com/FayasNoushad/Tools-Bot) - A telegram tools bot for groups.
-- [FayasNoushad/Gemini-Bot](https://github.com/FayasNoushad/Gemini-Bot) - A telegram gemini generative ai bot made with gemini api.
+- [fayasnoushad/tools-bot](https://github.com/fayasnoushad/tools-bot) - A telegram tools bot for groups.
+- [fayasnoushad/gemini-bot](https://github.com/fayasnoushad/gemini-bot) - A telegram gemini generative ai bot made with gemini api.
 - [will-rice/denoisers](https://github.com/will-rice/denoisers) - Simple PyTorch Denoisers for Waveform Audio
 - [nikhilbadyal/docker-py-revanced](https://github.com/nikhilbadyal/docker-py-revanced) - One Click Python util to build all Revanced apps.
 - [smoofra/mslex](https://github.com/smoofra/mslex) - like shlex, but for windows
@@ -785,7 +785,6 @@
 - [amirhoseinsb/Cloud_Player_V2](https://github.com/amirhoseinsb/Cloud_Player_V2) - You can use the cloudplayer tool to listen to the music of the singer you want without going to a specific website and at a very high speed.
 - [viperadnan-git/bdsm-typer](https://github.com/viperadnan-git/bdsm-typer) - Auto typing tool to paste texts on software where pasting text is not allowed. Made for desktop.
 - [m1guelpf/yt-whisper](https://github.com/m1guelpf/yt-whisper) - Using OpenAI's Whisper to automatically generate YouTube subtitles
-- [mvdctop/Movie_Data_Capture](https://github.com/mvdctop/Movie_Data_Capture) - Local Movies Organizer
 - [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
 - [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - an ambient intelligence library
 - [Textualize/frogmouth](https://github.com/Textualize/frogmouth) - A Markdown browser for your terminal
@@ -1906,7 +1905,7 @@
 - [Poolitzer/usernameToChatAPI](https://github.com/Poolitzer/usernameToChatAPI) - 
 - [tiararosebiezetta/HerokuDynoSwitcher](https://github.com/tiararosebiezetta/HerokuDynoSwitcher) - A little script and trick to make your heroku app run forever without being concerned about dyno hours.
 - [ImJanindu/ImageUploadBot](https://github.com/ImJanindu/ImageUploadBot) - 
-- [FayasNoushad/ISRO](https://github.com/FayasNoushad/ISRO) - Indian Space Research Organisation API
+- [fayasnoushad/isro](https://github.com/fayasnoushad/isro) - Indian Space Research Organisation API
 - [AJBotVerse/ReactionButtonBot](https://github.com/AJBotVerse/ReactionButtonBot) - Adding automatically like & dislike buttons to documents.
 - [ijustbsd/instagram-saver-bot](https://github.com/ijustbsd/instagram-saver-bot) - This telegram bot can save photos, videos and post descriptions from Instagram.
 - [DIGITALCRIMINAL/ArchivedUltimaScraper](https://github.com/DIGITALCRIMINAL/ArchivedUltimaScraper) - Scrape content from OnlyFans and Fansly
@@ -1953,8 +1952,8 @@
 - [TerminalWarlord/TikTok-Downloader-Bot](https://github.com/TerminalWarlord/TikTok-Downloader-Bot) - A Telegram bot to download TikTok videos without any watermark.
 - [byjokese/Generate-Index-Files](https://github.com/byjokese/Generate-Index-Files) - Auto generates recursively an index.html file indexing folder's content.
 - [BetaBotZ/auto-forward](https://github.com/BetaBotZ/auto-forward) - 
-- [FayasNoushad/Image-Search-Bot](https://github.com/FayasNoushad/Image-Search-Bot) - An image inline search telegram bot.
-- [FayasNoushad/YouTube-Search-Bot](https://github.com/FayasNoushad/YouTube-Search-Bot) - A youtube search telegram bot.
+- [fayasnoushad/Image-Search-Bot](https://github.com/fayasnoushad/Image-Search-Bot) - An image inline search telegram bot.
+- [fayasnoushad/youtube-search-bot](https://github.com/fayasnoushad/youtube-search-bot) - A youtube search telegram bot.
 - [AlbertEinsteinTG/Adv-Auto-Filter-Bot-V2](https://github.com/AlbertEinsteinTG/Adv-Auto-Filter-Bot-V2) - 
 - [Itz-fork/Yui](https://github.com/Itz-fork/Yui) - Simple Telegram AI Chat bot made using OpenAI and Luna API
 - [watson-developer-cloud/python-sdk](https://github.com/watson-developer-cloud/python-sdk) - :snake: Client library to use the IBM Watson services in Python and available in pip as watson-developer-cloud
@@ -2117,13 +2116,13 @@
 - [yashoswalyo/MERGE-BOT](https://github.com/yashoswalyo/MERGE-BOT) - A telegram video, audio, subtitle merge bot by @yashoswalyo | Supports 4GB
 - [m4mallu/mediaBuddy](https://github.com/m4mallu/mediaBuddy) - An inline real-time media searching robot without any database.
 - [Clinton-Abraham/STRING-GEN](https://github.com/Clinton-Abraham/STRING-GEN) - 
-- [FayasNoushad/Movie-Info-Bot](https://github.com/FayasNoushad/Movie-Info-Bot) - An advanced telegram movie information finder bot
-- [FayasNoushad/Translator-Bot-V3](https://github.com/FayasNoushad/Translator-Bot-V3) - An advanced telegram language translator bot
+- [fayasnoushad/Movie-Info-Bot](https://github.com/fayasnoushad/Movie-Info-Bot) - An advanced telegram movie information finder bot
+- [fayasnoushad/translator-bot-v3](https://github.com/fayasnoushad/translator-bot-v3) - An advanced telegram language translator bot
 - [Shiv-x/VCPvtBot](https://github.com/Shiv-x/VCPvtBot) - Telegram Group Music Bot Groups Music allows you to play music in your groups.
 - [Hidayathamir/forward-telegram-chat](https://github.com/Hidayathamir/forward-telegram-chat) - With this project, you can access telegram user and forward message from A,B,C,D,E to F,G,H,I,J.
 - [Hidayathamir/forward-telegram-chat-web](https://github.com/Hidayathamir/forward-telegram-chat-web) - Access telegram user and forward new message from A,B,C,D,E to F,G,H,I,J.
 - [RabbitFored/Dwindle-telegram-bot](https://github.com/RabbitFored/Dwindle-telegram-bot) - 
-- [FayasNoushad/Pixeldrain](https://github.com/FayasNoushad/Pixeldrain) - A pixeldrain python package
+- [fayasnoushad/pixeldrain](https://github.com/fayasnoushad/pixeldrain) - A pixeldrain python package
 - [nuhmanpk/Instant-Tag-Remover](https://github.com/nuhmanpk/Instant-Tag-Remover) - Removes forward tag from all messages
 - [RabbitFored/chat-archive-bot-unamed](https://github.com/RabbitFored/chat-archive-bot-unamed) - Telegram chat archiver
 - [samadii/VidSubExtract-Bot](https://github.com/samadii/VidSubExtract-Bot) - A simple script to extracting hard-coded subtitle from videos by your Telegram bot.
@@ -2131,7 +2130,7 @@
 - [AnjanaMadu/SeedrAPI](https://github.com/AnjanaMadu/SeedrAPI) - Unofficial API wrapper for seedr.cc
 - [PredatorHackerzZ/MessageSearchBot](https://github.com/PredatorHackerzZ/MessageSearchBot) - 
 - [Clinton-Abraham/UPLOADER-BOT](https://github.com/Clinton-Abraham/UPLOADER-BOT) - Advanced URL UPLOADER BOT  ⚡
-- [FayasNoushad/Click-Counter-Bot](https://github.com/FayasNoushad/Click-Counter-Bot) - A telegram bot for how to count total clicks on button.
+- [fayasnoushad/click-counter-bot](https://github.com/fayasnoushad/click-counter-bot) - A telegram bot for how to count total clicks on button.
 - [kokarare1212/librespot-python](https://github.com/kokarare1212/librespot-python) - Open Source Spotify Client
 - [TelegramTools/TLImporter](https://github.com/TelegramTools/TLImporter) - 📲 Telegram Chat Importer: Import chats from WhatsApp or other services into Telegram
 - [TelegramTools/TLMerger](https://github.com/TelegramTools/TLMerger) - 🔀 Telegram Chat Merger: Merge chats in Telegram
@@ -2143,7 +2142,7 @@
 - [cessen/subs_extract](https://github.com/cessen/subs_extract) - Extracts per-sentence subtitles + audio from a subtitle file + video file.
 - [fedecalendino/pysub-parser](https://github.com/fedecalendino/pysub-parser) - Library for extracting text and timestamps from multiple subtitle files (.ass, .ssa, .srt, .sub, .txt).
 - [m4mallu/compress-pdf-tg-bot](https://github.com/m4mallu/compress-pdf-tg-bot) - A Telegram bot can compress the size of PDF documents. Useful for digital documentations.
-- [FayasNoushad/Pixeldrain-Bot](https://github.com/FayasNoushad/Pixeldrain-Bot) - A telegram media to pixeldrain stream link bot
+- [fayasnoushad/pixeldrain-bot](https://github.com/fayasnoushad/pixeldrain-bot) - A telegram media to pixeldrain stream link bot
 - [AnjanaMadu/RenameBot](https://github.com/AnjanaMadu/RenameBot) - A simple rename bot for telegram
 - [Neeleshrj/Image-Colorization-API](https://github.com/Neeleshrj/Image-Colorization-API) - An API which would colorize a black and white image
 - [matplotlib/matplotlib](https://github.com/matplotlib/matplotlib) - matplotlib: plotting with Python
@@ -2198,7 +2197,7 @@
 - [teletips/FileToLink](https://github.com/teletips/FileToLink) - 
 - [teletips/Powerful_BotStatus-TeLeTiPs](https://github.com/teletips/Powerful_BotStatus-TeLeTiPs) - Easy & powerful bot to check if your all Telegram bots are working or not. This bot status bot refreshes automatically & runs for 24x7 hours.
 - [codxmodsofc/Telegraph-Uploader-Bot](https://github.com/codxmodsofc/Telegraph-Uploader-Bot) - A simple telegram file or media to telegra.ph link uploader bot
-- [FayasNoushad/QR-Code-Bot](https://github.com/FayasNoushad/QR-Code-Bot) - An advanced QR Code telegram bot with more features.
+- [fayasnoushad/qr-code-bot](https://github.com/fayasnoushad/qr-code-bot) - An advanced QR Code telegram bot with more features.
 - [polak0v/ReSuber](https://github.com/polak0v/ReSuber) - 
 - [MrMissx/Telegram_Forwarder](https://github.com/MrMissx/Telegram_Forwarder) - Telegram bot to forward message from channel/group
 - [gurjeet29/telegram_members_scrapper](https://github.com/gurjeet29/telegram_members_scrapper) - Python Script to scrape members from a selected Telegram group.
@@ -2280,10 +2279,10 @@
 - [samadii/OCRBot](https://github.com/samadii/OCRBot) - A Telegram bot to extracting text from images. All languages supported.
 - [l1v0n1/donation-bot](https://github.com/l1v0n1/donation-bot) - Bot for donations // Donate Bot Telegram
 - [magneto261290/rss-feed-telegram-bot](https://github.com/magneto261290/rss-feed-telegram-bot) - Post Messages to Channels or Groups through RSS Feed.
-- [FayasNoushad/Play-Store-Bot](https://github.com/FayasNoushad/Play-Store-Bot) - A play store search telegram bot
+- [fayasnoushad/Play-Store-Bot](https://github.com/fayasnoushad/Play-Store-Bot) - A play store search telegram bot
 - [samadii/MusicEditorBot](https://github.com/samadii/MusicEditorBot) - A Telegram bot to change the music tags and artwork.
 - [usernein/pyromod](https://github.com/usernein/pyromod) - A monkeypatcher add-on for Pyrogram
-- [FayasNoushad/GoFile-Bot](https://github.com/FayasNoushad/GoFile-Bot) - A telegram media to gofile bot
+- [fayasnoushad/gofile-bot](https://github.com/fayasnoushad/gofile-bot) - A telegram media to gofile bot
 - [Itz-fork/Gofile2](https://github.com/Itz-fork/Gofile2) - An API Wrapper for Gofile API
 - [michaelb/auto-ytdl](https://github.com/michaelb/auto-ytdl) - Yet another youtube-dl wrapper, but auto-ytdl can automate your new music downloads better than ever
 - [nuhmanpk/pyDF-Bot](https://github.com/nuhmanpk/pyDF-Bot) - Pydf - Pyrogram Document File Bot, a modular Telegram Bot which provides Pdf Tools Works using Pypdf2
@@ -2294,9 +2293,9 @@
 - [Liupold/demeter_dl](https://github.com/Liupold/demeter_dl) - Demeter_DL is a open source download manager. Built for speed, efficiency and comfort! Download YouTube videos directly! or use it in your project with API
 - [amirhoseinsalimi/music-tool-bot](https://github.com/amirhoseinsalimi/music-tool-bot) - Music Tool Bot is the ultimate bot for managing your music files effortlessly! 🎵✨
 - [atamakahere-git/ytadlbot](https://github.com/atamakahere-git/ytadlbot) - Youtube audio downloader telegram bot
-- [FayasNoushad/URL-Shortner-Bot](https://github.com/FayasNoushad/URL-Shortner-Bot) - A link shortner telegram bot
+- [fayasnoushad/url-shortner-bot](https://github.com/fayasnoushad/url-shortner-bot) - A link shortner telegram bot
 - [X-Gorn/File-Sharing](https://github.com/X-Gorn/File-Sharing) - Telegram bot to share any telegram files and get the shareable link
-- [FayasNoushad/Youtube-Video-Thumbnail](https://github.com/FayasNoushad/Youtube-Video-Thumbnail) - A youtube video link or id to video thumbnail python package.
+- [fayasnoushad/youtube-video-thumbnail](https://github.com/fayasnoushad/youtube-video-thumbnail) - A youtube video link or id to video thumbnail python package.
 - [jigarvarma2k20/VideoCompress](https://github.com/jigarvarma2k20/VideoCompress) - 
 - [EL-Coders/ELYoutubeBot](https://github.com/EL-Coders/ELYoutubeBot) - 
 - [jigarvarma2k20/Streaming-Link-Gen](https://github.com/jigarvarma2k20/Streaming-Link-Gen) - 
@@ -2369,7 +2368,7 @@
 - [binhex/videoslimmer](https://github.com/binhex/videoslimmer) - Utility to remove unwanted audio and subtitles from mkv files.
 - [PaySin/audio2srt](https://github.com/PaySin/audio2srt) - use baidu voice-api to add subtitle to a vedio
 - [M-fazin/Password-Generator-Bot](https://github.com/M-fazin/Password-Generator-Bot) - A Simple Telegram Bot That Can Generate Strong Password With Many Features Written In Python Using Pyrogram
-- [FayasNoushad/Glitch-Art-Bot](https://github.com/FayasNoushad/Glitch-Art-Bot) - A image to glitch image telegram bot
+- [fayasnoushad/glitch-art-bot](https://github.com/fayasnoushad/glitch-art-bot) - A image to glitch image telegram bot
 - [nabilanavab/ilovepdf](https://github.com/nabilanavab/ilovepdf) - Telegram Bot that helps you to convert Images to pdf, pdf to images, 45+ file formats to pdf, more features Soon..
 - [yash-dk/Mesh-RenameBot](https://github.com/yash-dk/Mesh-RenameBot) - One of the best Rename bot for telegram. Heroku deployable and many features.
 - [lntechnical2/youtube_data_api](https://github.com/lntechnical2/youtube_data_api) - Create Your Own API
@@ -2411,7 +2410,7 @@
 - [SpEcHiDe/AnyDLBot](https://github.com/SpEcHiDe/AnyDLBot) - An Open Source GPLv3 All-In-One Telegram Bot
 - [nimiology/persian_subdl](https://github.com/nimiology/persian_subdl) - this script can download all Persian subtitles from worldsubtitle.info
 - [anandpskerala/SubtitlesBot](https://github.com/anandpskerala/SubtitlesBot) - 
-- [FayasNoushad/Google-Search-Bot](https://github.com/FayasNoushad/Google-Search-Bot) - A google search telegram bot.
+- [fayasnoushad/Google-Search-Bot](https://github.com/fayasnoushad/Google-Search-Bot) - A google search telegram bot.
 - [breakdowns/slam-mirrorbot](https://github.com/breakdowns/slam-mirrorbot) - Aria/qBittorrent Telegram Mirror/Leech Bot.
 - [lntechnical2/link-shortener](https://github.com/lntechnical2/link-shortener) - 
 - [lntechnical2/Live-stream-Group-voice-chat-bot](https://github.com/lntechnical2/Live-stream-Group-voice-chat-bot) - 
@@ -2432,9 +2431,9 @@
 - [Itz-fork/Callsmusic-Plus](https://github.com/Itz-fork/Callsmusic-Plus) - Powerful Telegram Voice Chat Player Bot Based On CallsMusic With More Advanced Features!
 - [Itz-fork/Mega.nz-Bot](https://github.com/Itz-fork/Mega.nz-Bot) - Simple Telegram Bot to Download and Upload Files From Mega.nz
 - [VideoMasters/VideoDownloaderBot](https://github.com/VideoMasters/VideoDownloaderBot) - Download videos using this telegram bot
-- [FayasNoushad/YouTube-Thumbnail-Downloader](https://github.com/FayasNoushad/YouTube-Thumbnail-Downloader) - A youtube videos thumbnail downloader telegram bot.
-- [FayasNoushad/PyPi-Bot](https://github.com/FayasNoushad/PyPi-Bot) - A pypi packages finder telegram bot.
-- [FayasNoushad/Channel-Message-Editor](https://github.com/FayasNoushad/Channel-Message-Editor) - A telegram channel message editor bot.
+- [fayasnoushad/youtube-thumbnail-downloader](https://github.com/fayasnoushad/youtube-thumbnail-downloader) - A youtube videos thumbnail downloader telegram bot.
+- [fayasnoushad/pypi-bot](https://github.com/fayasnoushad/pypi-bot) - A pypi packages finder telegram bot.
+- [fayasnoushad/channel-message-editor](https://github.com/fayasnoushad/channel-message-editor) - A telegram channel message editor bot.
 - [aahnik/simple-screenshot-bot](https://github.com/aahnik/simple-screenshot-bot) - Telegram bot that takes screenshot of webpages.
 - [aahnik/telewater](https://github.com/aahnik/telewater) - A telegram bot that applies watermark on images, gifs, and videos.
 - [pyrogram/pyrogram](https://github.com/pyrogram/pyrogram) - Elegant, modern and asynchronous Telegram MTProto API framework in Python for users and bots
@@ -2456,17 +2455,17 @@
 - [AsmSafone/RadioPlayer](https://github.com/AsmSafone/RadioPlayer) - An Telegram Bot to Play Radio & Music in Voice Chat By @AsmSafone.
 - [AsmSafone/MegaDL-Bot](https://github.com/AsmSafone/MegaDL-Bot) - A Simple Telegram Bot By @AsmSafone to Download Files From Mega.nz and Upload It to Telegram
 - [nimiology/spotify_downloader_telegram__bot](https://github.com/nimiology/spotify_downloader_telegram__bot) - This Python script allows you to download songs from Spotify withTelegram bot
-- [FayasNoushad/Attach-Bot](https://github.com/FayasNoushad/Attach-Bot) - A telegram file or media in a message using their links attach bot.
-- [FayasNoushad/Pyrogram-Json-Bot](https://github.com/FayasNoushad/Pyrogram-Json-Bot) - A telegram to pyrogram json bot
-- [FayasNoushad/Telegraph-Uploader-Bot](https://github.com/FayasNoushad/Telegraph-Uploader-Bot) - A simple telegram file or media to telegra.ph link uploader bot
-- [FayasNoushad/Country-Info-Bot](https://github.com/FayasNoushad/Country-Info-Bot) - A simple country information finder bot
-- [FayasNoushad/Calculator-Bot](https://github.com/FayasNoushad/Calculator-Bot) - A calculator telegram bot.
-- [FayasNoushad/Info-Bot](https://github.com/FayasNoushad/Info-Bot) - A telegram user or chat information finder bot.
-- [FayasNoushad/Translator-Bot-V2](https://github.com/FayasNoushad/Translator-Bot-V2) - A simple google translator telegram bot version 2
-- [FayasNoushad/Corona-Info-Bot](https://github.com/FayasNoushad/Corona-Info-Bot) - A corona statistics and information telegram bot.
-- [FayasNoushad/Channel-Auto-Post-Bot](https://github.com/FayasNoushad/Channel-Auto-Post-Bot) - A channel auto post telegram bot.
-- [FayasNoushad/Remove-BG-Bot](https://github.com/FayasNoushad/Remove-BG-Bot) - A media background remover telegram bot with pyrogram framework.
-- [FayasNoushad/Translator-Bot](https://github.com/FayasNoushad/Translator-Bot) - A simple google translator telegram bot
+- [fayasnoushad/attach-bot](https://github.com/fayasnoushad/attach-bot) - A telegram file or media in a message using their links attach bot.
+- [fayasnoushad/pyrogram-json-bot](https://github.com/fayasnoushad/pyrogram-json-bot) - A telegram to pyrogram json bot
+- [fayasnoushad/Telegraph-Uploader-Bot](https://github.com/fayasnoushad/Telegraph-Uploader-Bot) - A simple telegram file or media to telegra.ph link uploader bot
+- [fayasnoushad/country-info-bot](https://github.com/fayasnoushad/country-info-bot) - A simple country information finder bot
+- [fayasnoushad/calculator-bot](https://github.com/fayasnoushad/calculator-bot) - A calculator telegram bot.
+- [fayasnoushad/info-bot](https://github.com/fayasnoushad/info-bot) - A telegram user or chat information finder bot.
+- [fayasnoushad/translator-bot-v2](https://github.com/fayasnoushad/translator-bot-v2) - A simple google translator telegram bot version 2
+- [fayasnoushad/Corona-Info-Bot](https://github.com/fayasnoushad/Corona-Info-Bot) - A corona statistics and information telegram bot.
+- [fayasnoushad/channel-auto-post-bot](https://github.com/fayasnoushad/channel-auto-post-bot) - A channel auto post telegram bot.
+- [fayasnoushad/remove-bg-bot](https://github.com/fayasnoushad/remove-bg-bot) - A media background remover telegram bot with pyrogram framework.
+- [fayasnoushad/translator-bot](https://github.com/fayasnoushad/translator-bot) - A simple google translator telegram bot
 - [samadii/ChannelForwardTagRemover](https://github.com/samadii/ChannelForwardTagRemover) - A simple Telegram bot to remove forward tag from forwarded messages in channel, also works in private. Heroku deployable
 - [m4mallu/gofilesbot](https://github.com/m4mallu/gofilesbot) - Filter bot for file serving groups. The bot is performing its function in a different way! Read for more...
 - [m4mallu/broadcast-bot](https://github.com/m4mallu/broadcast-bot) - A simple Telegram bot that can broadcast messages and media to the bot subscribers.
