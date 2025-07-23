@@ -1217,7 +1217,6 @@
 - [elektito/finglish](https://github.com/elektito/finglish) - A Finglish to Persian converter.
 - [alighazi/price_alert_bot](https://github.com/alighazi/price_alert_bot) - Telegram bot to set price alerts and get charts and useful information about cryptocurrencies
 - [tweak1337/telegram_parser-v.2---Telethon](https://github.com/tweak1337/telegram_parser-v.2---Telethon) - Second version of public channels parser in telegram using Telethon library. (Postgresql)
-- [tweak1337/telegrabber](https://github.com/tweak1337/telegrabber) - To parse telegram public channels and reply it to your public and rec to DB
 - [AndydeCleyre/colorcodebot](https://github.com/AndydeCleyre/colorcodebot) - A simple Telegram bot for syntax highlighting
 - [sheikhreed/Crowthon](https://github.com/sheikhreed/Crowthon) - A powerful pluggable userbot on Telegram.
 - [New-dev0/Telethon-Patch](https://github.com/New-dev0/Telethon-Patch) - Wrap over telethon with additional upgrades
