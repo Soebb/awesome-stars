@@ -767,7 +767,7 @@
 - [moi15moi/VideoSubOCR](https://github.com/moi15moi/VideoSubOCR) - OCR automation for VideoSubFinder
 - [mohammad3a1eh/connect-to-wifi-with-python](https://github.com/mohammad3a1eh/connect-to-wifi-with-python) - script for connect wifi in windows with python (pywifi)
 - [awkman/pywifi](https://github.com/awkman/pywifi) - A cross-platform module for manipulating WiFi devices.
-- [elevenlabs/elevenlabs-python](https://github.com/elevenlabs/elevenlabs-python) - The official Python API for ElevenLabs Text to Speech.
+- [elevenlabs/elevenlabs-python](https://github.com/elevenlabs/elevenlabs-python) - The official Python SDK for the ElevenLabs API.
 - [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper) - Faster Whisper transcription with CTranslate2
 - [pallets/click](https://github.com/pallets/click) - Python composable command line interface toolkit
 - [hay/facetool](https://github.com/hay/facetool) - Command line utility to manipulate faces in videos and images
