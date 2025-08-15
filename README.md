@@ -281,7 +281,7 @@
 - [pyannote/pyannote-audio](https://github.com/pyannote/pyannote-audio) - Neural building blocks for speaker diarization: speech activity detection, speaker change detection, overlapped speech detection, speaker embedding
 - [MahmoudAshraf97/whisper-diarization](https://github.com/MahmoudAshraf97/whisper-diarization) - Automatic Speech Recognition with Speaker Diarization based on OpenAI Whisper
 - [karim23657/Persian-tts-coqui](https://github.com/karim23657/Persian-tts-coqui) - Persian/Farsi text to speech(TTS) training using coqui tts
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
 - [152334H/tortoise-tts-fast](https://github.com/152334H/tortoise-tts-fast) - Fast TorToiSe inference (5x or your money back!)
 - [akiomik/pilgram](https://github.com/akiomik/pilgram) - A python library for instagram filters
 - [jamesturk/jellyfish](https://github.com/jamesturk/jellyfish) - 🪼 a python library for doing approximate and phonetic matching of strings.
@@ -493,6 +493,7 @@
 
 ## Python 
 
+- [paulpierre/autocrop](https://github.com/paulpierre/autocrop) - 🎬 Automagically crop a video clip within another video clip
 - [0x11DFE/Auto-Forwarder-Plugin](https://github.com/0x11DFE/Auto-Forwarder-Plugin) - An advanced and highly configurable auto-forwarding plugin for exteraGram. Create powerful rules to copy or forward messages between any chat, with support for content filtering, album handling, and a
 - [cdpdriver/zendriver](https://github.com/cdpdriver/zendriver) - A blazing fast, async-first, undetectable webscraping/web automation framework based on ultrafunkamsterdam/nodriver. Now with Docker support!
 - [m1guelpf/auto-subtitle](https://github.com/m1guelpf/auto-subtitle) - Automatically generate and overlay subtitles for any video.
@@ -1588,7 +1589,6 @@
 - [ResupinePuma/SUS](https://github.com/ResupinePuma/SUS) - Simple Universal Scraper for parsing reddit, telegram or rss links
 - [ResupinePuma/BF_AntiCrasher](https://github.com/ResupinePuma/BF_AntiCrasher) - Script to prevent people crash your server
 - [Single-Developers/TikTok-DL-BOT](https://github.com/Single-Developers/TikTok-DL-BOT) - 🏖 TikTok Download URL Generator API Example 🏖
-- [foevil/unf0llowers](https://github.com/foevil/unf0llowers) - 
 - [italankin/samplevoicebot](https://github.com/italankin/samplevoicebot) - TTS Telegram bot
 - [zenwarr/telegram-feed-bot](https://github.com/zenwarr/telegram-feed-bot) - Posts rss feeds or top reddit posts to telegram channels
 - [otherJL0/taxi_data](https://github.com/otherJL0/taxi_data) - 
@@ -2094,7 +2094,7 @@
 - [Zulko/moviepy](https://github.com/Zulko/moviepy) - Video editing with Python
 - [rodriguezst/telethon_downloader](https://github.com/rodriguezst/telethon_downloader) - Telegram Bot on a Telethon client that auto downloads incoming media files.
 - [PuZhiweizuishuai/OCR-CopyText-And-Search](https://github.com/PuZhiweizuishuai/OCR-CopyText-And-Search) - 适用于一些单位组织的那种在专门的APP上答题，但是又有题库的开卷考试，方便搜索答案，基于PaddleOCR开发😂😂😂
-- [elahe-dastan/first-grade](https://github.com/elahe-dastan/first-grade) - OCR for Iranian national ID card, etc.
+- [elaheh-dastan/first-grade](https://github.com/elaheh-dastan/first-grade) - OCR for Iranian national ID card, etc.
 - [Belval/TextRecognitionDataGenerator](https://github.com/Belval/TextRecognitionDataGenerator) - A synthetic data generator for text recognition
 - [RapidAI/RapidOCR](https://github.com/RapidAI/RapidOCR) - 📄 Awesome OCR multiple programing languages toolkits based on ONNXRuntime, OpenVINO, PaddlePaddle and PyTorch.
 - [SWHL/RapidVideOCR](https://github.com/SWHL/RapidVideOCR) - 🎦 Extract video hard subtitles and automatically generate corresponding srt files.
