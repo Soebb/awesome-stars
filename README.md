@@ -54,6 +54,7 @@
 
 ## C# # 
 
+- [OpenAiTx/OpenAiTx](https://github.com/OpenAiTx/OpenAiTx) - Auto-translate platform for your GitHub project readme & wiki.
 - [SubtitleEdit/subtitleedit](https://github.com/SubtitleEdit/subtitleedit) - the subtitle editor :)
 - [KryptoST/SRTranslatorGUI](https://github.com/KryptoST/SRTranslatorGUI) - SRT files translator GUI
 - [ALIILAPRO/dns-changer](https://github.com/ALIILAPRO/dns-changer) - یه برنامه ساده برای دسترسی به سایت های تحریم شده
@@ -2032,7 +2033,7 @@
 - [toastdriven/pylev](https://github.com/toastdriven/pylev) - A pure Python Levenshtein implementation that's not freaking GPL'd.
 - [X-Gorn/TikTokDL](https://github.com/X-Gorn/TikTokDL) - Telegram bot to download tiktok video/audio
 - [X-Gorn/BulkLoader](https://github.com/X-Gorn/BulkLoader) - Telegram bot to bulk download list of yt-dlp supported link and upload to telegram
-- [lzzy12/python-aria-mirror-bot](https://github.com/lzzy12/python-aria-mirror-bot) - A telegram bot for all your mirror needs | OG Repo
+- [shivamdev-lgtm/python-aria-mirror-bot](https://github.com/shivamdev-lgtm/python-aria-mirror-bot) - A telegram bot for all your mirror needs | OG Repo
 - [MarshalX/tgcalls](https://github.com/MarshalX/tgcalls) - Voice chats, private incoming and outgoing calls in Telegram for Developers
 - [arun017s/FeedbackBot](https://github.com/arun017s/FeedbackBot) - 
 - [KangersHub/TorrentLeechX](https://github.com/KangersHub/TorrentLeechX) - A FORKED AND Modded version of TL:GD for 🅱️3R0K🧲support
@@ -2054,7 +2055,7 @@
 - [m4mallu/link2PdfBot](https://github.com/m4mallu/link2PdfBot) - A simple Telegram bot can convert web docs,  Telegraph links, etc. to Pdf !
 - [devmaxxing/BodyPoseEstimatorVR](https://github.com/devmaxxing/BodyPoseEstimatorVR) - 
 - [devmaxxing/TextRecognitionDataGenerator](https://github.com/devmaxxing/TextRecognitionDataGenerator) - A synthetic data generator for text recognition
-- [lzzy12/youtube-clipper-bot](https://github.com/lzzy12/youtube-clipper-bot) - Telegram bot to clip youtube videos
+- [shivamdev-lgtm/youtube-clipper-bot](https://github.com/shivamdev-lgtm/youtube-clipper-bot) - Telegram bot to clip youtube videos
 - [zehpatricio/videomerge_bot](https://github.com/zehpatricio/videomerge_bot) - Telegram bot made in Python to merge videos.
 - [StarkGang/Git2TG](https://github.com/StarkGang/Git2TG) - A Git Alert Bot - Github Integration for Pyrogram & Telethon
 - [subinps/Inline-YouTube-Trim-Bot](https://github.com/subinps/Inline-YouTube-Trim-Bot) - Telegram bot to trim and download videos from youtube.
