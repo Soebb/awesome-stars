@@ -1337,7 +1337,6 @@
 - [amirho3inf/aiogram-structured](https://github.com/amirho3inf/aiogram-structured) - Code your aiogram bot faster, easier & modular.
 - [iraj-jelo/srtmerger](https://github.com/iraj-jelo/srtmerger) - subtitle merger is a tool for merging two or more subtitles for videos.
 - [kotnid/Youtube_Bot](https://github.com/kotnid/Youtube_Bot) - Download YouTube video by just typing commands in Telegram
-- [wileylau/spotBot-OSS](https://github.com/wileylau/spotBot-OSS) - // Download FLAC / MP3 from Spotify via Telegram Bot //
 - [jakob-bagterp/browserist](https://github.com/jakob-bagterp/browserist) - 👩‍💻 Python extension for the Selenium web driver that makes browser automation even easier 👨‍💻
 - [jakob-bagterp/timer-for-python](https://github.com/jakob-bagterp/timer-for-python) - ⏳ Lightweight Python package that makes it easy to measure how much time it takes to run Python programs and gauge performance of multiple, smaller bits of code ⌛️
 - [language-ml/parsi.io](https://github.com/language-ml/parsi.io) - 
