@@ -534,7 +534,7 @@
 - [New-dev0/OnePost](https://github.com/New-dev0/OnePost) - 
 - [anzilr/SubEditBot](https://github.com/anzilr/SubEditBot) - SubEditBot is a powerful Telegram bot designed for easy and efficient subtitle editing. Whether you're re-syncing SRT files, adding or removing lines, merging or splitting lines, or adjusting the timi
 - [streamlink/streamlink](https://github.com/streamlink/streamlink) - Streamlink is a CLI utility which pipes video streams from various services into a video player
-- [pdoc3/pdoc](https://github.com/pdoc3/pdoc) - :snake: :arrow_right: :scroll:  Auto-generate API documentation for Python projects
+- [pdoc3/pdoc](https://github.com/pdoc3/pdoc) - 🐍 ➡️ 📜  Auto-generate API documentation for Python projects
 - [nuhmanpk/hydrogram-bot](https://github.com/nuhmanpk/hydrogram-bot) - Template for Hydrogram bot - A pyrogram alternative
 - [python-bale-bot/python-bale-bot](https://github.com/python-bale-bot/python-bale-bot) - An API wrapper for Bale written in Python.
 - [Saeed-Biabani/Scene-Text-Recognition](https://github.com/Saeed-Biabani/Scene-Text-Recognition) - Text recognition (optical character recognition) with deep learning methods in farsi.
@@ -1050,7 +1050,6 @@
 - [donno2048/yt2mp4](https://github.com/donno2048/yt2mp4) - Download YouTube videos and playlists as MP4 files (and other formats)
 - [darideveloper/phone-emails-scraper-multithreading](https://github.com/darideveloper/phone-emails-scraper-multithreading) - Project for extract emails and phones from a list of web pages, with multithreading, using requests, bs4, regex and selenium for get more data.
 - [Py-Contributors/awesomeScripts](https://github.com/Py-Contributors/awesomeScripts) - A Collection of Awesome Scripts in Python to Ease Daily-Life. Create an issue If you have some great ideas for the new script. Leave a :star:
-- [pythontester192/Download-Youtube-Videos-EditClips-Auto-Upload-To-TikTok-Twitter-Instagram](https://github.com/pythontester192/Download-Youtube-Videos-EditClips-Auto-Upload-To-TikTok-Twitter-Instagram) - Use This FREE BOT to Download Youtube Videos, Edit The Clip with MoviePy, & Auto Upload The Generated Final Video to Tiktok, Twitter, & Instagram..Using Clicknium Chrome Extension (Used for CPA & Affi
 - [ChocolateApp/Chocolate](https://github.com/ChocolateApp/Chocolate) - The future of media manager
 - [BashirAljounaidy/ytd-bot](https://github.com/BashirAljounaidy/ytd-bot) - 
 - [MossabDiae/Subtitles-Renamer](https://github.com/MossabDiae/Subtitles-Renamer) - Renames Subtitles to match the videos naming pattern.
