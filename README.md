@@ -1223,7 +1223,7 @@
 - [alighazi/price_alert_bot](https://github.com/alighazi/price_alert_bot) - Telegram bot to set price alerts and get charts and useful information about cryptocurrencies
 - [tweak1337/telegram_parser-v.2---Telethon](https://github.com/tweak1337/telegram_parser-v.2---Telethon) - Second version of public channels parser in telegram using Telethon library. (Postgresql)
 - [AndydeCleyre/colorcodebot](https://github.com/AndydeCleyre/colorcodebot) - A simple Telegram bot for syntax highlighting
-- [sheikhreed/Crowthon](https://github.com/sheikhreed/Crowthon) - A powerful pluggable userbot on Telegram.
+- [riwnlmk/Crowthon](https://github.com/riwnlmk/Crowthon) - A powerful pluggable userbot on Telegram.
 - [New-dev0/Telethon-Patch](https://github.com/New-dev0/Telethon-Patch) - Wrap over telethon with additional upgrades
 - [mehdisayyadnahed/telegram-auto-forwarder](https://github.com/mehdisayyadnahed/telegram-auto-forwarder) - Telegram Auto Forwarder
 - [JKhakpour/petit](https://github.com/JKhakpour/petit) - Persian text -&gt; integer, ineteger -&gt; text converter
