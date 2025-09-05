@@ -1167,7 +1167,7 @@
 - [de-mh/persian_phonemizer](https://github.com/de-mh/persian_phonemizer) - A tool for translating Persian text to IPA (International Phonetic Alphabet).
 - [Djdefrag/NiceScaler](https://github.com/Djdefrag/NiceScaler) - NiceScaler - image/video deeplearning upscaler (OpenCV)
 - [Djdefrag/QualityScaler](https://github.com/Djdefrag/QualityScaler) - QualityScaler - image/video AI upscaler app
-- [aflorithmic/viseme-to-video](https://github.com/aflorithmic/viseme-to-video) - Creates video from TTS output and viseme images.
+- [aflr-archive/viseme-to-video](https://github.com/aflr-archive/viseme-to-video) - Creates video from TTS output and viseme images.
 - [nikhilkumarsingh/content-downloader](https://github.com/nikhilkumarsingh/content-downloader) - Python package to download files on any topic in bulk.
 - [zackees/gen-rss](https://github.com/zackees/gen-rss) - Generates an RSS feed, as sampled from wordpress sites
 - [zackees/vidcrawler](https://github.com/zackees/vidcrawler) - Crawls videos for content and exports the results as a json
