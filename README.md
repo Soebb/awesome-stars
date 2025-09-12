@@ -760,7 +760,7 @@
 - [dsymbol/decipher](https://github.com/dsymbol/decipher) - Effortlessly add AI-generated transcription subtitles to your videos
 - [dsymbol/selench](https://github.com/dsymbol/selench) - Selenium wrapper for Python
 - [dsymbol/yt-dlp-gui](https://github.com/dsymbol/yt-dlp-gui) - A cross-platform GUI wrapper for yt-dlp written in PySide6
-- [mkaz/termgraph](https://github.com/mkaz/termgraph) - a python command-line tool which draws basic graphs in the terminal
+- [mkaz/termgraph](https://github.com/mkaz/termgraph) - A Python command-line tool which draws basic graphs in the terminal
 - [mkaz/oneliner](https://github.com/mkaz/oneliner) - A command-line tool for saving one line notes in plain text files.
 - [pylover/sqlalchemy-media](https://github.com/pylover/sqlalchemy-media) - Another attachment extension for SqlAlchemy to manage assets which are associated with database models but you don't want to store them into the database
 - [thenaterhood/python-autocite](https://github.com/thenaterhood/python-autocite) - Automatically generate citations from URLs
@@ -1151,7 +1151,7 @@
 - [UNICT-Fake-Audio/fake-audio-detector](https://github.com/UNICT-Fake-Audio/fake-audio-detector) - Simple synthetic audio feature extractor
 - [Coolshanlan/HighlightTranslator](https://github.com/Coolshanlan/HighlightTranslator) - Highlight Translator can help you to translate the words quickly and accurately. By only highlighting, copying, or screenshoting the content you want to translate anywhere on your computer (ex. PDF, P
 - [sadegh-masoumi/persian-ocr-pdf-to-word](https://github.com/sadegh-masoumi/persian-ocr-pdf-to-word) - persian ocr pdf to word
-- [petez-sufe/timelapse_slicer](https://github.com/petez-sufe/timelapse_slicer) - This script is for photographers to do timeslice with one click.
+- [zhaoxi1999/timelapse_slicer](https://github.com/zhaoxi1999/timelapse_slicer) - This script is for photographers to do timeslice with one click.
 - [kastaid/getter](https://github.com/kastaid/getter) - Get and put users (scraping) to the target group/channel efficiently, correctly and safety.
 - [kiahamedi/zirnevis](https://github.com/kiahamedi/zirnevis) - download subtitle only with movies name
 - [kiahamedi/ConvertSrt2Per](https://github.com/kiahamedi/ConvertSrt2Per) - Convert English subtitle to Persian subtitle
@@ -1327,7 +1327,6 @@
 - [FastestMolasses/fBrowser](https://github.com/FastestMolasses/fBrowser) - Helpful Selenium functions to make web-scraping easier and faster
 - [wkentaro/video-cli](https://github.com/wkentaro/video-cli) - Command line tools for quick video editing.
 - [astronuttt/aiogram-template](https://github.com/astronuttt/aiogram-template) - A bootstrap template for building Telegram bots with Aiogram
-- [ZenMaxe/GeckoDriver-Downlaoder](https://github.com/ZenMaxe/GeckoDriver-Downlaoder) - Cross Platform Geckodriver Downloader
 - [aiombots/Renamer-Bot](https://github.com/aiombots/Renamer-Bot) - Best & Fastest Renamer Bot By @Clinton-Abraham & @PredatorHackerzZ. Star and Fork the repo if you like it else you are Gay!...  @TeamTeleRoid
 - [back-to/generic](https://github.com/back-to/generic) - generic streamlink plugin
 - [back-to/liveproxy](https://github.com/back-to/liveproxy) - LiveProxy can redirect Livestreams to your favorite player
