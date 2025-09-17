@@ -284,7 +284,7 @@
 - [pyannote/pyannote-audio](https://github.com/pyannote/pyannote-audio) - Neural building blocks for speaker diarization: speech activity detection, speaker change detection, overlapped speech detection, speaker embedding
 - [MahmoudAshraf97/whisper-diarization](https://github.com/MahmoudAshraf97/whisper-diarization) - Automatic Speech Recognition with Speaker Diarization based on OpenAI Whisper
 - [karim23657/Persian-tts-coqui](https://github.com/karim23657/Persian-tts-coqui) - Persian/Farsi text to speech(TTS) training using coqui tts
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [152334H/tortoise-tts-fast](https://github.com/152334H/tortoise-tts-fast) - Fast TorToiSe inference (5x or your money back!)
 - [akiomik/pilgram](https://github.com/akiomik/pilgram) - A python library for instagram filters
 - [jamesturk/jellyfish](https://github.com/jamesturk/jellyfish) - 🪼 a python library for doing approximate and phonetic matching of strings.
@@ -468,7 +468,7 @@
 - [JayRizzo/Random_Scripts](https://github.com/JayRizzo/Random_Scripts) - My Own Creations & Stack Overflow Answers To Questions
 - [NabiKAZ/fetch-telegram](https://github.com/NabiKAZ/fetch-telegram) - Fetch and download all video contents of channels telegram by PHP (Not used Bot API, Core API, or not need any authenticate telegram! It's anonymouse downloader!)
 - [koel/koel](https://github.com/koel/koel) - Music streaming solution that works.
-- [YOURLS/YOURLS](https://github.com/YOURLS/YOURLS) - 🔗 The de facto standard self hosted URL shortener in PHP
+- [YOURLS/YOURLS](https://github.com/YOURLS/YOURLS) - 🔗 The 𝘥𝘦 𝘧𝘢𝘤𝘵𝘰 standard self hosted URL shortener in PHP
 - [shetabit/payment](https://github.com/shetabit/payment) - simple laravel payment package , supports multiple drivers
 - [shahind/Persian-Spell-Corrector-PHP](https://github.com/shahind/Persian-Spell-Corrector-PHP) - a PHP Script for correcting Persian Spell
 - [NeleB54Gold/NeleBotX](https://github.com/NeleB54Gold/NeleBotX) - PHP Framework for Telegram Bot API
