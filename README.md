@@ -760,7 +760,7 @@
 - [dsymbol/decipher](https://github.com/dsymbol/decipher) - Effortlessly add AI-generated transcription subtitles to your videos
 - [dsymbol/selench](https://github.com/dsymbol/selench) - Selenium wrapper for Python
 - [dsymbol/yt-dlp-gui](https://github.com/dsymbol/yt-dlp-gui) - A cross-platform GUI wrapper for yt-dlp written in PySide6
-- [mkaz/termgraph](https://github.com/mkaz/termgraph) - A Python command-line tool which draws basic graphs in the terminal
+- [mkaz/termgraph](https://github.com/mkaz/termgraph) - A Python command-line and library that draws basic graphs in the terminal
 - [mkaz/oneliner](https://github.com/mkaz/oneliner) - A command-line tool for saving one line notes in plain text files.
 - [pylover/sqlalchemy-media](https://github.com/pylover/sqlalchemy-media) - Another attachment extension for SqlAlchemy to manage assets which are associated with database models but you don't want to store them into the database
 - [thenaterhood/python-autocite](https://github.com/thenaterhood/python-autocite) - Automatically generate citations from URLs
