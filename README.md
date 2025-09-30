@@ -468,7 +468,7 @@
 - [JayRizzo/Random_Scripts](https://github.com/JayRizzo/Random_Scripts) - My Own Creations & Stack Overflow Answers To Questions
 - [NabiKAZ/fetch-telegram](https://github.com/NabiKAZ/fetch-telegram) - Fetch and download all video contents of channels telegram by PHP (Not used Bot API, Core API, or not need any authenticate telegram! It's anonymouse downloader!)
 - [koel/koel](https://github.com/koel/koel) - Music streaming solution that works.
-- [YOURLS/YOURLS](https://github.com/YOURLS/YOURLS) - 🔗 The 𝘥𝘦 𝘧𝘢𝘤𝘵𝘰 standard self hosted URL shortener in PHP
+- [YOURLS/YOURLS](https://github.com/YOURLS/YOURLS) - 🔗 The 𝘥𝘦 𝘧𝘢𝘤𝘵𝘰 standard, self hosted, powerful and customizable, URL shortener in PHP
 - [shetabit/payment](https://github.com/shetabit/payment) - simple laravel payment package , supports multiple drivers
 - [shahind/Persian-Spell-Corrector-PHP](https://github.com/shahind/Persian-Spell-Corrector-PHP) - a PHP Script for correcting Persian Spell
 - [NeleB54Gold/NeleBotX](https://github.com/NeleB54Gold/NeleBotX) - PHP Framework for Telegram Bot API
@@ -500,6 +500,7 @@
 
 ## Python 
 
+- [nuhmanpk/headless-driver](https://github.com/nuhmanpk/headless-driver) - Headless Chrome WebDriver wrapper for Python (Selenium made simple)
 - [dreulavelle/PTT](https://github.com/dreulavelle/PTT) - The Best Damn Filename Parser You've Ever Used!
 - [paulpierre/autocrop](https://github.com/paulpierre/autocrop) - 🎬 Automagically crop a video clip within another video clip
 - [0x11DFE/Auto-Forwarder-Plugin](https://github.com/0x11DFE/Auto-Forwarder-Plugin) - An advanced and highly configurable auto-forwarding plugin for exteraGram. Create powerful rules to copy or forward messages between any chat, with support for content filtering, album handling, and a
