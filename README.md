@@ -621,7 +621,7 @@
 - [AsoSoft/AsoSoft-Library-py](https://github.com/AsoSoft/AsoSoft-Library-py) - AsoSoft's Library for Kurdish language processing tasks in python
 - [NotCookey/Quote2Image](https://github.com/NotCookey/Quote2Image) - Quote2Image is a python library for turning text quotes into graphical images
 - [Azornes/ocrTranslator](https://github.com/Azornes/ocrTranslator) - Convert captured images to text using BaiduOCR, GoogleOCR, WindowsOCR, tesseractOCR, RapidOCR or Capture2Text, and translate the resulting text using Google, Chatgpt, Edgegpt, DeepL or many more. Desk
-- [theFest/python-scripts](https://github.com/theFest/python-scripts) - py 2/3 | {educational content}
+- [theFest/python-code](https://github.com/theFest/python-code) - py 2/3 | {educational content}
 - [Fadi002/de4py](https://github.com/Fadi002/de4py) - toolkit for python reverse engineering
 - [Abyys001/TranslatorBot](https://github.com/Abyys001/TranslatorBot) - Convert your English texts to Farsi and your Farsi texts to English using Telegram bot
 - [nabidam/harzad_bot](https://github.com/nabidam/harzad_bot) - 
