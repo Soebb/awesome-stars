@@ -284,7 +284,6 @@
 - [pyannote/pyannote-audio](https://github.com/pyannote/pyannote-audio) - Neural building blocks for speaker diarization: speech activity detection, speaker change detection, overlapped speech detection, speaker embedding
 - [MahmoudAshraf97/whisper-diarization](https://github.com/MahmoudAshraf97/whisper-diarization) - Automatic Speech Recognition with Speaker Diarization based on OpenAI Whisper
 - [karim23657/Persian-tts-coqui](https://github.com/karim23657/Persian-tts-coqui) - Persian/Farsi text to speech(TTS) training using coqui tts
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [152334H/tortoise-tts-fast](https://github.com/152334H/tortoise-tts-fast) - Fast TorToiSe inference (5x or your money back!)
 - [akiomik/pilgram](https://github.com/akiomik/pilgram) - A python library for instagram filters
 - [jamesturk/jellyfish](https://github.com/jamesturk/jellyfish) - 🪼 a python library for doing approximate and phonetic matching of strings.
@@ -882,6 +881,7 @@
 - [nitanmarcel/PipTUI](https://github.com/nitanmarcel/PipTUI) - Pip UI in your terminal!
 - [Qiamast/Directory-Video-Duration-Calculator](https://github.com/Qiamast/Directory-Video-Duration-Calculator) - A script that calculates the total duration of all videos in a directory
 - [AbirHasan2005/PyVideoEditor](https://github.com/AbirHasan2005/PyVideoEditor) - In Development
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [explosion/wasabi](https://github.com/explosion/wasabi) - 🍣 A lightweight console printing and formatting toolkit
 - [miyuchina/mistletoe](https://github.com/miyuchina/mistletoe) - A fast, extensible and spec-compliant Markdown parser in pure Python.
 - [javadr/picofile-dl](https://github.com/javadr/picofile-dl) - Picofile.com Downloader
