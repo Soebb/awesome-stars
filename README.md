@@ -1381,7 +1381,7 @@
 - [dolphinorg/pydolphin](https://github.com/dolphinorg/pydolphin) - a convenient solution to heroku web apps / APIs.
 - [wingxel/SimpleDirectoryServer](https://github.com/wingxel/SimpleDirectoryServer) - Serves a directory through HTTP on LAN.
 - [FrozenYogurtPuff/Telegram-ASR-Bot](https://github.com/FrozenYogurtPuff/Telegram-ASR-Bot) - A telegram ASR (Speech Recognition, or Speech-to-Text) bot based on python-telegram-bot and Google Cloud Speech.
-- [ghorbani-mohammad/persian-text-analyzer](https://github.com/ghorbani-mohammad/persian-text-analyzer) - Persian text NER,Sentiment,Classification analyzer by using prepared Pytorch model with Django APP.
+- [moo-gh/persian-text-analyzer](https://github.com/moo-gh/persian-text-analyzer) - Persian text NER,Sentiment,Classification analyzer by using prepared Pytorch model with Django APP.
 - [shaqayeql/Notq](https://github.com/shaqayeql/Notq) - 
 - [yshalsager/wit_transcriber](https://github.com/yshalsager/wit_transcriber) - أداة لتحويل الصوتيات إلى كلام باستخدام خدمة wit.ai
 - [JustCoww/slowedvideos](https://github.com/JustCoww/slowedvideos) - Big big scripts crazy
@@ -1789,7 +1789,7 @@
 - [avaakash/Tweet-From-Message](https://github.com/avaakash/Tweet-From-Message) - This application will tweet anything to forward to your Telegram bot
 - [hehpollon/Instagram-Crawler](https://github.com/hehpollon/Instagram-Crawler) - Non API. Crawling post (photo, likes, comments, date ...) by username, hashtags
 - [tuhinpal/audio-metatag-writer](https://github.com/tuhinpal/audio-metatag-writer) - Metatag writer with Mutagen
-- [Jouissance-seeker/negar](https://github.com/Jouissance-seeker/negar) - call negar in your python source code and write error log & text log to a file ...
+- [chaos-seeker/negar](https://github.com/chaos-seeker/negar) - call negar in your python source code and write error log & text log to a file ...
 - [shahinism/python-negar](https://github.com/shahinism/python-negar) - Negar trying to be a spell corrector for persian language.
 - [yididiyan/amharic_spell_corrector](https://github.com/yididiyan/amharic_spell_corrector) - Amharic Spelling Corrector based on SymSpell - Spelling corrector which is  1 million times faster through Symmetric Delete spelling correction algorithm
 - [bhattbhavesh91/spell-correction-gingerit-demo](https://github.com/bhattbhavesh91/spell-correction-gingerit-demo) - Tutorial on creating a spelling correction Python application using Gingerit and Streamlit
