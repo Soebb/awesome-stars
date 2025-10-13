@@ -736,7 +736,7 @@
 - [knadh/tg-archive](https://github.com/knadh/tg-archive) - A tool for exporting Telegram group chats into static websites like mailing list archives.
 - [djfun/audio-visualizer-python](https://github.com/djfun/audio-visualizer-python) - a little GUI tool to render visualization videos of audio files
 - [coderholic/pyradio](https://github.com/coderholic/pyradio) - Curses based internet radio player
-- [jnsougata/aiotube](https://github.com/jnsougata/aiotube) - An Alternative to YouTube Public Data API v3
+- [jnsougata/aiotube](https://github.com/jnsougata/aiotube) - A library to access YouTube Public Data without YouTubeAPI
 - [david-lev/pywa](https://github.com/david-lev/pywa) - 🤖 Hey there! I am using PyWa.
 - [mo1ein/Golchin](https://github.com/mo1ein/Golchin) - Golchin is a telegram bot that extract English words from file and translate it to Persian.
 - [mo1ein/TelegramArchive](https://github.com/mo1ein/TelegramArchive) - Export telegram chats.
