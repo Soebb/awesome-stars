@@ -71,6 +71,7 @@
 
 ## C++ 
 
+- [gyroing/PiperTTS-HaikuOS](https://github.com/gyroing/PiperTTS-HaikuOS) - Natural human voice  offline tts (piper tts)
 - [mkleehammer/pyodbc](https://github.com/mkleehammer/pyodbc) - Python ODBC bridge
 - [k2-fsa/sherpa](https://github.com/k2-fsa/sherpa) - Speech-to-text server framework with next-gen Kaldi
 - [k2-fsa/sherpa-ncnn](https://github.com/k2-fsa/sherpa-ncnn) - Real-time speech recognition and voice activity detection (VAD) using next-gen Kaldi with ncnn without Internet connection. Support iOS, Android, Linux, macOS, Windows, Raspberry Pi, VisionFive2, Lich
@@ -1329,6 +1330,7 @@
 - [FastestMolasses/fBrowser](https://github.com/FastestMolasses/fBrowser) - Helpful Selenium functions to make web-scraping easier and faster
 - [wkentaro/video-cli](https://github.com/wkentaro/video-cli) - Command line tools for quick video editing.
 - [astronuttt/aiogram-template](https://github.com/astronuttt/aiogram-template) - A bootstrap template for building Telegram bots with Aiogram
+- [ZenMaxe/GeckoDriver-Downlaoder](https://github.com/ZenMaxe/GeckoDriver-Downlaoder) - Cross Platform Geckodriver Downloader
 - [aiombots/Renamer-Bot](https://github.com/aiombots/Renamer-Bot) - Best & Fastest Renamer Bot By @Clinton-Abraham & @PredatorHackerzZ. Star and Fork the repo if you like it else you are Gay!...  @TeamTeleRoid
 - [back-to/generic](https://github.com/back-to/generic) - generic streamlink plugin
 - [back-to/liveproxy](https://github.com/back-to/liveproxy) - LiveProxy can redirect Livestreams to your favorite player
