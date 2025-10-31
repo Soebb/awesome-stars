@@ -399,7 +399,6 @@
 - [Cozy-Tech/regex_tutorial_and_examples](https://github.com/Cozy-Tech/regex_tutorial_and_examples) - 
 - [Hameds/IranCountryDivisions](https://github.com/Hameds/IranCountryDivisions) - Iran Country Divisions - کلیه تقسیمات کشوری ایران تا سطح آبادی بر اساس اطلاعات مرکز آمار ایران
 - [MrBotDeveloper/This-Repo-Has-117-Stars](https://github.com/MrBotDeveloper/This-Repo-Has-117-Stars) - Yes it's true :broken_heart:, currently it has 117 stars ⭐ and 21 forks 🍴.
-- [Alir3z4/stop-words](https://github.com/Alir3z4/stop-words) - List of common stop words in various languages.
 - [ahmadazizi/iran-cities](https://github.com/ahmadazizi/iran-cities) - The most accurate database of city, county, village and province names of Iran.
 - [iranremote/awesome-iran-remote](https://github.com/iranremote/awesome-iran-remote) - A list of remote-friendly or full-remote companies that targets iranian talents.
 - [Blatzar/scraping-tutorial](https://github.com/Blatzar/scraping-tutorial) - Tutorial for scraping streaming sites
@@ -686,7 +685,7 @@
 - [absadiki/subsai](https://github.com/absadiki/subsai) - 🎞️ Subtitles generation tool (Web-UI + CLI + Python package) powered by OpenAI's Whisper and its variants 🎞️
 - [absadiki/pywhispercpp](https://github.com/absadiki/pywhispercpp) - Python bindings for whisper.cpp
 - [bipinkrish/Link-Bypasser-Bot](https://github.com/bipinkrish/Link-Bypasser-Bot) - A Telegram Bot (with Site) that can Bypass Ad Links, Generate Direct Links and Jump Paywalls
-- [jianchang512/pyvideotrans](https://github.com/jianchang512/pyvideotrans) - Translate the video from one language to another and add dubbing.
+- [jianchang512/pyvideotrans](https://github.com/jianchang512/pyvideotrans) - Translate the video from one language to another and add dubbing.视频翻译/语音转录/字幕配音工具
 - [zackees/isolated-environment](https://github.com/zackees/isolated-environment) - Internal venv management to fix AI dependency hell in python
 - [SilentDemonSD/FZBypassBot](https://github.com/SilentDemonSD/FZBypassBot) - A Elegant Fast Multi Threaded Bypass Bot for Bigger Deeds. Try Now !!
 - [deadnews/images-upload-cli](https://github.com/deadnews/images-upload-cli) - Upload images via APIs
@@ -882,7 +881,7 @@
 - [nitanmarcel/PipTUI](https://github.com/nitanmarcel/PipTUI) - Pip UI in your terminal!
 - [Qiamast/Directory-Video-Duration-Calculator](https://github.com/Qiamast/Directory-Video-Duration-Calculator) - A script that calculates the total duration of all videos in a directory
 - [AbirHasan2005/PyVideoEditor](https://github.com/AbirHasan2005/PyVideoEditor) - In Development
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
 - [explosion/wasabi](https://github.com/explosion/wasabi) - 🍣 A lightweight console printing and formatting toolkit
 - [miyuchina/mistletoe](https://github.com/miyuchina/mistletoe) - A fast, extensible and spec-compliant Markdown parser in pure Python.
 - [javadr/picofile-dl](https://github.com/javadr/picofile-dl) - Picofile.com Downloader
@@ -1291,6 +1290,7 @@
 - [hyugogirubato/AsyncFFmpegHelper](https://github.com/hyugogirubato/AsyncFFmpegHelper) - Helper for FFmpeg allowing multi-threaded downloading of M3U8 video streams
 - [mevellea/telegram_menu](https://github.com/mevellea/telegram_menu) - A python library to generate navigation menus using Telegram Bot API
 - [samanvp/persian-lexicon](https://github.com/samanvp/persian-lexicon) - A lexicon of 70K unique Persian (Farsi) words.
+- [Alir3z4/stop-words](https://github.com/Alir3z4/stop-words) - List of common stop words in various languages.
 - [Alir3z4/python-short_url](https://github.com/Alir3z4/python-short_url) - Python implementation for generating Tiny URL- and bit.ly-like URLs.
 - [Alir3z4/python-stop-words](https://github.com/Alir3z4/python-stop-words) - Get list of common stop words in various languages in Python
 - [narfman0/youtube-scraper](https://github.com/narfman0/youtube-scraper) - Scrape metadata from youtube videos/urls
