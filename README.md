@@ -1269,7 +1269,7 @@
 - [Athirst1998/number_to_alphabet](https://github.com/Athirst1998/number_to_alphabet) - convert number to Persian alphabet
 - [adrian-kalinin/CheckNicknameBot](https://github.com/adrian-kalinin/CheckNicknameBot) - Telegram bot where you can check the availability of nicknames in various social networks
 - [teletips/DATE_TIME_USERBOT-TeLeTiPs](https://github.com/teletips/DATE_TIME_USERBOT-TeLeTiPs) - Powerful Telegram userbot to turn your PROFILE PICTURE & LAST NAME into a real time clock & to change your BIO automatically.
-- [CuriousYoda/tiktok-downloader](https://github.com/CuriousYoda/tiktok-downloader) - Downloads TikTok videos for a given user without water marks
+- [rclakmal/tiktok-downloader](https://github.com/rclakmal/tiktok-downloader) - Downloads TikTok videos for a given user without water marks
 - [davidteather/TikTok-Api](https://github.com/davidteather/TikTok-Api) - The Unofficial TikTok API Wrapper In Python
 - [kootenpv/textsearch](https://github.com/kootenpv/textsearch) - Find strings/words in text; convenience and C speed :fireworks:
 - [spirali/elsie](https://github.com/spirali/elsie) - Python framework for making slides
