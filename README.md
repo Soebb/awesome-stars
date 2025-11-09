@@ -155,6 +155,7 @@
 
 ## HTML 
 
+- [jalammar/jalammar.github.io](https://github.com/jalammar/jalammar.github.io) - Build a Jekyll blog in minutes, without touching the command line.
 - [FlagMotori/writeups](https://github.com/FlagMotori/writeups) - رایتاپ‌های تیم فلگ موتوری
 - [Gl0deanR/create-flask-app](https://github.com/Gl0deanR/create-flask-app) - 
 - [viperadnan-git/telegram-filestream](https://github.com/viperadnan-git/telegram-filestream) - API to stream publically available Telegram files
@@ -273,7 +274,6 @@
 
 ## Jupyter Notebook 
 
-- [jalammar/jalammar.github.io](https://github.com/jalammar/jalammar.github.io) - Build a Jekyll blog in minutes, without touching the command line.
 - [MahtaFetrat/ManaTTS-Persian-Speech-Dataset](https://github.com/MahtaFetrat/ManaTTS-Persian-Speech-Dataset) - ManaTTS is the largest open Persian speech dataset with 114+ hours of transcribed audio. Includes data collection pipeline and tools. Suitable for Persian text-to-speech models.
 - [SharifiZarchi/Introduction_to_Machine_Learning](https://github.com/SharifiZarchi/Introduction_to_Machine_Learning) - Machine Learning Course, Sharif University of Technology
 - [AnswerDotAI/fasthtml](https://github.com/AnswerDotAI/fasthtml) - The fastest way to create an HTML app
@@ -553,7 +553,7 @@
 - [shibing624/parrots](https://github.com/shibing624/parrots) - Automatic Speech Recognition(ASR), Text-To-Speech(TTS) engine. 中英语音识别、多角色语音合成，支持多语言，准确率高
 - [TechShreyash/BetterTGStreamer](https://github.com/TechShreyash/BetterTGStreamer) - Transform video files into seamless M3U8 streams with Better TG Streamer! Supports multiple hosts, unlimited uploads, and features a robust bot, streaming API, and database integration.
 - [TechShreyash/TechZIndex](https://github.com/TechShreyash/TechZIndex) - Index Telegram Channel Over Internet
-- [KurimuzonAkuma/pyrogram](https://github.com/KurimuzonAkuma/pyrogram) - Elegant, modern and asynchronous Telegram MTProto API framework in Python for users and bots
+- [KurimuzonAkuma/kurigram](https://github.com/KurimuzonAkuma/kurigram) - Elegant, modern and asynchronous Telegram MTProto API framework in Python for users and bots
 - [KiLJ4EdeN/train-tesseract4-persian](https://github.com/KiLJ4EdeN/train-tesseract4-persian) - Train Tesseract 4 for persian
 - [HKPROJECTS/aiokoyeb](https://github.com/HKPROJECTS/aiokoyeb) - Python API client for Koyeb
 - [weebzone/Surf-TG](https://github.com/weebzone/Surf-TG) - Python Web App which Indexes a Your Telegram Channel and Serves its Files for Download and Stream.
@@ -685,7 +685,7 @@
 - [absadiki/subsai](https://github.com/absadiki/subsai) - 🎞️ Subtitles generation tool (Web-UI + CLI + Python package) powered by OpenAI's Whisper and its variants 🎞️
 - [absadiki/pywhispercpp](https://github.com/absadiki/pywhispercpp) - Python bindings for whisper.cpp
 - [bipinkrish/Link-Bypasser-Bot](https://github.com/bipinkrish/Link-Bypasser-Bot) - A Telegram Bot (with Site) that can Bypass Ad Links, Generate Direct Links and Jump Paywalls
-- [jianchang512/pyvideotrans](https://github.com/jianchang512/pyvideotrans) - Translate the video from one language to another and add dubbing.视频翻译/语音转录/字幕配音工具
+- [jianchang512/pyvideotrans](https://github.com/jianchang512/pyvideotrans) - Translate the video from one language to another and add dubbing.
 - [zackees/isolated-environment](https://github.com/zackees/isolated-environment) - Internal venv management to fix AI dependency hell in python
 - [SilentDemonSD/FZBypassBot](https://github.com/SilentDemonSD/FZBypassBot) - A Elegant Fast Multi Threaded Bypass Bot for Bigger Deeds. Try Now !!
 - [deadnews/images-upload-cli](https://github.com/deadnews/images-upload-cli) - Upload images via APIs
@@ -693,7 +693,7 @@
 - [YaoFANGUK/video-subtitle-generator](https://github.com/YaoFANGUK/video-subtitle-generator) - 视频音频生成字幕，生成srt文件。无需申请第三方API，本地实现音频转文本。基于Transformer的视频字幕生成框架。A GUI tool for generating subtitle from videos and generating srt files.
 - [YaoFANGUK/video-subtitle-remover](https://github.com/YaoFANGUK/video-subtitle-remover) - 基于AI的图片/视频硬字幕去除、文本水印去除，无损分辨率生成去字幕、去水印后的图片/视频文件。无需申请第三方API，本地实现。AI-based tool for removing hard-coded subtitles and text-like watermarks from videos or Pictures.
 - [ArdalanGhoreishi/Creating-movie-subtitles-in-Persian-using-the-Google-Cloud-platform](https://github.com/ArdalanGhoreishi/Creating-movie-subtitles-in-Persian-using-the-Google-Cloud-platform) - An easy-to-use website designed for creating Persian subtitles for movies.
-- [machinewrapped/llm-subtrans](https://github.com/machinewrapped/llm-subtrans) - Open Source project using LLMs to translate SRT subtitles
+- [machinewrapped/llm-subtrans](https://github.com/machinewrapped/llm-subtrans) - Open Source project using LLMs to translate subtitles (SRT, SSA/ASS, VTT)
 - [rsgrt/sublist](https://github.com/rsgrt/sublist) - generate a list of subtitles from a video file
 - [celiao/tmdbsimple](https://github.com/celiao/tmdbsimple) - A wrapper for The Movie Database API v3.
 - [rpuntaie/syncstart](https://github.com/rpuntaie/syncstart) - Calculate the cut needed at start to sync two media files
@@ -1205,7 +1205,7 @@
 - [SaeidJavadi/Advanced-WhatsApp-Sender](https://github.com/SaeidJavadi/Advanced-WhatsApp-Sender) - The app sends text and image messages to bulk lists in WhatsApp
 - [fredlarkins/webp-convert](https://github.com/fredlarkins/webp-convert) - Convert PNG and JPG images into WEBP images automatically.
 - [swaaz/InstaBot](https://github.com/swaaz/InstaBot) - Instagram bot built using Python and Selenium
-- [rzashakeri/instagram-getter](https://github.com/rzashakeri/instagram-getter) - Download anything from Instagram with this robot 📥
+- [RezShakeri/instagram-getter](https://github.com/RezShakeri/instagram-getter) - Download anything from Instagram with this robot 📥
 - [Gumbraise/instagram-bomber](https://github.com/Gumbraise/instagram-bomber) - An open-source project. Instagram Messages Spammer/Bomber
 - [glau-bd/duplicate-video-finder](https://github.com/glau-bd/duplicate-video-finder) - A python module to detect duplicate videos in a directory.
 - [ICRAR/ijson](https://github.com/ICRAR/ijson) - Iterative JSON parser with Pythonic interfaces
