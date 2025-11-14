@@ -455,7 +455,6 @@
 - [kihanb/jirjirakbot](https://github.com/kihanb/jirjirakbot) - JirJirakBot Project | Self-Destruct Messages (SDM)
 - [danog/downloadRenameBot](https://github.com/danog/downloadRenameBot) - 2gb+ Telegram file/YouTube upload&renamer bot based on MadelineProto
 - [PBhadoo/Rapidleech](https://github.com/PBhadoo/Rapidleech) - 
-- [Decodo/Social-Media-Scraping-API](https://github.com/Decodo/Social-Media-Scraping-API) - Social Media Scraping API code examples for Python, PHP and Node.js
 - [alikm6/chToolsBot](https://github.com/alikm6/chToolsBot) - Telegram Bot to Help Channel Administrators
 - [bluedreamcoder/createyourbot](https://github.com/bluedreamcoder/createyourbot) - Code Examples for createyourbot telegram bots
 - [ErfanBahramali/Telegram-Bot-PHP](https://github.com/ErfanBahramali/Telegram-Bot-PHP) - Telegram-Bot-PHP is a PHP library for interacting with the official Telegram Bot API
