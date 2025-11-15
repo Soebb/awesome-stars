@@ -498,6 +498,7 @@
 
 ## Python 
 
+- [Ilia-Abolhasani/downloader-telegram-bot](https://github.com/Ilia-Abolhasani/downloader-telegram-bot) - A simple Telegram bot that downloads Instagram videos — even from private or age-restricted posts (with session cookie).   Built with Python, `telebot`, and `yt-dlp`, this bot makes downloading videos
 - [nuhmanpk/headless-driver](https://github.com/nuhmanpk/headless-driver) - Headless Chrome WebDriver wrapper for Python (Selenium made simple)
 - [dreulavelle/PTT](https://github.com/dreulavelle/PTT) - The Best Damn Filename Parser You've Ever Used!
 - [paulpierre/autocrop](https://github.com/paulpierre/autocrop) - 🎬 Automagically crop a video clip within another video clip
@@ -763,8 +764,8 @@
 - [mkaz/oneliner](https://github.com/mkaz/oneliner) - A command-line tool for saving one line notes in plain text files.
 - [pylover/sqlalchemy-media](https://github.com/pylover/sqlalchemy-media) - Another attachment extension for SqlAlchemy to manage assets which are associated with database models but you don't want to store them into the database
 - [thenaterhood/python-autocite](https://github.com/thenaterhood/python-autocite) - Automatically generate citations from URLs
-- [romanin-rf/pciw.py](https://github.com/romanin-rf/pciw.py) - Python module for system information
-- [romanin-rf/avplib](https://github.com/romanin-rf/avplib) - AVP - ASCII Video Player. Allows you to play any video as ASCII-art.
+- [peachboy0/pciw.py](https://github.com/peachboy0/pciw.py) - Python module for system information
+- [peachboy0/avplib](https://github.com/peachboy0/avplib) - AVP - ASCII Video Player. Allows you to play any video as ASCII-art.
 - [zackees/net_image_2_movie](https://github.com/zackees/net_image_2_movie) - Uses python to fetch an image and then shell utility to create an mp4 via ffmeg
 - [jmaupetit/md2pdf](https://github.com/jmaupetit/md2pdf) - Markdown to PDF conversion tool
 - [EDM115/unzip-bot](https://github.com/EDM115/unzip-bot) - Telegram bot deployable to heroku that can extract every archive !
@@ -2416,7 +2417,7 @@
 - [TGExplore/TG-URL-Uploader](https://github.com/TGExplore/TG-URL-Uploader) - An Open Source GPLv3 All-In-One Telegram Bot
 - [SpEcHiDe/AnyDLBot](https://github.com/SpEcHiDe/AnyDLBot) - An Open Source GPLv3 All-In-One Telegram Bot
 - [nimiology/persian_subdl](https://github.com/nimiology/persian_subdl) - this script can download all Persian subtitles from worldsubtitle.info
-- [anandpskerala/SubtitlesBot](https://github.com/anandpskerala/SubtitlesBot) - 
+- [anandpsdev/SubtitlesBot](https://github.com/anandpsdev/SubtitlesBot) - 
 - [fayasnoushad/Google-Search-Bot](https://github.com/fayasnoushad/Google-Search-Bot) - A google search telegram bot.
 - [breakdowns/slam-mirrorbot](https://github.com/breakdowns/slam-mirrorbot) - Aria/qBittorrent Telegram Mirror/Leech Bot.
 - [lntechnical2/link-shortener](https://github.com/lntechnical2/link-shortener) - 
