@@ -398,7 +398,7 @@
 - [dkncus/CrowdRemoval](https://github.com/dkncus/CrowdRemoval) - 
 - [Cozy-Tech/regex_tutorial_and_examples](https://github.com/Cozy-Tech/regex_tutorial_and_examples) - 
 - [Hameds/IranCountryDivisions](https://github.com/Hameds/IranCountryDivisions) - Iran Country Divisions - کلیه تقسیمات کشوری ایران تا سطح آبادی بر اساس اطلاعات مرکز آمار ایران
-- [MrBotDeveloper/This-Repo-Has-117-Stars](https://github.com/MrBotDeveloper/This-Repo-Has-117-Stars) - Yes it's true :broken_heart:, currently it has 117 stars ⭐ and 21 forks 🍴.
+- [MrBotDeveloper/This-Repo-Has-118-Stars](https://github.com/MrBotDeveloper/This-Repo-Has-118-Stars) - Yes it's true :broken_heart:, currently it has 118 stars ⭐ and 21 forks 🍴.
 - [ahmadazizi/iran-cities](https://github.com/ahmadazizi/iran-cities) - The most accurate database of city, county, village and province names of Iran.
 - [iranremote/awesome-iran-remote](https://github.com/iranremote/awesome-iran-remote) - A list of remote-friendly or full-remote companies that targets iranian talents.
 - [Blatzar/scraping-tutorial](https://github.com/Blatzar/scraping-tutorial) - Tutorial for scraping streaming sites
@@ -2077,7 +2077,7 @@
 - [abhijeetbhagat/mp4box](https://github.com/abhijeetbhagat/mp4box) - Python 3 port of the MP4Box tool
 - [derpferpmerp/ffmpeg-combine-directory](https://github.com/derpferpmerp/ffmpeg-combine-directory) - Combine all videos in current directory (Print out MP4Box Command)
 - [avilash/TikTokAPI-Python](https://github.com/avilash/TikTokAPI-Python) - TikTok API Python Wrapper
-- [subzeroid/instagrapi](https://github.com/subzeroid/instagrapi) - 🔥 The fastest and powerful Python library for Instagram Private API 2025 with HikerAPI SaaS
+- [subzeroid/instagrapi](https://github.com/subzeroid/instagrapi) - 🔥 The fastest and powerful Python library for Instagram Private API 2026 with HikerAPI SaaS
 - [yashrathi-git/vimeo-dl](https://github.com/yashrathi-git/vimeo-dl) - Downloads Vimeo videos and retrieve metadata such as views, likes, comments, duration of the video.
 - [jawah/charset_normalizer](https://github.com/jawah/charset_normalizer) - Truly universal encoding detector in pure Python.
 - [RincemonReji/RSS-Feed](https://github.com/RincemonReji/RSS-Feed) - 
