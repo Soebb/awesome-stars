@@ -1187,7 +1187,7 @@
 - [kul-sudo/Screened](https://github.com/kul-sudo/Screened) - Screened - Quick and Easy Screen Capturing
 - [ali-hv/AvaFarsi](https://github.com/ali-hv/AvaFarsi) - AvaFarsi is an open-source graphical app which helps you to download the songs of iranian singers easily
 - [ricardojoserf/instagram-followers-bot](https://github.com/ricardojoserf/instagram-followers-bot) - A bot for Instagram. You can follow users using a tag or in a specific location, unfollow those who dont follow-you-back, and follow-back those who follow you
-- [buddhhu/localdb.json](https://github.com/buddhhu/localdb.json) - 
+- [amitkr-codes/localdb.json](https://github.com/amitkr-codes/localdb.json) - 
 - [SpEcHiDe/Media-Search-bot](https://github.com/SpEcHiDe/Media-Search-bot) - Inline bot for searching channels, without using any external third party database
 - [zackees/vids-db](https://github.com/zackees/vids-db) - 
 - [X-Gorn/Spotify-Loader](https://github.com/X-Gorn/Spotify-Loader) - Telegram bot download spotify playlist/artist/album/track music
@@ -1710,7 +1710,7 @@
 - [ibrdrahim/telegram-auto-reply](https://github.com/ibrdrahim/telegram-auto-reply) - Python script using telethon for auto replying telegram message
 - [conquistadorjd/python-01-utilities](https://github.com/conquistadorjd/python-01-utilities) - python-01-utilities
 - [YaleDHLab/intertext](https://github.com/YaleDHLab/intertext) - Detect and visualize text reuse
-- [buddhhu/YT-Channel-Downloader](https://github.com/buddhhu/YT-Channel-Downloader) - 
+- [amitkr-codes/YT-Channel-Downloader](https://github.com/amitkr-codes/YT-Channel-Downloader) - 
 - [Nukesor/archivebot](https://github.com/Nukesor/archivebot) - :floppy_disk: A telegram bot for backing up and collecting all kinds of media.
 - [vasusen-code/AutoApproveBot](https://github.com/vasusen-code/AutoApproveBot) - 
 - [sbraz/pymediainfo](https://github.com/sbraz/pymediainfo) - A Python wrapper around the MediaInfo library
@@ -1782,7 +1782,7 @@
 - [mohammad3020/django-zibal](https://github.com/mohammad3020/django-zibal) - A Django app for bank payments by Zibal (https://zibal.ir/)
 - [Helias/EPUB-to-PDF](https://github.com/Helias/EPUB-to-PDF) - Telegram bot EPUB to PDF converter
 - [Saravana0910/instadpinfobot](https://github.com/Saravana0910/instadpinfobot) - to grap anyone's insta dp info
-- [buddhhu/Redis-Database-Manager](https://github.com/buddhhu/Redis-Database-Manager) - A Telegram Bot to manage Redis Database.
+- [amitkr-codes/Redis-Database-Manager](https://github.com/amitkr-codes/Redis-Database-Manager) - A Telegram Bot to manage Redis Database.
 - [albert-tomanek/bot-amr-downloader](https://github.com/albert-tomanek/bot-amr-downloader) - Telegram bot to download YouTube videos as highly compressed AMR audio files.
 - [Ismaeelhub/valyriadownloader_BOT](https://github.com/Ismaeelhub/valyriadownloader_BOT) - 
 - [elilcatness/google-index](https://github.com/elilcatness/google-index) - 
