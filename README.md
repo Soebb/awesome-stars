@@ -1205,7 +1205,7 @@
 - [SaeidJavadi/Advanced-WhatsApp-Sender](https://github.com/SaeidJavadi/Advanced-WhatsApp-Sender) - The app sends text and image messages to bulk lists in WhatsApp
 - [fredlarkins/webp-convert](https://github.com/fredlarkins/webp-convert) - Convert PNG and JPG images into WEBP images automatically.
 - [swaaz/InstaBot](https://github.com/swaaz/InstaBot) - Instagram bot built using Python and Selenium
-- [RezShakeri/instagram-getter](https://github.com/RezShakeri/instagram-getter) - Download anything from Instagram with this robot 📥
+- [rzashakeri/instagram-getter](https://github.com/rzashakeri/instagram-getter) - Download anything from Instagram with this robot 📥
 - [Gumbraise/instagram-bomber](https://github.com/Gumbraise/instagram-bomber) - An open-source project. Instagram Messages Spammer/Bomber
 - [glau-bd/duplicate-video-finder](https://github.com/glau-bd/duplicate-video-finder) - A python module to detect duplicate videos in a directory.
 - [ICRAR/ijson](https://github.com/ICRAR/ijson) - Iterative JSON parser with Pythonic interfaces
