@@ -2633,8 +2633,8 @@
 - [backmeupplz/archivelinksbot](https://github.com/backmeupplz/archivelinksbot) - Telegram bot that saves links to web archive
 - [arghyac35/aria-telegram-mirror-bot](https://github.com/arghyac35/aria-telegram-mirror-bot) - This is a fork of https://github.com/out386/aria-telegram-mirror-bot. A Telegram bot to download files via HTTP(S)/BitTorrent and upload them to Google Drive
 - [Qiamast/PersianWordle](https://github.com/Qiamast/PersianWordle) - "Persian Wordle" is a fun and challenging word puzzle game designed to improve your Persian vocabulary. Built with TypeScript, ReactJS, TailwindCSS, PostCSS, and a Persian word dictionary, this game o
-- [HeySreelal/BitLinker](https://github.com/HeySreelal/BitLinker) - Just a Telegram Bot to shorten your long links!
-- [HeySreelal/xwordlebot](https://github.com/HeySreelal/xwordlebot) - Telegram Bot inspired by the Wordle game.
+- [The0xArchitect/BitLinker](https://github.com/The0xArchitect/BitLinker) - Just a Telegram Bot to shorten your long links!
+- [The0xArchitect/xwordlebot](https://github.com/The0xArchitect/xwordlebot) - Telegram Bot inspired by the Wordle game.
 - [cerpinn/monopay](https://github.com/cerpinn/monopay) - 💳 A node.js package for making payment transactions with different payment gateways
 - [rastikerdar/vazirmatn](https://github.com/rastikerdar/vazirmatn) - Vazirmatn is a Persian/Arabic font. وزیرمتن یک فونت فارسی/عربی است
 - [DustbinServer/DustbinBot](https://github.com/DustbinServer/DustbinBot) - A Telegram Bot Based On Dustbin API.
