@@ -2588,7 +2588,6 @@
 - [zackees/install.py](https://github.com/zackees/install.py) - Super easy script that can make a virtual env
 - [peicodes/heroku-buildpack-libsndfile](https://github.com/peicodes/heroku-buildpack-libsndfile) - 
 - [eyMarv/deploy-code-server](https://github.com/eyMarv/deploy-code-server) - 
-- [DaCapo7/CNW](https://github.com/DaCapo7/CNW) - Create New Website is a VERY SIMPLE shell script (actually for macOS, didnt tried on linux) that create a folder with a HTML, a CSS and a JS. The html will have doctype, html, head and body tag and it
 - [OreosLab/VIP](https://github.com/OreosLab/VIP) - 🏃‍💨 Gone
 - [SpEcHiDe/whispering-boils](https://github.com/SpEcHiDe/whispering-boils) - 
 - [tyalie/City-Maps-Poster-Generator](https://github.com/tyalie/City-Maps-Poster-Generator) - Creates beautiful posters from stylized arial views of cities or other places on earth
