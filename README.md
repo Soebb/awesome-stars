@@ -685,7 +685,7 @@
 - [absadiki/subsai](https://github.com/absadiki/subsai) - 🎞️ Subtitles generation tool (Web-UI + CLI + Python package) powered by OpenAI's Whisper and its variants 🎞️
 - [absadiki/pywhispercpp](https://github.com/absadiki/pywhispercpp) - Python bindings for whisper.cpp
 - [bipinkrish/Link-Bypasser-Bot](https://github.com/bipinkrish/Link-Bypasser-Bot) - A Telegram Bot (with Site) that can Bypass Ad Links, Generate Direct Links and Jump Paywalls
-- [jianchang512/pyvideotrans](https://github.com/jianchang512/pyvideotrans) - Translate the video from one language to another and add dubbing.
+- [jianchang512/pyvideotrans](https://github.com/jianchang512/pyvideotrans) - Translate the video from one language to another and embed dubbing & subtitles.
 - [zackees/isolated-environment](https://github.com/zackees/isolated-environment) - Internal venv management to fix AI dependency hell in python
 - [SilentDemonSD/FZBypassBot](https://github.com/SilentDemonSD/FZBypassBot) - A Elegant Fast Multi Threaded Bypass Bot for Bigger Deeds. Try Now !!
 - [deadnews/images-upload-cli](https://github.com/deadnews/images-upload-cli) - Upload images via APIs
