@@ -444,8 +444,8 @@
 - [cassidoo/scrapers](https://github.com/cassidoo/scrapers) - A list of scrapers from around the web.
 - [RajatVarshney18/Movie_Describer](https://github.com/RajatVarshney18/Movie_Describer) - Its a basic PWA single page web application which searches for a movie using the OMDb API call and gives all the info related to that movie such as genre, release date, producer name etc.
 - [TelegramPlayground/Free-Movie-Series-DB-API](https://github.com/TelegramPlayground/Free-Movie-Series-DB-API) - FREE UnOfficial Movie / Series Search API, without APIKeys
-- [isaacxbt/TransfershAPI](https://github.com/isaacxbt/TransfershAPI) - Transfer.sh API Wrapper
-- [isaacxbt/AnonfilesAPI](https://github.com/isaacxbt/AnonfilesAPI) - Anonfiles.com API Wrapper
+- [hasbatonpenave/TransfershAPI](https://github.com/hasbatonpenave/TransfershAPI) - Transfer.sh API Wrapper
+- [hasbatonpenave/AnonfilesAPI](https://github.com/hasbatonpenave/AnonfilesAPI) - Anonfiles.com API Wrapper
 - [m4mallu/inline-tube-mate](https://github.com/m4mallu/inline-tube-mate) - An Inline Telegram YouTube downloader bot with custom, permanent thumbnail support, force subscription and cancel upload facility. The bot can send or broadcast messages to the users.
 - [aahnik/tgcf-on-gh-action](https://github.com/aahnik/tgcf-on-gh-action) - Running tgcf periodically in past mode for free using GitHub Actions.
 - [AbirHasan2005/TelegramScraper](https://github.com/AbirHasan2005/TelegramScraper) - Scrape Telegram group members (hidden members also) and add them to yours.
@@ -708,7 +708,6 @@
 - [changh95/video-scraper](https://github.com/changh95/video-scraper) - Easy interface for batch video downloading using youtube-dl
 - [R4j4n/CaptionCraft](https://github.com/R4j4n/CaptionCraft) - 
 - [maximofn/subtify](https://github.com/maximofn/subtify) - 
-- [riverscuomo/mp3tagger_python](https://github.com/riverscuomo/mp3tagger_python) - A Python GUI for building filter strings for the Mp3Tag Windows app
 - [oVo-HxBots/Utubeitbot](https://github.com/oVo-HxBots/Utubeitbot) - Youtube Video Uploader Bot From Telegram
 - [karim23657/AparatUploader](https://github.com/karim23657/AparatUploader) - Upload videos to Aparat , very fast ,  just using browser cookies
 - [Energetic3906/m3u8DL_tgbot](https://github.com/Energetic3906/m3u8DL_tgbot) - 
