@@ -223,7 +223,6 @@
 - [karim23657/GAS-Telegram-bot](https://github.com/karim23657/GAS-Telegram-bot) - A base code that shows how to make a telegram bot on google app script
 - [bypass-vip/bypass.vip](https://github.com/bypass-vip/bypass.vip) - The #1 Linkvertise bypasser is back!
 - [justpy-org/justpy](https://github.com/justpy-org/justpy) - An object oriented high-level Python Web Framework that requires no frontend programming
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [tuhinpal/imdb-api](https://github.com/tuhinpal/imdb-api) - Serverless IMDB API powered by Cloudflare Worker
 - [webrecorder/pywb](https://github.com/webrecorder/pywb) - Core Python Web Archiving Toolkit for replay and recording of web archives
 - [AnotiaWang/AntiChannelSpammersBot](https://github.com/AnotiaWang/AntiChannelSpammersBot) - A Telegram bot that can delete messages from users appearing as channels, also messages from anonymous admins and the linked channels.
@@ -1485,7 +1484,7 @@
 - [pylover/khayyam](https://github.com/pylover/khayyam) - A Persian Date & Time (aka: Jalali Calendar) library with timezone, DST (daylight-saving), full formatting & parsing support for python 2.x & 3.x.
 - [alihoseiny/word_cloud_fa](https://github.com/alihoseiny/word_cloud_fa) - A wrapper for wordcloud module for creating Persian word clouds.
 - [rezkam/SubFixer](https://github.com/rezkam/SubFixer) - Command-line subtitle fixer
-- [rezkam/persian](https://github.com/rezkam/persian) - Simple Python tool for Persian language localization.
+- [rezkam/persian](https://github.com/rezkam/persian) - A fast Python library for Persian language localization.
 - [amir-saniyan/HodaDatasetReader](https://github.com/amir-saniyan/HodaDatasetReader) - Python code for reading Hoda farsi digit dataset.
 - [ICTRC/Parsivar](https://github.com/ICTRC/Parsivar) - A Language Processing Toolkit for Persian
 - [alirezatheh/perke](https://github.com/alirezatheh/perke) - A keyphrase extractor for Persian
@@ -2626,6 +2625,7 @@
 - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser
 - [viperadnan-git/telegram-forwarder-bot](https://github.com/viperadnan-git/telegram-forwarder-bot) - Forward Telegram messages between chats using Telegram Bot API and Webhooks
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [SpEcHiDe/ButtonHTMLBot](https://github.com/SpEcHiDe/ButtonHTMLBot) - https://ButtonHTMLBot.t.me
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
 - [backmeupplz/archivelinksbot](https://github.com/backmeupplz/archivelinksbot) - Telegram bot that saves links to web archive
