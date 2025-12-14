@@ -1266,7 +1266,7 @@
 - [AshkanArabim/persian-word-extractor](https://github.com/AshkanArabim/persian-word-extractor) - This script creates a list of unique words from Persian text. Words can be sorted by frequency or alphabetical order. This is a new project, there could be major bugs in the code.
 - [Athirst1998/number_to_alphabet](https://github.com/Athirst1998/number_to_alphabet) - convert number to Persian alphabet
 - [adrian-kalinin/CheckNicknameBot](https://github.com/adrian-kalinin/CheckNicknameBot) - Telegram bot where you can check the availability of nicknames in various social networks
-- [teletips/DATE_TIME_USERBOT-TeLeTiPs](https://github.com/teletips/DATE_TIME_USERBOT-TeLeTiPs) - Powerful Telegram userbot to turn your PROFILE PICTURE & LAST NAME into a real time clock & to change your BIO automatically.
+- [teletips/date-time-userbot-teletips](https://github.com/teletips/date-time-userbot-teletips) - Powerful Telegram userbot to turn your PROFILE PICTURE & LAST NAME into a real time clock & to change your BIO automatically.
 - [rclakmal/tiktok-downloader](https://github.com/rclakmal/tiktok-downloader) - Downloads TikToks for users without water marks
 - [davidteather/TikTok-Api](https://github.com/davidteather/TikTok-Api) - The Unofficial TikTok API Wrapper In Python
 - [kootenpv/textsearch](https://github.com/kootenpv/textsearch) - Find strings/words in text; convenience and C speed :fireworks:
@@ -2200,8 +2200,8 @@
 - [FichteFoll/Sushi](https://github.com/FichteFoll/Sushi) - Automatic subtitle shifter based on audio
 - [samadii/ChannelAutoCaption](https://github.com/samadii/ChannelAutoCaption) - A Telegram bot to add an auto caption and button to the medias in channel (With dynamic variables support).
 - [madmaze/pytesseract](https://github.com/madmaze/pytesseract) - A Python wrapper for Google Tesseract
-- [teletips/FileToLink](https://github.com/teletips/FileToLink) - 
-- [teletips/Powerful_BotStatus-TeLeTiPs](https://github.com/teletips/Powerful_BotStatus-TeLeTiPs) - Easy & powerful bot to check if your all Telegram bots are working or not. This bot status bot refreshes automatically & runs for 24x7 hours.
+- [teletips/filetolink](https://github.com/teletips/filetolink) - 
+- [teletips/powerful-botstatus-teletips](https://github.com/teletips/powerful-botstatus-teletips) - Easy & powerful bot to check if your all Telegram bots are working or not. This bot status bot refreshes automatically & runs for 24x7 hours.
 - [codxmodsofc/Telegraph-Uploader-Bot](https://github.com/codxmodsofc/Telegraph-Uploader-Bot) - A simple telegram file or media to telegra.ph link uploader bot
 - [fayasnoushad/qr-code-bot](https://github.com/fayasnoushad/qr-code-bot) - An advanced QR Code telegram bot with more features.
 - [polak0v/ReSuber](https://github.com/polak0v/ReSuber) - 
