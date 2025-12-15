@@ -174,7 +174,6 @@
 - [khalby786/REHeader](https://github.com/khalby786/REHeader) - Generate beautiful header images for your GitHub profile READMEs.
 - [GameGenesis/Youtube-Video-Downloader](https://github.com/GameGenesis/Youtube-Video-Downloader) - Convert a YouTube video or playlist to an MP3 audio or MP4 video format. Includes conversion history when signed in.
 - [AnonC0DER/NovaFilm](https://github.com/AnonC0DER/NovaFilm) - A django movie website.
-- [theofficialvkr/VKrDownloader](https://github.com/theofficialvkr/VKrDownloader) - VKrDownloader : All in one Video Downloader - Download videos from facebook twitter youtube tiktok and 1000+ other sites . YouTube downloader , facebook downloader . made by Vijay Kumar
 - [ImJanindu/imjanindu.github.io](https://github.com/ImJanindu/imjanindu.github.io) - Simple portfolio website
 - [donno2048/win95.exe](https://github.com/donno2048/win95.exe) - Microsoft Windows 95 as an executable (using python and pyinstaller)
 - [DustbinServer/Dustbin](https://github.com/DustbinServer/Dustbin) - Just Another Text Storage Service.
@@ -232,6 +231,7 @@
 - [sa-akhavani/video-streamer](https://github.com/sa-akhavani/video-streamer) - Node.js Video File Streamer
 - [1995parham/github-do-not-ban-us](https://github.com/1995parham/github-do-not-ban-us) - GitHub do not ban us from open source world :iran:
 - [ssc-public/Web-Workshop](https://github.com/ssc-public/Web-Workshop) - Angular, Ansible, CI/CD, Flutter, ElasticSearch, Redis, NSQ, RabbitMQ,  Jenkins, Jest, React, Redux, TypeScript, Django, GraphQL, Rest Framework, Docker and Kubernetes Tutorial
+- [theofficialvkr/VKrDownloader](https://github.com/theofficialvkr/VKrDownloader) - VKrDownloader : All in one Video Downloader - Download videos from facebook twitter youtube tiktok and 1000+ other sites . YouTube downloader , facebook downloader . made by Vijay Kumar
 - [Kunal-Diwan/FileSearchBot](https://github.com/Kunal-Diwan/FileSearchBot) - Telegram Inline Files Search Bot made using JS by @Kunal-Diwan
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [elthondsaraujo/railway-drive](https://github.com/elthondsaraujo/railway-drive) - 
@@ -1484,7 +1484,7 @@
 - [pylover/khayyam](https://github.com/pylover/khayyam) - A Persian Date & Time (aka: Jalali Calendar) library with timezone, DST (daylight-saving), full formatting & parsing support for python 2.x & 3.x.
 - [alihoseiny/word_cloud_fa](https://github.com/alihoseiny/word_cloud_fa) - A wrapper for wordcloud module for creating Persian word clouds.
 - [rezkam/SubFixer](https://github.com/rezkam/SubFixer) - Command-line subtitle fixer
-- [rezkam/persian](https://github.com/rezkam/persian) - A fast Python library for Persian language localization.
+- [rezkam/persian](https://github.com/rezkam/persian) - A fast Python toolkit for Persian (Farsi) text normalization, number/character conversion, and localization utilities.
 - [amir-saniyan/HodaDatasetReader](https://github.com/amir-saniyan/HodaDatasetReader) - Python code for reading Hoda farsi digit dataset.
 - [ICTRC/Parsivar](https://github.com/ICTRC/Parsivar) - A Language Processing Toolkit for Persian
 - [alirezatheh/perke](https://github.com/alirezatheh/perke) - A keyphrase extractor for Persian
