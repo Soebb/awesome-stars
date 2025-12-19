@@ -1340,7 +1340,7 @@
 - [iraj-jelo/srtmerger](https://github.com/iraj-jelo/srtmerger) - subtitle merger is a tool for merging two or more subtitles for videos.
 - [kotnid/Youtube_Bot](https://github.com/kotnid/Youtube_Bot) - Download YouTube video by just typing commands in Telegram
 - [jakob-bagterp/browserist](https://github.com/jakob-bagterp/browserist) - 👩‍💻 Python extension for the Selenium web driver that makes browser automation even easier 👨‍💻
-- [jakob-bagterp/timer-for-python](https://github.com/jakob-bagterp/timer-for-python) - ⏳ Lightweight Python package that makes it easy to measure how much time it takes to run Python programs and gauge performance of multiple, smaller bits of code ⌛️
+- [jakob-bagterp/timer-for-python](https://github.com/jakob-bagterp/timer-for-python) - ⏳ Lightweight package that makes it easy to measure how much time it takes to run Python programs and gauge performance of multiple, smaller bits of code ⌛️
 - [language-ml/parsi.io](https://github.com/language-ml/parsi.io) - 
 - [haraai/ParsiNorm](https://github.com/haraai/ParsiNorm) - 
 - [CharlesPikachu/pytools](https://github.com/CharlesPikachu/pytools) - Pytools: Some useful tools written by pure python.
@@ -1662,7 +1662,7 @@
 - [matbgn/transcript-extractor](https://github.com/matbgn/transcript-extractor) - Extract transcript from a video or audio file (offline)
 - [subhsamal/Python-Programming](https://github.com/subhsamal/Python-Programming) - This repo contains interesting python programs I have come across.
 - [bluec/telegram-word-bot](https://github.com/bluec/telegram-word-bot) - A simple Telegram bot that analyses a given word, built with python-telegram-bot
-- [mutablevar/link-media-scraper-bot](https://github.com/mutablevar/link-media-scraper-bot) - Scraper of  cyberdrop, bunkr, streamtape links, Supports Streamtape uploading, Made Using Pyrogram Framework
+- [linkeebux/link-media-scraper-bot](https://github.com/linkeebux/link-media-scraper-bot) - Scraper of  cyberdrop, bunkr, streamtape links, Supports Streamtape uploading, Made Using Pyrogram Framework
 - [XDBots/Word-Of-The-Day-TGBot](https://github.com/XDBots/Word-Of-The-Day-TGBot) - Warning : Not Maintained, A Telegram Bot To send Scheduled Message at every morning or any time with the word of the day with meanings and Pronounciation.
 - [ArnabXD/GmailBomber](https://github.com/ArnabXD/GmailBomber) - A Simple Tool To Bomb Emails using Your Gmail .
 - [MontyIOX/HowFarBot](https://github.com/MontyIOX/HowFarBot) - A telegram bot that determines the user's distance form a requested place utilizing the Nomatim geocoding API
