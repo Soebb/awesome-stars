@@ -1188,7 +1188,7 @@
 - [amitkr-codes/localdb.json](https://github.com/amitkr-codes/localdb.json) - 
 - [SpEcHiDe/Media-Search-bot](https://github.com/SpEcHiDe/Media-Search-bot) - Inline bot for searching channels, without using any external third party database
 - [zackees/vids-db](https://github.com/zackees/vids-db) - 
-- [X-Gorn/Spotify-Loader](https://github.com/X-Gorn/Spotify-Loader) - Telegram bot download spotify playlist/artist/album/track music
+- [xgorn/Spotify-Loader](https://github.com/xgorn/Spotify-Loader) - Telegram bot download spotify playlist/artist/album/track music
 - [jusidama18/Gist-Telegram-Bot](https://github.com/jusidama18/Gist-Telegram-Bot) - 
 - [Itz-fork/Nexa-API](https://github.com/Itz-fork/Nexa-API) - Simple, Free and Easy to use Public api
 - [nodiscc/github-stars-backup](https://github.com/nodiscc/github-stars-backup) - [mirror] Backup a list of github starred repositories for the specified user.
@@ -1820,7 +1820,7 @@
 - [acgonzales/pydeezer](https://github.com/acgonzales/pydeezer) - A package to search and download musics on Deezer.
 - [AbirHasan2005/py-googletrans](https://github.com/AbirHasan2005/py-googletrans) - (unofficial) Googletrans: Free and Unlimited Google translate API for Python. Translates totally free of charge.
 - [witer33/Twithon](https://github.com/witer33/Twithon) - A python wrapper over Twitch API to build bots and applications.
-- [X-Gorn/X-URL-Uploader](https://github.com/X-Gorn/X-URL-Uploader) - Telegram bot to upload HTTP/HTTPS direct link & youtube-dl, clone of TG-URL-Uploader
+- [xgorn/X-URL-Uploader](https://github.com/xgorn/X-URL-Uploader) - Telegram bot to upload HTTP/HTTPS direct link & youtube-dl, clone of TG-URL-Uploader
 - [themixray/local-to-public-ip](https://github.com/themixray/local-to-public-ip) - This program will turn your local ip into a public one!
 - [donno2048/restricted-functions](https://github.com/donno2048/restricted-functions) - Restricted-functions is a package for Python that allows you to deny dangerous functions.
 - [donno2048/gitback](https://github.com/donno2048/gitback) - The easiest way to makes a backup of all your repositories and gists from GitHub using Python
@@ -2032,8 +2032,8 @@
 - [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid) - Advanced Multi-Featured Telegram UserBot, Built in Python Using Telethon lib.
 - [jannikmi/timezonefinder](https://github.com/jannikmi/timezonefinder) - python package for finding the timezone of any point on earth (coordinates) offline
 - [toastdriven/pylev](https://github.com/toastdriven/pylev) - A pure Python Levenshtein implementation that's not freaking GPL'd.
-- [X-Gorn/TikTokDL](https://github.com/X-Gorn/TikTokDL) - Telegram bot to download tiktok video/audio
-- [X-Gorn/BulkLoader](https://github.com/X-Gorn/BulkLoader) - Telegram bot to bulk download list of yt-dlp supported link and upload to telegram
+- [xgorn/TikTokDL](https://github.com/xgorn/TikTokDL) - Telegram bot to download tiktok video/audio
+- [xgorn/BulkLoader](https://github.com/xgorn/BulkLoader) - Telegram bot to bulk download list of yt-dlp supported link and upload to telegram
 - [shivamdev-lgtm/python-aria-mirror-bot](https://github.com/shivamdev-lgtm/python-aria-mirror-bot) - A telegram bot for all your mirror needs | OG Repo
 - [MarshalX/tgcalls](https://github.com/MarshalX/tgcalls) - Voice chats, private incoming and outgoing calls in Telegram for Developers
 - [arun017s/FeedbackBot](https://github.com/arun017s/FeedbackBot) - 
@@ -2107,7 +2107,7 @@
 - [krviolent/subtitles_extract](https://github.com/krviolent/subtitles_extract) - Tool for extraction hard-coded (hardsub) Chinese subtitles from video files with 720p resolution
 - [escape0707/extract-rename-subtitle](https://github.com/escape0707/extract-rename-subtitle) - 
 - [musa-42/stream-cloud](https://github.com/musa-42/stream-cloud) - Robot to convert files to direct links, hosting files on Telegram servers, unlimited and without restrictions
-- [X-Gorn/Flask-Heroku-Example](https://github.com/X-Gorn/Flask-Heroku-Example) - Example to deploy flask app on heroku
+- [xgorn/Flask-Heroku-Example](https://github.com/xgorn/Flask-Heroku-Example) - Example to deploy flask app on heroku
 - [Fillll/reddit2telegram](https://github.com/Fillll/reddit2telegram) - Bot to supply telegram channel with hot Reddit submissions.
 - [JinsoRaj/TelegramBots](https://github.com/JinsoRaj/TelegramBots) - This repository is for HacktoberFest 2025. Contribute Telegram bot source codes.
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
@@ -2300,7 +2300,7 @@
 - [amirhoseinsalimi/music-tool-bot](https://github.com/amirhoseinsalimi/music-tool-bot) - Music Tool Bot is the ultimate bot for managing your music files effortlessly! 🎵✨
 - [atamakahere-git/ytadlbot](https://github.com/atamakahere-git/ytadlbot) - Youtube audio downloader telegram bot
 - [fayasnoushad/url-shortner-bot](https://github.com/fayasnoushad/url-shortner-bot) - A link shortner telegram bot
-- [X-Gorn/File-Sharing](https://github.com/X-Gorn/File-Sharing) - Telegram bot to share any telegram files and get the shareable link
+- [xgorn/File-Sharing](https://github.com/xgorn/File-Sharing) - Telegram bot to share any telegram files and get the shareable link
 - [fayasnoushad/youtube-video-thumbnail](https://github.com/fayasnoushad/youtube-video-thumbnail) - A youtube video link or id to video thumbnail python package.
 - [jigarvarma2k20/VideoCompress](https://github.com/jigarvarma2k20/VideoCompress) - 
 - [EL-Coders/ELYoutubeBot](https://github.com/EL-Coders/ELYoutubeBot) - 
@@ -2447,7 +2447,7 @@
 - [TheHamkerCat/python-arq](https://github.com/TheHamkerCat/python-arq) - Asynchronous Python Wrapper For A.R.Q API.
 - [lamergameryt/AllenVideoDownloader](https://github.com/lamergameryt/AllenVideoDownloader) - Allen Video Downloader uses Allen’s API to fetch the video recordings from their website
 - [gautamajay52/pygofile](https://github.com/gautamajay52/pygofile) - Asynchronous Python Wrapper for the GoFile API
-- [X-Gorn/StreamtapeLoader](https://github.com/X-Gorn/StreamtapeLoader) - Telegram bot to upload streamtape url to telegram as video/document
+- [xgorn/StreamtapeLoader](https://github.com/xgorn/StreamtapeLoader) - Telegram bot to upload streamtape url to telegram as video/document
 - [samadii/Movie-Search-bot](https://github.com/samadii/Movie-Search-bot) - Inline bot for channels and groups
 - [aryazakaria01/PornHub](https://github.com/aryazakaria01/PornHub) - A Telegram Bot For Download PornHub Videos.
 - [samadii/ibcleanerbot](https://github.com/samadii/ibcleanerbot) - This is a simple Telegram bot to Delete User Messages based on Groupmembers Votes. Heroku deployable
@@ -2495,7 +2495,7 @@
 - [radinghr/LTelegramBot](https://github.com/radinghr/LTelegramBot) - A simple bot that will help you to improve your English skills
 - [CrazyBotsz/Adv-Auto-Filter-Bot-V2](https://github.com/CrazyBotsz/Adv-Auto-Filter-Bot-V2) - An advance automatic filter bot for filtering files and media in a telegram chat
 - [subinps/Media-Search-bot](https://github.com/subinps/Media-Search-bot) - Inline bot for channels and groups
-- [X-Gorn/MangaLoader](https://github.com/X-Gorn/MangaLoader) - Telegram bot to upload manga/comic to Telegram as PDF/ZIP or Folder (each chapter) | Uploaded as Zipfile
+- [xgorn/MangaLoader](https://github.com/xgorn/MangaLoader) - Telegram bot to upload manga/comic to Telegram as PDF/ZIP or Folder (each chapter) | Uploaded as Zipfile
 - [samadii/telegram-robot-rss](https://github.com/samadii/telegram-robot-rss) - A clean and easy to use RSS Newsfeed Bot for fabulous Telegram Messenger App! Heroku deployable :robot: :envelope: :heart:
 - [xditya/ChannelAutoPost](https://github.com/xditya/ChannelAutoPost) - Telegram bot to auto post messages of one channel in another channel as soon as it is posted, without the forwarded tag.
 - [callsmusic/tgmusicbot](https://github.com/callsmusic/tgmusicbot) - Telegram bot for downloading audio from YouTube, SoundCloud & MixCloud.
