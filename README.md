@@ -421,7 +421,7 @@
 - [DevelopersTree/awesome-kurds](https://github.com/DevelopersTree/awesome-kurds) - A curated list of awesome Kurds.
 - [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
-- [000pp/extensions-wordlist](https://github.com/000pp/extensions-wordlist) - 🔍 Improve your files enumeration with specific extensions!
+- [0xdsm/extensions-wordlist](https://github.com/0xdsm/extensions-wordlist) - 🔍 Improve your files enumeration with specific extensions!
 - [m4mallu/clonebot-ui](https://github.com/m4mallu/clonebot-ui) - Redirecting link to the original and latest clonebot repository.
 - [PredatorHackerzZ/Renamer-Bot](https://github.com/PredatorHackerzZ/Renamer-Bot) - Best & Fastest Renamer Bot By @Clinton-Abraham & @PredatorHackerzZ. Star and Fork the repo if you like it else you are Gay!...  @TeamTeleRoid
 - [devmaxxing/fbx_files](https://github.com/devmaxxing/fbx_files) - 
