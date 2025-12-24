@@ -497,6 +497,7 @@
 
 ## Python 
 
+- [Phr33d0m/subtitle-tools](https://github.com/Phr33d0m/subtitle-tools) - A collection of highly opinionated Python scripts for parallel processing video files, extracting subtitles, managing attachments, and performing OCR on hardcoded subtitles.
 - [Ilia-Abolhasani/downloader-telegram-bot](https://github.com/Ilia-Abolhasani/downloader-telegram-bot) - A simple Telegram bot that downloads Instagram videos — even from private or age-restricted posts (with session cookie).   Built with Python, `telebot`, and `yt-dlp`, this bot makes downloading videos
 - [nuhmanpk/headless-driver](https://github.com/nuhmanpk/headless-driver) - Headless Chrome WebDriver wrapper for Python (Selenium made simple)
 - [dreulavelle/PTT](https://github.com/dreulavelle/PTT) - The Best Damn Filename Parser You've Ever Used!
