@@ -1412,7 +1412,6 @@
 - [Fsunroo/PowerPointVoiceExtract](https://github.com/Fsunroo/PowerPointVoiceExtract) - this will extract voice from power points
 - [Abu3safeer/image-ocr-google-docs-srt](https://github.com/Abu3safeer/image-ocr-google-docs-srt) - OCR images exported by VideoSubFinder using Google docs OCR then export the result as srt file.
 - [johnkryptochain/TelegramScraper2022](https://github.com/johnkryptochain/TelegramScraper2022) - Scraper and adder for Telegram supporting multiple accounts at the same time. Adds via Telegram API and only by username. For adding via ID and not needing Telgram API contact me.
-- [berkaymizrak/Instagram-Followings-Followers-Bot](https://github.com/berkaymizrak/Instagram-Followings-Followers-Bot) - Find people that you follow but doesn't follow back to you.
 - [SzymekN/auto_ss](https://github.com/SzymekN/auto_ss) - Taking screenshots automatically everytime something changes over some area
 - [Nisheet-Patel/Mini-Projects](https://github.com/Nisheet-Patel/Mini-Projects) - Mini Projects in different programming languages and Frameworks
 - [erfannoury/pcrawler](https://github.com/erfannoury/pcrawler) - Persian Twitter crawler
