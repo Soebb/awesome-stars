@@ -767,7 +767,7 @@
 - [peachboy0/avplib](https://github.com/peachboy0/avplib) - AVP - ASCII Video Player. Allows you to play any video as ASCII-art.
 - [zackees/net_image_2_movie](https://github.com/zackees/net_image_2_movie) - Uses python to fetch an image and then shell utility to create an mp4 via ffmeg
 - [jmaupetit/md2pdf](https://github.com/jmaupetit/md2pdf) - Markdown to PDF conversion tool
-- [EDM115/unzip-bot](https://github.com/EDM115/unzip-bot) - Telegram bot deployable to heroku that can extract every archive !
+- [EDM115/unzip-bot](https://github.com/EDM115/unzip-bot) - A Telegram bot deployable to Heroku/VPS that can extract every archive ! With support for split archives, password protected, download from URL, file rename, thumbnail changer, ...
 - [graynk/voicos](https://github.com/graynk/voicos) - Simple Telegram bot that converts voice messages to text using Google Speech.
 - [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
 - [moi15moi/FontCollector](https://github.com/moi15moi/FontCollector) - FontCollector for Advanced SubStation Alpha file.
