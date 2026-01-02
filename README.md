@@ -173,7 +173,7 @@
 - [abenassi/Google-Search-API](https://github.com/abenassi/Google-Search-API) - Python based api for searching google web, images, calc, and currency conversion.
 - [khalby786/REHeader](https://github.com/khalby786/REHeader) - Generate beautiful header images for your GitHub profile READMEs.
 - [GameGenesis/Youtube-Video-Downloader](https://github.com/GameGenesis/Youtube-Video-Downloader) - Convert a YouTube video or playlist to an MP3 audio or MP4 video format. Includes conversion history when signed in.
-- [AnonC0DER/NovaFilm](https://github.com/AnonC0DER/NovaFilm) - A django movie website.
+- [itsh3sam/NovaFilm](https://github.com/itsh3sam/NovaFilm) - A django movie website.
 - [ImJanindu/imjanindu.github.io](https://github.com/ImJanindu/imjanindu.github.io) - Simple portfolio website
 - [donno2048/win95.exe](https://github.com/donno2048/win95.exe) - Microsoft Windows 95 as an executable (using python and pyinstaller)
 - [DustbinServer/Dustbin](https://github.com/DustbinServer/Dustbin) - Just Another Text Storage Service.
@@ -1538,7 +1538,7 @@
 - [Qiamast/IGSEBot](https://github.com/Qiamast/IGSEBot) - inline Google searching tool for Telegram
 - [coder2020official/telebot_template](https://github.com/coder2020official/telebot_template) - Template for synchronous implementation of telebot
 - [coder2020official/asynctelebot_template](https://github.com/coder2020official/asynctelebot_template) - Template for asynchronous implementation of telebot.
-- [AnonC0DER/NovaMusic](https://github.com/AnonC0DER/NovaMusic) - A music sharing telegram robot using Redis (PostgreSQL in new version) database and Telebot python library.
+- [itsh3sam/NovaMusic](https://github.com/itsh3sam/NovaMusic) - A music sharing telegram robot using Redis (PostgreSQL in new version) database and Telebot python library.
 - [J-Rios/TLG_JoinCaptchaBot](https://github.com/J-Rios/TLG_JoinCaptchaBot) - Telegram Bot to verify if users joining a group are human. The Bot sends an image captcha to each new user and removes those who fail to solve it within a specified time.
 - [AlexMetsai/computer-vision-utils](https://github.com/AlexMetsai/computer-vision-utils) - Various scripts that may be useful, mostly python and bash scripts.
 - [SuperKogito/pydiogment](https://github.com/SuperKogito/pydiogment) - :mega: Python library for audio augmentation
