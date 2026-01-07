@@ -1153,7 +1153,7 @@
 - [Coolshanlan/HighlightTranslator](https://github.com/Coolshanlan/HighlightTranslator) - Highlight Translator can help you to translate the words quickly and accurately. By only highlighting, copying, or screenshoting the content you want to translate anywhere on your computer (ex. PDF, P
 - [sadegh-masoumi/persian-ocr-pdf-to-word](https://github.com/sadegh-masoumi/persian-ocr-pdf-to-word) - persian ocr pdf to word
 - [zhaoxi1999/timelapse_slicer](https://github.com/zhaoxi1999/timelapse_slicer) - This script is for photographers to do timeslice with one click.
-- [kastaid/getter](https://github.com/kastaid/getter) - Get and put users (scraping) to the target group/channel efficiently, correctly and safety.
+- [kastaid/getter](https://github.com/kastaid/getter) - Powerful Telethon userbot (supports custom plugins)
 - [kiahamedi/zirnevis](https://github.com/kiahamedi/zirnevis) - download subtitle only with movies name
 - [kiahamedi/ConvertSrt2Per](https://github.com/kiahamedi/ConvertSrt2Per) - Convert English subtitle to Persian subtitle
 - [nashviamir/py-persian-sms](https://github.com/nashviamir/py-persian-sms) - 
