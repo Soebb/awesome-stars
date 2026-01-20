@@ -1660,7 +1660,6 @@
 - [vstavrinov/streamlink-service](https://github.com/vstavrinov/streamlink-service) - video streaming service based on streamlink  project (https://github.com/streamlink/streamlink)
 - [matbgn/auto-scan](https://github.com/matbgn/auto-scan) - Auto-scan is a tool to automatically scan documents from printer/scanner, OCR files, optimize and rotate it and finally send it by email as attachment.
 - [matbgn/transcript-extractor](https://github.com/matbgn/transcript-extractor) - Extract transcript from a video or audio file (offline)
-- [subhsamal/Python-Programming](https://github.com/subhsamal/Python-Programming) - This repo contains interesting python programs I have come across.
 - [bluec/telegram-word-bot](https://github.com/bluec/telegram-word-bot) - A simple Telegram bot that analyses a given word, built with python-telegram-bot
 - [debiplobi/link-media-scraper-bot](https://github.com/debiplobi/link-media-scraper-bot) - Scraper of  cyberdrop, bunkr, streamtape links, Supports Streamtape uploading, Made Using Pyrogram Framework
 - [XDBots/Word-Of-The-Day-TGBot](https://github.com/XDBots/Word-Of-The-Day-TGBot) - Warning : Not Maintained, A Telegram Bot To send Scheduled Message at every morning or any time with the word of the day with meanings and Pronounciation.
