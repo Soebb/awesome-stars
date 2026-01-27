@@ -1355,7 +1355,7 @@
 - [zaironjacobs/get-gecko-driver](https://github.com/zaironjacobs/get-gecko-driver) - A tool to download and install GeckoDriver.
 - [zaironjacobs/get-chrome-driver](https://github.com/zaironjacobs/get-chrome-driver) - A tool to download and install ChromeDriver.
 - [myNameArnav/randomImageMaker](https://github.com/myNameArnav/randomImageMaker) - It makes random images with random words
-- [shawnrivers/gif-compressor](https://github.com/shawnrivers/gif-compressor) - This is a little program to help compress your .mp4 or gif into a smaller .gif which has a size smallar than 1 MB.
+- [ushoka/gif-compressor](https://github.com/ushoka/gif-compressor) - This is a little program to help compress your .mp4 or gif into a smaller .gif which has a size smallar than 1 MB.
 - [IDN-C-X/IDN-GDrive-Bot](https://github.com/IDN-C-X/IDN-GDrive-Bot) - A Telegram bot to upload files from Telegram or Direct links to Google Drive.
 - [UserLazy/TG-YoutubeDL](https://github.com/UserLazy/TG-YoutubeDL) - Youtube Downloader and Converter
 - [Kenshin9977/video-dl](https://github.com/Kenshin9977/video-dl) - A GUI for yt-dlp that aims to simplify its usage.
