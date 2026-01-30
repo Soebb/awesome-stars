@@ -172,7 +172,7 @@
 - [lukasbm/chief-video](https://github.com/lukasbm/chief-video) - Simple website for videos playing hosted videos
 - [abenassi/Google-Search-API](https://github.com/abenassi/Google-Search-API) - Python based api for searching google web, images, calc, and currency conversion.
 - [khalby786/REHeader](https://github.com/khalby786/REHeader) - Generate beautiful header images for your GitHub profile READMEs.
-- [GameGenesis/Youtube-Video-Downloader](https://github.com/GameGenesis/Youtube-Video-Downloader) - Convert a YouTube video or playlist to an MP3 audio or MP4 video format. Includes conversion history when signed in.
+- [rkaissi/Youtube-Video-Downloader](https://github.com/rkaissi/Youtube-Video-Downloader) - Convert a YouTube video or playlist to an MP3 audio or MP4 video format. Includes conversion history when signed in.
 - [itsh3sam/NovaFilm](https://github.com/itsh3sam/NovaFilm) - A django movie website.
 - [ImJanindu/imjanindu.github.io](https://github.com/ImJanindu/imjanindu.github.io) - Simple portfolio website
 - [donno2048/win95.exe](https://github.com/donno2048/win95.exe) - Microsoft Windows 95 as an executable (using python and pyinstaller)
