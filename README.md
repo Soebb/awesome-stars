@@ -1668,7 +1668,7 @@
 - [MontyIOX/HowFarBot](https://github.com/MontyIOX/HowFarBot) - A telegram bot that determines the user's distance form a requested place utilizing the Nomatim geocoding API
 - [tgbot-collection/ytdlbot](https://github.com/tgbot-collection/ytdlbot) - Download videos from Youtube and other platforms through a Telegram Bot
 - [AulaMaroon/Proxy-Scrapper](https://github.com/AulaMaroon/Proxy-Scrapper) - 
-- [DaCapo7/PyPiano](https://github.com/DaCapo7/PyPiano) - Synthesia but open source, made in python and free
+- [CharlesDupouy/PyPiano](https://github.com/CharlesDupouy/PyPiano) - Synthesia but open source, made in python and free
 - [Avnsx/fansly-downloader](https://github.com/Avnsx/fansly-downloader) - Easy to use fansly.com content downloading tool. Written in python, but ships as a standalone Executable App for Windows too. Enjoy your Fansly content offline anytime, anywhere in the highest possibl
 - [geekcomputers/Python](https://github.com/geekcomputers/Python) - My Python Examples
 - [KamiTopalyan/AutoClicker](https://github.com/KamiTopalyan/AutoClicker) - 
