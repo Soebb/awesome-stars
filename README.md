@@ -497,6 +497,7 @@
 
 ## Python 
 
+- [patterniha/Serverless-for-Iran](https://github.com/patterniha/Serverless-for-Iran) - حداکثر تلاش برای استفاده از اینترنت آزاد و بدون محدودیت بدون استفاده از هیچ سروری
 - [tveronesi/imdbinfo](https://github.com/tveronesi/imdbinfo) - A Python package to fetch and manage IMDb movie information easily.
 - [Phr33d0m/subtitle-tools](https://github.com/Phr33d0m/subtitle-tools) - A collection of highly opinionated Python scripts for parallel processing video files, extracting subtitles, managing attachments, and performing OCR on hardcoded subtitles.
 - [Ilia-Abolhasani/downloader-telegram-bot](https://github.com/Ilia-Abolhasani/downloader-telegram-bot) - A simple Telegram bot that downloads Instagram videos — even from private or age-restricted posts (with session cookie).   Built with Python, `telebot`, and `yt-dlp`, this bot makes downloading videos
