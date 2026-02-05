@@ -184,6 +184,7 @@
 - [zappycode/portfolio-project](https://github.com/zappycode/portfolio-project) - 
 - [taneliang/lifespan](https://github.com/taneliang/lifespan) - Website which counts up from your birthday down to your death
 - [chankitsaini/redirector](https://github.com/chankitsaini/redirector) - 
+- [Rahmanism/fetch_tweets](https://github.com/Rahmanism/fetch_tweets) - A simple python code for fetching tweets from twitter.com
 - [viperadnan-git/wallpaper-api](https://github.com/viperadnan-git/wallpaper-api) - An api which can use different sites to scrape images and serve them through API
 - [b00f/lilak](https://github.com/b00f/lilak) - Persian Spell Checking Dictionary
 - [ArdeshirV/resources](https://github.com/ArdeshirV/resources) - My resources such as images for using in README file(s) of github
@@ -1763,7 +1764,6 @@
 - [kylepw/cropper](https://github.com/kylepw/cropper) - URL shortener API example in Django REST framework.
 - [flashdagger/ytdlp-plugins](https://github.com/flashdagger/ytdlp-plugins) - plugin manager for yt-dlp which enables releases of extractors as separate python package
 - [IsekaiBot/IsekaiMusicBot](https://github.com/IsekaiBot/IsekaiMusicBot) - Music Bot For Telegram, Deploy With Heroku
-- [Rahmanism/fetch_tweets](https://github.com/Rahmanism/fetch_tweets) - A simple python code for fetching tweets from twitter.com
 - [AnimeKaizoku/TelegramDB](https://github.com/AnimeKaizoku/TelegramDB) - A library that uses your telegram account as a database.
 - [SpEcHiDe/DeleteMessagesRoBot](https://github.com/SpEcHiDe/DeleteMessagesRoBot) - Watch https://youtu.be/RHQ-RP4_pKY, or Read the Code to know how to use this Telegram Bot.
 - [Deshdeepak1/TeleSendFolder](https://github.com/Deshdeepak1/TeleSendFolder) - Teleprojs
