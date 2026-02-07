@@ -21,7 +21,6 @@
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
-- [MDX](#mdx)
 - [Makefile](#makefile)
 - [Nim](#nim)
 - [Objective-C](#objective-c)
@@ -166,6 +165,7 @@
 - [vabs/youtube-channel-name-converter](https://github.com/vabs/youtube-channel-name-converter) - Convert Youtube Channel Name To Channel ID
 - [ZapperDJ/DiogenesList](https://github.com/ZapperDJ/DiogenesList) - Multiplatform HTML directory listing creator
 - [deanmalmgren/textract](https://github.com/deanmalmgren/textract) - extract text from any document. no muss. no fuss.
+- [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [GoFarsi/book](https://github.com/GoFarsi/book) - کتاب آزاد  (آنلاین/آفلاین) زبان برنامه‌نویسی گو فارسی
 - [khuyentran1401/top-github-scraper](https://github.com/khuyentran1401/top-github-scraper) - Scape top GitHub repositories and users based on keywords
 - [AhmadIbrahiim/Website-downloader](https://github.com/AhmadIbrahiim/Website-downloader) - 💡  Download the complete source code of any website (including all assets). [ Javascripts, Stylesheets, Images ]  using Node.js
@@ -345,10 +345,6 @@
 - [jing332/tts-server-android](https://github.com/jing332/tts-server-android) - 这是一个Android系统TTS应用，内置微软演示接口，可自定义HTTP请求，可导入其他本地TTS引擎，以及根据中文双引号的简单旁白/对话识别朗读 ，还有自动重试，备用配置，文本替换等更多功能。
 - [Stypox/dicio-android](https://github.com/Stypox/dicio-android) - Dicio assistant app for Android
 - [persian-calendar/persian-calendar](https://github.com/persian-calendar/persian-calendar) - Android Persian Calendar / تقویم فارسی اندروید
-
-## MDX 
-
-- [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 
 ## Makefile 
 
@@ -2108,7 +2104,7 @@
 - [PuZhiweizuishuai/OCR-CopyText-And-Search](https://github.com/PuZhiweizuishuai/OCR-CopyText-And-Search) - 适用于一些单位组织的那种在专门的APP上答题，但是又有题库的开卷考试，方便搜索答案，基于PaddleOCR开发😂😂😂
 - [elaheh-dastan/first-grade](https://github.com/elaheh-dastan/first-grade) - OCR for Iranian national ID card, etc.
 - [Belval/TextRecognitionDataGenerator](https://github.com/Belval/TextRecognitionDataGenerator) - A synthetic data generator for text recognition
-- [RapidAI/RapidOCR](https://github.com/RapidAI/RapidOCR) - 📄 Awesome OCR multiple programing languages toolkits based on ONNXRuntime, OpenVINO, PaddlePaddle and PyTorch.
+- [RapidAI/RapidOCR](https://github.com/RapidAI/RapidOCR) - 📄 Awesome OCR multiple programing languages toolkits based on ONNXRuntime, OpenVINO, MNN, PaddlePaddle and PyTorch.
 - [SWHL/RapidVideOCR](https://github.com/SWHL/RapidVideOCR) - 🎦 Extract video hard subtitles and automatically generate corresponding srt files.
 - [krviolent/subtitles_extract](https://github.com/krviolent/subtitles_extract) - Tool for extraction hard-coded (hardsub) Chinese subtitles from video files with 720p resolution
 - [escape0707/extract-rename-subtitle](https://github.com/escape0707/extract-rename-subtitle) - 
