@@ -1865,7 +1865,6 @@
 - [freecontent/Mega.nz-Bot](https://github.com/freecontent/Mega.nz-Bot) - Simple Telegram Bot to Download Files From Mega.nz
 - [ShivangKakkar/pystark](https://github.com/ShivangKakkar/pystark) - Docs - https://pystark.codes
 - [baradhiren/libgen_telegram_bot](https://github.com/baradhiren/libgen_telegram_bot) - Create your own telegram bot to download books from libgen
-- [harrypython/fb-regex-scraper](https://github.com/harrypython/fb-regex-scraper) - Scrape Facebook Public Group Posts without using Facebook API using Selenium.
 - [jmcarp/robobrowser](https://github.com/jmcarp/robobrowser) - 
 - [lorien/grab](https://github.com/lorien/grab) - Web Scraping Framework
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
