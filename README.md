@@ -2341,7 +2341,7 @@
 - [AnjanaMadu/MentionAllBot](https://github.com/AnjanaMadu/MentionAllBot) - This bot can mention members upto 10,000 in groups and can mention members upto 200 in channels !
 - [dihanofficial/SophiaOLD](https://github.com/dihanofficial/SophiaOLD) - Old Vision of Sophia Source Code.....
 - [quasarstream/python-ffmpeg-video-streaming](https://github.com/quasarstream/python-ffmpeg-video-streaming) - 📼 Package media content for online streaming(DASH and HLS) using FFmpeg
-- [TeamDaisyX/DaisyXMusic](https://github.com/TeamDaisyX/DaisyXMusic) - Free and Open Source Group Voice chat music player for telegram ❤️ with button support youtube playback support
+- [InukaAsith/DaisyXMusic](https://github.com/InukaAsith/DaisyXMusic) - Free and Open Source Group Voice chat music player for telegram ❤️ with button support youtube playback support
 - [BlazingWarlord/BeautifulSoup](https://github.com/BlazingWarlord/BeautifulSoup) - Get movie details with Python from imdb.com
 - [Karan-Malik/IMDb_bot](https://github.com/Karan-Malik/IMDb_bot) - Telegram bot to fetch details and ratings for any movie
 - [utsavgadhiya/imdb-movie-service](https://github.com/utsavgadhiya/imdb-movie-service) - A basic service which gets movie details from imdb through third party API intergration, made with flask
