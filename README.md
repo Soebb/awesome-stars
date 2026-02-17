@@ -2091,7 +2091,7 @@
 - [jeffanberg/AVMerger](https://github.com/jeffanberg/AVMerger) - Creates a simple video by merging audio with photo.
 - [hazybluedot/ffmpeg_split](https://github.com/hazybluedot/ffmpeg_split) - Split a video file using ffmpeg into separate audio-only and video-only segments based on an input file containg start/end times of each segment
 - [Nguh-Prince/video_trimmer](https://github.com/Nguh-Prince/video_trimmer) - a python script that trims a video file from arguments passed via the command line
-- [27Caputo/video_trimmer](https://github.com/27Caputo/video_trimmer) - Trim a video into multiple parts.
+- [lcaputo/video_trimmer](https://github.com/lcaputo/video_trimmer) - Trim a video into multiple parts.
 - [mrismanaziz/Scrap-Man](https://github.com/mrismanaziz/Scrap-Man) - Bot Scrap APP ID and API HASH Telegram
 - [tsweet64/vtrim](https://github.com/tsweet64/vtrim) - A Python script to trim silent parts from videos
 - [dmingn/vtrim](https://github.com/dmingn/vtrim) - A python script to trim a video using ffmpeg.
