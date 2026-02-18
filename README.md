@@ -148,7 +148,7 @@
 - [Divkix/RestrictChannelRobot](https://github.com/Divkix/RestrictChannelRobot) - 🤖 Simple telegram Bot to ban Anonymous Channel 📢 users in a group.
 - [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
 - [Intaco/yt-audio-telegram-bot](https://github.com/Intaco/yt-audio-telegram-bot) - A simple youtube video-to-audio converter bot for telegram with chat filtering support
-- [EverythingSuckz/TG-FileStreamBot](https://github.com/EverythingSuckz/TG-FileStreamBot) - A telegram bot that will give instant stream links for telegram files without the need of waiting till the download completes.
+- [EverythingSuckz/TG-FileStreamBot](https://github.com/EverythingSuckz/TG-FileStreamBot) - A telegram bot that will give instant stream links for telegram files without the need of waiting till the download completes. (Telegram File Stream Bot)
 
 ## HCL 
 
