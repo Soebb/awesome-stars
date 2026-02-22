@@ -897,9 +897,7 @@
 - [jumon/whisper-punctuator](https://github.com/jumon/whisper-punctuator) - Zero-shot multimodal punctuation insertion and truecasing using Whisper
 - [danb27/chat-toolkit](https://github.com/danb27/chat-toolkit) - Extensible package for creating machine learning powered chatbots.
 - [Nemo2011/PyFDown](https://github.com/Nemo2011/PyFDown) - A fast downloader with Python
-- [LpCodes/View_Wifi_Passwords](https://github.com/LpCodes/View_Wifi_Passwords) - Simple syntax to view Saved WiFi Passwords on Windows machine
 - [LpCodes/LP-All-Images-Downloader](https://github.com/LpCodes/LP-All-Images-Downloader) - A simple package to download all Images from the url provided
-- [LpCodes/pypackageinspector](https://github.com/LpCodes/pypackageinspector) - pyCryptobox is a package in Python that inspects a Python package and prints out all the functions and methods defined in that package. It takes a single argument, package, which is a string represent
 - [LpCodes/Duplicate-Files-Remover](https://github.com/LpCodes/Duplicate-Files-Remover) - This Python script removes duplicate files from a given directory. It prompts the user to select a folder and then uses the MD5 hashing algorithm to check if any files have the same hash value. If it 
 - [anformatic/Finder](https://github.com/anformatic/Finder) - finding strings in text file
 - [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz) - Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.
@@ -1545,7 +1543,7 @@
 - [coder2020official/telebot_template](https://github.com/coder2020official/telebot_template) - Template for synchronous implementation of telebot
 - [coder2020official/asynctelebot_template](https://github.com/coder2020official/asynctelebot_template) - Template for asynchronous implementation of telebot.
 - [itsh3sam/NovaMusic](https://github.com/itsh3sam/NovaMusic) - A music sharing telegram robot using Redis (PostgreSQL in new version) database and Telebot python library.
-- [J-Rios/TLG_JoinCaptchaBot](https://github.com/J-Rios/TLG_JoinCaptchaBot) - Telegram Bot to verify if users joining a group are human. The Bot sends an image captcha to each new user and removes those who fail to solve it within a specified time.
+- [J-Rios/TLG_JoinCaptchaBot](https://github.com/J-Rios/TLG_JoinCaptchaBot) - Telegram Bot to verify if users joining a group are human. The Bot sends a captcha challenge to each new user and removes those who fail to solve it within a specified time.
 - [AlexMetsai/computer-vision-utils](https://github.com/AlexMetsai/computer-vision-utils) - Various scripts that may be useful, mostly python and bash scripts.
 - [SuperKogito/pydiogment](https://github.com/SuperKogito/pydiogment) - :mega: Python library for audio augmentation
 - [SvalTech/PyServed](https://github.com/SvalTech/PyServed) - A beautiful cli with network transfer/hosting utilities to make life easier.
