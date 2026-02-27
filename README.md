@@ -897,7 +897,7 @@
 - [jumon/whisper-punctuator](https://github.com/jumon/whisper-punctuator) - Zero-shot multimodal punctuation insertion and truecasing using Whisper
 - [danb27/chat-toolkit](https://github.com/danb27/chat-toolkit) - Extensible package for creating machine learning powered chatbots.
 - [Nemo2011/PyFDown](https://github.com/Nemo2011/PyFDown) - A fast downloader with Python
-- [LpCodes/LP-All-Images-Downloader](https://github.com/LpCodes/LP-All-Images-Downloader) - A simple package to download all Images from the url provided
+- [LpCodes/LP-All-Images-Downloader](https://github.com/LpCodes/LP-All-Images-Downloader) - Python package intended for downloading all images from the given URL.
 - [LpCodes/Duplicate-Files-Remover](https://github.com/LpCodes/Duplicate-Files-Remover) - This Python script removes duplicate files from a given directory. It prompts the user to select a folder and then uses the MD5 hashing algorithm to check if any files have the same hash value. If it 
 - [anformatic/Finder](https://github.com/anformatic/Finder) - finding strings in text file
 - [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz) - Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.
