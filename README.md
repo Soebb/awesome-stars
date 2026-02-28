@@ -2326,7 +2326,7 @@
 - [SenseiOfficial/Telethon-String-Generator](https://github.com/SenseiOfficial/Telethon-String-Generator) - Deploy this bot to Generate Telethon String session for telegram.🙂
 - [meanii/sessionMaker](https://github.com/meanii/sessionMaker) - a bot that can create session string of pyrogram and telethon.
 - [SpEcHiDe/PlayAStream](https://github.com/SpEcHiDe/PlayAStream) - 
-- [iytdl/iytdl](https://github.com/iytdl/iytdl) - Async Inline YouTube-DL for Pyrogram based Bots
+- [iytdl/iytdl](https://github.com/iytdl/iytdl) - A production-ready Python library that wraps yt-dlp with an async, inline-friendly interface for Pyrogram Telegram bots
 - [Jack-of-tg/MEDIA-EDITOR-BOT](https://github.com/Jack-of-tg/MEDIA-EDITOR-BOT) - 
 - [breakdowns/drive-searchbot](https://github.com/breakdowns/drive-searchbot) - Google Drive file searcher
 - [odysseusmax/tg-index](https://github.com/odysseusmax/tg-index) - Python web app to index telegram chats and serve its files for download over HTTP.
