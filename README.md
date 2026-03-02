@@ -749,7 +749,7 @@
 - [hynek/environ-config](https://github.com/hynek/environ-config) - Python Application Configuration With Environment Variables
 - [hynek/structlog](https://github.com/hynek/structlog) - Simple, powerful, and fast logging for Python.
 - [pikpikcu/js-finding](https://github.com/pikpikcu/js-finding) - JS Finding can be used to extract JavaScript (JS) files from either a single domain URL or a list of domains. The tool supports various extraction methods and provides additional options for file down
-- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
+- [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
 - [metachris/logzero](https://github.com/metachris/logzero) - Robust and effective logging for Python 2 and 3.
 - [saizk/auto-selenium](https://github.com/saizk/auto-selenium) - Automatic download of Selenium Web Drivers for all browsers
 - [kotttee/pyrogram_patch](https://github.com/kotttee/pyrogram_patch) - pyrogram_patch is a Python library this is a library that adds middlewares and fsm to pyrogram.
