@@ -886,7 +886,7 @@
 - [nitanmarcel/PipTUI](https://github.com/nitanmarcel/PipTUI) - Pip UI in your terminal!
 - [Qiamast/Directory-Video-Duration-Calculator](https://github.com/Qiamast/Directory-Video-Duration-Calculator) - A script that calculates the total duration of all videos in a directory
 - [AbirHasan2005/PyVideoEditor](https://github.com/AbirHasan2005/PyVideoEditor) - In Development
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform
 - [explosion/wasabi](https://github.com/explosion/wasabi) - 🍣 A lightweight console printing and formatting toolkit
 - [miyuchina/mistletoe](https://github.com/miyuchina/mistletoe) - A fast, extensible and spec-compliant Markdown parser in pure Python.
 - [javadr/picofile-dl](https://github.com/javadr/picofile-dl) - Picofile.com Downloader
