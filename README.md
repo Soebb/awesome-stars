@@ -2038,7 +2038,7 @@
 - [shivamdev-lgtm/python-aria-mirror-bot](https://github.com/shivamdev-lgtm/python-aria-mirror-bot) - A telegram bot for all your mirror needs | OG Repo
 - [MarshalX/tgcalls](https://github.com/MarshalX/tgcalls) - Voice chats, private incoming and outgoing calls in Telegram for Developers
 - [arun017s/FeedbackBot](https://github.com/arun017s/FeedbackBot) - 
-- [AmirulAndalib/TorrentLeechX](https://github.com/AmirulAndalib/TorrentLeechX) - A FORKED AND Modded version of TL:GD for 🅱️3R0K🧲support
+- [AmirulAndalib/TL-GD](https://github.com/AmirulAndalib/TL-GD) - A FORKED AND Modded version of TL:GD...
 - [cmlburnett/mkvxmlmaker](https://github.com/cmlburnett/mkvxmlmaker) - Python module that makes XML files for feeding mkvmerge
 - [parnexcodes/pyretag](https://github.com/parnexcodes/pyretag) - Python retagging utility for mkv files using mkvmerge.
 - [divijbindlish/parse-torrent-name](https://github.com/divijbindlish/parse-torrent-name) - Extract media information from a filename
