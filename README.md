@@ -515,7 +515,7 @@
 - [moradpoor/V_to_T_bot](https://github.com/moradpoor/V_to_T_bot) - Telegram Voice-to-Text Bot
 - [py2many/py2many](https://github.com/py2many/py2many) - Transpiler of Python to many other languages
 - [k44t/videocr](https://github.com/k44t/videocr) - Extract hardcoded subtitles from videos using machine learning
-- [timminator/VideOCR](https://github.com/timminator/VideOCR) - Extract hardcoded subtitles from videos via a simple GUI using machine learning
+- [timminator/VideOCR](https://github.com/timminator/VideOCR) - Extract hardcoded subtitles from videos via a simple GUI using machine learning. Supports 100+ languages.
 - [SREEHARI1994/InstagramScraper](https://github.com/SREEHARI1994/InstagramScraper) - Download photos,reels and stories of any instagram account, public or Private(that you have access to) to your PC folders
 - [timminator/VideoDupChecker](https://github.com/timminator/VideoDupChecker) - Check your video collection for duplicates!
 - [SSHpectator/WPfinder](https://github.com/SSHpectator/WPfinder) - WPfinder finds in a given URL the most juicy WP directories and if it find some WP directories, it prints them to you.
