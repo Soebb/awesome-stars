@@ -2102,7 +2102,7 @@
 - [PuZhiweizuishuai/OCR-CopyText-And-Search](https://github.com/PuZhiweizuishuai/OCR-CopyText-And-Search) - 适用于一些单位组织的那种在专门的APP上答题，但是又有题库的开卷考试，方便搜索答案，基于PaddleOCR开发😂😂😂
 - [elaheh-dastan/first-grade](https://github.com/elaheh-dastan/first-grade) - OCR for Iranian national ID card, etc.
 - [Belval/TextRecognitionDataGenerator](https://github.com/Belval/TextRecognitionDataGenerator) - A synthetic data generator for text recognition
-- [RapidAI/RapidOCR](https://github.com/RapidAI/RapidOCR) - 📄 Awesome OCR multiple programing languages toolkits based on ONNXRuntime, OpenVINO, MNN, PaddlePaddle and PyTorch.
+- [RapidAI/RapidOCR](https://github.com/RapidAI/RapidOCR) - 📄 Awesome OCR multiple programing languages toolkits based on ONNX Runtime, OpenVINO, MNN, PaddlePaddle, TensorRT and PyTorch.
 - [SWHL/RapidVideOCR](https://github.com/SWHL/RapidVideOCR) - 🎦 Extract video hard subtitles and automatically generate corresponding srt files.
 - [krviolent/subtitles_extract](https://github.com/krviolent/subtitles_extract) - Tool for extraction hard-coded (hardsub) Chinese subtitles from video files with 720p resolution
 - [escape0707/extract-rename-subtitle](https://github.com/escape0707/extract-rename-subtitle) - 
