@@ -457,7 +457,7 @@
 
 - [kihanb/jirjirakbot](https://github.com/kihanb/jirjirakbot) - JirJirakBot Project | Self-Destruct Messages (SDM)
 - [danog/downloadRenameBot](https://github.com/danog/downloadRenameBot) - 2gb+ Telegram file/YouTube upload&renamer bot based on MadelineProto
-- [PBhadoo/Rapidleech](https://github.com/PBhadoo/Rapidleech) - 
+- [PBhadoo/Rapidleech](https://github.com/PBhadoo/Rapidleech) - The Most Up to Date Rapidleech Fork
 - [alikm6/chToolsBot](https://github.com/alikm6/chToolsBot) - Telegram Bot to Help Channel Administrators
 - [bluedreamcoder/createyourbot](https://github.com/bluedreamcoder/createyourbot) - Code Examples for createyourbot telegram bots
 - [ErfanBahramali/Telegram-Bot-PHP](https://github.com/ErfanBahramali/Telegram-Bot-PHP) - Telegram-Bot-PHP is a PHP library for interacting with the official Telegram Bot API
@@ -627,7 +627,7 @@
 - [NotCookey/Quote2Image](https://github.com/NotCookey/Quote2Image) - Quote2Image is a python library for turning text quotes into graphical images
 - [Azornes/ocrTranslator](https://github.com/Azornes/ocrTranslator) - Convert captured images to text using BaiduOCR, GoogleOCR, WindowsOCR, tesseractOCR, RapidOCR or Capture2Text, and translate the resulting text using Google, Chatgpt, Edgegpt, DeepL or many more. Desk
 - [theFest/python-code](https://github.com/theFest/python-code) - py 2/3 | {educational content}
-- [Fadi002/de4py](https://github.com/Fadi002/de4py) - toolkit for python reverse engineering
+- [Fadi002/de4py](https://github.com/Fadi002/de4py) - The ultimate AI-powered toolkit for python reverse engineering
 - [Abyys001/TranslatorBot](https://github.com/Abyys001/TranslatorBot) - Convert your English texts to Farsi and your Farsi texts to English using Telegram bot
 - [nabidam/harzad_bot](https://github.com/nabidam/harzad_bot) - 
 - [nabidam/persian-names](https://github.com/nabidam/persian-names) - Persian names dataset
