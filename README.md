@@ -640,7 +640,7 @@
 - [inveniosoftware/dictdiffer](https://github.com/inveniosoftware/dictdiffer) - Dictdiffer is a module that helps you to diff and patch dictionaries.
 - [rochacbruno/flask-project-template](https://github.com/rochacbruno/flask-project-template) - This template is **archived**.   &gt; UV can now [generate a sample project](https://docs.astral.sh/uv/guides/projects/#creating-a-new-project)   &gt; I recommend using **UV** to bootstrap your peojec
 - [kurtmckee/feedparser](https://github.com/kurtmckee/feedparser) - Parse feeds in Python
-- [sudoAlireza/GeminiBot](https://github.com/sudoAlireza/GeminiBot) - TelegramBot Tool to Interact with Google's Gemini AI Chatbot
+- [sudoAlireza/AnyAIChat](https://github.com/sudoAlireza/AnyAIChat) - TelegramBot Tool to Interact with Google's Gemini AI Chatbot
 - [Soebb/persian-tts-bot](https://github.com/Soebb/persian-tts-bot) - Persian ASR, farsi text to speech telegram bot.
 - [kastaid/pytel](https://github.com/kastaid/pytel) - PYTEL-Premium ( Multi Client )
 - [licksylick/AutoTrackAnything](https://github.com/licksylick/AutoTrackAnything) - AutoTrackAnything is a universal, flexible and interactive tool for insane automatic object tracking over thousands of frames. It is developed upon XMem, Yolov8 and MobileSAM (Segment Anything), can t
@@ -1866,7 +1866,7 @@
 - [baradhiren/libgen_telegram_bot](https://github.com/baradhiren/libgen_telegram_bot) - Create your own telegram bot to download books from libgen
 - [jmcarp/robobrowser](https://github.com/jmcarp/robobrowser) - 
 - [lorien/grab](https://github.com/lorien/grab) - Web Scraping Framework
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources.
 - [slashmili/django_jalali](https://github.com/slashmili/django_jalali) - Jalali DateField support for Django model
 - [slashmili/jdatetime](https://github.com/slashmili/jdatetime) - Jalali calendar binding for Python based on Python's datetime module
 - [expectocode/telegram-export](https://github.com/expectocode/telegram-export) - Export Telegram chat data and history
