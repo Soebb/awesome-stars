@@ -1050,7 +1050,7 @@
 - [moehmeni/audiowave](https://github.com/moehmeni/audiowave) - Generate a waveform image from an audio
 - [gnai/Audio-Chunking-Tool](https://github.com/gnai/Audio-Chunking-Tool) - An audio tool using pydubs library with python to chunk your audio content into your desired length, and parameters to tune.
 - [jcavalin/earll_bot](https://github.com/jcavalin/earll_bot) - Earll is a telegram bot that helps you with some kinds of messages.
-- [0xdolan/pyroj](https://github.com/0xdolan/pyroj) - Converting Gregorian and Solar dates to Kurdish date
+- [0xdolan/pyroj](https://github.com/0xdolan/pyroj) - Kurdish solar calendar and conversions (Gregorian, Persian/Jalali, tabular Islamic) using the Python standard library only.
 - [0xdolan/Subtitle-Fixer](https://github.com/0xdolan/Subtitle-Fixer) - The Subtitle Fixer is a simple tool that helps you fix subtitles in Kurdish (ckb), Persian, and Arabic
 - [Bricio/ChatToSub](https://github.com/Bricio/ChatToSub) - Convert Extracted Chat From YT Into Subtitle (.srt)
 - [donno2048/link2mp4](https://github.com/donno2048/link2mp4) - Download videos as MP4 files
