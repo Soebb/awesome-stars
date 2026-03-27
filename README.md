@@ -1699,7 +1699,6 @@
 - [tyalie/telegram-video-download-bot](https://github.com/tyalie/telegram-video-download-bot) - Youtube DLP based telegram bot to download videos from diverse sides
 - [Student2506/telegram_speech_bot](https://github.com/Student2506/telegram_speech_bot) - 
 - [venomsnake/Gdrive_Search_BoT](https://github.com/venomsnake/Gdrive_Search_BoT) - G-drive Search Bot that can be deployed on Github workflow.
-- [mohamedeid5/Algorithms](https://github.com/mohamedeid5/Algorithms) - 
 - [hhalaby/web-crawling-automation](https://github.com/hhalaby/web-crawling-automation) - Educational example codes for web crawling and web monitoring
 - [Lonami/autoit](https://github.com/Lonami/autoit) - Automate it with Python
 - [TechiError/TG-searcherBot](https://github.com/TechiError/TG-searcherBot) - Search any channel/chat from keyword.
