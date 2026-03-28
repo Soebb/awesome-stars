@@ -2601,7 +2601,7 @@
 - [jontewks/heroku-buildpack-puppeteer-firefox](https://github.com/jontewks/heroku-buildpack-puppeteer-firefox) - 
 - [hahwul/heroku-buildpack-firefox](https://github.com/hahwul/heroku-buildpack-firefox) - Heroku buildpack for Firefox with geckodriver
 - [evosystem-jp/heroku-buildpack-firefox](https://github.com/evosystem-jp/heroku-buildpack-firefox) - Heroku buildpack for Firefox with geckodriver
-- [pyronlaboratory/heroku-integrated-firefox-geckodriver](https://github.com/pyronlaboratory/heroku-integrated-firefox-geckodriver) - Buildpack enables your client code to access Firefox along with Geckodriver in a Heroku slug.
+- [pyronlaboratory/heroku-integrated-firefox-geckodriver](https://github.com/pyronlaboratory/heroku-integrated-firefox-geckodriver) - Heroku buildpack that enables your client code to access Firefox along with Geckodriver.
 - [buitron/geckodriver-buildpack](https://github.com/buitron/geckodriver-buildpack) - Heroku geckodriver buildpack for Selenium use with Firefox
 - [yegor256/firefox-buildpack](https://github.com/yegor256/firefox-buildpack) - Heroku buildpack for Firefox 68.0.2
 - [heroku/heroku-buildpack-chromedriver](https://github.com/heroku/heroku-buildpack-chromedriver) - [DEPRECATED] Use https://github.com/heroku/heroku-buildpack-chrome-for-testing instead.
