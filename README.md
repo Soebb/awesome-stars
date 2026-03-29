@@ -92,14 +92,14 @@
 - [0xdolan/roj_dictionary](https://github.com/0xdolan/roj_dictionary) - Roj Dictionary (English - Kurdish)
 - [P-Konstantin/Image_slider](https://github.com/P-Konstantin/Image_slider) - HTML, CSS, JavaScript project
 - [Crazy-Marvin/YouTubeStatsTelegramBot](https://github.com/Crazy-Marvin/YouTubeStatsTelegramBot) - Receive updates of YouTube videos
-- [Itz-fork/Redirect-to-Heroku](https://github.com/Itz-fork/Redirect-to-Heroku) - Get Deploy to Heroku Link with your repo!
+- [partiallywritten/Redirect-to-Heroku](https://github.com/partiallywritten/Redirect-to-Heroku) - Get Deploy to Heroku Link with your repo!
 - [hextract/FilmFinder](https://github.com/hextract/FilmFinder) - 
 
 ## Dart 
 
 - [code3-dev/CCloud-GUI](https://github.com/code3-dev/CCloud-GUI) - A modern, free, and unlimited Iranian Persian streaming platform.
 - [Begzar/BegzarApp](https://github.com/Begzar/BegzarApp) - Begzar, is a free software for internet freedom.
-- [Itz-fork/Bypasser-CLI](https://github.com/Itz-fork/Bypasser-CLI) - CLI for bypass.vip api
+- [partiallywritten/Bypasser-CLI](https://github.com/partiallywritten/Bypasser-CLI) - CLI for bypass.vip api
 - [DinoLeung/TeleDart](https://github.com/DinoLeung/TeleDart) - A Dart library interfacing with the latest Telegram Bot API.
 
 ## Dockerfile 
@@ -108,7 +108,7 @@
 - [hmahdiany/dind](https://github.com/hmahdiany/dind) - An image for Docker in Docker use cases
 - [venkateswarluvajrala/docker-exercises](https://github.com/venkateswarluvajrala/docker-exercises) - This Repository offers tasks to test and enhance expertise in creating optimized Docker images and containers
 - [ITZ-ZAID/Doprax](https://github.com/ITZ-ZAID/Doprax) - 
-- [Itz-fork/X-Bin-Patch](https://github.com/Itz-fork/X-Bin-Patch) - Method to deploy Mega.nz-Bot to Heroku
+- [partiallywritten/X-Bin-Patch](https://github.com/partiallywritten/X-Bin-Patch) - Method to deploy Mega.nz-Bot to Heroku
 - [Divkix/docker-telegram-bot-api](https://github.com/Divkix/docker-telegram-bot-api) - Auto build repository for 🐳 docker image of telegram-bot-api using Github Actions
 - [gautamajay52/heroku-stack-container-repo](https://github.com/gautamajay52/heroku-stack-container-repo) - After deploying this repo your Heroku app will have stack as container. After that you just have to deploy your own original app.
 - [samadii/ubuntu-desktop-on-heroku](https://github.com/samadii/ubuntu-desktop-on-heroku) - A Heroku install of Ubuntu 20.10 (Groovy Gorilla), with the XFCE desktop environment and VNC
@@ -443,7 +443,7 @@
 - [jainamoswal/GitMojis](https://github.com/jainamoswal/GitMojis) - A place where you can find all emojis provided by GitHub.com
 - [nuhmanpk/The-Repo](https://github.com/nuhmanpk/The-Repo) - All Repository from BugHunterBots
 - [nuhmanpk/Simple-Telegram-Bots](https://github.com/nuhmanpk/Simple-Telegram-Bots) - Simple Telegram bots using Pyrogram, Getting so many Requests regarding building Bot in Telegram, so I Decided to Create a Code Incubation.  Code Incubator will help You make a Bot Yourself and unders
-- [Itz-fork/My-Python-Libs](https://github.com/Itz-fork/My-Python-Libs) - List of Python Libraries made by me
+- [partiallywritten/My-Python-Libs](https://github.com/partiallywritten/My-Python-Libs) - List of Python Libraries made by me
 - [cassidoo/scrapers](https://github.com/cassidoo/scrapers) - A list of scrapers from around the web.
 - [RajatVarshney18/Movie_Describer](https://github.com/RajatVarshney18/Movie_Describer) - Its a basic PWA single page web application which searches for a movie using the OMDb API call and gives all the info related to that movie such as genre, release date, producer name etc.
 - [TelegramPlayground/Free-Movie-Series-DB-API](https://github.com/TelegramPlayground/Free-Movie-Series-DB-API) - FREE UnOfficial Movie / Series Search API, without APIKeys
@@ -1195,7 +1195,7 @@
 - [zackees/vids-db](https://github.com/zackees/vids-db) - 
 - [xgorn/Spotify-Loader](https://github.com/xgorn/Spotify-Loader) - Telegram bot download spotify playlist/artist/album/track music
 - [jusidama18/Gist-Telegram-Bot](https://github.com/jusidama18/Gist-Telegram-Bot) - 
-- [Itz-fork/Nexa-API](https://github.com/Itz-fork/Nexa-API) - Simple, Free and Easy to use Public api
+- [partiallywritten/Nexa-API](https://github.com/partiallywritten/Nexa-API) - Simple, Free and Easy to use Public api
 - [nodiscc/github-stars-backup](https://github.com/nodiscc/github-stars-backup) - [mirror] Backup a list of github starred repositories for the specified user.
 - [ErfanPY/aparatPlayListDownloader](https://github.com/ErfanPY/aparatPlayListDownloader) - دانلود ویدئو های پلی لیست آپارات
 - [dozheiny/alaatvDownloader](https://github.com/dozheiny/alaatvDownloader) - this program will download your allatv playlist you choose .
@@ -1960,7 +1960,7 @@
 - [fayasnoushad/Image-Search-Bot](https://github.com/fayasnoushad/Image-Search-Bot) - An image inline search telegram bot.
 - [fayasnoushad/youtube-search-bot](https://github.com/fayasnoushad/youtube-search-bot) - A youtube search telegram bot.
 - [AlbertEinsteinTG/Adv-Auto-Filter-Bot-V2](https://github.com/AlbertEinsteinTG/Adv-Auto-Filter-Bot-V2) - 
-- [Itz-fork/Yui](https://github.com/Itz-fork/Yui) - Simple Telegram AI Chat bot made using OpenAI and Luna API
+- [partiallywritten/Yui](https://github.com/partiallywritten/Yui) - Simple Telegram AI Chat bot made using OpenAI and Luna API
 - [watson-developer-cloud/python-sdk](https://github.com/watson-developer-cloud/python-sdk) - :snake: Client library to use the IBM Watson services in Python and available in pip as watson-developer-cloud
 - [rz-k/Duplicate-Finder](https://github.com/rz-k/Duplicate-Finder) - With this tool you can find duplicate words in lines of a text file and display the number of duplicates. And cleans them if needed.
 - [Zylern/TGVid-Comp](https://github.com/Zylern/TGVid-Comp) - Video Encoder Telegram Bot Based On FFMPEG Can Generate Sample Videos Too!
@@ -2023,7 +2023,7 @@
 - [EL-Coders/CopyBot](https://github.com/EL-Coders/CopyBot) - 
 - [M-fazin/Lyrics-Search-Bot](https://github.com/M-fazin/Lyrics-Search-Bot) - A Telegram Bot That Can Find Lyrics Of Song
 - [AJBotVerse/RequestTrackerBot](https://github.com/AJBotVerse/RequestTrackerBot) - This is RequestTrackerBot and it used for tracking request made by user in a group
-- [Itz-fork/Gitfetch](https://github.com/Itz-fork/Gitfetch) - Gitfetch is a simple tool to get github user details
+- [partiallywritten/Gitfetch](https://github.com/partiallywritten/Gitfetch) - Gitfetch is a simple tool to get github user details
 - [viperadnan-git/video-encoder-bot](https://github.com/viperadnan-git/video-encoder-bot) - A Telegram bot to encode videos files via ffmpeg.
 - [lepisma/pipwin](https://github.com/lepisma/pipwin) - Install compiled python libraries for windows provided by Christoph Gohlke
 - [Ns-AnoNymouS/TG-CONVERT-BOT](https://github.com/Ns-AnoNymouS/TG-CONVERT-BOT) - You can convert file to video or video to file
@@ -2215,7 +2215,7 @@
 - [AnjanaMadu/PyInsideTG](https://github.com/AnjanaMadu/PyInsideTG) - A simple bot to evaluate python codes and bash commands inside telegram.
 - [lntechnical2/webscrap-bot](https://github.com/lntechnical2/webscrap-bot) - Simple Telegram webscrap bot
 - [ShivangKakkar/ForceSubscribeBot](https://github.com/ShivangKakkar/ForceSubscribeBot) - 
-- [Itz-fork/Unzipper-Bot](https://github.com/Itz-fork/Unzipper-Bot) - Simple Telegram Bot to extract various types of archives from a telegram file or a direct link
+- [partiallywritten/Unzipper-Bot](https://github.com/partiallywritten/Unzipper-Bot) - Simple Telegram Bot to extract various types of archives from a telegram file or a direct link
 - [coder-pig/VideoSubtitleExtractTool](https://github.com/coder-pig/VideoSubtitleExtractTool) - 视频字幕提取工具
 - [hamsolo474/VideoSubFinder_ocr_path](https://github.com/hamsolo474/VideoSubFinder_ocr_path) - 
 - [AnjanaMadu/TGForward](https://github.com/AnjanaMadu/TGForward) - A script to forward mass number of media to another group/channel. Heroku deploy
@@ -2288,7 +2288,7 @@
 - [samadii/MusicEditorBot](https://github.com/samadii/MusicEditorBot) - A Telegram bot to change the music tags and artwork.
 - [usernein/pyromod](https://github.com/usernein/pyromod) - A monkeypatcher add-on for Pyrogram
 - [fayasnoushad/gofile-bot](https://github.com/fayasnoushad/gofile-bot) - A telegram media to gofile bot
-- [Itz-fork/Gofile2](https://github.com/Itz-fork/Gofile2) - An API Wrapper for Gofile API
+- [partiallywritten/Gofile2](https://github.com/partiallywritten/Gofile2) - An API Wrapper for Gofile API
 - [michaelb/auto-ytdl](https://github.com/michaelb/auto-ytdl) - Yet another youtube-dl wrapper, but auto-ytdl can automate your new music downloads better than ever
 - [nuhmanpk/pyDF-Bot](https://github.com/nuhmanpk/pyDF-Bot) - Pydf - Pyrogram Document File Bot, a modular Telegram Bot which provides Pdf Tools Works using Pypdf2
 - [shamilhabeebnelli/song-bot](https://github.com/shamilhabeebnelli/song-bot) - You can download youtube songs to MP3 from telegram #musics
@@ -2314,7 +2314,7 @@
 - [nuhmanpk/YouTube-TagFind-Bot](https://github.com/nuhmanpk/YouTube-TagFind-Bot) - A Telegram Bot to return Youtube Video Tags Using YoutubeTags API
 - [Ts-Bots/BotStatus-Ts-Bot](https://github.com/Ts-Bots/BotStatus-Ts-Bot) - A telegram bot which can show you the status of telegram bot
 - [nuhmanpk/YoutubeTags](https://github.com/nuhmanpk/YoutubeTags) - YouTube SEO tool for extracting video tags without the need for the official YouTube API
-- [Itz-fork/py-trans](https://github.com/Itz-fork/py-trans) - Text translation library with wrappers for Google Translate, My memory and more...
+- [partiallywritten/py-trans](https://github.com/partiallywritten/py-trans) - Text translation library with wrappers for Google Translate, My memory and more...
 - [Naviya2/LeoMediaSearchBot](https://github.com/Naviya2/LeoMediaSearchBot) - A Simple Inline Media Search Bot
 - [rudranag/Truecaller-Smsbomber_telegram_bot](https://github.com/rudranag/Truecaller-Smsbomber_telegram_bot) - Telegram bot which has truecaller and smsbomber features
 - [subinps/Image-Editor](https://github.com/subinps/Image-Editor) - A Telegram Image Editor Bot with Many features and Options.
@@ -2398,8 +2398,8 @@
 - [haruhi-dl/haruhi-dl](https://github.com/haruhi-dl/haruhi-dl) - Online video downloader CLI tool/Python library. Mirror of the GitLab repository.
 - [mr-sharmaji/download_video_online](https://github.com/mr-sharmaji/download_video_online) - 
 - [hacker-h/youtube-telegram-downloader](https://github.com/hacker-h/youtube-telegram-downloader) - A Telegram bot which automatically downloads videos or streams, extracts the audiotrack and saves it to your (online) storage backend.
-- [Itz-fork/Nexa-Userbot](https://github.com/Itz-fork/Nexa-Userbot) - Nexa Userbot - Dev Version
-- [Itz-fork/py-extract](https://github.com/Itz-fork/py-extract) - A simple, light-weight python library to handle some extraction tasks using less lines of code.
+- [partiallywritten/Nexa-Userbot](https://github.com/partiallywritten/Nexa-Userbot) - Nexa Userbot - Dev Version
+- [partiallywritten/py-extract](https://github.com/partiallywritten/py-extract) - A simple, light-weight python library to handle some extraction tasks using less lines of code.
 - [ram-jayapalan/filesplit](https://github.com/ram-jayapalan/filesplit) - A python module to split file into multiple chunks based on the given size.
 - [rykovv/devotional-telegram-bot](https://github.com/rykovv/devotional-telegram-bot) - Telegram subscription bot, whose mission is sending devotionals and spiritual readings at user-determined time. Now running quizzes!
 - [rykovv/yt-pl-url-exractor](https://github.com/rykovv/yt-pl-url-exractor) - Script for extracting individual video metadata (e.g. URL, title) from YouTube playlists
@@ -2432,9 +2432,9 @@
 - [erfan4lx/Telegram-Channel-Posts-Counter](https://github.com/erfan4lx/Telegram-Channel-Posts-Counter) - Count the posts on your target Telegram channel
 - [rafpyprog/ImageSoup](https://github.com/rafpyprog/ImageSoup) - Python library designed for quick search and downloading images from Google Images.
 - [banhao/scrape-youtube-channel-videos-url](https://github.com/banhao/scrape-youtube-channel-videos-url) - This Python script is used to scrape all the video links from a youtube channel.
-- [Itz-fork/pyro-mega.py](https://github.com/Itz-fork/pyro-mega.py) - Modified Version of mega.py package for Pyrogram Bots
-- [Itz-fork/Callsmusic-Plus](https://github.com/Itz-fork/Callsmusic-Plus) - Powerful Telegram Voice Chat Player Bot Based On CallsMusic With More Advanced Features!
-- [Itz-fork/Mega.nz-Bot](https://github.com/Itz-fork/Mega.nz-Bot) - Simple Telegram Bot to Download and Upload Files From Mega.nz
+- [partiallywritten/pyro-mega.py](https://github.com/partiallywritten/pyro-mega.py) - Modified Version of mega.py package for Pyrogram Bots
+- [partiallywritten/Callsmusic-Plus](https://github.com/partiallywritten/Callsmusic-Plus) - Powerful Telegram Voice Chat Player Bot Based On CallsMusic With More Advanced Features!
+- [partiallywritten/Mega.nz-Bot](https://github.com/partiallywritten/Mega.nz-Bot) - Simple Telegram Bot to Download and Upload Files From Mega.nz
 - [VideoMasters/VideoDownloaderBot](https://github.com/VideoMasters/VideoDownloaderBot) - Download videos using this telegram bot
 - [fayasnoushad/youtube-thumbnail-downloader](https://github.com/fayasnoushad/youtube-thumbnail-downloader) - A youtube videos thumbnail downloader telegram bot.
 - [fayasnoushad/pypi-bot](https://github.com/fayasnoushad/pypi-bot) - A pypi packages finder telegram bot.
