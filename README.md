@@ -925,7 +925,6 @@
 - [Anjok07/ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui) - GUI for a Vocal Remover that uses Deep Neural Networks.
 - [samim23/polymath](https://github.com/samim23/polymath) - Convert any music library into a music production sample-library with ML
 - [bmcfee/pyrubberband](https://github.com/bmcfee/pyrubberband) - python wrapper for rubberband
-- [KurtBestor/Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - :cake: Desktop utility to download images/videos/music/text from various websites, and more.
 - [Omrani-Sina/VoiceGenerator](https://github.com/Omrani-Sina/VoiceGenerator) - Voice Generator
 - [Omrani-Sina/VoiceGenerator-Persian](https://github.com/Omrani-Sina/VoiceGenerator-Persian) - Voice Generator Persian
 - [0xdolan/wordcloud-for-kurdish-poems](https://github.com/0xdolan/wordcloud-for-kurdish-poems) - Word-cloud for Kurdish Poems
