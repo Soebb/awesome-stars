@@ -1862,7 +1862,7 @@
 - [baradhiren/libgen_telegram_bot](https://github.com/baradhiren/libgen_telegram_bot) - Create your own telegram bot to download books from libgen
 - [jmcarp/robobrowser](https://github.com/jmcarp/robobrowser) - 
 - [lorien/grab](https://github.com/lorien/grab) - Web Scraping Framework
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources.
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources
 - [slashmili/django_jalali](https://github.com/slashmili/django_jalali) - Jalali DateField support for Django model
 - [slashmili/jdatetime](https://github.com/slashmili/jdatetime) - Jalali calendar binding for Python based on Python's datetime module
 - [expectocode/telegram-export](https://github.com/expectocode/telegram-export) - Export Telegram chat data and history
@@ -2245,7 +2245,7 @@
 - [Techcatchers/PyLyrics-Extractor](https://github.com/Techcatchers/PyLyrics-Extractor) - Get Lyrics for any songs by just passing in the song name (spelled or misspelled) in less than 2 seconds using this awesome Python Library.
 - [TeamUltroid/UltroidAddons](https://github.com/TeamUltroid/UltroidAddons) - Plugins repository. Read the readme for more!
 - [GitBib/pyasstosrt](https://github.com/GitBib/pyasstosrt) - Convert ASS subtitle to SRT format
-- [maxime1907/srt2ass](https://github.com/maxime1907/srt2ass) - Srt to ass
+- [maximee-leroyy/srt2ass](https://github.com/maximee-leroyy/srt2ass) - Srt to ass
 - [azamaulanaaa/botkaca](https://github.com/azamaulanaaa/botkaca) - Bot that leech (re-upload) internet contents including torrent to telegram
 - [subinps/Forward_2.0](https://github.com/subinps/Forward_2.0) - A simple telegram bot to forward files from one channel to other.
 - [muhammedfurkan/pinterest_downloader_telegram](https://github.com/muhammedfurkan/pinterest_downloader_telegram) - Telegram bot download ability video and image from Pinterest
