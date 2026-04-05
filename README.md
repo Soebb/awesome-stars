@@ -1528,7 +1528,7 @@
 - [aliva/SubtitleFixer](https://github.com/aliva/SubtitleFixer) - fixes persian subtitles encoding
 - [Erfaniaa/persian-digits-recognition](https://github.com/Erfaniaa/persian-digits-recognition) - Identification of Farsi (Arabic) Scanned Handwritten Digits
 - [hadi-gharibi/irholiday](https://github.com/hadi-gharibi/irholiday) - Time.ir data extractor for python
-- [rajabzz/digikala-crawler](https://github.com/rajabzz/digikala-crawler) - 🕷️ A crawler to collect comments and product information on digikala.com
+- [sshinoobi/digikala-crawler](https://github.com/sshinoobi/digikala-crawler) - 🕷️ A crawler to collect comments and product information on digikala.com
 - [htaghizadeh/PersianStemmer-Python](https://github.com/htaghizadeh/PersianStemmer-Python) - PersianStemmer-Python
 - [szbots/Image-Tool](https://github.com/szbots/Image-Tool) - Image Tooᥣs Bot I specialize for logo design  Services with Amazing logo  Creator Platform and  more tools
 - [Crazy-Marvin/QRTelegramBot](https://github.com/Crazy-Marvin/QRTelegramBot) - A bot for Telegram that can create and read QR codes
