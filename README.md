@@ -1651,7 +1651,7 @@
 - [SpEcHiDe/MyTelegramOrgRoBot](https://github.com/SpEcHiDe/MyTelegramOrgRoBot) - 
 - [ZauteKm/URL-Uploader](https://github.com/ZauteKm/URL-Uploader) - 
 - [samadii/YT-Channel-DL](https://github.com/samadii/YT-Channel-DL) - A Telegram bot to download youtube channel contents and upload them to telegram. Heroku deployable
-- [jxmorris12/language_tool_python](https://github.com/jxmorris12/language_tool_python) - a free python grammar checker 📝✅
+- [jxmorris12/language_tool_python](https://github.com/jxmorris12/language_tool_python) - a free, non-AI python grammar checker 📝✅
 - [GopalSaraf/TorrentLeechBot](https://github.com/GopalSaraf/TorrentLeechBot) - A powerful telegram mirror bot..
 - [xHossein/radiojavanapi](https://github.com/xHossein/radiojavanapi) - Fast and effective Radio Javan API wrapper
 - [xHossein/PyPasser](https://github.com/xHossein/PyPasser) - Bypassing reCaptcha V3 by sending HTTP requests & solving reCaptcha V2 using speech to text engine.
