@@ -615,7 +615,7 @@
 - [sns-sdks/python-youtube](https://github.com/sns-sdks/python-youtube) - A simple Python wrapper for YouTube Data API :sparkles: :cake: :sparkles: .
 - [k2-fsa/icefall](https://github.com/k2-fsa/icefall) - 
 - [kcarnold/fixwav](https://github.com/kcarnold/fixwav) - Quick utility to fix WAV files with incorrect lengths
-- [livingbio/typed-ffmpeg](https://github.com/livingbio/typed-ffmpeg) - Python FFmpeg wrappers support filters with typing and docs
+- [livingbio/typed-ffmpeg](https://github.com/livingbio/typed-ffmpeg) - Type-safe FFmpeg bindings for Python & TypeScript — filters, typing, and docs
 - [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3) - Offline Text To Speech synthesis for python
 - [mborsetti/webchanges](https://github.com/mborsetti/webchanges) - webchanges anonymously checks web content (including images) and commands for changes, delivering instant notifications and AI-powered summaries to your favorite platform.
 - [DeeepMaker/subtitle-to-audio](https://github.com/DeeepMaker/subtitle-to-audio) - A python script to generate .wav audio files for .srt subtitle files
