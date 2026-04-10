@@ -1057,6 +1057,8 @@
 - [Py-Contributors/awesomeScripts](https://github.com/Py-Contributors/awesomeScripts) - A Collection of Awesome Scripts in Python to Ease Daily-Life. Create an issue If you have some great ideas for the new script. Leave a :star:
 - [ChocolateApp/Chocolate](https://github.com/ChocolateApp/Chocolate) - The future of media manager
 - [BashirAljounaidy/ytd-bot](https://github.com/BashirAljounaidy/ytd-bot) - 
+- [MossabDiae/Subtitles-Renamer](https://github.com/MossabDiae/Subtitles-Renamer) - Renames Subtitles to match the videos naming pattern.
+- [MossabDiae/instaReelPy](https://github.com/MossabDiae/instaReelPy) - Generating Instagram reels from image frames and video cuts.
 - [musikalkemist/prophet](https://github.com/musikalkemist/prophet) - 
 - [eight04/pip-outdated](https://github.com/eight04/pip-outdated) - Find outdated dependencies in your requirements.txt or setup.cfg file. Report missing/outdated/incompatible packages with table and colors.
 - [ToshY/mkvexport](https://github.com/ToshY/mkvexport) - A command-line utility for extracting attachments (subtitles, fonts and chapters) of MKV files.
