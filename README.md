@@ -310,7 +310,7 @@
 - [TheCaduceus/WARP-UNLIMITED-ADVANCED](https://github.com/TheCaduceus/WARP-UNLIMITED-ADVANCED) - Get unlimited amount of data in Cloudflare's WARP VPN🔥
 - [larymak/Python-project-Scripts](https://github.com/larymak/Python-project-Scripts) - This repositories contains a list of python scripts projects from beginner level advancing slowly. More code snippets to be added soon. feel free to clone this repo
 - [egaraev/robocar](https://github.com/egaraev/robocar) - Repo for robotic car
-- [San-B-09/Speech-Recognition](https://github.com/San-B-09/Speech-Recognition) - This repository contains python code to convert audio to text. This system is codded using API as well as without using API.
+- [sanket0x/Speech-Recognition](https://github.com/sanket0x/Speech-Recognition) - This repository contains python code to convert audio to text. This system is codded using API as well as without using API.
 - [abbycabs/Tutorial-train-dutch-model](https://github.com/abbycabs/Tutorial-train-dutch-model) - Using Mozilla's DeepSpeech and Common Voice to train a Dutch speech-to-text model.
 - [MhmdFneish/similar-images](https://github.com/MhmdFneish/similar-images) - Similar images using python and tensorflow
 - [Jessica0008/Object-Detection-Telegram-Bot](https://github.com/Jessica0008/Object-Detection-Telegram-Bot) - Telegram Bot that detects cars and road defects on uploaded images
@@ -1149,7 +1149,7 @@
 - [Khodnevis-Research-Lab/khoshnevis](https://github.com/Khodnevis-Research-Lab/khoshnevis) - Khodnevis Normalizer: A Python library for Persian text preprocessing.
 - [NajmeHabibi/Context-aware-Persian-Spell-Checker-for-OCR-post-processing](https://github.com/NajmeHabibi/Context-aware-Persian-Spell-Checker-for-OCR-post-processing) - 
 - [dolph/dictionary](https://github.com/dolph/dictionary) - A list of the most popular English words.
-- [wkentaro/gdown](https://github.com/wkentaro/gdown) - Google Drive Public File Downloader when Curl/Wget Fails
+- [wkentaro/gdown](https://github.com/wkentaro/gdown) - Google Drive public file downloader when curl/wget fails.
 - [amirhoseinsb/musicfinder](https://github.com/amirhoseinsb/musicfinder) - A script to find and download music fast
 - [UNICT-Fake-Audio/fake-audio-detector](https://github.com/UNICT-Fake-Audio/fake-audio-detector) - Simple synthetic audio feature extractor
 - [Coolshanlan/HighlightTranslator](https://github.com/Coolshanlan/HighlightTranslator) - Highlight Translator can help you to translate the words quickly and accurately. By only highlighting, copying, or screenshoting the content you want to translate anywhere on your computer (ex. PDF, P
@@ -1551,7 +1551,7 @@
 - [Zlopez/telegram_upload_bot](https://github.com/Zlopez/telegram_upload_bot) - Simple telegram bot to upload files to chats
 - [mechnicov/colorizer-bot](https://github.com/mechnicov/colorizer-bot) - Photo colorizer bot
 - [mechnicov/sex-photo-classifier-bot](https://github.com/mechnicov/sex-photo-classifier-bot) - Telegram bot for sex recognition by photo
-- [San-B-09/Telegram-Bot-Base](https://github.com/San-B-09/Telegram-Bot-Base) - This repo contains code for building a base telegram bot. Furthermore, on top of the base bot, you can add your own customization accordingly.
+- [sanket0x/Telegram-Bot-Base](https://github.com/sanket0x/Telegram-Bot-Base) - This repo contains code for building a base telegram bot. Furthermore, on top of the base bot, you can add your own customization accordingly.
 - [New-dev0/Bing-ChatBot](https://github.com/New-dev0/Bing-ChatBot) - Chat bot based on Bing web ai bot.
 - [ksra7900/instagram_followers_scraping](https://github.com/ksra7900/instagram_followers_scraping) - This project is to extract the followers of an Instagram page
 - [AstroBolo/Xplore](https://github.com/AstroBolo/Xplore) - a python based web browser
