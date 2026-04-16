@@ -2179,7 +2179,7 @@
 - [SpaceLabLTD/session-conv-bot](https://github.com/SpaceLabLTD/session-conv-bot) - A Telegram bot which can convert string session.  Currently supports telethon and pyrogram.
 - [abhint/QRCode-Telegram-bot](https://github.com/abhint/QRCode-Telegram-bot) - This is a simple bot. You generate QRcode with this bot
 - [abhint/TelegramFilestoCloud](https://github.com/abhint/TelegramFilestoCloud) - This bot uploads telegram files to a third-party server. Usage: Send any file or bot. Then select the third-party Cloud you want to upload to.
-- [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) - A Telegram RSS bot that cares about your reading experience
+- [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) - A Telegram RSS bot that cares about your reading experience (calling for new maintainers: https://github.com/Rongronggg9/RSS-to-Telegram-Bot/issues/747)
 - [nuhmanpk/HandWriting-Bot](https://github.com/nuhmanpk/HandWriting-Bot) - Telegram Bot to convert text to Handwriting using pywhatkit.
 - [agentnova/SubtitleTranslator-Bot](https://github.com/agentnova/SubtitleTranslator-Bot) - Tg bot to translate subtitle files
 - [RashiKhannamb2/MirrorBot2-and-Leech](https://github.com/RashiKhannamb2/MirrorBot2-and-Leech) - 
