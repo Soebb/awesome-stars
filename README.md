@@ -127,6 +127,7 @@
 - [v2fly/v2ray-core](https://github.com/v2fly/v2ray-core) - A platform for building proxies to bypass network restrictions.
 - [bergkvist/includeimage](https://github.com/bergkvist/includeimage) - Dockerfile syntax extension for combining multiple Docker images into one. (INCLUDE &lt;image&gt;)
 - [warpdl/warpdl](https://github.com/warpdl/warpdl) - A powerful and versatile cross-platform download manager.
+- [meanii/downly](https://github.com/meanii/downly) - downly is a simple telegram bot that can download files from the internet and upload them to telegram.
 - [tgdrive/teldrive](https://github.com/tgdrive/teldrive) - Teldrive
 - [EverythingSuckz/github-telegram-notify](https://github.com/EverythingSuckz/github-telegram-notify) - Actions that sends commit updates of a repository to any chat in Telegram
 - [utkusen/wholeaked](https://github.com/utkusen/wholeaked) - a file-sharing tool that allows you to find the responsible person in case of a leakage
@@ -706,7 +707,6 @@
 - [svex99/quick-zip-bot](https://github.com/svex99/quick-zip-bot) - Minimalist Telegram bot to zip files.
 - [sieve-community/examples](https://github.com/sieve-community/examples) - The code for some apps built with Sieve.
 - [meanii/Search4](https://github.com/meanii/Search4) - Search people on the Internet.
-- [meanii/downly](https://github.com/meanii/downly) - downly is a simple telegram bot that can download files from the internet and upload them to telegram.
 - [hezarai/hezar](https://github.com/hezarai/hezar) - The all-in-one AI library for Persian, supporting a wide variety of tasks and modalities!
 - [MatteoH2O1999/python_code_extractor](https://github.com/MatteoH2O1999/python_code_extractor) - Python package to extract source code from live object
 - [bnsantoso/sub-to-audio](https://github.com/bnsantoso/sub-to-audio) - Subtitle to audio, generate audio from any subtitle file using Coqui-ai TTS and synchronize the audio timing according to subtitle time.
