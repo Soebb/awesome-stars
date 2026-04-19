@@ -530,7 +530,7 @@
 - [ruzhila/voiceapi](https://github.com/ruzhila/voiceapi) - Streaming ASR and TTS  based on FastAPI+ sherpa-onnx
 - [jdepoix/youtube-transcript-api](https://github.com/jdepoix/youtube-transcript-api) - This is a python API which allows you to get the transcript/subtitles for a given YouTube video. It also works for automatically generated subtitles and it does not require an API key nor a headless b
 - [JR3IS/Batch-Audio-Tagger](https://github.com/JR3IS/Batch-Audio-Tagger) - A python script to add metadata to multiple audio files at once using pytaglib.
-- [TelegramPlayground/pyrogram](https://github.com/TelegramPlayground/pyrogram) - PyroGram (https://github.com/pyrogram/pyrogram) FORK | Telegram MTProto API framework in Python for users and bots
+- [TelegramPlayground/PyroTGFork](https://github.com/TelegramPlayground/PyroTGFork) - PyroGram (https://github.com/pyrogram/pyrogram) FORK | Telegram MTProto API framework in Python for users and bots
 - [lunaticsm/catbox-uploader](https://github.com/lunaticsm/catbox-uploader) - Catbox Uploader is a simple Python library to upload files and URLs to Catbox.moe.
 - [supermihi/pytaglib](https://github.com/supermihi/pytaglib) - Python audio tagging library
 - [alvarobartt/python-package-template](https://github.com/alvarobartt/python-package-template) - 🎈 A Python package template using pyproject.toml, hatch, pre-commit, black, ruff, and mkdocs.
