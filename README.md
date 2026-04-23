@@ -560,7 +560,7 @@
 - [shibing624/parrots](https://github.com/shibing624/parrots) - Automatic Speech Recognition(ASR), Text-To-Speech(TTS) engine. 中英语音识别、多角色语音合成，支持多语言，准确率高
 - [TechShreyash/BetterTGStreamer](https://github.com/TechShreyash/BetterTGStreamer) - Transform video files into seamless M3U8 streams with Better TG Streamer! Supports multiple hosts, unlimited uploads, and features a robust bot, streaming API, and database integration.
 - [TechShreyash/TechZIndex](https://github.com/TechShreyash/TechZIndex) - Index Telegram Channel Over Internet
-- [KurimuzonAkuma/kurigram](https://github.com/KurimuzonAkuma/kurigram) - Elegant, modern and asynchronous Telegram MTProto API framework in Python for users and bots
+- [KurimuzonAkuma/kurigram](https://github.com/KurimuzonAkuma/kurigram) - A Pyrogram fork with lots of features (Gifts, Stories, Topics and more).
 - [KiLJ4EdeN/train-tesseract4-persian](https://github.com/KiLJ4EdeN/train-tesseract4-persian) - Train Tesseract 4 for persian
 - [HKPROJECTS/aiokoyeb](https://github.com/HKPROJECTS/aiokoyeb) - Python API client for Koyeb
 - [weebzone/Surf-TG](https://github.com/weebzone/Surf-TG) - Python Web App which Indexes a Your Telegram Channel and Serves its Files for Download and Stream.
@@ -616,7 +616,7 @@
 - [sns-sdks/python-youtube](https://github.com/sns-sdks/python-youtube) - A simple Python wrapper for YouTube Data API :sparkles: :cake: :sparkles: .
 - [k2-fsa/icefall](https://github.com/k2-fsa/icefall) - 
 - [kcarnold/fixwav](https://github.com/kcarnold/fixwav) - Quick utility to fix WAV files with incorrect lengths
-- [livingbio/typed-ffmpeg](https://github.com/livingbio/typed-ffmpeg) - Type-safe FFmpeg bindings for Python & TypeScript — filters, typing, and docs
+- [lucemia/typed-ffmpeg](https://github.com/lucemia/typed-ffmpeg) - Type-safe FFmpeg bindings for Python & TypeScript — filters, typing, and docs
 - [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3) - Offline Text To Speech synthesis for python
 - [mborsetti/webchanges](https://github.com/mborsetti/webchanges) - webchanges anonymously checks web content (including images) and commands for changes, delivering instant notifications and AI-powered summaries to your favorite platform.
 - [DeeepMaker/subtitle-to-audio](https://github.com/DeeepMaker/subtitle-to-audio) - A python script to generate .wav audio files for .srt subtitle files
@@ -1526,7 +1526,7 @@
 - [astronuttt/subscene-api](https://github.com/astronuttt/subscene-api) - A simple and unofficial API for subscene.com written in python.
 - [astronuttt/sufix](https://github.com/astronuttt/sufix) - a simple and fully functional subtitle fixer for persian subtitles!
 - [abtinmo/faker_bill](https://github.com/abtinmo/faker_bill) - Faker provider for bill.
-- [numb95/yaldasho-bot](https://github.com/numb95/yaldasho-bot) - A Telegram bot to attach a banner about Yalda on your avatar.
+- [a-goodarzi/yaldasho-bot](https://github.com/a-goodarzi/yaldasho-bot) - A Telegram bot to attach a banner about Yalda on your avatar.
 - [aliva/SubtitleFixer](https://github.com/aliva/SubtitleFixer) - fixes persian subtitles encoding
 - [Erfaniaa/persian-digits-recognition](https://github.com/Erfaniaa/persian-digits-recognition) - Identification of Farsi (Arabic) Scanned Handwritten Digits
 - [hadi-gharibi/irholiday](https://github.com/hadi-gharibi/irholiday) - Time.ir data extractor for python
