@@ -123,6 +123,7 @@
 
 ## Go 
 
+- [biisal/fast-stream-bot](https://github.com/biisal/fast-stream-bot) - A lightweight fast telegram file streaming bot in go
 - [asdfzxcvbn/TeleURLUploader](https://github.com/asdfzxcvbn/TeleURLUploader) - the most demure url uploader written in go
 - [v2fly/v2ray-core](https://github.com/v2fly/v2ray-core) - A platform for building proxies to bypass network restrictions.
 - [bergkvist/includeimage](https://github.com/bergkvist/includeimage) - Dockerfile syntax extension for combining multiple Docker images into one. (INCLUDE &lt;image&gt;)
@@ -157,6 +158,7 @@
 
 ## HTML 
 
+- [AnshumanPM/StreamSite](https://github.com/AnshumanPM/StreamSite) - Website which can stream videos directly on the browser.
 - [jalammar/jalammar.github.io](https://github.com/jalammar/jalammar.github.io) - Build a Jekyll blog in minutes, without touching the command line.
 - [FlagMotori/writeups](https://github.com/FlagMotori/writeups) - رایتاپ‌های تیم فلگ موتوری
 - [Gl0deanR/create-flask-app](https://github.com/Gl0deanR/create-flask-app) - 
@@ -502,6 +504,7 @@
 
 ## Python 
 
+- [cxyfer/GeminiASR](https://github.com/cxyfer/GeminiASR) - A Python tool that uses Google Gemini API to transcribe video or audio files into SRT subtitle files.
 - [patterniha/Serverless-for-Iran](https://github.com/patterniha/Serverless-for-Iran) - حداکثر تلاش برای استفاده از اینترنت آزاد و بدون محدودیت بدون استفاده از هیچ سروری
 - [tveronesi/imdbinfo](https://github.com/tveronesi/imdbinfo) - A Python package to fetch and manage IMDb movie information easily.
 - [Phr33d0m/subtitle-tools](https://github.com/Phr33d0m/subtitle-tools) - A collection of highly opinionated Python scripts for parallel processing video files, extracting subtitles, managing attachments, and performing OCR on hardcoded subtitles.
