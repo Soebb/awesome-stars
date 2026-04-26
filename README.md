@@ -504,6 +504,7 @@
 
 ## Python 
 
+- [timminator/Chrome-Lens-OCR](https://github.com/timminator/Chrome-Lens-OCR) - Library to use Google Lens OCR for free from the command line, via the API used in Chromium!
 - [cxyfer/GeminiASR](https://github.com/cxyfer/GeminiASR) - A Python tool that uses Google Gemini API to transcribe video or audio files into SRT subtitle files.
 - [patterniha/Serverless-for-Iran](https://github.com/patterniha/Serverless-for-Iran) - حداکثر تلاش برای استفاده از اینترنت آزاد و بدون محدودیت بدون استفاده از هیچ سروری
 - [tveronesi/imdbinfo](https://github.com/tveronesi/imdbinfo) - A Python package to fetch and manage IMDb movie information easily.
@@ -1869,7 +1870,7 @@
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources
 - [slashmili/django_jalali](https://github.com/slashmili/django_jalali) - Jalali DateField support for Django model
 - [slashmili/jdatetime](https://github.com/slashmili/jdatetime) - Jalali calendar binding for Python based on Python's datetime module
-- [expectocode/telegram-export](https://github.com/expectocode/telegram-export) - Export Telegram chat data and history
+- [tnjd/telegram-export](https://github.com/tnjd/telegram-export) - Export Telegram chat data and history
 - [Anorov/cloudflare-scrape](https://github.com/Anorov/cloudflare-scrape) - A Python module to bypass Cloudflare's anti-bot page.
 - [vasusen-code/VIDEOconvertor](https://github.com/vasusen-code/VIDEOconvertor) - A stable and Fast telegram video convertor bot which can encode into different libs and resolution, compress videos, convert video into audio and other video formats, rename with thumbnail support, ge
 - [rahulps1000/ForwardBot](https://github.com/rahulps1000/ForwardBot) - 
