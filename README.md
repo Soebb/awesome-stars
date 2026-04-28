@@ -45,6 +45,7 @@
 
 ## C 
 
+- [donno2048/clickpy](https://github.com/donno2048/clickpy) - A library to control mouse clicking
 - [Data-Oriented-House/PortableBuildTools](https://github.com/Data-Oriented-House/PortableBuildTools) - Portable VS Build Tools installer
 - [nicolas-van/multirun](https://github.com/nicolas-van/multirun) - A minimalist init process designed for Docker
 - [norihiro/alignaudio](https://github.com/norihiro/alignaudio) - a tool to align audio files
@@ -158,7 +159,6 @@
 
 ## HTML 
 
-- [AnshumanPM/StreamSite](https://github.com/AnshumanPM/StreamSite) - Website which can stream videos directly on the browser.
 - [jalammar/jalammar.github.io](https://github.com/jalammar/jalammar.github.io) - Build a Jekyll blog in minutes, without touching the command line.
 - [FlagMotori/writeups](https://github.com/FlagMotori/writeups) - رایتاپ‌های تیم فلگ موتوری
 - [Gl0deanR/create-flask-app](https://github.com/Gl0deanR/create-flask-app) - 
@@ -504,6 +504,14 @@
 
 ## Python 
 
+- [srezasm/farsi-asr-dataset](https://github.com/srezasm/farsi-asr-dataset) - A collection of scripts and codes used to collect the largest ASR datasets for Farsi language.
+- [TorhamDev/Torham-personal-website](https://github.com/TorhamDev/Torham-personal-website) - https://torham.tech
+- [SepehrRasouli/clean-code-python](https://github.com/SepehrRasouli/clean-code-python) - :bathtub: Clean Code concepts adapted for Python
+- [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
+- [Sirozha1337/faster-auto-subtitle](https://github.com/Sirozha1337/faster-auto-subtitle) - Automatically generate, translate and overlay subtitles for any video.
+- [rocketapi-io/rocketapi-python](https://github.com/rocketapi-io/rocketapi-python) - 🚀 RocketAPI Python SDK for Instagram & Threads Private API 2025
+- [jessielw/Reclaimerr](https://github.com/jessielw/Reclaimerr) - Automatically reclaim space in your media library using customizable rules. Integrates with Jellyfin, Plex, and Emby (any or all of them) to analyze and manage your content. Functions similarly to See
+- [NTFSvolume/mega.py](https://github.com/NTFSvolume/mega.py) - Python library for the https://mega.nz API and https://transfer.it
 - [timminator/Chrome-Lens-OCR](https://github.com/timminator/Chrome-Lens-OCR) - Library to use Google Lens OCR for free from the command line, via the API used in Chromium!
 - [cxyfer/GeminiASR](https://github.com/cxyfer/GeminiASR) - A Python tool that uses Google Gemini API to transcribe video or audio files into SRT subtitle files.
 - [patterniha/Serverless-for-Iran](https://github.com/patterniha/Serverless-for-Iran) - حداکثر تلاش برای استفاده از اینترنت آزاد و بدون محدودیت بدون استفاده از هیچ سروری
@@ -2553,6 +2561,7 @@
 
 ## Rust 
 
+- [zackees/running-process](https://github.com/zackees/running-process) - A python subprocess replacement written in rust - track zombie processes, launch PTY and more
 - [persian-rust/book](https://github.com/persian-rust/book) - The Rust Programming Language Book - Persian Edition
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [thewh1teagle/sherpa-rs](https://github.com/thewh1teagle/sherpa-rs) - Rust bindings to https://github.com/k2-fsa/sherpa-onnx
