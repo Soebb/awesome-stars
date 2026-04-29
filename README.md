@@ -159,6 +159,7 @@
 
 ## HTML 
 
+- [AnshumanPM/Stream-Site-Backend](https://github.com/AnshumanPM/Stream-Site-Backend) - Website which can stream videos directly on the browser.
 - [jalammar/jalammar.github.io](https://github.com/jalammar/jalammar.github.io) - Build a Jekyll blog in minutes, without touching the command line.
 - [FlagMotori/writeups](https://github.com/FlagMotori/writeups) - رایتاپ‌های تیم فلگ موتوری
 - [Gl0deanR/create-flask-app](https://github.com/Gl0deanR/create-flask-app) - 
@@ -504,6 +505,7 @@
 
 ## Python 
 
+- [tddschn/poetry-add-requirements.txt](https://github.com/tddschn/poetry-add-requirements.txt) - Add dependencies specified in requirements.txt file(s) to your Poetry or UV project
 - [srezasm/farsi-asr-dataset](https://github.com/srezasm/farsi-asr-dataset) - A collection of scripts and codes used to collect the largest ASR datasets for Farsi language.
 - [TorhamDev/Torham-personal-website](https://github.com/TorhamDev/Torham-personal-website) - https://torham.tech
 - [SepehrRasouli/clean-code-python](https://github.com/SepehrRasouli/clean-code-python) - :bathtub: Clean Code concepts adapted for Python
@@ -511,7 +513,7 @@
 - [Sirozha1337/faster-auto-subtitle](https://github.com/Sirozha1337/faster-auto-subtitle) - Automatically generate, translate and overlay subtitles for any video.
 - [rocketapi-io/rocketapi-python](https://github.com/rocketapi-io/rocketapi-python) - 🚀 RocketAPI Python SDK for Instagram & Threads Private API 2025
 - [jessielw/Reclaimerr](https://github.com/jessielw/Reclaimerr) - Automatically reclaim space in your media library using customizable rules. Integrates with Jellyfin, Plex, and Emby (any or all of them) to analyze and manage your content. Functions similarly to See
-- [NTFSvolume/mega.py](https://github.com/NTFSvolume/mega.py) - Python library for the https://mega.nz API and https://transfer.it
+- [NTFSvolume/mega.py](https://github.com/NTFSvolume/mega.py) - Python library for https://mega.nz and https://transfer.it API
 - [timminator/Chrome-Lens-OCR](https://github.com/timminator/Chrome-Lens-OCR) - Library to use Google Lens OCR for free from the command line, via the API used in Chromium!
 - [cxyfer/GeminiASR](https://github.com/cxyfer/GeminiASR) - A Python tool that uses Google Gemini API to transcribe video or audio files into SRT subtitle files.
 - [patterniha/Serverless-for-Iran](https://github.com/patterniha/Serverless-for-Iran) - حداکثر تلاش برای استفاده از اینترنت آزاد و بدون محدودیت بدون استفاده از هیچ سروری
@@ -1018,7 +1020,7 @@
 - [vi/mkvparse](https://github.com/vi/mkvparse) - Simple Python matroska (mkv) reading library, also mkv2xml and xml2mkv
 - [ALIILAPRO/yun-ir](https://github.com/ALIILAPRO/yun-ir) - A Python client for https://Yun.ir URL shortener API.
 - [rspeer/langcodes](https://github.com/rspeer/langcodes) - A Python library for working with and comparing language codes.
-- [akhalili-me/movie-organizer](https://github.com/akhalili-me/movie-organizer) - A script to organize new downloaded movies in separate folders and then download Farsi subtitle for each of them.
+- [amirkhalilism/movie-organizer](https://github.com/amirkhalilism/movie-organizer) - A script to organize new downloaded movies in separate folders and then download Farsi subtitle for each of them.
 - [MahziyarAdine/File_Artist](https://github.com/MahziyarAdine/File_Artist) - I can process subtitles and PDF files and translate them from English to Persian
 - [5j9/num2fawords](https://github.com/5j9/num2fawords) - Takes a number and converts it to Persian word form
 - [armanyazdi/persian-names](https://github.com/armanyazdi/persian-names) - A Python package for generating random Persian (Farsi) names.
