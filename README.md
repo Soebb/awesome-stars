@@ -222,6 +222,7 @@
 
 ## JavaScript 
 
+- [vanshcz/GitHubZipBot](https://github.com/vanshcz/GitHubZipBot) - GitHubZipBot For Telegram
 - [pallets-eco/flask-debugtoolbar](https://github.com/pallets-eco/flask-debugtoolbar) - A toolbar overlay for debugging Flask applications
 - [http-party/http-server](https://github.com/http-party/http-server) - A simple, zero-configuration, command-line http server
 - [gyroing/Persian-Piper-TTS-WebAssembly](https://github.com/gyroing/Persian-Piper-TTS-WebAssembly) - WebAssembly Sherpa ONNX TTS for Persian language based on PIPER Model
@@ -387,7 +388,6 @@
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [Sirosky/Upscale-Hub](https://github.com/Sirosky/Upscale-Hub) - A repository collecting image and video upscaling resources as well as my own super resolution models.
 - [wide-video/piper-wasm](https://github.com/wide-video/piper-wasm) - 
-- [Soebb/awesome-stars](https://github.com/Soebb/awesome-stars) - All the best python repositories in github.
 - [DmitryScaletta/free-heroku-alternatives](https://github.com/DmitryScaletta/free-heroku-alternatives) - Comparison of free Heroku alternatives for backend applications
 - [karim23657/awesome-Persian-Speech](https://github.com/karim23657/awesome-Persian-Speech) - A collection of inspiring lists, repos, datasets, models, tools and more for Persian language speech to text(stt) and text to speech(tts) .
 - [cgohlke/win_arm64-wheels](https://github.com/cgohlke/win_arm64-wheels) - Experimental wheels for Python for Windows on ARM64.
@@ -505,6 +505,12 @@
 
 ## Python 
 
+- [KittenML/KittenTTS](https://github.com/KittenML/KittenTTS) - State-of-the-art TTS model under 25MB 😻
+- [upekshaip/tg-ytdlp-bot](https://github.com/upekshaip/tg-ytdlp-bot) - This is a telegram deployable bot for downloading any private video files from any site (Intergrated with yt-dlp). Also can download private videos or playlists with cookies too
+- [vanshcz/bulkforward](https://github.com/vanshcz/bulkforward) - 🚀 Professional Telegram automation bot for bulk message broadcasting, auto-replies, and smart reactions. Features include DM-only mode, configurable delays, statistics tracking, and a clean UI. Built 
+- [moviebot-latest/split-bot](https://github.com/moviebot-latest/split-bot) - Advanced Telegram Video Split Bot with fast processing, random thumbnails, ETA, and multi-mode splitting (parts, minutes, size).
+- [viperadnan-git/transferit-py](https://github.com/viperadnan-git/transferit-py) - Pure-Python client for transfer.it — upload and download files via the MEGA backend, no browser required.
+- [DevHanza/TelegramYTDLBot](https://github.com/DevHanza/TelegramYTDLBot) - Telegram YouTube Downloader Bot
 - [tddschn/poetry-add-requirements.txt](https://github.com/tddschn/poetry-add-requirements.txt) - Add dependencies specified in requirements.txt file(s) to your Poetry or UV project
 - [srezasm/farsi-asr-dataset](https://github.com/srezasm/farsi-asr-dataset) - A collection of scripts and codes used to collect the largest ASR datasets for Farsi language.
 - [TorhamDev/Torham-personal-website](https://github.com/TorhamDev/Torham-personal-website) - https://torham.tech
@@ -564,7 +570,7 @@
 - [mgedmin/check-python-versions](https://github.com/mgedmin/check-python-versions) - Check that supported Python versions in a setup.py match tox.ini, .travis.yml and a bunch of other files
 - [nuhmanpk/Referral-Bot](https://github.com/nuhmanpk/Referral-Bot) - This bot serves as a demonstration of referral system implementation on the Telegram platform using the Pyrogram library in Python
 - [tntmod54321/soundcloud-autodownloader](https://github.com/tntmod54321/soundcloud-autodownloader) - Automatically download soundcloud tracks
-- [flet-dev/flet](https://github.com/flet-dev/flet) - Flet enables developers to easily build realtime web, mobile and desktop apps in Python. No frontend experience required.
+- [flet-dev/flet](https://github.com/flet-dev/flet) - Build realtime web, mobile and desktop apps in Python only. No frontend experience required.
 - [AbolDev/AparatLib](https://github.com/AbolDev/AparatLib) - A library for interacting with the Aparat API
 - [Kennarttechl/flask_quickstart_generator](https://github.com/Kennarttechl/flask_quickstart_generator) - The project generates boilerplate code for Flask applications.
 - [EverythingSuckz/GeminiTelegramBot](https://github.com/EverythingSuckz/GeminiTelegramBot) - Telegram bot that uses Gemini multimodel API
@@ -2630,6 +2636,7 @@
 
 ## TypeScript 
 
+- [nezort11/video-translate-bot](https://github.com/nezort11/video-translate-bot) - 📺🌍🗣️🔄 FULL video translator (IN: link, OUT: mp4) via Telegram bot, works for video, audio and voice (everything is free & self-hostable)
 - [bepass-org/oblivion-desktop](https://github.com/bepass-org/oblivion-desktop) - Oblivion Desktop - Unofficial Warp Client for Windows/Mac/Linux
 - [sajjadmrx/btime-desktop](https://github.com/sajjadmrx/btime-desktop) - ویجت نمایش تاریخ و آب و هوا برای سیستم عامل های ویندوز،مک، لینوکس
 - [thewh1teagle/vibe](https://github.com/thewh1teagle/vibe) - Transcribe on your own!
