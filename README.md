@@ -369,6 +369,7 @@
 
 ## Others 
 
+- [ali25az/ir-downloader](https://github.com/ali25az/ir-downloader) - 
 - [ALIILAPRO/MusicFinder](https://github.com/ALIILAPRO/MusicFinder) - 🎵 Music Finder is a browser extension that allows you to search for music and download tracks via a Telegram bot.
 - [MoonWalker440/TeleBotList](https://github.com/MoonWalker440/TeleBotList) - A cool collection of awesome Telegram bots source code hosted on github
 - [rahgozar94725/freedom](https://github.com/rahgozar94725/freedom) - آموزش راه‌اندازی فیلتر شکن شخصی
@@ -505,6 +506,9 @@
 
 ## Python 
 
+- [crackbest/V2ray-Config](https://github.com/crackbest/V2ray-Config) - Automatically fetch free V2Ray configs from Telegram channels.
+- [V2RayRoot/V2RayConfig](https://github.com/V2RayRoot/V2RayConfig) - Automatically fetch free V2Ray configs from Telegram channels.
+- [shabane/kamaji](https://github.com/shabane/kamaji) - find [ss, vmess, vless, trojan] config from Telegram Channels and convert theme to a Subscription Link(Even Test)
 - [KittenML/KittenTTS](https://github.com/KittenML/KittenTTS) - State-of-the-art TTS model under 25MB 😻
 - [upekshaip/tg-ytdlp-bot](https://github.com/upekshaip/tg-ytdlp-bot) - This is a telegram deployable bot for downloading any private video files from any site (Intergrated with yt-dlp). Also can download private videos or playlists with cookies too
 - [vanshcz/bulkforward](https://github.com/vanshcz/bulkforward) - 🚀 Professional Telegram automation bot for bulk message broadcasting, auto-replies, and smart reactions. Features include DM-only mode, configurable delays, statistics tracking, and a clean UI. Built 
