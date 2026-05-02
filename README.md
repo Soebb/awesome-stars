@@ -278,6 +278,7 @@
 - [kodjunkie/beetube-bot](https://github.com/kodjunkie/beetube-bot) - 🤖 A telegram bot for music, movies, anime, torrent, EDM tracks, series downloads, files, and more...
 - [AkhileshNS/heroku-deploy](https://github.com/AkhileshNS/heroku-deploy) - A simple github action that dynamically deploys an app to heroku
 - [yarnpkg/yarn](https://github.com/yarnpkg/yarn) - The 1.x line is frozen - features and bugfixes now happen on https://github.com/yarnpkg/berry
+- [backmeupplz/voicy](https://github.com/backmeupplz/voicy) - @voicybot Telegram bot main repository
 
 ## Jupyter Notebook 
 
@@ -2675,7 +2676,6 @@
 - [Edgar-P-yan/google-it-telegram-bot](https://github.com/Edgar-P-yan/google-it-telegram-bot) - 🤖 @Google_itBot 🔎 Search and share LINKS/IMAGES/VIDEOS in inline mode
 - [iAkashPattnaik/MailServerBot](https://github.com/iAkashPattnaik/MailServerBot) - A telegram bot which sends emails directly to you via telegram
 - [callsmusic/remix](https://github.com/callsmusic/remix) - Powerful Telegram music bot.
-- [backmeupplz/voicy](https://github.com/backmeupplz/voicy) - @voicybot Telegram bot main repository
 
 ## Visual Basic .NET 
 
