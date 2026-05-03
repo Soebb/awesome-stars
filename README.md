@@ -507,6 +507,8 @@
 
 ## Python 
 
+- [Garton/translategrambot](https://github.com/Garton/translategrambot) - 🌐 Sophisticated Telegram translator bot with automatic language detection, 50+ language pairs, and Helsinki-NLP models. Built with FastAPI, aiogram, and transformers.
+- [agapess/Gitvidsub](https://github.com/agapess/Gitvidsub) - 
 - [crackbest/V2ray-Config](https://github.com/crackbest/V2ray-Config) - Automatically fetch free V2Ray configs from Telegram channels.
 - [V2RayRoot/V2RayConfig](https://github.com/V2RayRoot/V2RayConfig) - Automatically fetch free V2Ray configs from Telegram channels.
 - [shabane/kamaji](https://github.com/shabane/kamaji) - find [ss, vmess, vless, trojan] config from Telegram Channels and convert theme to a Subscription Link(Even Test)
