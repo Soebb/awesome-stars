@@ -212,7 +212,6 @@
 - [Team-xManager/xManager](https://github.com/Team-xManager/xManager) - Ad-Free, New Features & Freedom
 - [PatrickAlex2019/ApkEditor](https://github.com/PatrickAlex2019/ApkEditor) - Used for APP reverse compilation, APK localization, APK cracking, APK signature...
 - [oussamabonnor1/TelegramClone](https://github.com/oussamabonnor1/TelegramClone) - JetGram is an open source desktop app Telegram clone made with JavaFx.
-- [OwlGramDev/OwlGram](https://github.com/OwlGramDev/OwlGram) - OwlGram is an unofficial messaging app that uses Telegram's API.
 - [jitnegii/Telegram-bot](https://github.com/jitnegii/Telegram-bot) - Telegram bot to download songs from Spotify and YouTube URL.
 - [ivan-zaitsev/shop-telegram-bot](https://github.com/ivan-zaitsev/shop-telegram-bot) - Java shop chatbot for Telegram
 - [MonsterDeveloper/java-telegram-bot-tutorial](https://github.com/MonsterDeveloper/java-telegram-bot-tutorial) - Java Telegram Bot Tutorial. Feel free to submit issue if you found a mistake.
