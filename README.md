@@ -506,6 +506,7 @@
 
 ## Python 
 
+- [devgaganin/devgagantools](https://github.com/devgaganin/devgagantools) - This repository aimed to be fast uploading and fast downloading via Telethon (user and bots both supported)
 - [alltechdev/gplay-apk-downloader](https://github.com/alltechdev/gplay-apk-downloader) - Download APK files directly from Google Play Store.
 - [Garton/translategrambot](https://github.com/Garton/translategrambot) - 🌐 Sophisticated Telegram translator bot with automatic language detection, 50+ language pairs, and Helsinki-NLP models. Built with FastAPI, aiogram, and transformers.
 - [agapess/Gitvidsub](https://github.com/agapess/Gitvidsub) - 
