@@ -134,6 +134,7 @@
 - [EverythingSuckz/github-telegram-notify](https://github.com/EverythingSuckz/github-telegram-notify) - Actions that sends commit updates of a repository to any chat in Telegram
 - [utkusen/wholeaked](https://github.com/utkusen/wholeaked) - a file-sharing tool that allows you to find the responsible person in case of a leakage
 - [Brawl345/rssbot](https://github.com/Brawl345/rssbot) - RSS Bot for the Telegram Messenger
+- [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
 - [c0re100/TelegramProfileVideoBot](https://github.com/c0re100/TelegramProfileVideoBot) - A userbot to help you upload a profile video without compression
 - [AnjanaMadu/YTSearch](https://github.com/AnjanaMadu/YTSearch) - A go (golang) library to search videos in YouTube.
 - [1995parham/koochooloo](https://github.com/1995parham/koochooloo) - Make your URLs shorter (smaller) and more memorable in Go
@@ -206,6 +207,7 @@
 
 ## Java 
 
+- [monogram-android/monogram](https://github.com/monogram-android/monogram) - Native Telegram client for Android based on TDLib
 - [bepass-org/oblivion](https://github.com/bepass-org/oblivion) - Unofficial warp client for android
 - [w-coding/hanban_borina](https://github.com/w-coding/hanban_borina) - فەرهەنگی کوردی فارسی هەنبانبۆرینە
 - [TGX-Android/Telegram-X](https://github.com/TGX-Android/Telegram-X) - The main repository of Telegram X — official alternative Telegram client for Android.
@@ -506,6 +508,11 @@
 
 ## Python 
 
+- [pwaller/pyfiglet](https://github.com/pwaller/pyfiglet) - An implementation of figlet written in Python
+- [NeuralFalconYT/omnivoice-colab](https://github.com/NeuralFalconYT/omnivoice-colab) - 
+- [k2-fsa/OmniVoice](https://github.com/k2-fsa/OmniVoice) - High-Quality Voice Cloning TTS for 600+ Languages
+- [Blaizzy/mlx-audio](https://github.com/Blaizzy/mlx-audio) - A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon.
+- [debpalash/OmniVoice-Studio](https://github.com/debpalash/OmniVoice-Studio) - The open-source ElevenLabs alternative. Local voice cloning, design, creation and cinematic video dubbing with real-time dictation.
 - [devgaganin/devgagantools](https://github.com/devgaganin/devgagantools) - This repository aimed to be fast uploading and fast downloading via Telethon (user and bots both supported)
 - [alltechdev/gplay-apk-downloader](https://github.com/alltechdev/gplay-apk-downloader) - Download APK files directly from Google Play Store.
 - [Garton/translategrambot](https://github.com/Garton/translategrambot) - 🌐 Sophisticated Telegram translator bot with automatic language detection, 50+ language pairs, and Helsinki-NLP models. Built with FastAPI, aiogram, and transformers.
@@ -1345,7 +1352,6 @@
 - [sankalpjonn/timeloop](https://github.com/sankalpjonn/timeloop) - An elegant periodic task executor
 - [tasos-py/Search-Engines-Scraper](https://github.com/tasos-py/Search-Engines-Scraper) - Search google, bing, yahoo, and other search engines with python
 - [kryzhikov/Pixit](https://github.com/kryzhikov/Pixit) - 
-- [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
 - [baychimo/pictobot](https://github.com/baychimo/pictobot) - A chatbot to use as a basic universal translator. If you can't say it, show it!
 - [fasilminale/ExportTelegramUsers](https://github.com/fasilminale/ExportTelegramUsers) - A Python script that exports users from one Telegram group to another using one or more concurrent user bots.
 - [camelot-dev/camelot](https://github.com/camelot-dev/camelot) - A Python library to extract tabular data from PDFs
