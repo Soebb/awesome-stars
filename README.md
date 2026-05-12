@@ -371,7 +371,6 @@
 
 ## Others 
 
-- [ali25az/ir-downloader](https://github.com/ali25az/ir-downloader) - 
 - [ALIILAPRO/MusicFinder](https://github.com/ALIILAPRO/MusicFinder) - 🎵 Music Finder is a browser extension that allows you to search for music and download tracks via a Telegram bot.
 - [MoonWalker440/TeleBotList](https://github.com/MoonWalker440/TeleBotList) - A cool collection of awesome Telegram bots source code hosted on github
 - [rahgozar94725/freedom](https://github.com/rahgozar94725/freedom) - آموزش راه‌اندازی فیلتر شکن شخصی
@@ -1587,7 +1586,7 @@
 - [mechnicov/sex-photo-classifier-bot](https://github.com/mechnicov/sex-photo-classifier-bot) - Telegram bot for sex recognition by photo
 - [sanket0x/Telegram-Bot-Base](https://github.com/sanket0x/Telegram-Bot-Base) - This repo contains code for building a base telegram bot. Furthermore, on top of the base bot, you can add your own customization accordingly.
 - [New-dev0/Bing-ChatBot](https://github.com/New-dev0/Bing-ChatBot) - Chat bot based on Bing web ai bot.
-- [ksra7900/instagram_followers_scraping](https://github.com/ksra7900/instagram_followers_scraping) - This project is to extract the followers of an Instagram page
+- [kasra7900/instagram_followers_scraping](https://github.com/kasra7900/instagram_followers_scraping) - This project is to extract the followers of an Instagram page
 - [AstroBolo/Xplore](https://github.com/AstroBolo/Xplore) - a python based web browser
 - [ThePro-CoderZ/Image2PdfBot](https://github.com/ThePro-CoderZ/Image2PdfBot) - A bot to convert Img2Pdf
 - [Amirjan2808/amir_weatherbot](https://github.com/Amirjan2808/amir_weatherbot) - 
