@@ -160,6 +160,7 @@
 
 ## HTML 
 
+- [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [AnshumanPM/Stream-Site-Backend](https://github.com/AnshumanPM/Stream-Site-Backend) - Website which can stream videos directly on the browser.
 - [jalammar/jalammar.github.io](https://github.com/jalammar/jalammar.github.io) - Build a Jekyll blog in minutes, without touching the command line.
 - [FlagMotori/writeups](https://github.com/FlagMotori/writeups) - رایتاپ‌های تیم فلگ موتوری
@@ -185,7 +186,6 @@
 - [donno2048/win95.exe](https://github.com/donno2048/win95.exe) - Microsoft Windows 95 as an executable (using python and pyinstaller)
 - [DustbinServer/Dustbin](https://github.com/DustbinServer/Dustbin) - Just Another Text Storage Service.
 - [PersianHodHod/PersianHodHod.github.io](https://github.com/PersianHodHod/PersianHodHod.github.io) - Persian HodHod website
-- [Ah00ra/ah00ra.ir](https://github.com/Ah00ra/ah00ra.ir) - 
 - [li195111/li195111.github.io](https://github.com/li195111/li195111.github.io) - Some Note Here
 - [zappycode/portfolio-project](https://github.com/zappycode/portfolio-project) - 
 - [taneliang/lifespan](https://github.com/taneliang/lifespan) - Website which counts up from your birthday down to your death
@@ -207,6 +207,7 @@
 
 ## Java 
 
+- [CodeBySonu95/VoxSherpa-TTS](https://github.com/CodeBySonu95/VoxSherpa-TTS) - 🎙️ VoxSherpa TTS   Offline Neural Text-to-Speech Engine for Android  ⚡ Sherpa-ONNX powered   🔊 Natural voice synthesis   📱 Fully offline processing   🚀 No cloud • No limits
 - [monogram-android/monogram](https://github.com/monogram-android/monogram) - Native Telegram client for Android based on TDLib
 - [bepass-org/oblivion](https://github.com/bepass-org/oblivion) - Unofficial warp client for android
 - [w-coding/hanban_borina](https://github.com/w-coding/hanban_borina) - فەرهەنگی کوردی فارسی هەنبانبۆرینە
@@ -298,7 +299,6 @@
 - [akiomik/pilgram](https://github.com/akiomik/pilgram) - A python library for instagram filters
 - [jamesturk/jellyfish](https://github.com/jamesturk/jellyfish) - 🪼 a python library for doing approximate and phonetic matching of strings.
 - [AmirAbaskohi/Automatic-Speech-recognition-for-Speech-Assessment-of-Persian-Preschool-Children](https://github.com/AmirAbaskohi/Automatic-Speech-recognition-for-Speech-Assessment-of-Persian-Preschool-Children) - Preschool evaluation is crucial because it gives teachers and parents influential knowledge about children's growth and development. The COVID-19 pandemic has highlighted the necessity of online asses
-- [Ah00ra/car-price-prediction](https://github.com/Ah00ra/car-price-prediction) - predict a car price by multiple linear regression
 - [Dadmatech/FaREX](https://github.com/Dadmatech/FaREX) - Farsi Relation Extraction
 - [schoobani/persian-generative-chatbot](https://github.com/schoobani/persian-generative-chatbot) - A repo dedicated to different approaches in building a Persian Generative Chatbot.
 - [sajjjadayobi/PersianQA](https://github.com/sajjjadayobi/PersianQA) - Persian (Farsi) Question Answering Dataset (+ Models)
@@ -339,6 +339,7 @@
 
 ## Kotlin 
 
+- [JunkFood02/Seal](https://github.com/JunkFood02/Seal) - 🦭 Video/Audio Downloader for Android, based on yt-dlp
 - [subinps/TelePlay](https://github.com/subinps/TelePlay) - A self-hosted media streaming solution that lets you store, organize, and stream your video files from Telegram Servers. Access your media library from anywhere via a web interface or Android TV app /
 - [LibChecker/LibChecker](https://github.com/LibChecker/LibChecker) - An app to view libraries used in apps in your device.
 - [motmaenbash/motmaenbash-android](https://github.com/motmaenbash/motmaenbash-android) - MotmaenBash
@@ -507,6 +508,7 @@
 
 ## Python 
 
+- [jeanslack/Vidtuber](https://github.com/jeanslack/Vidtuber) - A simple yet comprehensive, cross-platform GUI for yt-dlp
 - [pwaller/pyfiglet](https://github.com/pwaller/pyfiglet) - An implementation of figlet written in Python
 - [NeuralFalconYT/omnivoice-colab](https://github.com/NeuralFalconYT/omnivoice-colab) - 
 - [k2-fsa/OmniVoice](https://github.com/k2-fsa/OmniVoice) - High-Quality Voice Cloning TTS for 600+ Languages
@@ -1480,7 +1482,6 @@
 - [runetech0/instagram-to-telegram](https://github.com/runetech0/instagram-to-telegram) - This bot scrapes the posts from specific instagram account and sends these posts(Images, Videos) to a telegram group.
 - [runetech0/discord-telegram-bot](https://github.com/runetech0/discord-telegram-bot) - [Not Working Anymore] Simple discord to telegram messages forward bot. It receives messages from filtered discord servers and channels and forward these messages to specified telegram channel using te
 - [artis7eer/ForwardTagRemoverBot](https://github.com/artis7eer/ForwardTagRemoverBot) - A Telegram Bot To Hide Forward Source
-- [Ah00ra/btc-price](https://github.com/Ah00ra/btc-price) - Get the price of bitcoin and insert it into a database
 - [StarkGang/RTMP-TG](https://github.com/StarkGang/RTMP-TG) - play your streams directly to telegram
 - [milahu/speech_recognition](https://github.com/milahu/speech_recognition) - Speech recognition module for Python, supporting several engines and APIs, online and offline.
 - [milahu/autosub-by-abhirooptalasila](https://github.com/milahu/autosub-by-abhirooptalasila) - A CLI script to generate subtitle files (SRT/VTT/TXT) for any video using either DeepSpeech or Coqui
@@ -1757,7 +1758,6 @@
 - [xditya/captchaBot](https://github.com/xditya/captchaBot) - Telegram Captcha Bot
 - [olsihoxha/telegram-bot-serverless](https://github.com/olsihoxha/telegram-bot-serverless) - 
 - [TweetifyBot/Tweetify-Bot](https://github.com/TweetifyBot/Tweetify-Bot) - Telegram bot used to notify the the user whether a specified user in twitter tweets or replies to a tweet.
-- [Ah00ra/HoorChiBot](https://github.com/Ah00ra/HoorChiBot) - HoorChi bot can announce the latest currencies prices in Iran market. http://t.me/hoorchibot
 - [DarkoR12/python-telegram-bot-base](https://github.com/DarkoR12/python-telegram-bot-base) - 
 - [chriscpritchard/rgdl](https://github.com/chriscpritchard/rgdl) - A tool to download files using the rapidgator (premium) API
 - [mishakorzik/Free-Proxy](https://github.com/mishakorzik/Free-Proxy) - Hi there will be a lot of proxies here.
