@@ -55,6 +55,7 @@
 
 ## C# # 
 
+- [Valyreon/Subloader](https://github.com/Valyreon/Subloader) - Subloader is a subtitle downloader that enables you to quickly find and download subtitles for your video files.
 - [OpenAiTx/OpenAiTx](https://github.com/OpenAiTx/OpenAiTx) - Auto-translate platform for your GitHub project readme.
 - [SubtitleEdit/subtitleedit](https://github.com/SubtitleEdit/subtitleedit) - the subtitle editor :)
 - [KryptoST/SRTranslatorGUI](https://github.com/KryptoST/SRTranslatorGUI) - SRT files translator GUI
@@ -106,9 +107,7 @@
 ## Dockerfile 
 
 - [fazibaba/Building-Containers-Podman](https://github.com/fazibaba/Building-Containers-Podman) - Docker is a popular tool for building and running containers, but it's not the only one. Podman is a similar tool that can be used as a drop-in replacement for Docker. One advantage of Podman is that 
-- [hmahdiany/dind](https://github.com/hmahdiany/dind) - An image for Docker in Docker use cases
 - [venkateswarluvajrala/docker-exercises](https://github.com/venkateswarluvajrala/docker-exercises) - This Repository offers tasks to test and enhance expertise in creating optimized Docker images and containers
-- [ITZ-ZAID/Doprax](https://github.com/ITZ-ZAID/Doprax) - 
 - [partiallywritten/X-Bin-Patch](https://github.com/partiallywritten/X-Bin-Patch) - Method to deploy Mega.nz-Bot to Heroku
 - [Divkix/docker-telegram-bot-api](https://github.com/Divkix/docker-telegram-bot-api) - Auto build repository for 🐳 docker image of telegram-bot-api using Github Actions
 - [gautamajay52/heroku-stack-container-repo](https://github.com/gautamajay52/heroku-stack-container-repo) - After deploying this repo your Heroku app will have stack as container. After that you just have to deploy your own original app.
@@ -120,6 +119,7 @@
 
 ## Fluent 
 
+- [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [xditya/ChannelActionsBot](https://github.com/xditya/ChannelActionsBot) - Telegram bot to auto approve chat join requests.
 
 ## Go 
@@ -719,7 +719,7 @@
 - [Soebb/own-youtube-streaming](https://github.com/Soebb/own-youtube-streaming) - A local Telegram bot to generate own youtube stream url
 - [Soebb/thumb-change-bot](https://github.com/Soebb/thumb-change-bot) - A simple Telegram bot to change the videos thumbnail.
 - [Soebb/Persian-Spell-Corrector](https://github.com/Soebb/Persian-Spell-Corrector) - aka Farsi text corrector
-- [Soebb/persian-stt-bot](https://github.com/Soebb/persian-stt-bot) - Persian speech to text, Farsi voice recognition in telegram
+- [Soebb/persian-deepspeech-bot](https://github.com/Soebb/persian-deepspeech-bot) - Persian speech to text, Farsi voice recognition in telegram
 - [moehmeni/syncedlyrics](https://github.com/moehmeni/syncedlyrics) - Get an LRC format (synchronized) lyrics for your music
 - [SadeghKrmi/pertts-streamlit](https://github.com/SadeghKrmi/pertts-streamlit) - Persian text-to-speech streamlit interface
 - [TDHM/Subtitles-Translator](https://github.com/TDHM/Subtitles-Translator) - Automatic subtitles translation with a local neural machine translation model. No third-party service required: the translation is done locally with small but efficient neural network models.
@@ -1936,7 +1936,6 @@
 - [NullPointerMaker/webpage2telegraph.adapter](https://github.com/NullPointerMaker/webpage2telegraph.adapter) - Library Adapter: Transfer webpage to Telegraph archive.
 - [ShivangKakkar/TelegraphBot](https://github.com/ShivangKakkar/TelegraphBot) - https://t.me/StarkBots
 - [abhint/GroupChannelHandler](https://github.com/abhint/GroupChannelHandler) - This is a telegram bot. It does not allow channels to send messages to the telegram supergroup.
-- [gmrv/latbot](https://github.com/gmrv/latbot) - Telegram bot for managing a linux server
 - [lphey/twitterverse](https://github.com/lphey/twitterverse) - 
 - [Poolitzer/usernameToChatAPI](https://github.com/Poolitzer/usernameToChatAPI) - 
 - [tiararosebiezetta/HerokuDynoSwitcher](https://github.com/tiararosebiezetta/HerokuDynoSwitcher) - A little script and trick to make your heroku app run forever without being concerned about dyno hours.
@@ -2427,7 +2426,7 @@
 - [uk0/telethon_get_media](https://github.com/uk0/telethon_get_media) - Telegram download media |  Telegram 下载群聊天的文件以及视频等内容。｜ Telegram 爬虫 ｜ tg 爬虫
 - [Ryen-042/Youtube-Links-Grabber](https://github.com/Ryen-042/Youtube-Links-Grabber) - Provide a YouTube playlist link and get all the links of the playlist videos along with the name and the length of these videos.
 - [haruhi-dl/haruhi-dl](https://github.com/haruhi-dl/haruhi-dl) - Online video downloader CLI tool/Python library. Mirror of the GitLab repository.
-- [mr-sharmaji/download_video_online](https://github.com/mr-sharmaji/download_video_online) - 
+- [subhamsharma-dev/download_video_online](https://github.com/subhamsharma-dev/download_video_online) - 
 - [hacker-h/youtube-telegram-downloader](https://github.com/hacker-h/youtube-telegram-downloader) - A Telegram bot which automatically downloads videos or streams, extracts the audiotrack and saves it to your (online) storage backend.
 - [partiallywritten/Nexa-Userbot](https://github.com/partiallywritten/Nexa-Userbot) - Nexa Userbot - Dev Version
 - [partiallywritten/py-extract](https://github.com/partiallywritten/py-extract) - A simple, light-weight python library to handle some extraction tasks using less lines of code.
@@ -2649,6 +2648,7 @@
 
 ## TypeScript 
 
+- [jamiepine/voicebox](https://github.com/jamiepine/voicebox) - The open-source AI voice studio. Clone, dictate, create.
 - [nezort11/video-translate-bot](https://github.com/nezort11/video-translate-bot) - 📺🌍🗣️🔄 FULL video translator (IN: link, OUT: mp4) via Telegram bot, works for video, audio and voice (everything is free & self-hostable)
 - [bepass-org/oblivion-desktop](https://github.com/bepass-org/oblivion-desktop) - Oblivion Desktop - Unofficial Warp Client for Windows/Mac/Linux
 - [sajjadmrx/btime-desktop](https://github.com/sajjadmrx/btime-desktop) - ویجت نمایش تاریخ و آب و هوا برای سیستم عامل های ویندوز،مک، لینوکس
