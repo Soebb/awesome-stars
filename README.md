@@ -513,7 +513,7 @@
 - [NeuralFalconYT/omnivoice-colab](https://github.com/NeuralFalconYT/omnivoice-colab) - 
 - [k2-fsa/OmniVoice](https://github.com/k2-fsa/OmniVoice) - High-Quality Voice Cloning TTS for 600+ Languages
 - [Blaizzy/mlx-audio](https://github.com/Blaizzy/mlx-audio) - A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon.
-- [debpalash/OmniVoice-Studio](https://github.com/debpalash/OmniVoice-Studio) - The open-source ElevenLabs alternative. Local voice cloning, design, creation and cinematic video dubbing with real-time dictation.
+- [debpalash/OmniVoice-Studio](https://github.com/debpalash/OmniVoice-Studio) - The open-source ElevenLabs alternative for local voice cloning, design, create, dubbing and dictation Desktop App
 - [devgaganin/devgagantools](https://github.com/devgaganin/devgagantools) - This repository aimed to be fast uploading and fast downloading via Telethon (user and bots both supported)
 - [alltechdev/gplay-apk-downloader](https://github.com/alltechdev/gplay-apk-downloader) - Download APK files directly from Google Play Store.
 - [Garton/translategrambot](https://github.com/Garton/translategrambot) - 🌐 Sophisticated Telegram translator bot with automatic language detection, 50+ language pairs, and Helsinki-NLP models. Built with FastAPI, aiogram, and transformers.
@@ -2507,8 +2507,6 @@
 - [m4mallu/inline-directory-bot](https://github.com/m4mallu/inline-directory-bot) - Telegram bot to serve contact card amoung work environment using Inline method. For esspecially those companies doesn't have any inter communication methods. This bot is also be able to broadcast mess
 - [m4mallu/uniquify](https://github.com/m4mallu/uniquify) - Uniquify is a Telegram bot interface used to remove duplicate media files from a chat
 - [SurajMeena/todo-telegram-bot](https://github.com/SurajMeena/todo-telegram-bot) - 
-- [Soebb/lang-detector-bot](https://github.com/Soebb/lang-detector-bot) - Telegram bot for language detection from Voice based on Silero VAD
-- [egorsmkv/lang-detector-bot](https://github.com/egorsmkv/lang-detector-bot) - Telegram bot for language detection from Voice based on Silero VAD
 - [AbirHasan2005/Message-Search-Bot](https://github.com/AbirHasan2005/Message-Search-Bot) - A Telegram Bot for searching any channel messages from Inline by @AbirHasan2005
 - [jameelkaisar/AjmisT2S_bot](https://github.com/jameelkaisar/AjmisT2S_bot) - Ajmi's Text to Speech Bot created using gtts and pyrogram
 - [CodeXBotz/File-Sharing-Bot](https://github.com/CodeXBotz/File-Sharing-Bot) - Telegram Bot to store Posts and Documents and it can Access by Special Links.
