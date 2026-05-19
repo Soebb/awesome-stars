@@ -508,6 +508,7 @@
 
 ## Python 
 
+- [kiriya55/VideOCRplus](https://github.com/kiriya55/VideOCRplus) - Extract hardcoded subtitles from videos via a simple GUI using machine learning. Supports 200+ languages.
 - [jeanslack/Vidtuber](https://github.com/jeanslack/Vidtuber) - A simple yet comprehensive, cross-platform GUI for yt-dlp
 - [pwaller/pyfiglet](https://github.com/pwaller/pyfiglet) - An implementation of figlet written in Python
 - [NeuralFalconYT/omnivoice-colab](https://github.com/NeuralFalconYT/omnivoice-colab) - 
