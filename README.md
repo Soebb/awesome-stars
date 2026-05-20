@@ -45,6 +45,7 @@
 
 ## C 
 
+- [shirokhorshid/shirokhorshid-android](https://github.com/shirokhorshid/shirokhorshid-android) - Independently maintained, community fork of Psiphon Android client
 - [donno2048/clickpy](https://github.com/donno2048/clickpy) - A library to control mouse clicking
 - [Data-Oriented-House/PortableBuildTools](https://github.com/Data-Oriented-House/PortableBuildTools) - Portable VS Build Tools installer
 - [nicolas-van/multirun](https://github.com/nicolas-van/multirun) - A minimalist init process designed for Docker
@@ -83,6 +84,7 @@
 - [rhasspy/piper](https://github.com/rhasspy/piper) - A fast, local neural text to speech system
 - [vapoursynth/vapoursynth](https://github.com/vapoursynth/vapoursynth) - A video processing framework with simplicity in mind
 - [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) - Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android
+- [vovavili/rembg_gui](https://github.com/vovavili/rembg_gui) - A simple PyQT6 GUI for rembg.
 - [PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle) - PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）
 - [mozilla/DeepSpeech](https://github.com/mozilla/DeepSpeech) - DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.
 
@@ -1106,7 +1108,6 @@
 - [niradler/simple-image-editor](https://github.com/niradler/simple-image-editor) - 
 - [redboo/tgbot_rmbg](https://github.com/redboo/tgbot_rmbg) - 
 - [Prakashdeveloper03/Image-Enhancer](https://github.com/Prakashdeveloper03/Image-Enhancer) - This repository contains source code for Image enhancer can perform various image effects created  using OpenCV.
-- [vovavili/rembg_gui](https://github.com/vovavili/rembg_gui) - A simple PyQT6 GUI for rembg.
 - [haoheliu/voicefixer](https://github.com/haoheliu/voicefixer) - General Speech Restoration
 - [jaketae/storyteller](https://github.com/jaketae/storyteller) - Multimodal AI Story Teller, built with Stable Diffusion, GPT, and neural text-to-speech
 - [oliverguhr/wav2vec2-live](https://github.com/oliverguhr/wav2vec2-live) - A live speech recognition using Facebooks wav2vec 2.0 model.
@@ -1919,7 +1920,6 @@
 - [charindithjaindu/InviteLinkGen](https://github.com/charindithjaindu/InviteLinkGen) - Invites link generator for telegram(made for channel referral links)
 - [nuuuwan/web_screen_scraper](https://github.com/nuuuwan/web_screen_scraper) - 
 - [H1M4N5HU0P/MAFIA-USERBOT](https://github.com/H1M4N5HU0P/MAFIA-USERBOT) - 
-- [k0rnh0li0/onlyfans-dl](https://github.com/k0rnh0li0/onlyfans-dl) - OnlyFans content downloader
 - [kantek/KanTeX](https://github.com/kantek/KanTeX) - 
 - [jayantkageri/tgEasy](https://github.com/jayantkageri/tgEasy) - tgEasy | Easy for a Brighter Shine | Monkey Patcher Addon for Pyrogram
 - [payamrastogi/imdb-telegram-bot](https://github.com/payamrastogi/imdb-telegram-bot) - 
