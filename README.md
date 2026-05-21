@@ -74,6 +74,7 @@
 
 ## C++ 
 
+- [ServeurpersoCom/omnivoice.cpp](https://github.com/ServeurpersoCom/omnivoice.cpp) - Local AI text-to-speech with voice cloning and voice design, powered by GGML. C++17 port of OmniVoice (k2-fsa/OmniVoice). 646 languages, 24 kHz mono output, runs on CPU, CUDA, ROCm, Metal, Vulkan.
 - [gyroing/PiperTTS-HaikuOS](https://github.com/gyroing/PiperTTS-HaikuOS) - Natural human voice  offline tts (piper tts)
 - [mkleehammer/pyodbc](https://github.com/mkleehammer/pyodbc) - Python ODBC bridge
 - [k2-fsa/sherpa](https://github.com/k2-fsa/sherpa) - Speech-to-text server framework with next-gen Kaldi
@@ -510,6 +511,8 @@
 
 ## Python 
 
+- [wiltodelta/remove-ai-watermarks](https://github.com/wiltodelta/remove-ai-watermarks) - CLI and library for removing visible (Gemini) and invisible (SynthID, C2PA, EXIF) AI watermarks from images
+- [yashhere/BeautifyMP3](https://github.com/yashhere/BeautifyMP3) - A command line tool for fixing ID3 metadata and adding Album Art to MP3 songs
 - [kiriya55/VideOCRplus](https://github.com/kiriya55/VideOCRplus) - Extract hardcoded subtitles from videos via a simple GUI using machine learning. Supports 200+ languages.
 - [jeanslack/Vidtuber](https://github.com/jeanslack/Vidtuber) - A simple yet comprehensive, cross-platform GUI for yt-dlp
 - [pwaller/pyfiglet](https://github.com/pwaller/pyfiglet) - An implementation of figlet written in Python
