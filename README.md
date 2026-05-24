@@ -45,6 +45,7 @@
 
 ## C 
 
+- [daanzu/py-webrtcvad-wheels](https://github.com/daanzu/py-webrtcvad-wheels) - Python interface to the WebRTC Voice Activity Detector (VAD) [released with binary wheels!]
 - [shirokhorshid/shirokhorshid-android](https://github.com/shirokhorshid/shirokhorshid-android) - Independently maintained, community fork of Psiphon Android client
 - [donno2048/clickpy](https://github.com/donno2048/clickpy) - A library to control mouse clicking
 - [Data-Oriented-House/PortableBuildTools](https://github.com/Data-Oriented-House/PortableBuildTools) - Portable VS Build Tools installer
@@ -1666,7 +1667,7 @@
 - [Chan-Bill/wiki-pdf-gen](https://github.com/Chan-Bill/wiki-pdf-gen) - Scrape Wikipedia articles and generate PDF files.
 - [xuan-practice-coding/websiteCrawler](https://github.com/xuan-practice-coding/websiteCrawler) - 
 - [py-pdf/fpdf2](https://github.com/py-pdf/fpdf2) - Simple PDF generation for Python
-- [kernoeb/Telegramusic](https://github.com/kernoeb/Telegramusic) - Python Telegram Bot to download music from Deezer and YouTube (Docker, Heroku)
+- [kernoeb/Telegramusic](https://github.com/kernoeb/Telegramusic) - Python Telegram Bot to download music from Deezer, YouTube and SoundCloud (Docker)
 - [Bricio/yt-dlp](https://github.com/Bricio/yt-dlp) - A youtube-dl fork with additional features and fixes
 - [vokimon/python-wavefile](https://github.com/vokimon/python-wavefile) - Pythonic access to audio files
 - [audeering/audiofile](https://github.com/audeering/audiofile) - Handling audio files in Python
