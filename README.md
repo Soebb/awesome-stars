@@ -377,6 +377,7 @@
 
 ## Others 
 
+- [hbalanj/github-leecher](https://github.com/hbalanj/github-leecher) - لیچر گیت هاب - انتقال فایل از سرورهای دیگر به گیت هاب - آپلود روی گیت هاب از طریق لینک خارجی برای دانلود فایل با نت ملی از سرور گیت هاب
 - [ALIILAPRO/MusicFinder](https://github.com/ALIILAPRO/MusicFinder) - 🎵 Music Finder is a browser extension that allows you to search for music and download tracks via a Telegram bot.
 - [MoonWalker440/TeleBotList](https://github.com/MoonWalker440/TeleBotList) - A cool collection of awesome Telegram bots source code hosted on github
 - [rahgozar94725/freedom](https://github.com/rahgozar94725/freedom) - آموزش راه‌اندازی فیلتر شکن شخصی
@@ -513,6 +514,7 @@
 
 ## Python 
 
+- [FALKON-CODE/Telegram-Mirror](https://github.com/FALKON-CODE/Telegram-Mirror) - دسترسی و دانلود محتوای کانال‌های تلگرام بدون فیلتر، مستقیم از گیتهاب(اینترنت ملی)
 - [theskumar/python-dotenv](https://github.com/theskumar/python-dotenv) - Reads key-value pairs from a .env file and can set them as environment variables. It helps in developing applications following the 12-factor principles.
 - [wiltodelta/remove-ai-watermarks](https://github.com/wiltodelta/remove-ai-watermarks) - CLI and library for removing visible (Gemini) and invisible (SynthID, C2PA, EXIF) AI watermarks from images
 - [yashhere/BeautifyMP3](https://github.com/yashhere/BeautifyMP3) - A command line tool for fixing ID3 metadata and adding Album Art to MP3 songs
