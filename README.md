@@ -514,9 +514,11 @@
 
 ## Python 
 
+- [Soebb/pydeepspeech](https://github.com/Soebb/pydeepspeech) - Easy setup for Mozillas Deepspeech transcriber
+- [Soebb/VideOCR-Telegram-bot](https://github.com/Soebb/VideOCR-Telegram-bot) - Extract hardcoded subtitles from videos using PaddleOCR or GoogleLens. Supports 200+ languages.
 - [FALKON-CODE/Telegram-Mirror](https://github.com/FALKON-CODE/Telegram-Mirror) - دسترسی و دانلود محتوای کانال‌های تلگرام بدون فیلتر، مستقیم از گیتهاب(اینترنت ملی)
 - [theskumar/python-dotenv](https://github.com/theskumar/python-dotenv) - Reads key-value pairs from a .env file and can set them as environment variables. It helps in developing applications following the 12-factor principles.
-- [wiltodelta/remove-ai-watermarks](https://github.com/wiltodelta/remove-ai-watermarks) - CLI and library for removing visible (Gemini) and invisible (SynthID, C2PA, EXIF) AI watermarks from images
+- [wiltodelta/remove-ai-watermarks](https://github.com/wiltodelta/remove-ai-watermarks) - CLI and Python library to strip visible and invisible AI watermarks and provenance metadata (SynthID, C2PA, EXIF/XMP "Made with AI", Gemini sparkle) from AI-generated images
 - [yashhere/BeautifyMP3](https://github.com/yashhere/BeautifyMP3) - A command line tool for fixing ID3 metadata and adding Album Art to MP3 songs
 - [kiriya55/VideOCRplus](https://github.com/kiriya55/VideOCRplus) - Extract hardcoded subtitles from videos via a simple GUI using machine learning. Supports 200+ languages.
 - [jeanslack/Vidtuber](https://github.com/jeanslack/Vidtuber) - A simple yet comprehensive, cross-platform GUI for yt-dlp
@@ -2104,7 +2106,6 @@
 - [Hiyorimi/speech2textbot](https://github.com/Hiyorimi/speech2textbot) - Speech2Text bot (Telethon, YandexSpeechKit API)
 - [ehsan957/mainwords](https://github.com/ehsan957/mainwords) - Collection of most repeated words in every languages
 - [shenasa-ai/persian-tts](https://github.com/shenasa-ai/persian-tts) - 
-- [zackees/pydeepspeech](https://github.com/zackees/pydeepspeech) - Easy setup for Mozillas Deepspeech transcriber
 - [emtheapprentice/VibeTranscribe](https://github.com/emtheapprentice/VibeTranscribe) - VibeTranscribe 0.1
 - [belushkin/speach2text](https://github.com/belushkin/speach2text) - 
 - [techytushar/voice2text](https://github.com/techytushar/voice2text) - Better and Smarter way to convert speech to text.
