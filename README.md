@@ -57,6 +57,7 @@
 
 ## C# # 
 
+- [KNG7-P/Se7en-Pro](https://github.com/KNG7-P/Se7en-Pro) - 
 - [nilaoda/N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 - [Valyreon/Subloader](https://github.com/Valyreon/Subloader) - Subloader is a subtitle downloader that enables you to quickly find and download subtitles for your video files.
 - [OpenAiTx/OpenAiTx](https://github.com/OpenAiTx/OpenAiTx) - Auto-translate platform for your GitHub project readme.
@@ -229,6 +230,7 @@
 
 ## JavaScript 
 
+- [aandrew-me/ytDownloader](https://github.com/aandrew-me/ytDownloader) - Desktop App for downloading Videos and Audios from hundreds of sites
 - [vanshcz/GitHubZipBot](https://github.com/vanshcz/GitHubZipBot) - GitHubZipBot For Telegram
 - [pallets-eco/flask-debugtoolbar](https://github.com/pallets-eco/flask-debugtoolbar) - A toolbar overlay for debugging Flask applications
 - [http-party/http-server](https://github.com/http-party/http-server) - A simple, zero-configuration, command-line http server
