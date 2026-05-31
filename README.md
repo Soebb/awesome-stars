@@ -517,6 +517,8 @@
 
 ## Python 
 
+- [cccaaannn/telegram_youtube_downloader](https://github.com/cccaaannn/telegram_youtube_downloader) - Telegram bot for downloading video or audio from multiple sites.
+- [SerxUp/super-dl](https://github.com/SerxUp/super-dl) - A simple video/audio downloader
 - [bropines/chrome-lens-py](https://github.com/bropines/chrome-lens-py) - Library to use Google Lens OCR for free, via API used in Chromium on python.
 - [Soebb/pydeepspeech](https://github.com/Soebb/pydeepspeech) - Easy setup for Mozillas Deepspeech transcriber
 - [Soebb/VideOCR-Telegram-bot](https://github.com/Soebb/VideOCR-Telegram-bot) - Extract hardcoded subtitles from videos using PaddleOCR or GoogleLens. Supports 200+ languages.
