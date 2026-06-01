@@ -517,6 +517,7 @@
 
 ## Python 
 
+- [neekaru/instaloader](https://github.com/neekaru/instaloader) - Download pictures (or videos) along with their captions and other metadata from Instagram.
 - [cccaaannn/telegram_youtube_downloader](https://github.com/cccaaannn/telegram_youtube_downloader) - Telegram bot for downloading video or audio from multiple sites.
 - [SerxUp/super-dl](https://github.com/SerxUp/super-dl) - A simple video/audio downloader
 - [bropines/chrome-lens-py](https://github.com/bropines/chrome-lens-py) - Library to use Google Lens OCR for free, via API used in Chromium on python.
