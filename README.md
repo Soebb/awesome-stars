@@ -438,7 +438,7 @@
 - [Mahmood-Taghavi/eSpeakPlus](https://github.com/Mahmood-Taghavi/eSpeakPlus) - eSpeakPlus is a free Text To Speech (TTS) engine for Persian and other languages in Windows which supports SAPI 5 speech driver. It is based on the legacy espeak TTS and the Mbrola voices.
 - [asyraffff/readme-with-video](https://github.com/asyraffff/readme-with-video) - 
 - [m1guelpf/readme-with-video](https://github.com/m1guelpf/readme-with-video) - An example of a repo with a video on its README
-- [DevelopersTree/awesome-kurds](https://github.com/DevelopersTree/awesome-kurds) - A curated list of awesome Kurds.
+- [devs-krd/awesome-kurds](https://github.com/devs-krd/awesome-kurds) - A curated list of awesome Kurds.
 - [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
 - [0xdsm/extensions-wordlist](https://github.com/0xdsm/extensions-wordlist) - 🔍 Improve your files enumeration with specific extensions!
