@@ -1056,7 +1056,6 @@
 - [jsavargas/telethon_downloader](https://github.com/jsavargas/telethon_downloader) - 
 - [mandrelbrotset/chat-room](https://github.com/mandrelbrotset/chat-room) - GUI group chat for computers in the same network. The server and the client program both have a GUI.
 - [skorokithakis/shortuuid](https://github.com/skorokithakis/shortuuid) - A generator library for concise, unambiguous and URL-safe UUIDs.
-- [intervall-ludger/PyPDFMerger](https://github.com/intervall-ludger/PyPDFMerger) - PyPDFMerger is a Python-based application that allows users to merge multiple PDF files into a single document using a drag-and-drop interface.
 - [father-bot/chatgpt_telegram_bot](https://github.com/father-bot/chatgpt_telegram_bot) - 💬 Telegram bot with ChatGPT, Python-based, using OpenAI's API.
 - [theos-ai/easy-paddle-ocr](https://github.com/theos-ai/easy-paddle-ocr) - This a clean and easy-to-use implementation of Paddle OCR. Made with ❤️ by Theos AI.
 - [vi/mkvparse](https://github.com/vi/mkvparse) - Simple Python matroska (mkv) reading library, also mkv2xml and xml2mkv
@@ -2675,6 +2674,7 @@
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
 - [SpEcHiDe/ButtonHTMLBot](https://github.com/SpEcHiDe/ButtonHTMLBot) - https://ButtonHTMLBot.t.me
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
+- [intervall-ludger/PDFMerger](https://github.com/intervall-ludger/PDFMerger) - PyPDFMerger is a Python-based application that allows users to merge multiple PDF files into a single document using a drag-and-drop interface.
 - [backmeupplz/archivelinksbot](https://github.com/backmeupplz/archivelinksbot) - Telegram bot that saves links to web archive
 - [arghyac35/aria-telegram-mirror-bot](https://github.com/arghyac35/aria-telegram-mirror-bot) - This is a fork of https://github.com/out386/aria-telegram-mirror-bot. A Telegram bot to download files via HTTP(S)/BitTorrent and upload them to Google Drive
 - [Qiamast/PersianWordle](https://github.com/Qiamast/PersianWordle) - "Persian Wordle" is a fun and challenging word puzzle game designed to improve your Persian vocabulary. Built with TypeScript, ReactJS, TailwindCSS, PostCSS, and a Persian word dictionary, this game o
