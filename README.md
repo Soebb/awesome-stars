@@ -380,7 +380,6 @@
 
 ## Others 
 
-- [hbalanj/github-leecher](https://github.com/hbalanj/github-leecher) - لیچر گیت هاب - انتقال فایل از سرورهای دیگر به گیت هاب - آپلود روی گیت هاب از طریق لینک خارجی برای دانلود فایل با نت ملی از سرور گیت هاب
 - [ALIILAPRO/MusicFinder](https://github.com/ALIILAPRO/MusicFinder) - 🎵 Music Finder is a browser extension that allows you to search for music and download tracks via a Telegram bot.
 - [MoonWalker440/TeleBotList](https://github.com/MoonWalker440/TeleBotList) - A cool collection of awesome Telegram bots source code hosted on github
 - [rahgozar94725/freedom](https://github.com/rahgozar94725/freedom) - آموزش راه‌اندازی فیلتر شکن شخصی
@@ -517,6 +516,7 @@
 
 ## Python 
 
+- [Unrud/video-downloader](https://github.com/Unrud/video-downloader) - Download videos from websites like YouTube and many others (based on yt-dlp)
 - [neekaru/instaloader](https://github.com/neekaru/instaloader) - Download pictures (or videos) along with their captions and other metadata from Instagram.
 - [cccaaannn/telegram_youtube_downloader](https://github.com/cccaaannn/telegram_youtube_downloader) - Telegram bot for downloading video or audio from multiple sites.
 - [SerxUp/super-dl](https://github.com/SerxUp/super-dl) - A simple video/audio downloader
@@ -616,7 +616,7 @@
 - [shibing624/parrots](https://github.com/shibing624/parrots) - Automatic Speech Recognition(ASR), Text-To-Speech(TTS) engine. 中英语音识别、多角色语音合成，支持多语言，准确率高
 - [TechShreyash/BetterTGStreamer](https://github.com/TechShreyash/BetterTGStreamer) - Transform video files into seamless M3U8 streams with Better TG Streamer! Supports multiple hosts, unlimited uploads, and features a robust bot, streaming API, and database integration.
 - [TechShreyash/TechZIndex](https://github.com/TechShreyash/TechZIndex) - Index Telegram Channel Over Internet
-- [KurimuzonAkuma/kurigram](https://github.com/KurimuzonAkuma/kurigram) - A Pyrogram fork with lots of features (Gifts, Stories, Topics and more).
+- [KurimuzonAkuma/kurigram](https://github.com/KurimuzonAkuma/kurigram) - Kurigram — actively maintained Pyrogram fork with support for Gifts, Stories, Topics, business features and the latest Telegram updates.
 - [KiLJ4EdeN/train-tesseract4-persian](https://github.com/KiLJ4EdeN/train-tesseract4-persian) - Train Tesseract 4 for persian
 - [HKPROJECTS/aiokoyeb](https://github.com/HKPROJECTS/aiokoyeb) - Python API client for Koyeb
 - [weebzone/Surf-TG](https://github.com/weebzone/Surf-TG) - Python Web App which Indexes a Your Telegram Channel and Serves its Files for Download and Stream.
