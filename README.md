@@ -77,6 +77,7 @@
 
 ## C++ 
 
+- [mhogomchungu/media-downloader](https://github.com/mhogomchungu/media-downloader) - Media Downloader is a Qt/C++ front end to yt-dlp, youtube-dl, gallery-dl, lux, you-get, svtplay-dl, aria2c, wget and safari books..
 - [ServeurpersoCom/omnivoice.cpp](https://github.com/ServeurpersoCom/omnivoice.cpp) - Local AI text-to-speech with voice cloning and voice design, powered by GGML. C++17 port of OmniVoice (k2-fsa/OmniVoice). 646 languages, 24 kHz mono output, runs on CPU, CUDA, ROCm, Metal, Vulkan.
 - [gyroing/PiperTTS-HaikuOS](https://github.com/gyroing/PiperTTS-HaikuOS) - Natural human voice  offline tts (piper tts)
 - [mkleehammer/pyodbc](https://github.com/mkleehammer/pyodbc) - Python ODBC bridge
@@ -516,6 +517,7 @@
 
 ## Python 
 
+- [SUDEEPBOTS/SudeepGram](https://github.com/SUDEEPBOTS/SudeepGram) - Elegant, modern and asynchronous Telegram MTProto API framework in Python for users and bots
 - [Unrud/video-downloader](https://github.com/Unrud/video-downloader) - Download videos from websites like YouTube and many others (based on yt-dlp)
 - [neekaru/instaloader](https://github.com/neekaru/instaloader) - Download pictures (or videos) along with their captions and other metadata from Instagram.
 - [cccaaannn/telegram_youtube_downloader](https://github.com/cccaaannn/telegram_youtube_downloader) - Telegram bot for downloading video or audio from multiple sites.
