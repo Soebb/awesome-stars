@@ -131,6 +131,7 @@
 
 ## Go 
 
+- [DockerContainerService/image-save](https://github.com/DockerContainerService/image-save) - Dockerlessed image save tool, Save docker image to local without docker daemon
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 - [biisal/fast-stream-bot](https://github.com/biisal/fast-stream-bot) - A lightweight fast telegram file streaming bot in go
 - [asdfzxcvbn/TeleURLUploader](https://github.com/asdfzxcvbn/TeleURLUploader) - the most demure url uploader written in go
@@ -232,6 +233,7 @@
 
 ## JavaScript 
 
+- [helloyanis/media-downloader-unleashed](https://github.com/helloyanis/media-downloader-unleashed) - A browser extension to download music and videos from the websites you visit!
 - [aandrew-me/ytDownloader](https://github.com/aandrew-me/ytDownloader) - Desktop App for downloading Videos and Audios from hundreds of sites
 - [vanshcz/GitHubZipBot](https://github.com/vanshcz/GitHubZipBot) - GitHubZipBot For Telegram
 - [pallets-eco/flask-debugtoolbar](https://github.com/pallets-eco/flask-debugtoolbar) - A toolbar overlay for debugging Flask applications
