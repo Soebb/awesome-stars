@@ -529,7 +529,7 @@
 - [Soebb/VideOCR-Telegram-bot](https://github.com/Soebb/VideOCR-Telegram-bot) - Extract hardcoded subtitles from videos using PaddleOCR or GoogleLens. Supports 200+ languages.
 - [FALKON-CODE/Telegram-Mirror](https://github.com/FALKON-CODE/Telegram-Mirror) - دسترسی و دانلود محتوای کانال‌های تلگرام بدون فیلتر، مستقیم از گیتهاب(اینترنت ملی)
 - [theskumar/python-dotenv](https://github.com/theskumar/python-dotenv) - Reads key-value pairs from a .env file and can set them as environment variables. It helps in developing applications following the 12-factor principles.
-- [wiltodelta/remove-ai-watermarks](https://github.com/wiltodelta/remove-ai-watermarks) - CLI and Python library to strip visible and invisible AI watermarks and provenance metadata (SynthID, C2PA, EXIF/XMP "Made with AI", Gemini sparkle) from AI-generated images
+- [wiltodelta/remove-ai-watermarks](https://github.com/wiltodelta/remove-ai-watermarks) - AI watermark remover. CLI and Python library to strip visible and invisible AI watermarks (Gemini / Nano Banana sparkle, SynthID) and provenance metadata (C2PA, EXIF, IPTC) from images.
 - [yashhere/BeautifyMP3](https://github.com/yashhere/BeautifyMP3) - A command line tool for fixing ID3 metadata and adding Album Art to MP3 songs
 - [kiriya55/VideOCRplus](https://github.com/kiriya55/VideOCRplus) - Extract hardcoded subtitles from videos via a simple GUI using machine learning. Supports 200+ languages.
 - [jeanslack/Vidtuber](https://github.com/jeanslack/Vidtuber) - A simple yet comprehensive, cross-platform GUI for yt-dlp
