@@ -169,6 +169,7 @@
 
 ## HTML 
 
+- [bennyscripts/flask-file-hosting](https://github.com/bennyscripts/flask-file-hosting) - File host created in flask for one person. Great for an easy way to move files in your network.
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [AnshumanPM/Stream-Site-Backend](https://github.com/AnshumanPM/Stream-Site-Backend) - Website which can stream videos directly on the browser.
 - [jalammar/jalammar.github.io](https://github.com/jalammar/jalammar.github.io) - Build a Jekyll blog in minutes, without touching the command line.
@@ -562,7 +563,7 @@
 - [NTFSvolume/mega.py](https://github.com/NTFSvolume/mega.py) - Python library for https://mega.nz and https://transfer.it API
 - [timminator/Chrome-Lens-OCR](https://github.com/timminator/Chrome-Lens-OCR) - Library to use Google Lens OCR for free from the command line, via the API used in Chromium!
 - [cxyfer/GeminiASR](https://github.com/cxyfer/GeminiASR) - A Python tool that uses Google Gemini API to transcribe video or audio files into SRT subtitle files.
-- [patterniha/Serverless-for-Iran](https://github.com/patterniha/Serverless-for-Iran) - حداکثر تلاش برای استفاده از اینترنت آزاد و بدون محدودیت بدون استفاده از هیچ سروری
+- [patterniha/Serverless-for-Iran](https://github.com/patterniha/Serverless-for-Iran) - دسترسی مستقیم و بدون واسطه به اینترنت آزاد
 - [tveronesi/imdbinfo](https://github.com/tveronesi/imdbinfo) - A Python package to fetch and manage IMDb movie information easily.
 - [Phr33d0m/subtitle-tools](https://github.com/Phr33d0m/subtitle-tools) - A collection of highly opinionated Python scripts for parallel processing video files, extracting subtitles, managing attachments, and performing OCR on hardcoded subtitles.
 - [Ilia-Abolhasani/downloader-telegram-bot](https://github.com/Ilia-Abolhasani/downloader-telegram-bot) - A simple Telegram bot that downloads Instagram videos — even from private or age-restricted posts (with session cookie).   Built with Python, `telebot`, and `yt-dlp`, this bot makes downloading videos
