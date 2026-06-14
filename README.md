@@ -351,6 +351,7 @@
 
 ## Kotlin 
 
+- [RisorseArtificiali/anti-vocale](https://github.com/RisorseArtificiali/anti-vocale) - Android app for transcribing voice messages locally on-device, with no internet required.
 - [JunkFood02/Seal](https://github.com/JunkFood02/Seal) - 🦭 Video/Audio Downloader for Android, based on yt-dlp
 - [subinps/TelePlay](https://github.com/subinps/TelePlay) - A self-hosted media streaming solution that lets you store, organize, and stream your video files from Telegram Servers. Access your media library from anywhere via a web interface or Android TV app /
 - [LibChecker/LibChecker](https://github.com/LibChecker/LibChecker) - An app to view libraries used in apps in your device.
