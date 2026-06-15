@@ -1062,7 +1062,7 @@
 - [jsavargas/telethon_downloader](https://github.com/jsavargas/telethon_downloader) - 
 - [mandrelbrotset/chat-room](https://github.com/mandrelbrotset/chat-room) - GUI group chat for computers in the same network. The server and the client program both have a GUI.
 - [skorokithakis/shortuuid](https://github.com/skorokithakis/shortuuid) - A generator library for concise, unambiguous and URL-safe UUIDs.
-- [father-bot/chatgpt_telegram_bot](https://github.com/father-bot/chatgpt_telegram_bot) - 💬 Telegram bot with ChatGPT, Python-based, using OpenAI's API.
+- [father-bot/chatgpt_telegram_bot](https://github.com/father-bot/chatgpt_telegram_bot) - 💬 Telegram bot with ChatGPT & Claude Python-based, using OpenAI's API.
 - [theos-ai/easy-paddle-ocr](https://github.com/theos-ai/easy-paddle-ocr) - This a clean and easy-to-use implementation of Paddle OCR. Made with ❤️ by Theos AI.
 - [vi/mkvparse](https://github.com/vi/mkvparse) - Simple Python matroska (mkv) reading library, also mkv2xml and xml2mkv
 - [ALIILAPRO/yun-ir](https://github.com/ALIILAPRO/yun-ir) - A Python client for https://Yun.ir URL shortener API.
