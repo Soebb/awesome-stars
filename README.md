@@ -521,6 +521,7 @@
 
 ## Python 
 
+- [Tatsh/instagram-archiver](https://github.com/Tatsh/instagram-archiver) - Save Instagram content you have access to.
 - [JuanBindez/pytubefix](https://github.com/JuanBindez/pytubefix) - Python3 library for downloading YouTube Videos.
 - [SUDEEPBOTS/SudeepGram](https://github.com/SUDEEPBOTS/SudeepGram) - Elegant, modern and asynchronous Telegram MTProto API framework in Python for users and bots
 - [Unrud/video-downloader](https://github.com/Unrud/video-downloader) - Download videos from websites like YouTube and many others (based on yt-dlp)
@@ -2670,7 +2671,6 @@
 ## TypeScript 
 
 - [jamiepine/voicebox](https://github.com/jamiepine/voicebox) - The open-source AI voice studio. Clone, dictate, create.
-- [nezort11/video-translate-bot](https://github.com/nezort11/video-translate-bot) - 📺🌍🗣️🔄 FULL video translator (IN: link, OUT: mp4) via Telegram bot, works for video, audio and voice (everything is free & self-hostable)
 - [bepass-org/oblivion-desktop](https://github.com/bepass-org/oblivion-desktop) - Oblivion Desktop - Unofficial Warp Client for Windows/Mac/Linux
 - [sajjadmrx/btime-desktop](https://github.com/sajjadmrx/btime-desktop) - ویجت نمایش تاریخ و آب و هوا برای سیستم عامل های ویندوز،مک، لینوکس
 - [thewh1teagle/vibe](https://github.com/thewh1teagle/vibe) - Transcribe on your own!
