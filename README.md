@@ -521,6 +521,7 @@
 
 ## Python 
 
+- [DevURANIUM/Saveit](https://github.com/DevURANIUM/Saveit) - This script automatically saves timed (self-destructing) photos in Telegram chats before they disappear. It efficiently detects and stores these images, providing a backup solution for users who want 
 - [Tatsh/instagram-archiver](https://github.com/Tatsh/instagram-archiver) - Save Instagram content you have access to.
 - [JuanBindez/pytubefix](https://github.com/JuanBindez/pytubefix) - Python3 library for downloading YouTube Videos.
 - [SUDEEPBOTS/SudeepGram](https://github.com/SUDEEPBOTS/SudeepGram) - Elegant, modern and asynchronous Telegram MTProto API framework in Python for users and bots
