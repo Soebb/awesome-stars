@@ -1595,7 +1595,7 @@
 - [htaghizadeh/PersianStemmer-Python](https://github.com/htaghizadeh/PersianStemmer-Python) - PersianStemmer-Python
 - [szbots/Image-Tool](https://github.com/szbots/Image-Tool) - Image Tooᥣs Bot I specialize for logo design  Services with Amazing logo  Creator Platform and  more tools
 - [Crazy-Marvin/QRTelegramBot](https://github.com/Crazy-Marvin/QRTelegramBot) - A bot for Telegram that can create and read QR codes
-- [mehotkhan/persian-word-cloud](https://github.com/mehotkhan/persian-word-cloud) - Persian Word Cloud generator
+- [mohetios/persian-word-cloud](https://github.com/mohetios/persian-word-cloud) - Persian Word Cloud generator
 - [Qiamast/ImarchBot](https://github.com/Qiamast/ImarchBot) - I'm ImarchBot 👋🏻😎 Image + Search  . a inline image searching tool for Telegram and  use Google Api for image  Searching.
 - [Qiamast/IGSEBot](https://github.com/Qiamast/IGSEBot) - inline Google searching tool for Telegram
 - [coder2020official/telebot_template](https://github.com/coder2020official/telebot_template) - Template for synchronous implementation of telebot
