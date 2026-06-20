@@ -649,7 +649,7 @@
 - [shine-jayakumar/insta-likecom-bot](https://github.com/shine-jayakumar/insta-likecom-bot) - Automates likes and comments on an instagram account or tag
 - [sayak-brm/espeakng-python](https://github.com/sayak-brm/espeakng-python) - An eSpeak NG TTS binding for Python3.
 - [FlorianEagox/WeeaBlind](https://github.com/FlorianEagox/WeeaBlind) - A program to dub non-english media with modern AI speech synthesis, diarization, and voice cloning!
-- [diezo/Ensta](https://github.com/diezo/Ensta) - 🔥 Fast & Reliable Python Package For Instagram API - 2024
+- [diezo/Ensta](https://github.com/diezo/Ensta) - 🔥 Python Library for Instagram Web & Mobile API Integration
 - [borisbabic/browser_cookie3](https://github.com/borisbabic/browser_cookie3) - This is a fork of browser_cookie
 - [abhinavsingh/proxy.py](https://github.com/abhinavsingh/proxy.py) - 💫 Ngrok FRP Alternative • ⚡ Fast • 🪶 Lightweight • 0️⃣ Dependency • 🔌 Pluggable • 😈 TLS interception • 🔒 DNS-over-HTTPS • 🔥 Poor Man's VPN • ⏪ Reverse & ⏩ Forward • 👮🏿 "Proxy Server" framework • 🌐 "We
 - [jundymek/free-proxy](https://github.com/jundymek/free-proxy) - Free proxy scraper written in python. It is pypi library - free to use.
