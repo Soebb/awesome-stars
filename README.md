@@ -421,7 +421,7 @@
 - [dkncus/CrowdRemoval](https://github.com/dkncus/CrowdRemoval) - 
 - [Cozy-Tech/regex_tutorial_and_examples](https://github.com/Cozy-Tech/regex_tutorial_and_examples) - 
 - [Hameds/IranCountryDivisions](https://github.com/Hameds/IranCountryDivisions) - Iran Country Divisions - کلیه تقسیمات کشوری ایران تا سطح آبادی بر اساس اطلاعات مرکز آمار ایران
-- [MrBotDeveloper/This-Repo-Has-119-Stars](https://github.com/MrBotDeveloper/This-Repo-Has-119-Stars) - Yes it's true :broken_heart:, currently it has 119 stars ⭐ and 21 forks 🍴.
+- [MrBotDeveloper/This-Repo-Has-118-Stars](https://github.com/MrBotDeveloper/This-Repo-Has-118-Stars) - Yes it's true :broken_heart:, currently it has 118 stars ⭐ and 21 forks 🍴.
 - [ahmadazizi/iran-cities](https://github.com/ahmadazizi/iran-cities) - The most accurate database of city, county, village and province names of Iran.
 - [iranremote/awesome-iran-remote](https://github.com/iranremote/awesome-iran-remote) - A list of remote-friendly or full-remote companies that targets iranian talents.
 - [Blatzar/scraping-tutorial](https://github.com/Blatzar/scraping-tutorial) - Tutorial for scraping streaming sites
