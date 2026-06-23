@@ -521,6 +521,7 @@
 
 ## Python 
 
+- [timminator/PaddleOCR-Standalone](https://github.com/timminator/PaddleOCR-Standalone) - Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages. Now as a standalone exe
 - [DevURANIUM/Saveit](https://github.com/DevURANIUM/Saveit) - This script automatically saves timed (self-destructing) photos in Telegram chats before they disappear. It efficiently detects and stores these images, providing a backup solution for users who want 
 - [Tatsh/instagram-archiver](https://github.com/Tatsh/instagram-archiver) - Save Instagram content you have access to.
 - [JuanBindez/pytubefix](https://github.com/JuanBindez/pytubefix) - Python3 library for downloading YouTube Videos.
