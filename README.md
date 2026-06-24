@@ -521,6 +521,7 @@
 
 ## Python 
 
+- [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) - Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
 - [timminator/PaddleOCR-Standalone](https://github.com/timminator/PaddleOCR-Standalone) - Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages. Now as a standalone exe
 - [DevURANIUM/Saveit](https://github.com/DevURANIUM/Saveit) - This script automatically saves timed (self-destructing) photos in Telegram chats before they disappear. It efficiently detects and stores these images, providing a backup solution for users who want 
 - [Tatsh/instagram-archiver](https://github.com/Tatsh/instagram-archiver) - Save Instagram content you have access to.
@@ -1155,7 +1156,7 @@
 - [danielgatis/docscan](https://github.com/danielgatis/docscan) - Docscan is a document scanner. Take a photo of your documents and frame it.
 - [NicolasCwy/Stitch-Telegram-Bot](https://github.com/NicolasCwy/Stitch-Telegram-Bot) - 
 - [eddieoz/youtube-clips-automator](https://github.com/eddieoz/youtube-clips-automator) - MARCELO: an AI powered bot to automate the editing and thumbnail creation for your Youtube clips channel
-- [Alyetama/Ray-Image](https://github.com/Alyetama/Ray-Image) - Fast image compression for large number of images with Ray library
+- [Alyetama/Ray-Image](https://github.com/Alyetama/Ray-Image) - 🚀 Fast parallel image compression for large numbers of images, powered by Ray.
 - [Alyetama/internetarchive-youtube](https://github.com/Alyetama/internetarchive-youtube) - 🚀 GitHub Action and CLI tool to archive YouTube channels by uploading the channel's videos to archive.org
 - [YuliangXiu/ICON](https://github.com/YuliangXiu/ICON) - [CVPR'22] ICON: Implicit Clothed humans Obtained from Normals
 - [mpotane/PythonScriptPH](https://github.com/mpotane/PythonScriptPH) - 🤖🕹💸A collection of Python scripts to help you learn the language. 🇵🇭.
