@@ -1697,7 +1697,6 @@
 - [hyPnOtICDo0g/rss-chan](https://github.com/hyPnOtICDo0g/rss-chan) - A telegram RSS feed reader bot, written using python and feedparser.
 - [diwu1989/Fake-Headers](https://github.com/diwu1989/Fake-Headers) - Simple headers generator for requests lib
 - [dmitzsaz/deezer-grabber](https://github.com/dmitzsaz/deezer-grabber) - Download any track from deezer in CD quality
-- [devalv/repo-cloner](https://github.com/devalv/repo-cloner) - 
 - [Faouzizi/Insta_logo_finder](https://github.com/Faouzizi/Insta_logo_finder) - 
 - [solankiravi/Python](https://github.com/solankiravi/Python) - 
 - [rohwid/learn-database-python](https://github.com/rohwid/learn-database-python) - My personal notes when learn Databases
