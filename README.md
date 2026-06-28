@@ -192,6 +192,7 @@
 - [khalby786/REHeader](https://github.com/khalby786/REHeader) - Generate beautiful header images for your GitHub profile READMEs.
 - [rkaissi/Youtube-Video-Downloader](https://github.com/rkaissi/Youtube-Video-Downloader) - Convert a YouTube video or playlist to an MP3 audio or MP4 video format. Includes conversion history when signed in.
 - [itsh3sam/NovaFilm](https://github.com/itsh3sam/NovaFilm) - A django movie website.
+- [cinemagoer/cinemagoer](https://github.com/cinemagoer/cinemagoer) - Cinemagoer is a Python package useful to retrieve and manage the data of the IMDb (to which we are not affiliated in any way) movie database about movies, people and characters
 - [ImJanindu/imjanindu.github.io](https://github.com/ImJanindu/imjanindu.github.io) - Simple portfolio website
 - [donno2048/win95.exe](https://github.com/donno2048/win95.exe) - Microsoft Windows 95 as an executable (using python and pyinstaller)
 - [DustbinServer/Dustbin](https://github.com/DustbinServer/Dustbin) - Just Another Text Storage Service.
@@ -1666,7 +1667,6 @@
 - [chiragarora01/Visual-Speech-To-Text-Team_Voyage](https://github.com/chiragarora01/Visual-Speech-To-Text-Team_Voyage) - 
 - [scrazzz/imgbbpy](https://github.com/scrazzz/imgbbpy) - An Asynchronous and Synchronous API Wrapper for the Imgbb API.
 - [Matin-B/ReadInTelegramBot](https://github.com/Matin-B/ReadInTelegramBot) - Access stored data in Pocket (GetPocket) via Telegram Bot
-- [cinemagoer/cinemagoer](https://github.com/cinemagoer/cinemagoer) - Cinemagoer is a Python package useful to retrieve and manage the data of the IMDb (to which we are not affiliated in any way) movie database about movies, people, characters and companies
 - [kaarne/splitgram](https://github.com/kaarne/splitgram) - Telegram bot for cost splitting
 - [GameGodS3/rSlashBot](https://github.com/GameGodS3/rSlashBot) - Send name of a subreddit, and this Telegram bot will fetch you the latest post in it.
 - [ItsNotGoodName/email-to-telegram](https://github.com/ItsNotGoodName/email-to-telegram) - Telegram bot that reads a mail file and forwards to Telegram chat.
