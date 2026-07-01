@@ -522,6 +522,8 @@
 
 ## Python 
 
+- [Linuxmaster14/TGForwarder](https://github.com/Linuxmaster14/TGForwarder) - TGForwarder is a self-hosted message forwarding tool for Telegram. It uses your bot token to monitor a source chat (channel, group, or private) and forwards all messages to a specified destination. Pe
+- [GeiserX/Telegram-Archive](https://github.com/GeiserX/Telegram-Archive) - Own your Telegram history. Automated, incremental backups with a local web viewer that feels just like the real app. Docker-ready and supports public chat sharing
 - [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) - Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
 - [timminator/PaddleOCR-Standalone](https://github.com/timminator/PaddleOCR-Standalone) - Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages. Now as a standalone exe
 - [DevURANIUM/Saveit](https://github.com/DevURANIUM/Saveit) - This script automatically saves timed (self-destructing) photos in Telegram chats before they disappear. It efficiently detects and stores these images, providing a backup solution for users who want 
@@ -737,7 +739,7 @@
 - [usernein/activate-virtualenv](https://github.com/usernein/activate-virtualenv) - Context manager to activate and deactivate Python virtualenvs programatically
 - [Alnyz/NewApkPure](https://github.com/Alnyz/NewApkPure) - Search and download applications from apkpure.com
 - [sirfz/tesserocr](https://github.com/sirfz/tesserocr) - A Python wrapper for the tesseract-ocr API
-- [simonw/shot-scraper](https://github.com/simonw/shot-scraper) - A command-line utility for taking automated screenshots of websites
+- [simonw/shot-scraper](https://github.com/simonw/shot-scraper) - A CLI utility for taking screenshots of websites, recording video demos and scraping sites using JavaScript
 - [MycroftAI/mimic3](https://github.com/MycroftAI/mimic3) - A fast local neural text to speech engine for Mycroft
 - [moi15moi/ass_tag_analyzer](https://github.com/moi15moi/ass_tag_analyzer) - A Python library for serialization and deserialization of ASS subtitle file format tags markup.
 - [mahdikhashan/aparat-python](https://github.com/mahdikhashan/aparat-python) - Aparat VOD Platform API Wrapper
@@ -2622,6 +2624,7 @@
 
 ## Shell 
 
+- [Linuxmaster14/telepipe](https://github.com/Linuxmaster14/telepipe) - A simple command-line utility to send messages to Telegram
 - [nimiology/nginx-wizard](https://github.com/nimiology/nginx-wizard) - interactive Bash wizard that configures Nginx with SSL (Let's Encrypt), WebSocket support, reverse proxy, and static/media file serving — perfect for Django or Docker deployments.
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [fzerorubigd/persian-fonts-linux](https://github.com/fzerorubigd/persian-fonts-linux) - Persian fonts installer for linux
