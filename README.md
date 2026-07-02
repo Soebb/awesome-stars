@@ -77,6 +77,7 @@
 
 ## C++ 
 
+- [Tatsh/bpmdetect](https://github.com/Tatsh/bpmdetect) - Automatic BPM (beats per minute) detection utility.
 - [mhogomchungu/media-downloader](https://github.com/mhogomchungu/media-downloader) - Media Downloader is a Qt/C++ front end to yt-dlp, youtube-dl, gallery-dl, lux, you-get, svtplay-dl, aria2c, wget and safari books..
 - [ServeurpersoCom/omnivoice.cpp](https://github.com/ServeurpersoCom/omnivoice.cpp) - Local AI text-to-speech with voice cloning and voice design, powered by GGML. C++17 port of OmniVoice (k2-fsa/OmniVoice). 646 languages, 24 kHz mono output, runs on CPU, CUDA, ROCm, Metal, Vulkan.
 - [gyroing/PiperTTS-HaikuOS](https://github.com/gyroing/PiperTTS-HaikuOS) - Natural human voice  offline tts (piper tts)
@@ -812,7 +813,6 @@
 - [coderholic/pyradio](https://github.com/coderholic/pyradio) - Curses based internet radio player
 - [jnsougata/opentube](https://github.com/jnsougata/opentube) - Access YouTube Public Data without YouTubeAPI
 - [david-lev/pywa](https://github.com/david-lev/pywa) - 🤖 Hey there! I am using PyWa.
-- [mo1ein/Golchin](https://github.com/mo1ein/Golchin) - Golchin is a telegram bot that extract English words from file and translate it to Persian.
 - [mo1ein/TelegramArchive](https://github.com/mo1ein/TelegramArchive) - Export telegram chats.
 - [rany2/edge-tts](https://github.com/rany2/edge-tts) - Use Microsoft Edge's online text-to-speech service from Python WITHOUT needing Microsoft Edge or Windows or an API key
 - [hynek/environ-config](https://github.com/hynek/environ-config) - Python Application Configuration With Environment Variables
@@ -1309,7 +1309,7 @@
 - [mohammad-sky/WhatsApp-Messenger](https://github.com/mohammad-sky/WhatsApp-Messenger) - Send each user's file to his WhatsApp account or send a file to a large number of users
 - [dan-da/py2php](https://github.com/dan-da/py2php) - py2php is a utility that will auto-translate python code into PHP code.
 - [hastagAB/Awesome-Python-Scripts](https://github.com/hastagAB/Awesome-Python-Scripts) - A Curated list of Awesome Python Scripts that Automate Stuffs.
-- [AliEslah/subtitle-translator](https://github.com/AliEslah/subtitle-translator) - Collective translation of subtitles of a folder and its sub-categories into Persian
+- [AliEslah/subtitle-translator](https://github.com/AliEslah/subtitle-translator) - Python CLI experiment for batch subtitle translation to Persian.
 - [AndersonFrossard/whatsapp-video](https://github.com/AndersonFrossard/whatsapp-video) - 
 - [gbstack/ffprobe-python](https://github.com/gbstack/ffprobe-python) - A wrapper of ffprobe command to extract metadata from media files.
 - [clagiordano/python3-logger](https://github.com/clagiordano/python3-logger) - Library for logging facility
