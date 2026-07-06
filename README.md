@@ -353,6 +353,7 @@
 
 ## Kotlin 
 
+- [teidesu/inugram](https://github.com/teidesu/inugram) - a very cool and dog-pilled fork (or rather, patchset) of Telegram Android
 - [AzeemIdrisi/InstaLoaderApp](https://github.com/AzeemIdrisi/InstaLoaderApp) - Instagram Bulk Media Downloader for Android based on instaloader
 - [RisorseArtificiali/anti-vocale](https://github.com/RisorseArtificiali/anti-vocale) - Android app for transcribing voice messages locally on-device, with no internet required.
 - [JunkFood02/Seal](https://github.com/JunkFood02/Seal) - 🦭 Video/Audio Downloader for Android, based on yt-dlp
