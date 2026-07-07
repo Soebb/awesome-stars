@@ -219,6 +219,7 @@
 
 ## Java 
 
+- [NextAlone/Nagram](https://github.com/NextAlone/Nagram) - The third-party Telegram android app.
 - [CodeBySonu95/VoxSherpa-TTS](https://github.com/CodeBySonu95/VoxSherpa-TTS) - 🎙️ VoxSherpa TTS   Offline Neural Text-to-Speech Engine for Android  ⚡ Sherpa-ONNX powered   🔊 Natural voice synthesis   📱 Fully offline processing   🚀 No cloud • No limits
 - [monogram-android/monogram](https://github.com/monogram-android/monogram) - Native Telegram client for Android based on TDLib
 - [bepass-org/oblivion](https://github.com/bepass-org/oblivion) - Unofficial warp client for android
@@ -525,6 +526,7 @@
 
 ## Python 
 
+- [rjriajul/wzgram](https://github.com/rjriajul/wzgram) - wzgram — Modern Pyrogram fork with Gifts, Stories, Topics, Business features & latest Telegram API support
 - [Linuxmaster14/TGForwarder](https://github.com/Linuxmaster14/TGForwarder) - TGForwarder is a self-hosted message forwarding tool for Telegram. It uses your bot token to monitor a source chat (channel, group, or private) and forwards all messages to a specified destination. Pe
 - [GeiserX/Telegram-Archive](https://github.com/GeiserX/Telegram-Archive) - Own your Telegram history. Automated, incremental backups with a local web viewer that feels just like the real app. Docker-ready and supports public chat sharing
 - [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) - Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
