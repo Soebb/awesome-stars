@@ -526,6 +526,7 @@
 
 ## Python 
 
+- [Cyberdrop-DL/cyberdrop-dl](https://github.com/Cyberdrop-DL/cyberdrop-dl) - Bulk asynchronous downloader for multiple file hosts
 - [rjriajul/wzgram](https://github.com/rjriajul/wzgram) - wzgram — Modern Pyrogram fork with Gifts, Stories, Topics, Business features & latest Telegram API support
 - [Linuxmaster14/TGForwarder](https://github.com/Linuxmaster14/TGForwarder) - TGForwarder is a self-hosted message forwarding tool for Telegram. It uses your bot token to monitor a source chat (channel, group, or private) and forwards all messages to a specified destination. Pe
 - [GeiserX/Telegram-Archive](https://github.com/GeiserX/Telegram-Archive) - Own your Telegram history. Automated, incremental backups with a local web viewer that feels just like the real app. Docker-ready and supports public chat sharing
