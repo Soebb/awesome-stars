@@ -132,6 +132,7 @@
 
 ## Go 
 
+- [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
 - [DockerContainerService/image-save](https://github.com/DockerContainerService/image-save) - Dockerlessed image save tool, Save docker image to local without docker daemon
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 - [biisal/fast-stream-bot](https://github.com/biisal/fast-stream-bot) - A lightweight fast telegram file streaming bot in go
@@ -238,6 +239,7 @@
 
 ## JavaScript 
 
+- [IRNova/Nova-Proxy](https://github.com/IRNova/Nova-Proxy) - یک پنل گرافیکی کاربردی برای ارائه اشتراک‌های Worker با پروکسی‌های ، Trojan و Warp به همراه زنجیره پروکسی، ارائه دهنده تنظیمات کامل DNS، IP تمیز و روتینگ پیشرفته برای کاربران تمامی پلتفرم‌ها با استفاده
 - [helloyanis/media-downloader-unleashed](https://github.com/helloyanis/media-downloader-unleashed) - A browser extension to download music and videos from the websites you visit!
 - [aandrew-me/ytDownloader](https://github.com/aandrew-me/ytDownloader) - Desktop App for downloading Videos and Audios from hundreds of sites
 - [vanshcz/GitHubZipBot](https://github.com/vanshcz/GitHubZipBot) - GitHubZipBot For Telegram
@@ -355,6 +357,7 @@
 
 ## Kotlin 
 
+- [DavidVentura/offline-translator](https://github.com/DavidVentura/offline-translator) - Use Firefox Translation Models for on-device translation on Android
 - [teidesu/inugram](https://github.com/teidesu/inugram) - a very cool and dog-pilled fork (or rather, patchset) of Telegram Android
 - [AzeemIdrisi/InstaLoaderApp](https://github.com/AzeemIdrisi/InstaLoaderApp) - Instagram Bulk Media Downloader for Android based on instaloader
 - [RisorseArtificiali/anti-vocale](https://github.com/RisorseArtificiali/anti-vocale) - Android app for transcribing voice messages locally on-device, with no internet required.
@@ -1818,7 +1821,7 @@
 - [mhezarei/ai-bot](https://github.com/mhezarei/ai-bot) - 2020 AI bot challenge (ai-bot.ir) repository. This program answers a given question with a specific format and subject.
 - [Hesbadami/Footballemrooz](https://github.com/Hesbadami/Footballemrooz) - Scrape data on all soccer matches daily, and create a stylized image containing info on today's matches (e.g. kick-off time and broadcasters).
 - [boppreh/keyboard](https://github.com/boppreh/keyboard) - Hook and simulate global keyboard events on Windows and Linux.
-- [majiidd/persiantools](https://github.com/majiidd/persiantools) - Jalali date and datetime with other tools
+- [majiidd/persiantools](https://github.com/majiidd/persiantools) - Jalali (Shamsi/Persian) date and datetime with Persian digits and character utilities
 - [om1ji/autouploadbot](https://github.com/om1ji/autouploadbot) - Automatic YouTube media uploader. Sends audio files to user-defined Telegram channels
 - [Clinton-Abraham/pyrogram](https://github.com/Clinton-Abraham/pyrogram) - 
 - [kylepw/cropper](https://github.com/kylepw/cropper) - URL shortener API example in Django REST framework.
@@ -2612,6 +2615,7 @@
 
 ## Rust 
 
+- [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura) - The headless browser for AI agents and web scraping
 - [zackees/running-process](https://github.com/zackees/running-process) - A python subprocess replacement written in rust - track zombie processes, launch PTY and more
 - [persian-rust/book](https://github.com/persian-rust/book) - The Rust Programming Language Book - Persian Edition
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
