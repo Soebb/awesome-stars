@@ -1202,7 +1202,7 @@
 - [TronUb/Tron](https://github.com/TronUb/Tron) - A modern telegram userbot based on pyrogram, light weight and smooth
 - [alvicsam/ytap-python](https://github.com/alvicsam/ytap-python) - 
 - [Masterolic/Spotify-Downloader](https://github.com/Masterolic/Spotify-Downloader) - A telegram bot to download Spotify songs from yt and saavn
-- [Matin-B/TwiDLBot](https://github.com/Matin-B/TwiDLBot) - A simple Telegram bot for downloading tweets from Twitter (Based on TwiGram library).
+- [Matin-B/TwiDLBot](https://github.com/Matin-B/TwiDLBot) - A high-performance, self-hosted Telegram bot for downloading media from X (formerly Twitter) based on TwiGram library.
 - [TheCaduceus/CloneBot_V2](https://github.com/TheCaduceus/CloneBot_V2) - The Powerful Telegram Bot based on Gclone to clone Google Drive's Shared Drive data easily.🔥
 - [platelminto/parse-torrent-title](https://github.com/platelminto/parse-torrent-title) - Extract media information from a torrent-like filename
 - [nktknshn/tgmount](https://github.com/nktknshn/tgmount) - Mount Telegram dialogs and channels as a Virtual File System.
