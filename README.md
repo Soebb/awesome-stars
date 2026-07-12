@@ -540,7 +540,6 @@
 - [JuanBindez/pytubefix](https://github.com/JuanBindez/pytubefix) - Python3 library for downloading YouTube Videos.
 - [SUDEEPBOTS/SudeepGram](https://github.com/SUDEEPBOTS/SudeepGram) - Elegant, modern and asynchronous Telegram MTProto API framework in Python for users and bots
 - [Unrud/video-downloader](https://github.com/Unrud/video-downloader) - Download videos from websites like YouTube and many others (based on yt-dlp)
-- [neekaru/instaloader](https://github.com/neekaru/instaloader) - Download pictures (or videos) along with their captions and other metadata from Instagram.
 - [cccaaannn/telegram_youtube_downloader](https://github.com/cccaaannn/telegram_youtube_downloader) - Telegram bot for downloading video or audio from multiple sites.
 - [SerxUp/super-dl](https://github.com/SerxUp/super-dl) - A simple video/audio downloader
 - [bropines/chrome-lens-py](https://github.com/bropines/chrome-lens-py) - Library to use Google Lens OCR for free, via API used in Chromium on python.
