@@ -108,7 +108,7 @@
 ## Dart 
 
 - [code3-dev/CCloud-GUI](https://github.com/code3-dev/CCloud-GUI) - A modern, free, and unlimited Iranian Persian streaming platform.
-- [Begzar/BegzarApp](https://github.com/Begzar/BegzarApp) - Begzar, is a free software for internet freedom.
+- [Begzar/BegzarApp](https://github.com/Begzar/BegzarApp) - Begzar, is a vpn software made for internet freedom.
 - [partiallywritten/Bypasser-CLI](https://github.com/partiallywritten/Bypasser-CLI) - CLI for bypass.vip api
 - [DinoLeung/TeleDart](https://github.com/DinoLeung/TeleDart) - A Dart library interfacing with the latest Telegram Bot API.
 
@@ -529,6 +529,9 @@
 
 ## Python 
 
+- [dhyeyppatel/CT-Forwards](https://github.com/dhyeyppatel/CT-Forwards) - This bot can auto forward new message from multiple source id to target id in telegram.
+- [dhyeyppatel/Image-Hosting](https://github.com/dhyeyppatel/Image-Hosting) - 
+- [weebzone/Telegram-Stremio](https://github.com/weebzone/Telegram-Stremio) - A powerful, self-hosted Telegram Stremio Media Server built with FastAPI, MongoDB, and PyroFork — seamlessly integrated with Stremio for automated media streaming and discovery.
 - [Cyberdrop-DL/cyberdrop-dl](https://github.com/Cyberdrop-DL/cyberdrop-dl) - Bulk asynchronous downloader for multiple file hosts
 - [rjriajul/wzgram](https://github.com/rjriajul/wzgram) - wzgram — Modern Pyrogram fork with Gifts, Stories, Topics, Business features & latest Telegram API support
 - [Linuxmaster14/TGForwarder](https://github.com/Linuxmaster14/TGForwarder) - TGForwarder is a self-hosted message forwarding tool for Telegram. It uses your bot token to monitor a source chat (channel, group, or private) and forwards all messages to a specified destination. Pe
@@ -1357,7 +1360,7 @@
 - [wudududu/extract-video-ppt](https://github.com/wudududu/extract-video-ppt) - extract the ppt in the video
 - [schlopp96/PyLoadBar](https://github.com/schlopp96/PyLoadBar) - Customizeable loading sequence/progress bar generator, enabling users to customize start/finish messages, toggle sequence type, and set total iterations among other features.
 - [schlopp96/V2Mp3](https://github.com/schlopp96/V2Mp3) - Compact video-to-audio conversion tool with built-in YouTube video/audio download functionality. Currently only compatible with Windows-based systems.
-- [wanghaisheng/tiktoka-studio-uploader](https://github.com/wanghaisheng/tiktoka-studio-uploader) - Schedule and Publish contents erverywhere.Bulk auto video upload and Scheduling & Publishing Effortless for You & Your Entire Team. batch headless upload  all major social networks using this ultimate
+- [wanghaisheng/easy-uploader](https://github.com/wanghaisheng/easy-uploader) - Schedule and Publish contents erverywhere.Bulk auto video upload and Scheduling & Publishing Effortless for You & Your Entire Team. batch headless upload  all major social networks using this ultimate
 - [pycdr/WM](https://github.com/pycdr/WM) - WM (Watch Movie) is a video player that show it on the terminal as a text!
 - [setanarut/fif](https://github.com/setanarut/fif) - A command line tool for embedding any file into PNG, GIF, WAV file formats and decoding back.
 - [Numenorean/ShazamAPI](https://github.com/Numenorean/ShazamAPI) - Fully reverse engeenired shazam api
@@ -2139,7 +2142,6 @@
 - [abhijeetbhagat/mp4box](https://github.com/abhijeetbhagat/mp4box) - Python 3 port of the MP4Box tool
 - [derpferpmerp/ffmpeg-combine-directory](https://github.com/derpferpmerp/ffmpeg-combine-directory) - Combine all videos in current directory (Print out MP4Box Command)
 - [avilash/TikTokAPI-Python](https://github.com/avilash/TikTokAPI-Python) - TikTok API Python Wrapper
-- [subzeroid/instagrapi](https://github.com/subzeroid/instagrapi) - 🔥 The fastest and powerful Python library for Instagram Private API 2026 with HikerAPI SaaS
 - [yashrathi-git/vimeo-dl](https://github.com/yashrathi-git/vimeo-dl) - Downloads Vimeo videos and retrieve metadata such as views, likes, comments, duration of the video.
 - [jawah/charset_normalizer](https://github.com/jawah/charset_normalizer) - Truly universal encoding detector in pure Python.
 - [RincemonReji/RSS-Feed](https://github.com/RincemonReji/RSS-Feed) - 
