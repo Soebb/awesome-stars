@@ -239,6 +239,7 @@
 
 ## JavaScript 
 
+- [sadatrahman3/Universal-Video-Downloader](https://github.com/sadatrahman3/Universal-Video-Downloader) - 
 - [IRNova/Nova-Proxy](https://github.com/IRNova/Nova-Proxy) - یک پنل گرافیکی کاربردی برای ارائه اشتراک‌های Worker با پروکسی‌های ، Trojan و Warp به همراه زنجیره پروکسی، ارائه دهنده تنظیمات کامل DNS، IP تمیز و روتینگ پیشرفته برای کاربران تمامی پلتفرم‌ها با استفاده
 - [helloyanis/media-downloader-unleashed](https://github.com/helloyanis/media-downloader-unleashed) - A browser extension to download music and videos from the websites you visit!
 - [aandrew-me/ytDownloader](https://github.com/aandrew-me/ytDownloader) - Desktop App for downloading Videos and Audios from hundreds of sites
@@ -529,6 +530,9 @@
 
 ## Python 
 
+- [hetari/pyutube](https://github.com/hetari/pyutube) - A simple user friendly command line tool to download YouTube videos and playlists with fewer steps.
+- [fazi-gondal/Vidsaver](https://github.com/fazi-gondal/Vidsaver) - Vidsaver is a Flet-based video downloader for saving videos from supported social/video platforms to the device. It uses yt-dlp for download handling and provides a simple mobile/desktop UI for pastin
+- [secure-artifacts/Subtitled-video-Pro](https://github.com/secure-artifacts/Subtitled-video-Pro) - 非常好用和发展前景的字幕配置软件
 - [dhyeyppatel/CT-Forwards](https://github.com/dhyeyppatel/CT-Forwards) - This bot can auto forward new message from multiple source id to target id in telegram.
 - [dhyeyppatel/Image-Hosting](https://github.com/dhyeyppatel/Image-Hosting) - 
 - [weebzone/Telegram-Stremio](https://github.com/weebzone/Telegram-Stremio) - A powerful, self-hosted Telegram Stremio Media Server built with FastAPI, MongoDB, and PyroFork — seamlessly integrated with Stremio for automated media streaming and discovery.
