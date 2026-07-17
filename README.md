@@ -562,7 +562,7 @@
 - [NeuralFalconYT/omnivoice-colab](https://github.com/NeuralFalconYT/omnivoice-colab) - 
 - [k2-fsa/OmniVoice](https://github.com/k2-fsa/OmniVoice) - High-Quality Voice Cloning TTS for 600+ Languages
 - [Blaizzy/mlx-audio](https://github.com/Blaizzy/mlx-audio) - A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon.
-- [debpalash/OmniVoice-Studio](https://github.com/debpalash/OmniVoice-Studio) - The open-source ElevenLabs alternative for local voice cloning, design, create, dubbing and dictation Desktop App
+- [debpalash/OmniVoice-Studio](https://github.com/debpalash/OmniVoice-Studio) - Local voice clone, video dubbing, dictation and audiobook maker. The open-source ElevenLabs alternative.
 - [devgaganin/devgagantools](https://github.com/devgaganin/devgagantools) - This repository aimed to be fast uploading and fast downloading via Telethon (user and bots both supported)
 - [alltechdev/gplay-apk-downloader](https://github.com/alltechdev/gplay-apk-downloader) - Download APK files directly from Google Play Store.
 - [Garton/translategrambot](https://github.com/Garton/translategrambot) - 🌐 Sophisticated Telegram translator bot with automatic language detection, 50+ language pairs, and Helsinki-NLP models. Built with FastAPI, aiogram, and transformers.
@@ -1517,7 +1517,7 @@
 - [kordaki/IRFriendsTelBot](https://github.com/kordaki/IRFriendsTelBot) - Fun telegram bot for IRFriends telegram group :)
 - [calganaygun/YoutubeTranscriber](https://github.com/calganaygun/YoutubeTranscriber) - Easily find words in YouTube videos.
 - [jyotidabass/document_text_recognition](https://github.com/jyotidabass/document_text_recognition) - 
-- [mindee/doctr](https://github.com/mindee/doctr) - docTR (Document Text Recognition) - a seamless, high-performing & accessible library for OCR-related tasks powered by Deep Learning.
+- [mindee/doctr](https://github.com/mindee/doctr) - docTR (Document Text Recognition) - a seamless, high-performing & accessible library for OCR-related tasks powered by Deep Learning. Ongoing development and maintenance by t2k.
 - [iamtalhaasghar/youtube-playlists-downloader](https://github.com/iamtalhaasghar/youtube-playlists-downloader) - A terminal based tool to scrap list of all videos of a youtube channel since it was created.
 - [iamtalhaasghar/whats-trending](https://github.com/iamtalhaasghar/whats-trending) - A simple Python CLI tool using which you can see Twitter Top trends of any country in your Terminal.
 - [iamtalhaasghar/googleweather](https://github.com/iamtalhaasghar/googleweather) - A simple Python CLI tool using which you can see current weather of any city (in the world) in your Terminal.
