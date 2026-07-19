@@ -530,6 +530,8 @@
 
 ## Python 
 
+- [GeiserX/Wayback-Archive](https://github.com/GeiserX/Wayback-Archive) - Download complete websites from the Wayback Machine with full asset preservation for offline viewing
+- [moviebot-latest/Viralclip-bot](https://github.com/moviebot-latest/Viralclip-bot) - Long video ko analysis kar ka Viral short video 📷
 - [hetari/pyutube](https://github.com/hetari/pyutube) - A simple user friendly command line tool to download YouTube videos and playlists with fewer steps.
 - [fazi-gondal/Vidsaver](https://github.com/fazi-gondal/Vidsaver) - Vidsaver is a Flet-based video downloader for saving videos from supported social/video platforms to the device. It uses yt-dlp for download handling and provides a simple mobile/desktop UI for pastin
 - [secure-artifacts/Subtitled-video-Pro](https://github.com/secure-artifacts/Subtitled-video-Pro) - 非常好用和发展前景的字幕配置软件
