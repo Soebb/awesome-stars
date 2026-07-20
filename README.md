@@ -531,7 +531,6 @@
 ## Python 
 
 - [GeiserX/Wayback-Archive](https://github.com/GeiserX/Wayback-Archive) - Download complete websites from the Wayback Machine with full asset preservation for offline viewing
-- [moviebot-latest/Viralclip-bot](https://github.com/moviebot-latest/Viralclip-bot) - Long video ko analysis kar ka Viral short video 📷
 - [hetari/pyutube](https://github.com/hetari/pyutube) - A simple user friendly command line tool to download YouTube videos and playlists with fewer steps.
 - [fazi-gondal/Vidsaver](https://github.com/fazi-gondal/Vidsaver) - Vidsaver is a Flet-based video downloader for saving videos from supported social/video platforms to the device. It uses yt-dlp for download handling and provides a simple mobile/desktop UI for pastin
 - [secure-artifacts/Subtitled-video-Pro](https://github.com/secure-artifacts/Subtitled-video-Pro) - 非常好用和发展前景的字幕配置软件
@@ -575,7 +574,6 @@
 - [KittenML/KittenTTS](https://github.com/KittenML/KittenTTS) - State-of-the-art TTS model under 25MB 😻
 - [upekshaip/tg-ytdlp-bot](https://github.com/upekshaip/tg-ytdlp-bot) - This is a telegram deployable bot for downloading any private video files from any site (Intergrated with yt-dlp). Also can download private videos or playlists with cookies too
 - [vanshcz/bulkforward](https://github.com/vanshcz/bulkforward) - 🚀 Professional Telegram automation bot for bulk message broadcasting, auto-replies, and smart reactions. Features include DM-only mode, configurable delays, statistics tracking, and a clean UI. Built 
-- [moviebot-latest/split-bot](https://github.com/moviebot-latest/split-bot) - Advanced Telegram Video Split Bot with fast processing, random thumbnails, ETA, and multi-mode splitting (parts, minutes, size).
 - [viperadnan-git/transferit-py](https://github.com/viperadnan-git/transferit-py) - Pure-Python client for transfer.it — upload and download files via the MEGA backend, no browser required.
 - [DevHanza/TelegramYTDLBot](https://github.com/DevHanza/TelegramYTDLBot) - Telegram YouTube Downloader Bot
 - [tddschn/poetry-add-requirements.txt](https://github.com/tddschn/poetry-add-requirements.txt) - Add dependencies specified in requirements.txt file(s) to your Poetry or UV project
