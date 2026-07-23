@@ -531,7 +531,6 @@
 
 ## Python 
 
-- [moviebot-latest/Viralclip-bot](https://github.com/moviebot-latest/Viralclip-bot) - Long video ko analysis kar ka Viral short video 📷
 - [GeiserX/Wayback-Archive](https://github.com/GeiserX/Wayback-Archive) - Download complete websites from the Wayback Machine with full asset preservation for offline viewing
 - [hetari/pyutube](https://github.com/hetari/pyutube) - A simple user friendly command line tool to download YouTube videos and playlists with fewer steps.
 - [fazi-gondal/Vidsaver](https://github.com/fazi-gondal/Vidsaver) - Vidsaver is a Flet-based video downloader for saving videos from supported social/video platforms to the device. It uses yt-dlp for download handling and provides a simple mobile/desktop UI for pastin
@@ -630,7 +629,7 @@
 - [New-dev0/OnePost](https://github.com/New-dev0/OnePost) - 
 - [anzilr/SubEditBot](https://github.com/anzilr/SubEditBot) - SubEditBot is a powerful Telegram bot designed for easy and efficient subtitle editing. Whether you're re-syncing SRT files, adding or removing lines, merging or splitting lines, or adjusting the timi
 - [streamlink/streamlink](https://github.com/streamlink/streamlink) - Streamlink is a CLI utility which pipes video streams from various services into a video player
-- [pdoc3/pdoc](https://github.com/pdoc3/pdoc) - 🐍 ➡️ 📜  Auto-generate API documentation for Python projects
+- [pdoc3/pdoc](https://github.com/pdoc3/pdoc) - 🐍 ➡️ 📜  Auto-generate API docs for Python projects
 - [nuhmanpk/hydrogram-bot](https://github.com/nuhmanpk/hydrogram-bot) - Template for Hydrogram bot - A pyrogram alternative
 - [python-bale-bot/python-bale-bot](https://github.com/python-bale-bot/python-bale-bot) - An API wrapper for Bale written in Python.
 - [Saeed-Biabani/Scene-Text-Recognition](https://github.com/Saeed-Biabani/Scene-Text-Recognition) - Text recognition (optical character recognition) with deep learning methods in farsi.
