@@ -358,7 +358,7 @@
 
 ## Kotlin 
 
-- [abdellatif-laghjaj/all-in-one-android-video-downloaded](https://github.com/abdellatif-laghjaj/all-in-one-android-video-downloaded) - Fast, open-source all in one android video, media downloader for 1000+ websites. Save videos, audio, and images with yt-dlp, including facebook, insatgram, tiktok, pintrest, youtube videos and more. N
+- [abdellatif-laghjaj/ClipSave](https://github.com/abdellatif-laghjaj/ClipSave) - Fast, open-source all in one android video, media downloader for 1000+ websites. Save videos, audio, and images with yt-dlp, including facebook, insatgram, tiktok, pintrest, youtube videos and more. N
 - [alexch33/super-video-downloader](https://github.com/alexch33/super-video-downloader) - Video & Audio downloader for Android with web browser and player. M3U8 and MPD supported, live stream supported, using youtube-dlp and custom mp4/mp3/m3u8/mpd downloader, cookies supported, HTTP & SOC
 - [DavidVentura/offline-translator](https://github.com/DavidVentura/offline-translator) - Use Firefox Translation Models for on-device translation on Android
 - [teidesu/inugram](https://github.com/teidesu/inugram) - a very cool and dog-pilled fork (or rather, patchset) of Telegram Android
@@ -532,6 +532,9 @@
 
 ## Python 
 
+- [arsenetar/send2trash](https://github.com/arsenetar/send2trash) - Python library to natively send files to Trash (or Recycle bin) on all platforms.
+- [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
+- [JuanBindez/pycompatibility](https://github.com/JuanBindez/pycompatibility) - Python3 library for checking code compatibility with different Python versions.
 - [nesquena/hermes-webui](https://github.com/nesquena/hermes-webui) - Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!
 - [GeiserX/Wayback-Archive](https://github.com/GeiserX/Wayback-Archive) - Download complete websites from the Wayback Machine with full asset preservation for offline viewing
 - [hetari/pyutube](https://github.com/hetari/pyutube) - A simple user friendly command line tool to download YouTube videos and playlists with fewer steps.
@@ -2613,6 +2616,7 @@
 
 ## R 
 
+- [vincentarelbundock/countrycode](https://github.com/vincentarelbundock/countrycode) - R package: Convert country names and country codes. Assigns region descriptors.
 - [Helias/Speech-Gender-Recognition-Bot](https://github.com/Helias/Speech-Gender-Recognition-Bot) - Telegram Bot that recognize your gender
 
 ## Ruby 
@@ -2668,7 +2672,6 @@
 - [SpEcHiDe/Mp4ToWebmBot](https://github.com/SpEcHiDe/Mp4ToWebmBot) - Open Source Bot ❤️ with Limited Functionality of @AnimatedStickersRoBot 🔥
 - [AlbertEinsteinTG/af-deploy-script](https://github.com/AlbertEinsteinTG/af-deploy-script) - Helper script
 - [pathwaysmedical/heroku-buildpack-tesseract](https://github.com/pathwaysmedical/heroku-buildpack-tesseract) - Heroku Custom Buildpack for Tesseract OCR
-- [yespark/heroku-imagemagick-buildpack](https://github.com/yespark/heroku-imagemagick-buildpack) - 
 - [collegevine/heroku-buildpack-imagemagick](https://github.com/collegevine/heroku-buildpack-imagemagick) - Provides an updated version of ImageMagick for Heroku
 - [steeple-org/heroku-buildpack-imagemagick](https://github.com/steeple-org/heroku-buildpack-imagemagick) - Provides an updated version of ImageMagick for Heroku
 - [q-m/heroku-buildpack-imagemagick](https://github.com/q-m/heroku-buildpack-imagemagick) - ImageMagick 6 for Heroku, always the latest version
@@ -2693,6 +2696,7 @@
 
 ## TypeScript 
 
+- [bugbakery/transcribee](https://github.com/bugbakery/transcribee) - open source audio and video transcription software
 - [jamiepine/voicebox](https://github.com/jamiepine/voicebox) - The open-source AI voice studio. Clone, dictate, create.
 - [bepass-org/oblivion-desktop](https://github.com/bepass-org/oblivion-desktop) - Oblivion Desktop - Unofficial Warp Client for Windows/Mac/Linux
 - [sajjadmrx/btime-desktop](https://github.com/sajjadmrx/btime-desktop) - ویجت نمایش تاریخ و آب و هوا برای سیستم عامل های ویندوز،مک، لینوکس
