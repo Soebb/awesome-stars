@@ -160,7 +160,7 @@
 - [Divkix/Alita_Robot](https://github.com/Divkix/Alita_Robot) - 🤖 Alita is a Telegram Group management bot made using Gotgbot and Go, which makes it modern and ⏩ faster than most of the Telegram chat managers. 💬
 - [celestix/gotgproto](https://github.com/celestix/gotgproto) - A wrapper for Go Telegram Client, i.e. gotd/td.
 - [Divkix/RestrictChannelRobot](https://github.com/Divkix/RestrictChannelRobot) - 🤖 Simple telegram Bot to ban Anonymous Channel 📢 users in a group.
-- [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
+- [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - File Browser provides a file managing interface within a specified directory and it can be used to upload, delete, preview and edit your files.
 - [Intaco/yt-audio-telegram-bot](https://github.com/Intaco/yt-audio-telegram-bot) - A simple youtube video-to-audio converter bot for telegram with chat filtering support
 - [EverythingSuckz/TG-FileStreamBot](https://github.com/EverythingSuckz/TG-FileStreamBot) - A telegram bot that will give instant stream links for telegram files without the need of waiting till the download completes. (Telegram File Stream Bot)
 
