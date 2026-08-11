@@ -2107,7 +2107,7 @@
 - [Ns-AnoNymouS/TG-CONVERT-BOT](https://github.com/Ns-AnoNymouS/TG-CONVERT-BOT) - You can convert file to video or video to file
 - [ruslan-korneev/channel_admin_bot](https://github.com/ruslan-korneev/channel_admin_bot) - 
 - [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid) - Advanced Multi-Featured Telegram UserBot, Built in Python Using Telethon lib.
-- [jannikmi/timezonefinder](https://github.com/jannikmi/timezonefinder) - python package for finding the timezone of any point on earth (coordinates) offline
+- [jannikmi/timezonefinder](https://github.com/jannikmi/timezonefinder) - Offline timezone lookup for WGS84 coordinates, with no polygon simplification - so the answer stays correct at timezone borders.
 - [toastdriven/pylev](https://github.com/toastdriven/pylev) - A pure Python Levenshtein implementation that's not freaking GPL'd.
 - [xgorn/TikTokDL](https://github.com/xgorn/TikTokDL) - Telegram bot to download tiktok video/audio
 - [xgorn/BulkLoader](https://github.com/xgorn/BulkLoader) - Telegram bot to bulk download list of yt-dlp supported link and upload to telegram
