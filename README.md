@@ -107,6 +107,7 @@
 ## Dart 
 
 - [code3-dev/CCloud-GUI](https://github.com/code3-dev/CCloud-GUI) - A modern, free, and unlimited Iranian Persian streaming platform.
+- [bepass-org/oblivion](https://github.com/bepass-org/oblivion) - Unofficial warp client for android
 - [Begzar/BegzarApp](https://github.com/Begzar/BegzarApp) - Begzar, is a vpn software made for internet freedom.
 - [partiallywritten/Bypasser-CLI](https://github.com/partiallywritten/Bypasser-CLI) - CLI for bypass.vip api
 - [DinoLeung/TeleDart](https://github.com/DinoLeung/TeleDart) - A Dart library interfacing with the latest Telegram Bot API.
@@ -223,7 +224,6 @@
 - [NextAlone/Nagram](https://github.com/NextAlone/Nagram) - The third-party Telegram android app.
 - [CodeBySonu95/VoxSherpa-TTS](https://github.com/CodeBySonu95/VoxSherpa-TTS) - 🎙️ VoxSherpa TTS   Offline Neural Text-to-Speech Engine for Android  ⚡ Sherpa-ONNX powered   🔊 Natural voice synthesis   📱 Fully offline processing   🚀 No cloud • No limits
 - [monogram-android/monogram](https://github.com/monogram-android/monogram) - Native Telegram client for Android based on TDLib
-- [bepass-org/oblivion](https://github.com/bepass-org/oblivion) - Unofficial warp client for android
 - [w-coding/hanban_borina](https://github.com/w-coding/hanban_borina) - فەرهەنگی کوردی فارسی هەنبانبۆرینە
 - [TGX-Android/Telegram-X](https://github.com/TGX-Android/Telegram-X) - The main repository of Telegram X — official alternative Telegram client for Android.
 - [Team-xManager/xManager](https://github.com/Team-xManager/xManager) - Ad-Free, New Features & Freedom
@@ -241,7 +241,7 @@
 - [sadatrahman3/Universal-Video-Downloader](https://github.com/sadatrahman3/Universal-Video-Downloader) - 
 - [IRNova/Nova-Proxy](https://github.com/IRNova/Nova-Proxy) - یک پنل گرافیکی کاربردی برای ارائه اشتراک‌های Worker با پروکسی‌های ، Trojan و Warp به همراه زنجیره پروکسی، ارائه دهنده تنظیمات کامل DNS، IP تمیز و روتینگ پیشرفته برای کاربران تمامی پلتفرم‌ها با استفاده
 - [helloyanis/media-downloader-unleashed](https://github.com/helloyanis/media-downloader-unleashed) - A browser extension to download music and videos from the websites you visit!
-- [aandrew-me/ytDownloader](https://github.com/aandrew-me/ytDownloader) - Desktop App for downloading Videos and Audios from hundreds of sites
+- [aandrew-me/ytDownloader](https://github.com/aandrew-me/ytDownloader) - Desktop video downloader supporting thousands of sites.    CA: HBbDPYzpidbTVUuRwLeWGAAJbGir7NvejvbWNCRdpump
 - [vanshcz/GitHubZipBot](https://github.com/vanshcz/GitHubZipBot) - GitHubZipBot For Telegram
 - [pallets-eco/flask-debugtoolbar](https://github.com/pallets-eco/flask-debugtoolbar) - A toolbar overlay for debugging Flask applications
 - [http-party/http-server](https://github.com/http-party/http-server) - A simple, zero-configuration, command-line http server
@@ -477,8 +477,6 @@
 - [cassidoo/scrapers](https://github.com/cassidoo/scrapers) - A list of scrapers from around the web.
 - [RajatVarshney18/Movie_Describer](https://github.com/RajatVarshney18/Movie_Describer) - Its a basic PWA single page web application which searches for a movie using the OMDb API call and gives all the info related to that movie such as genre, release date, producer name etc.
 - [TelegramPlayground/Free-Movie-Series-DB-API](https://github.com/TelegramPlayground/Free-Movie-Series-DB-API) - FREE UnOfficial Movie / Series Search API, without APIKeys
-- [hasbatonpenave/TransfershAPI](https://github.com/hasbatonpenave/TransfershAPI) - Transfer.sh API Wrapper
-- [hasbatonpenave/AnonfilesAPI](https://github.com/hasbatonpenave/AnonfilesAPI) - Anonfiles.com API Wrapper
 - [m4mallu/inline-tube-mate](https://github.com/m4mallu/inline-tube-mate) - An Inline Telegram YouTube downloader bot with custom, permanent thumbnail support, force subscription and cancel upload facility. The bot can send or broadcast messages to the users.
 - [aahnik/tgcf-on-gh-action](https://github.com/aahnik/tgcf-on-gh-action) - Running tgcf periodically in past mode for free using GitHub Actions.
 - [AbirHasan2005/TelegramScraper](https://github.com/AbirHasan2005/TelegramScraper) - Scrape Telegram group members (hidden members also) and add them to yours.
@@ -568,7 +566,7 @@
 - [NeuralFalconYT/omnivoice-colab](https://github.com/NeuralFalconYT/omnivoice-colab) - 
 - [k2-fsa/OmniVoice](https://github.com/k2-fsa/OmniVoice) - High-Quality Voice Cloning TTS for 600+ Languages
 - [Blaizzy/mlx-audio](https://github.com/Blaizzy/mlx-audio) - A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon.
-- [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) - The Open-Source Elevenlabs alternative AI Voice Clone, Dub, Dictate, Transcribe, Audiobook creator and Voice workflow studio.
+- [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) - OmniVoice Studio is the Open-Source Elevenlabs alternative. AI Voice Clone, Dub, Dictate, Transcribe, Audiobook creator and Voice workflow studio.
 - [devgaganin/devgagantools](https://github.com/devgaganin/devgagantools) - This repository aimed to be fast uploading and fast downloading via Telethon (user and bots both supported)
 - [alltechdev/gplay-apk-downloader](https://github.com/alltechdev/gplay-apk-downloader) - Download APK files directly from Google Play Store.
 - [Garton/translategrambot](https://github.com/Garton/translategrambot) - 🌐 Sophisticated Telegram translator bot with automatic language detection, 50+ language pairs, and Helsinki-NLP models. Built with FastAPI, aiogram, and transformers.
