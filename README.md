@@ -57,6 +57,7 @@
 
 ## C# # 
 
+- [KoalaBear84/OpenDirectoryDownloader](https://github.com/KoalaBear84/OpenDirectoryDownloader) - Indexes open directories
 - [KNG7-P/Se7en-Pro](https://github.com/KNG7-P/Se7en-Pro) - 
 - [nilaoda/N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 - [Valyreon/Subloader](https://github.com/Valyreon/Subloader) - Subloader is a subtitle downloader that enables you to quickly find and download subtitles for your video files.
@@ -241,7 +242,7 @@
 - [sadatrahman3/Universal-Video-Downloader](https://github.com/sadatrahman3/Universal-Video-Downloader) - 
 - [IRNova/Nova-Proxy](https://github.com/IRNova/Nova-Proxy) - یک پنل گرافیکی کاربردی برای ارائه اشتراک‌های Worker با پروکسی‌های ، Trojan و Warp به همراه زنجیره پروکسی، ارائه دهنده تنظیمات کامل DNS، IP تمیز و روتینگ پیشرفته برای کاربران تمامی پلتفرم‌ها با استفاده
 - [helloyanis/media-downloader-unleashed](https://github.com/helloyanis/media-downloader-unleashed) - A browser extension to download music and videos from the websites you visit!
-- [aandrew-me/ytDownloader](https://github.com/aandrew-me/ytDownloader) - Desktop video downloader supporting thousands of sites.    CA: HBbDPYzpidbTVUuRwLeWGAAJbGir7NvejvbWNCRdpump
+- [aandrew-me/ytDownloader](https://github.com/aandrew-me/ytDownloader) - Desktop app to download audio/video from hundreds of sites
 - [vanshcz/GitHubZipBot](https://github.com/vanshcz/GitHubZipBot) - GitHubZipBot For Telegram
 - [pallets-eco/flask-debugtoolbar](https://github.com/pallets-eco/flask-debugtoolbar) - A toolbar overlay for debugging Flask applications
 - [http-party/http-server](https://github.com/http-party/http-server) - A simple, zero-configuration, command-line http server
@@ -529,6 +530,7 @@
 
 ## Python 
 
+- [youngvitaly/yt-downloader](https://github.com/youngvitaly/yt-downloader) - A clean portable Windows downloader powered by yt-dlp for regular YouTube videos and Shorts, with selectable video resolutions and MP3/M4A/Opus audio. Python and FFmpeg are bundled - no command line o
 - [arsenetar/send2trash](https://github.com/arsenetar/send2trash) - Python library to natively send files to Trash (or Recycle bin) on all platforms.
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
 - [JuanBindez/pycompatibility](https://github.com/JuanBindez/pycompatibility) - Python3 library for checking code compatibility with different Python versions.
@@ -566,7 +568,7 @@
 - [NeuralFalconYT/omnivoice-colab](https://github.com/NeuralFalconYT/omnivoice-colab) - 
 - [k2-fsa/OmniVoice](https://github.com/k2-fsa/OmniVoice) - High-Quality Voice Cloning TTS for 600+ Languages
 - [Blaizzy/mlx-audio](https://github.com/Blaizzy/mlx-audio) - A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon.
-- [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) - OmniVoice Studio is the Open-Source Elevenlabs alternative. AI Voice Clone, Dub, Dictate, Transcribe, Audiobook creator and Voice workflow studio.
+- [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) - VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. No accounts, no API key
 - [devgaganin/devgagantools](https://github.com/devgaganin/devgagantools) - This repository aimed to be fast uploading and fast downloading via Telethon (user and bots both supported)
 - [alltechdev/gplay-apk-downloader](https://github.com/alltechdev/gplay-apk-downloader) - Download APK files directly from Google Play Store.
 - [Garton/translategrambot](https://github.com/Garton/translategrambot) - 🌐 Sophisticated Telegram translator bot with automatic language detection, 50+ language pairs, and Helsinki-NLP models. Built with FastAPI, aiogram, and transformers.
