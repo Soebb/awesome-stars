@@ -530,6 +530,7 @@
 
 ## Python 
 
+- [jd/tenacity](https://github.com/jd/tenacity) - Retrying library for Python
 - [youngvitaly/yt-downloader](https://github.com/youngvitaly/yt-downloader) - A clean portable Windows downloader powered by yt-dlp for regular YouTube videos and Shorts, with selectable video resolutions and MP3/M4A/Opus audio. Python and FFmpeg are bundled - no command line o
 - [arsenetar/send2trash](https://github.com/arsenetar/send2trash) - Python library to natively send files to Trash (or Recycle bin) on all platforms.
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
@@ -706,7 +707,6 @@
 - [sns-sdks/python-youtube](https://github.com/sns-sdks/python-youtube) - A simple Python wrapper for YouTube Data API :sparkles: :cake: :sparkles: .
 - [k2-fsa/icefall](https://github.com/k2-fsa/icefall) - 
 - [kcarnold/fixwav](https://github.com/kcarnold/fixwav) - Quick utility to fix WAV files with incorrect lengths
-- [lucemia/typed-ffmpeg](https://github.com/lucemia/typed-ffmpeg) - Type-safe FFmpeg bindings for Python & TypeScript — filters, typing, and docs
 - [nateshmbhat/pyttsx3](https://github.com/nateshmbhat/pyttsx3) - Offline Text To Speech synthesis for python
 - [mborsetti/webchanges](https://github.com/mborsetti/webchanges) - webchanges anonymously checks web content (including images) and commands for changes, delivering instant notifications and AI-powered summaries to your favorite platform.
 - [DeeepMaker/subtitle-to-audio](https://github.com/DeeepMaker/subtitle-to-audio) - A python script to generate .wav audio files for .srt subtitle files
@@ -2701,6 +2701,7 @@
 - [thewh1teagle/vibe](https://github.com/thewh1teagle/vibe) - Transcribe on your own!
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [KnorpelSenf/link-preview-bot](https://github.com/KnorpelSenf/link-preview-bot) - Telegram bot to generate link previews for all links in messages.
+- [lucemia/typed-ffmpeg](https://github.com/lucemia/typed-ffmpeg) - Type-safe FFmpeg bindings for Python & TypeScript — filters, typing, and docs
 - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser
 - [viperadnan-git/telegram-forwarder-bot](https://github.com/viperadnan-git/telegram-forwarder-bot) - Forward Telegram messages between chats using Telegram Bot API and Webhooks
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
