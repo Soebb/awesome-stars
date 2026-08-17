@@ -1945,7 +1945,7 @@
 - [baradhiren/libgen_telegram_bot](https://github.com/baradhiren/libgen_telegram_bot) - Create your own telegram bot to download books from libgen
 - [jmcarp/robobrowser](https://github.com/jmcarp/robobrowser) - 
 - [lorien/grab](https://github.com/lorien/grab) - Web Scraping Framework
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - The definitive list that answers "I want to do X in Python, which tool should I use?"
 - [slashmili/django_jalali](https://github.com/slashmili/django_jalali) - Jalali DateField support for Django model
 - [slashmili/jdatetime](https://github.com/slashmili/jdatetime) - Jalali calendar binding for Python based on Python's datetime module
 - [tnjd/telegram-export](https://github.com/tnjd/telegram-export) - Export Telegram chat data and history
