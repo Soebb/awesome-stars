@@ -530,6 +530,7 @@
 
 ## Python 
 
+- [zackees/iso-env](https://github.com/zackees/iso-env) - Isolated Environment re-written using uv
 - [jd/tenacity](https://github.com/jd/tenacity) - Retrying library for Python
 - [youngvitaly/yt-downloader](https://github.com/youngvitaly/yt-downloader) - A clean portable Windows downloader powered by yt-dlp for regular YouTube videos and Shorts, with selectable video resolutions and MP3/M4A/Opus audio. Python and FFmpeg are bundled - no command line o
 - [arsenetar/send2trash](https://github.com/arsenetar/send2trash) - Python library to natively send files to Trash (or Recycle bin) on all platforms.
@@ -569,7 +570,7 @@
 - [NeuralFalconYT/omnivoice-colab](https://github.com/NeuralFalconYT/omnivoice-colab) - 
 - [k2-fsa/OmniVoice](https://github.com/k2-fsa/OmniVoice) - High-Quality Voice Cloning TTS for 600+ Languages
 - [Blaizzy/mlx-audio](https://github.com/Blaizzy/mlx-audio) - A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon.
-- [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) - VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. No accounts, no API key
+- [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) - VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
 - [devgaganin/devgagantools](https://github.com/devgaganin/devgagantools) - This repository aimed to be fast uploading and fast downloading via Telethon (user and bots both supported)
 - [alltechdev/gplay-apk-downloader](https://github.com/alltechdev/gplay-apk-downloader) - Download APK files directly from Google Play Store.
 - [Garton/translategrambot](https://github.com/Garton/translategrambot) - 🌐 Sophisticated Telegram translator bot with automatic language detection, 50+ language pairs, and Helsinki-NLP models. Built with FastAPI, aiogram, and transformers.
@@ -877,7 +878,7 @@
 - [hay/audio2text](https://github.com/hay/audio2text) - Python command line utility wrappers for Whispercpp and other speech-to-text utilities
 - [Topping1/whispercppGUI](https://github.com/Topping1/whispercppGUI) - GUI for whispercpp, a high performance C++ port of OpenAI's whisper
 - [chriskiehl/Gooey](https://github.com/chriskiehl/Gooey) - Turn (almost) any Python command line program into a full GUI application with one line
-- [zackees/video-subtitles](https://github.com/zackees/video-subtitles) - Makes video subtitles for a video
+- [zackees/video-subtitles](https://github.com/zackees/video-subtitles) - Generates multi-language .srt subtitles for a video via Whisper transcription and DeepL translation.
 - [bndr/pipreqs](https://github.com/bndr/pipreqs) - pipreqs - Generate pip requirements.txt file based on imports of any project. Looking for maintainers to move this project forward.
 - [stlukey/whispercpp.py](https://github.com/stlukey/whispercpp.py) - Python bindings for whisper.cpp
 - [kfatehi/persian-tts-server](https://github.com/kfatehi/persian-tts-server) - Simple HTTP server wrapping Coqui TTS
@@ -1659,7 +1660,7 @@
 - [NathaliaBarreiros/audio_transcription_deepspeech](https://github.com/NathaliaBarreiros/audio_transcription_deepspeech) - Transcription .wav audio files with DeepSpeech library
 - [Arcadia2142/voice-recognize](https://github.com/Arcadia2142/voice-recognize) - 
 - [zackees/transcribe-anything](https://github.com/zackees/transcribe-anything) - Multi-backend whisper app. Blazing fast. Mac-arm optimized. Easy install. Input a local file or url and this service will transcribe it using Whisper AI. Completely private and Free 🤯🤯🤯
-- [zackees/static_ffmpeg](https://github.com/zackees/static_ffmpeg) - Installs FFMPEG v5 On Win32/Ubuntu/MacOS
+- [zackees/static_ffmpeg](https://github.com/zackees/static_ffmpeg) - The easiest way to get ffmpeg v8 installed through python. Win/Mac/Linux.
 - [revolter/FileConvertBot](https://github.com/revolter/FileConvertBot) - Telegram Bot that converts some file types to native photo, audio or video Telegram messages.
 - [rozari0/NeedMusicRobot](https://github.com/rozari0/NeedMusicRobot) - A Simple Music Downloader Bot For Telegram with Youtube Music, Spotify & Deezer Support.
 - [abnatal/botobot](https://github.com/abnatal/botobot) - 🐬 BotoBot is an easy to configure menu-based chatbot for Whatsapp / Telegram.
@@ -1834,7 +1835,6 @@
 - [boppreh/keyboard](https://github.com/boppreh/keyboard) - Hook and simulate global keyboard events on Windows and Linux.
 - [majiidd/persiantools](https://github.com/majiidd/persiantools) - Jalali (Shamsi/Persian) date and datetime with Persian digits and character utilities
 - [om1ji/autouploadbot](https://github.com/om1ji/autouploadbot) - Automatic YouTube media uploader. Sends audio files to user-defined Telegram channels
-- [Clinton-Abraham/pyrogram](https://github.com/Clinton-Abraham/pyrogram) - 
 - [kylepw/cropper](https://github.com/kylepw/cropper) - URL shortener API example in Django REST framework.
 - [flashdagger/ytdlp-plugins](https://github.com/flashdagger/ytdlp-plugins) - plugin manager for yt-dlp which enables releases of extractors as separate python package
 - [IsekaiBot/IsekaiMusicBot](https://github.com/IsekaiBot/IsekaiMusicBot) - Music Bot For Telegram, Deploy With Heroku
