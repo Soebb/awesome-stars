@@ -589,7 +589,7 @@
 - [SepehrRasouli/clean-code-python](https://github.com/SepehrRasouli/clean-code-python) - :bathtub: Clean Code concepts adapted for Python
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 - [Sirozha1337/faster-auto-subtitle](https://github.com/Sirozha1337/faster-auto-subtitle) - Automatically generate, translate and overlay subtitles for any video.
-- [rocketapi-io/rocketapi-python](https://github.com/rocketapi-io/rocketapi-python) - 🚀 RocketAPI Python SDK for Instagram & Threads Private API 2025
+- [rocketapi-io/rocketapi-python](https://github.com/rocketapi-io/rocketapi-python) - 🚀 RocketAPI Python SDK
 - [jessielw/Reclaimerr](https://github.com/jessielw/Reclaimerr) - https://jessielw.github.io/Reclaimerr/ - Automatically reclaim space in your media library using customizable rules. Integrates with Jellyfin, Plex, and Emby (any or all of them) to analyze and manage
 - [NTFSvolume/mega.py](https://github.com/NTFSvolume/mega.py) - Python library for https://mega.nz and https://transfer.it API
 - [timminator/Chrome-Lens-OCR](https://github.com/timminator/Chrome-Lens-OCR) - Library to use Google Lens OCR for free from the command line, via the API used in Chromium!
@@ -2694,7 +2694,7 @@
 
 ## TSQL 
 
-- [Hameds/IranCountryDivisions](https://github.com/Hameds/IranCountryDivisions) - Iran Country Divisions - کلیه تقسیمات کشوری ایران تا سطح آبادی بر اساس اطلاعات مرکز آمار ایران
+- [Hameds/IranCountryDivisions](https://github.com/Hameds/IranCountryDivisions) - کلیه تقسیمات کشوری ایران تا سطح آبادی بر اساس اطلاعات مرکز آمار ایران تا پایان سال ۱۴۰۴
 
 ## TypeScript 
 
