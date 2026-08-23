@@ -414,7 +414,7 @@
 - [aso-mehmudi/Kurdish-keyboard-layouts](https://github.com/aso-mehmudi/Kurdish-keyboard-layouts) - Keyboard layout for typing Kurdish language
 - [mazipan/auto-commit](https://github.com/mazipan/auto-commit) - 🌳 Making green your Github stats, powered by Github Actions
 - [emijrp/awesome-awesome](https://github.com/emijrp/awesome-awesome) - A curated list of awesome curated lists of many topics.
-- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]
 - [Sirosky/Upscale-Hub](https://github.com/Sirosky/Upscale-Hub) - A repository collecting image and video upscaling resources as well as my own super resolution models.
 - [wide-video/piper-wasm](https://github.com/wide-video/piper-wasm) - 
 - [DmitryScaletta/free-heroku-alternatives](https://github.com/DmitryScaletta/free-heroku-alternatives) - Comparison of free Heroku alternatives for backend applications
@@ -1746,7 +1746,7 @@
 - [matbgn/auto-scan](https://github.com/matbgn/auto-scan) - Auto-scan is a tool to automatically scan documents from printer/scanner, OCR files, optimize and rotate it and finally send it by email as attachment.
 - [matbgn/transcript-extractor](https://github.com/matbgn/transcript-extractor) - Extract transcript from a video or audio file (offline)
 - [bluec/telegram-word-bot](https://github.com/bluec/telegram-word-bot) - A simple Telegram bot that analyses a given word, built with python-telegram-bot
-- [debiplobi/link-media-scraper-bot](https://github.com/debiplobi/link-media-scraper-bot) - Scraper of  cyberdrop, bunkr, streamtape links, Supports Streamtape uploading, Made Using Pyrogram Framework
+- [byprsd/link-media-scraper-bot](https://github.com/byprsd/link-media-scraper-bot) - Scraper of  cyberdrop, bunkr, streamtape links, Supports Streamtape uploading, Made Using Pyrogram Framework
 - [XDBots/Word-Of-The-Day-TGBot](https://github.com/XDBots/Word-Of-The-Day-TGBot) - Warning : Not Maintained, A Telegram Bot To send Scheduled Message at every morning or any time with the word of the day with meanings and Pronounciation.
 - [ArnabXD/GmailBomber](https://github.com/ArnabXD/GmailBomber) - A Simple Tool To Bomb Emails using Your Gmail .
 - [MontyIOX/HowFarBot](https://github.com/MontyIOX/HowFarBot) - A telegram bot that determines the user's distance form a requested place utilizing the Nomatim geocoding API
