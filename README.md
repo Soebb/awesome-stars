@@ -530,6 +530,7 @@
 
 ## Python 
 
+- [denizsafak/AutoSubSync](https://github.com/denizsafak/AutoSubSync) - Automatic subtitle synchronization tool.
 - [vzhd1701/gridplayer](https://github.com/vzhd1701/gridplayer) - Play videos side-by-side
 - [zackees/iso-env](https://github.com/zackees/iso-env) - Isolated Environment re-written using uv
 - [jd/tenacity](https://github.com/jd/tenacity) - Retrying library for Python
@@ -546,7 +547,7 @@
 - [dhyeyppatel/Image-Hosting](https://github.com/dhyeyppatel/Image-Hosting) - 
 - [weebzone/Telegram-Stremio](https://github.com/weebzone/Telegram-Stremio) - A powerful, self-hosted Telegram Stremio Media Server built with FastAPI, MongoDB, and PyroFork — seamlessly integrated with Stremio for automated media streaming and discovery.
 - [Cyberdrop-DL/cyberdrop-dl](https://github.com/Cyberdrop-DL/cyberdrop-dl) - Bulk asynchronous downloader for multiple file hosts
-- [rjriajul/wzgram](https://github.com/rjriajul/wzgram) - wzgram — Modern Pyrogram fork with Gifts, Stories, Topics, Business features & latest Telegram API support
+- [rjriajul/wzgram](https://github.com/rjriajul/wzgram) - WZGram : A high-performance Pyrogram fork, modernized for speed, efficiency, and the latest Telegram API.
 - [Linuxmaster14/TGForwarder](https://github.com/Linuxmaster14/TGForwarder) - TGForwarder is a self-hosted message forwarding tool for Telegram. It uses your bot token to monitor a source chat (channel, group, or private) and forwards all messages to a specified destination. Pe
 - [GeiserX/Telegram-Archive](https://github.com/GeiserX/Telegram-Archive) - Own your Telegram history. Automated, incremental backups with a local web viewer that feels just like the real app. Docker-ready and supports public chat sharing
 - [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) - Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
