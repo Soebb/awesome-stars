@@ -240,6 +240,7 @@
 
 ## JavaScript 
 
+- [Hamed-Gharghi/Cloudflare-Telegram-bot-builder](https://github.com/Hamed-Gharghi/Cloudflare-Telegram-bot-builder) - HG-TeleFlare: Build Telegram bots without code. Zero-config, self-bootstrapping Cloudflare Workers with D1, KV, and visual rule builder. Deploy in 60s. ⚡
 - [sadatrahman3/Universal-Video-Downloader](https://github.com/sadatrahman3/Universal-Video-Downloader) - 
 - [IRNova/Nova-Proxy](https://github.com/IRNova/Nova-Proxy) - یک پنل گرافیکی کاربردی برای ارائه اشتراک‌های Worker با پروکسی‌های ، Trojan و Warp به همراه زنجیره پروکسی، ارائه دهنده تنظیمات کامل DNS، IP تمیز و روتینگ پیشرفته برای کاربران تمامی پلتفرم‌ها با استفاده
 - [helloyanis/media-downloader-unleashed](https://github.com/helloyanis/media-downloader-unleashed) - A browser extension to download music and videos from the websites you visit!
@@ -530,6 +531,13 @@
 
 ## Python 
 
+- [adityaprasad502/patchpyro](https://github.com/adityaprasad502/patchpyro) - A monkeypatcher add-on for Kurigram(a fork of pyrogram).
+- [joyccn/Kurimod](https://github.com/joyccn/Kurimod) - Monkeypatcher add-on for Kurigram and Pyrogram workflows
+- [fredotran/video-converter](https://github.com/fredotran/video-converter) - 
+- [Breakthrough/DVR-Scan](https://github.com/Breakthrough/DVR-Scan) - :vhs: Tool for extracting scenes with motion from videos (e.g. security camera or DVR footage). Written in Python, uses OpenCV.
+- [Hamed-Gharghi/Persian-OCR-App](https://github.com/Hamed-Gharghi/Persian-OCR-App) - Convert Persian (Farsi) images and PDFs to editable text using Tesseract OCR and Flet. Fast, accurate, and user-friendly desktop OCR for Persian documents.
+- [Hamed-Gharghi/Network-File-Sharing-App-with-Python](https://github.com/Hamed-Gharghi/Network-File-Sharing-App-with-Python) - Share files over LAN/WiFi with a modern Python GUI, QR code access, uploads, and optional password protection.
+- [josegonzalez/python-github-backup](https://github.com/josegonzalez/python-github-backup) - backup a github user or organization
 - [denizsafak/AutoSubSync](https://github.com/denizsafak/AutoSubSync) - Automatic subtitle synchronization tool.
 - [vzhd1701/gridplayer](https://github.com/vzhd1701/gridplayer) - Play videos side-by-side
 - [zackees/iso-env](https://github.com/zackees/iso-env) - Isolated Environment re-written using uv
@@ -1583,6 +1591,7 @@
 - [vahidbaghi/telegram_file_manager_bot](https://github.com/vahidbaghi/telegram_file_manager_bot) - Telegram File Manager Bot
 - [IHosseini083/froidapi](https://github.com/IHosseini083/froidapi) - Froid API is an unofficial RESTful API for farsroid.com written in Python and FastAPI framework.
 - [voidful/telenotify](https://github.com/voidful/telenotify) - 
+- [david-lev/apkpull](https://github.com/david-lev/apkpull) - 📱Download Android apps from Google Play as one installable bundle — across any number of devices.
 - [TechiError/GadgetsAPI](https://github.com/TechiError/GadgetsAPI) - 
 - [UsergeTeam/Loader](https://github.com/UsergeTeam/Loader) - Userge Loader
 - [elastic/elasticsearch-py](https://github.com/elastic/elasticsearch-py) - Official Python client for Elasticsearch
@@ -2661,7 +2670,6 @@
 - [jontewks/puppeteer-heroku-buildpack](https://github.com/jontewks/puppeteer-heroku-buildpack) - Installs dependencies needed in order to run puppeteer on heroku.
 - [chameleon-lizard/webcp](https://github.com/chameleon-lizard/webcp) - Simple pastebin-like script. Can also handle photos, videos and any other files - it creates a page with a download link.
 - [moeen/PersianSubtitleFixer](https://github.com/moeen/PersianSubtitleFixer) - Fix Arabic and Persian subtitles by converting them into UTF-8
-- [david-lev/apkpull](https://github.com/david-lev/apkpull) - 📱 Pull APK's from android devices and emulators
 - [Fazzani/grab](https://github.com/Fazzani/grab) - Daily EPG grabber (xmltv format)
 - [zackees/install.py](https://github.com/zackees/install.py) - Super easy script that can make a virtual env
 - [peicodes/heroku-buildpack-libsndfile](https://github.com/peicodes/heroku-buildpack-libsndfile) - 
@@ -2700,6 +2708,7 @@
 
 ## TypeScript 
 
+- [JorgeLNJunior/render-deploy](https://github.com/JorgeLNJunior/render-deploy) - A GitHub Action to deploy your application to Render.
 - [bugbakery/transcribee](https://github.com/bugbakery/transcribee) - open source audio and video transcription software
 - [jamiepine/voicebox](https://github.com/jamiepine/voicebox) - The open-source AI voice studio. Clone, dictate, create.
 - [bepass-org/oblivion-desktop](https://github.com/bepass-org/oblivion-desktop) - Oblivion Desktop - Unofficial Warp Client for Windows/Mac/Linux
