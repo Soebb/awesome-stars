@@ -37,6 +37,7 @@
 - [Shell](#shell)
 - [Smalltalk](#smalltalk)
 - [TSQL](#tsql)
+- [Tcl](#tcl)
 - [TypeScript](#typescript)
 - [Visual Basic .NET](#visual-basic-.net)
 
@@ -458,7 +459,7 @@
 - [devs-krd/awesome-kurds](https://github.com/devs-krd/awesome-kurds) - A curated list of awesome Kurds.
 - [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
-- [0xdsm/extensions-wordlist](https://github.com/0xdsm/extensions-wordlist) - 🔍 Improve your files enumeration with specific extensions!
+- [dsssssssm/extensions-wordlist](https://github.com/dsssssssm/extensions-wordlist) - 🔍 Improve your files enumeration with specific extensions!
 - [m4mallu/clonebot-ui](https://github.com/m4mallu/clonebot-ui) - Redirecting link to the original and latest clonebot repository.
 - [PredatorHackerzZ/Renamer-Bot](https://github.com/PredatorHackerzZ/Renamer-Bot) - Best & Fastest Renamer Bot By @Clinton-Abraham & @PredatorHackerzZ. Star and Fork the repo if you like it else you are Gay!...  @TeamTeleRoid
 - [devmaxxing/fbx_files](https://github.com/devmaxxing/fbx_files) - 
@@ -1601,7 +1602,6 @@
 - [BenyaminZojaji/Python-Assignments](https://github.com/BenyaminZojaji/Python-Assignments) - Python exercises.
 - [MaryamBoneh/Vehicle-Detection](https://github.com/MaryamBoneh/Vehicle-Detection) - Vehicle Detection Using Deep Learning and YOLO Algorithm
 - [MehrdadNajafi/CAPTCHA-Generator](https://github.com/MehrdadNajafi/CAPTCHA-Generator) - 
-- [hatienl0i2612/cmdown](https://github.com/hatienl0i2612/cmdown) - CMdown - A tool for Multi-threaded download.
 - [hatienl0i2612/Soundcloud](https://github.com/hatienl0i2612/Soundcloud) - Soundcloud - A tool for download track Soundcloud.
 - [morucci/repoxplorer](https://github.com/morucci/repoxplorer) - RepoXplorer - Git stats explorer
 - [saket13/youtube_fetch](https://github.com/saket13/youtube_fetch) - API to get latest videos of certain topic from Youtube (fetched from the Youtube Data API)
@@ -2705,6 +2705,10 @@
 ## TSQL 
 
 - [Hameds/IranCountryDivisions](https://github.com/Hameds/IranCountryDivisions) - کلیه تقسیمات کشوری ایران تا سطح آبادی بر اساس اطلاعات مرکز آمار ایران تا پایان سال ۱۴۰۴
+
+## Tcl 
+
+- [Eliav2/tkinterdnd2](https://github.com/Eliav2/tkinterdnd2) - Tkinter native drag and drop support for windows, unix and Mac OSX.
 
 ## TypeScript 
 
