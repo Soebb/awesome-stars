@@ -361,6 +361,7 @@
 
 ## Kotlin 
 
+- [telegram-sms/telegram-sms](https://github.com/telegram-sms/telegram-sms) - An SMS-forwarding Robot Running on Your Android Device.
 - [abdellatif-laghjaj/ClipSave](https://github.com/abdellatif-laghjaj/ClipSave) - Fast, open-source all in one android video, media downloader for 1000+ websites. Save videos, audio, and images with yt-dlp, including facebook, insatgram, tiktok, pintrest, youtube videos and more. N
 - [alexch33/super-video-downloader](https://github.com/alexch33/super-video-downloader) - Video & Audio downloader for Android with web browser and player. M3U8 and MPD supported, live stream supported, using youtube-dlp and custom mp4/mp3/m3u8/mpd downloader, cookies supported, HTTP & SOC
 - [DavidVentura/offline-translator](https://github.com/DavidVentura/offline-translator) - Use Firefox Translation Models for on-device translation on Android
@@ -1602,7 +1603,6 @@
 - [BenyaminZojaji/Python-Assignments](https://github.com/BenyaminZojaji/Python-Assignments) - Python exercises.
 - [MaryamBoneh/Vehicle-Detection](https://github.com/MaryamBoneh/Vehicle-Detection) - Vehicle Detection Using Deep Learning and YOLO Algorithm
 - [MehrdadNajafi/CAPTCHA-Generator](https://github.com/MehrdadNajafi/CAPTCHA-Generator) - 
-- [hatienl0i2612/Soundcloud](https://github.com/hatienl0i2612/Soundcloud) - Soundcloud - A tool for download track Soundcloud.
 - [morucci/repoxplorer](https://github.com/morucci/repoxplorer) - RepoXplorer - Git stats explorer
 - [saket13/youtube_fetch](https://github.com/saket13/youtube_fetch) - API to get latest videos of certain topic from Youtube (fetched from the Youtube Data API)
 - [Dhrumil-Zion/Mini-Python-Utilites](https://github.com/Dhrumil-Zion/Mini-Python-Utilites) - This repository contains utilities that are often used in web development.
