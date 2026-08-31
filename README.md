@@ -60,7 +60,7 @@
 ## C# # 
 
 - [KoalaBear84/OpenDirectoryDownloader](https://github.com/KoalaBear84/OpenDirectoryDownloader) - Indexes open directories
-- [KNG7-P/Se7en-Pro](https://github.com/KNG7-P/Se7en-Pro) - 
+- [KNG7-P/Se7en-Pro](https://github.com/KNG7-P/Se7en-Pro) - Modern Multi-Engine Windows Client & Anti-Censorship Suite
 - [nilaoda/N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 - [Valyreon/Subloader](https://github.com/Valyreon/Subloader) - Subloader is a subtitle downloader that enables you to quickly find and download subtitles for your video files.
 - [SubtitleEdit/subtitleedit](https://github.com/SubtitleEdit/subtitleedit) - the subtitle editor :)
