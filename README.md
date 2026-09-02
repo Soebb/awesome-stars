@@ -1756,7 +1756,7 @@
 - [matbgn/auto-scan](https://github.com/matbgn/auto-scan) - Auto-scan is a tool to automatically scan documents from printer/scanner, OCR files, optimize and rotate it and finally send it by email as attachment.
 - [matbgn/transcript-extractor](https://github.com/matbgn/transcript-extractor) - Extract transcript from a video or audio file (offline)
 - [bluec/telegram-word-bot](https://github.com/bluec/telegram-word-bot) - A simple Telegram bot that analyses a given word, built with python-telegram-bot
-- [byprsd/link-media-scraper-bot](https://github.com/byprsd/link-media-scraper-bot) - Scraper of  cyberdrop, bunkr, streamtape links, Supports Streamtape uploading, Made Using Pyrogram Framework
+- [DebNation/link-media-scraper-bot](https://github.com/DebNation/link-media-scraper-bot) - Scraper of  cyberdrop, bunkr, streamtape links, Supports Streamtape uploading, Made Using Pyrogram Framework
 - [XDBots/Word-Of-The-Day-TGBot](https://github.com/XDBots/Word-Of-The-Day-TGBot) - Warning : Not Maintained, A Telegram Bot To send Scheduled Message at every morning or any time with the word of the day with meanings and Pronounciation.
 - [ArnabXD/GmailBomber](https://github.com/ArnabXD/GmailBomber) - A Simple Tool To Bomb Emails using Your Gmail .
 - [MontyIOX/HowFarBot](https://github.com/MontyIOX/HowFarBot) - A telegram bot that determines the user's distance form a requested place utilizing the Nomatim geocoding API
