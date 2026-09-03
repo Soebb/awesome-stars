@@ -533,6 +533,7 @@
 
 ## Python 
 
+- [jfolz/simplejpeg](https://github.com/jfolz/simplejpeg) - A simple package for fast JPEG encoding and decoding.
 - [adityaprasad502/patchpyro](https://github.com/adityaprasad502/patchpyro) - A monkeypatcher add-on for Kurigram(a fork of pyrogram).
 - [joyccn/Kurimod](https://github.com/joyccn/Kurimod) - Monkeypatcher add-on for Kurigram and Pyrogram workflows
 - [fredotran/video-converter](https://github.com/fredotran/video-converter) - 
