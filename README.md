@@ -136,6 +136,7 @@
 
 ## Go 
 
+- [azolfagharj/telegram-commander](https://github.com/azolfagharj/telegram-commander) - Control your Linux server from Telegram with customizable buttons and shell commands.
 - [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
 - [DockerContainerService/image-save](https://github.com/DockerContainerService/image-save) - Dockerlessed image save tool, Save docker image to local without docker daemon
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
@@ -242,6 +243,7 @@
 
 ## JavaScript 
 
+- [moghadam-pro/media-relay-bot](https://github.com/moghadam-pro/media-relay-bot) - A private-first Telegram media relay that turns supported social-media post URLs into temporary direct-download links.
 - [Hamed-Gharghi/Cloudflare-Telegram-bot-builder](https://github.com/Hamed-Gharghi/Cloudflare-Telegram-bot-builder) - HG-TeleFlare: Build Telegram bots without code. Zero-config, self-bootstrapping Cloudflare Workers with D1, KV, and visual rule builder. Deploy in 60s. ⚡
 - [sadatrahman3/Universal-Video-Downloader](https://github.com/sadatrahman3/Universal-Video-Downloader) - 
 - [IRNova/Nova-Proxy](https://github.com/IRNova/Nova-Proxy) - یک پنل گرافیکی کاربردی برای ارائه اشتراک‌های Worker با پروکسی‌های ، Trojan و Warp به همراه زنجیره پروکسی، ارائه دهنده تنظیمات کامل DNS، IP تمیز و روتینگ پیشرفته برای کاربران تمامی پلتفرم‌ها با استفاده
@@ -362,6 +364,8 @@
 
 ## Kotlin 
 
+- [DarkNamaTv/DarkNamaApp](https://github.com/DarkNamaTv/DarkNamaApp) - Android movie streaming application — completely free and ad-free.
+- [hesCalledAJ/B-Barq](https://github.com/hesCalledAJ/B-Barq) - 
 - [telegram-sms/telegram-sms](https://github.com/telegram-sms/telegram-sms) - An SMS-forwarding Robot Running on Your Android Device.
 - [abdellatif-laghjaj/ClipSave](https://github.com/abdellatif-laghjaj/ClipSave) - Fast, open-source all in one android video, media downloader for 1000+ websites. Save videos, audio, and images with yt-dlp, including facebook, insatgram, tiktok, pintrest, youtube videos and more. N
 - [alexch33/super-video-downloader](https://github.com/alexch33/super-video-downloader) - Video & Audio downloader for Android with web browser and player. M3U8 and MPD supported, live stream supported, using youtube-dlp and custom mp4/mp3/m3u8/mpd downloader, cookies supported, HTTP & SOC
@@ -534,6 +538,13 @@
 
 ## Python 
 
+- [swingmx/swingmusic](https://github.com/swingmx/swingmusic) - Swing Music is a beautiful, self-hosted music player for your local audio files. Like a cooler Spotify ... but bring your own music.
+- [Vahrka/Ganzabara](https://github.com/Vahrka/Ganzabara) - Free accounting software for companies, stores, shops and markets
+- [XiaoYouChR/Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3) - The only downloader you need. 下载器的集大成者。
+- [mahzoonmmd/Msrt-sub](https://github.com/mahzoonmmd/Msrt-sub) - Smart desktop app for video subtitle extraction & Persian translation
+- [Revincx/Yurigram](https://github.com/Revincx/Yurigram) - An unofficial tdesktop client with more features
+- [isPoori/DeleteWatch](https://github.com/isPoori/DeleteWatch) - Telegram bot to monitor, log, and notify deleted messages in chats. Save deleted messages with user and chat info in a SQLite database. Easy to configure and use
+- [expire5853/universal-video-compressor](https://github.com/expire5853/universal-video-compressor) - A modern Windows GUI for general-purpose video compression with CPU, GPU and NPU capability detection.
 - [jfolz/simplejpeg](https://github.com/jfolz/simplejpeg) - A simple package for fast JPEG encoding and decoding.
 - [adityaprasad502/patchpyro](https://github.com/adityaprasad502/patchpyro) - A monkeypatcher add-on for Kurigram(a fork of pyrogram).
 - [joyccn/Kurimod](https://github.com/joyccn/Kurimod) - Monkeypatcher add-on for Kurigram and Pyrogram workflows
@@ -1309,7 +1320,7 @@
 - [swaaz/InstaBot](https://github.com/swaaz/InstaBot) - Instagram bot built using Python and Selenium
 - [rzashakeri/instagram-getter](https://github.com/rzashakeri/instagram-getter) - Download anything from Instagram with this robot 📥
 - [Gumbraise/instagram-bomber](https://github.com/Gumbraise/instagram-bomber) - An open-source project. Instagram Messages Spammer/Bomber
-- [glau-bd/duplicate-video-finder](https://github.com/glau-bd/duplicate-video-finder) - A python module to detect duplicate videos in a directory.
+- [gerald-lnj/duplicate-video-finder](https://github.com/gerald-lnj/duplicate-video-finder) - A python module to detect duplicate videos in a directory.
 - [ICRAR/ijson](https://github.com/ICRAR/ijson) - Iterative JSON parser with Pythonic interfaces
 - [Alir3z4/negar-cli](https://github.com/Alir3z4/negar-cli) - Negar Command Line Interface
 - [javadr/negar-gui](https://github.com/javadr/negar-gui) - Graphical User Interface for Negar -- Persian Text Editor
@@ -2713,6 +2724,8 @@
 
 ## TypeScript 
 
+- [salmanhossinpour/Ultradio](https://github.com/salmanhossinpour/Ultradio) - الترادیو یه رادیو انلاین موزیک کاملا رایگان برای عموم
+- [hamedtkd/saat-yar](https://github.com/hamedtkd/saat-yar) - 
 - [JorgeLNJunior/render-deploy](https://github.com/JorgeLNJunior/render-deploy) - A GitHub Action to deploy your application to Render.
 - [bugbakery/transcribee](https://github.com/bugbakery/transcribee) - open source audio and video transcription software
 - [jamiepine/voicebox](https://github.com/jamiepine/voicebox) - The open-source AI voice studio. Clone, dictate, create.
