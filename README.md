@@ -934,7 +934,7 @@
 - [rQBx91/Pydowner](https://github.com/rQBx91/Pydowner) - A multithreaded terminal downloader writen in Python
 - [sinedie/SRTranslator](https://github.com/sinedie/SRTranslator) - SRT files translator
 - [CrypticSignal/better-ffmpeg-progress](https://github.com/CrypticSignal/better-ffmpeg-progress) - A Python package for running an FFmpeg command & showing better progress info - percentage progress, a progress bar and ETA.
-- [jessielw/FFMPEG-Audio-Encoder](https://github.com/jessielw/FFMPEG-Audio-Encoder) - A powerful FFMPEG audio encoder GUI
+- [jessielw/FFMPEG-Audio-Encoder](https://github.com/jessielw/FFMPEG-Audio-Encoder) - An audio encoder that supports major codecs via FFMPEG, Opusenc, DeeZy (DEE), FDK-AAC, and QAAC
 - [jessielw/MP4Forge](https://github.com/jessielw/MP4Forge) - Mp4Box GUI
 - [jessielw/Youtube-DL-GUI](https://github.com/jessielw/Youtube-DL-GUI) - Graphical User Interace built around youtube-dl CLI
 - [alisharify7/Programming-Questions](https://github.com/alisharify7/Programming-Questions) - Solve Some Programming Questions || سوالات برنامه نویسی به همراه جواب
