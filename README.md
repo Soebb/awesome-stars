@@ -1083,7 +1083,7 @@
 - [venthur/gscholar](https://github.com/venthur/gscholar) - Query Google Scholar with Python
 - [Nv7-GitHub/googlesearch](https://github.com/Nv7-GitHub/googlesearch) - A Python library for scraping the Google search engine.
 - [opsdisk/yagooglesearch](https://github.com/opsdisk/yagooglesearch) - Yet another googlesearch - A Python library for executing intelligent, realistic-looking, and tunable Google searches.
-- [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the leading document agent and OCR platform
+- [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the document processing platform for AI
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.
 - [najafiseo/OpenAI-tool](https://github.com/najafiseo/OpenAI-tool) - This is a tool that you can use to do different things, such as writing articles in bulk
 - [ninjakx/youtube-video2ppt](https://github.com/ninjakx/youtube-video2ppt) - Turning the video explanation to ppt using opencv.
@@ -2030,7 +2030,7 @@
 - [sajjadhossanshimanto/multitube](https://github.com/sajjadhossanshimanto/multitube) - 
 - [tokland/youtube-upload](https://github.com/tokland/youtube-upload) - Upload videos to Youtube from the command line
 - [jiaaro/pydub](https://github.com/jiaaro/pydub) - Manipulate audio with a simple and easy high level interface
-- [mmakarov/replicator](https://github.com/mmakarov/replicator) - Python script to merge a few video files, transparent overlay, text areas with mp3 audio track
+- [mmakarov/replicator](https://github.com/mmakarov/replicator) - Python GUI and CLI that merges videos, a transparent PNG overlay, text fields, and an audio track into a YouTube-ready MP4.
 - [ahmedhagag900/MergeVideoandAudio-](https://github.com/ahmedhagag900/MergeVideoandAudio-) - This Repository contains script that's convert and merge the audio and video into mp4 video
 - [wahyubiman/Telebot-Tweet](https://github.com/wahyubiman/Telebot-Tweet) - 
 - [wahyubiman/DoodStream](https://github.com/wahyubiman/DoodStream) - Unofficial python api wrapper from doodstream api. DoodStream is a video hosting service were you can upload videos, share & make money.
