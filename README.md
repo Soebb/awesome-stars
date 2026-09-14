@@ -441,7 +441,7 @@
 - [alipyth/Aparat_bot](https://github.com/alipyth/Aparat_bot) - ربات افزایش فالورر و بازدید آپارات . این ربات کاملا طبیعی عمل میکنه و خبری از ربات فالوور فیک نیست .
 - [dkncus/CrowdRemoval](https://github.com/dkncus/CrowdRemoval) - 
 - [Cozy-Tech/regex_tutorial_and_examples](https://github.com/Cozy-Tech/regex_tutorial_and_examples) - 
-- [MrBotDeveloper/This-Repo-Has-118-Stars](https://github.com/MrBotDeveloper/This-Repo-Has-118-Stars) - Yes it's true :broken_heart:, currently it has 118 stars ⭐ and 21 forks 🍴.
+- [MrBotDeveloper/This-Repo-Has-119-Stars](https://github.com/MrBotDeveloper/This-Repo-Has-119-Stars) - Yes it's true :broken_heart:, currently it has 119 stars ⭐ and 21 forks 🍴.
 - [ahmadazizi/iran-cities](https://github.com/ahmadazizi/iran-cities) - The most accurate database of city, county, village and province names of Iran.
 - [iranremote/awesome-iran-remote](https://github.com/iranremote/awesome-iran-remote) - A list of remote-friendly or full-remote companies that targets iranian talents.
 - [Blatzar/scraping-tutorial](https://github.com/Blatzar/scraping-tutorial) - Tutorial for scraping streaming sites
@@ -2647,6 +2647,7 @@
 
 ## Rust 
 
+- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Open Computer History | Record your screen continuously locally and provide context to your agents (Claude, Codex, Openclaw, Hermes, Runner...)
 - [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura) - The headless browser for AI agents and web scraping
 - [zackees/running-process](https://github.com/zackees/running-process) - A python subprocess replacement written in rust - track zombie processes, launch PTY and more
 - [persian-rust/book](https://github.com/persian-rust/book) - The Rust Programming Language Book - Persian Edition
