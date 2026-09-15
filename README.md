@@ -61,7 +61,6 @@
 
 - [STranslate/STranslate](https://github.com/STranslate/STranslate) - A ready-to-go translation ocr tool developed with WPF/WPF 开发的一款即用即走的翻译、OCR工具
 - [KoalaBear84/OpenDirectoryDownloader](https://github.com/KoalaBear84/OpenDirectoryDownloader) - Indexes open directories
-- [KNG7-P/Se7en-Pro](https://github.com/KNG7-P/Se7en-Pro) - Modern Multi-Engine Windows Client & Anti-Censorship Suite
 - [nilaoda/N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 - [Valyreon/Subloader](https://github.com/Valyreon/Subloader) - Subloader is a subtitle downloader that enables you to quickly find and download subtitles for your video files.
 - [SubtitleEdit/subtitleedit](https://github.com/SubtitleEdit/subtitleedit) - the subtitle editor :)
@@ -110,6 +109,7 @@
 
 ## Dart 
 
+- [KNG7-P/Se7en-Pro](https://github.com/KNG7-P/Se7en-Pro) - Modern Multi-Engine Windows Client & Anti-Censorship Suite
 - [code3-dev/CCloud-GUI](https://github.com/code3-dev/CCloud-GUI) - A modern, free, and unlimited Iranian Persian streaming platform.
 - [bepass-org/oblivion](https://github.com/bepass-org/oblivion) - Unofficial warp client for android
 - [Begzar/BegzarApp](https://github.com/Begzar/BegzarApp) - Begzar, is a vpn software made for internet freedom.
@@ -538,6 +538,7 @@
 
 ## Python 
 
+- [mallahyari/pocket-tts](https://github.com/mallahyari/pocket-tts) - A Farsi TTS that fits in your CPU (and pocket)
 - [swingmx/swingmusic](https://github.com/swingmx/swingmusic) - Swing Music is a beautiful, self-hosted music player for your local audio files. Like a cooler Spotify ... but bring your own music.
 - [Vahrka/Ganzabara](https://github.com/Vahrka/Ganzabara) - Free accounting software for companies, stores, shops and markets
 - [XiaoYouChR/Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3) - The only downloader you need. 下载器的集大成者。
@@ -2061,7 +2062,6 @@
 - [AlbertEinsteinTG/Adv-Auto-Filter-Bot-V2](https://github.com/AlbertEinsteinTG/Adv-Auto-Filter-Bot-V2) - 
 - [partiallywritten/Yui](https://github.com/partiallywritten/Yui) - Simple Telegram AI Chat bot made using OpenAI and Luna API
 - [watson-developer-cloud/python-sdk](https://github.com/watson-developer-cloud/python-sdk) - :snake: Client library to use the IBM Watson services in Python and available in pip as watson-developer-cloud
-- [rz-k/Duplicate-Finder](https://github.com/rz-k/Duplicate-Finder) - With this tool you can find duplicate words in lines of a text file and display the number of duplicates. And cleans them if needed.
 - [Zylern/TGVid-Comp](https://github.com/Zylern/TGVid-Comp) - Video Encoder Telegram Bot Based On FFMPEG Can Generate Sample Videos Too!
 - [subinps/InterHelperBot](https://github.com/subinps/InterHelperBot) - 
 - [SpEcHiDe/UploadGram](https://github.com/SpEcHiDe/UploadGram) - https://pypi.org/project/uploadgram/
@@ -2725,7 +2725,7 @@
 ## TypeScript 
 
 - [salmanhossinpour/Ultradio](https://github.com/salmanhossinpour/Ultradio) - الترادیو یه رادیو انلاین موزیک کاملا رایگان برای عموم
-- [hamedtkd/saat-yar](https://github.com/hamedtkd/saat-yar) - 
+- [hamedtkd/saat-yar](https://github.com/hamedtkd/saat-yar) - Persian-first, RTL, local-first time tracking and worklog PWA for attendance, payroll, projects, invoices, reports, and offline work management.
 - [JorgeLNJunior/render-deploy](https://github.com/JorgeLNJunior/render-deploy) - A GitHub Action to deploy your application to Render.
 - [bugbakery/transcribee](https://github.com/bugbakery/transcribee) - open source audio and video transcription software
 - [jamiepine/voicebox](https://github.com/jamiepine/voicebox) - The open-source AI voice studio. Clone, dictate, create.
