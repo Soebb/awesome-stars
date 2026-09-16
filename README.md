@@ -810,12 +810,12 @@
 - [bipinkrish/Link-Bypasser-Bot](https://github.com/bipinkrish/Link-Bypasser-Bot) - A Telegram Bot (with Site) that can Bypass Ad Links, Generate Direct Links and Jump Paywalls
 - [jianchang512/pyvideotrans](https://github.com/jianchang512/pyvideotrans) - Translate the video from one language to another and embed dubbing & subtitles.
 - [zackees/isolated-environment](https://github.com/zackees/isolated-environment) - Internal venv management to fix AI dependency hell in python
-- [SilentDemonSD/FZBypassBot](https://github.com/SilentDemonSD/FZBypassBot) - A Elegant Fast Multi Threaded Bypass Bot for Bigger Deeds. Try Now !!
+- [rjriajul/FZBypassBot](https://github.com/rjriajul/FZBypassBot) - A Elegant Fast Multi Threaded Bypass Bot for Bigger Deeds. Try Now !!
 - [zackees/zcmds](https://github.com/zackees/zcmds) - Swiss army knife of insanely productive CLI and AI tools. Cross platform.
 - [YaoFANGUK/video-subtitle-generator](https://github.com/YaoFANGUK/video-subtitle-generator) - 视频音频生成字幕，生成srt文件。无需申请第三方API，本地实现音频转文本。基于Transformer的视频字幕生成框架。A GUI tool for generating subtitle from videos and generating srt files.
 - [YaoFANGUK/video-subtitle-remover](https://github.com/YaoFANGUK/video-subtitle-remover) - 基于AI的图片/视频硬字幕去除、文本水印去除，无损分辨率生成去字幕、去水印后的图片/视频文件。无需申请第三方API，本地实现。AI-based tool for removing hard-coded subtitles and text-like watermarks from videos or Pictures.
 - [ArdalanGhoreishi/Creating-movie-subtitles-in-Persian-using-the-Google-Cloud-platform](https://github.com/ArdalanGhoreishi/Creating-movie-subtitles-in-Persian-using-the-Google-Cloud-platform) - An easy-to-use website designed for creating Persian subtitles for movies.
-- [machinewrapped/llm-subtrans](https://github.com/machinewrapped/llm-subtrans) - Open Source project using LLMs to translate subtitles (SRT, SSA/ASS, VTT)
+- [machinewrapped/llm-subtrans](https://github.com/machinewrapped/llm-subtrans) - Open Source project using LLMs to transcribe and translate subtitles (SRT, SSA/ASS, VTT)
 - [rsgrt/sublist](https://github.com/rsgrt/sublist) - generate a list of subtitles from a video file
 - [celiao/tmdbsimple](https://github.com/celiao/tmdbsimple) - A wrapper for The Movie Database API v3.
 - [rpuntaie/syncstart](https://github.com/rpuntaie/syncstart) - Calculate the cut needed at start to sync two media files
@@ -1396,7 +1396,6 @@
 - [schlopp96/V2Mp3](https://github.com/schlopp96/V2Mp3) - Compact video-to-audio conversion tool with built-in YouTube video/audio download functionality. Currently only compatible with Windows-based systems.
 - [wanghaisheng/easy-uploader](https://github.com/wanghaisheng/easy-uploader) - Schedule and Publish contents erverywhere.Bulk auto video upload and Scheduling & Publishing Effortless for You & Your Entire Team. batch headless upload  all major social networks using this ultimate
 - [pycdr/WM](https://github.com/pycdr/WM) - WM (Watch Movie) is a video player that show it on the terminal as a text!
-- [setanarut/fif](https://github.com/setanarut/fif) - A command line tool for embedding any file into PNG, GIF, WAV file formats and decoding back.
 - [Numenorean/ShazamAPI](https://github.com/Numenorean/ShazamAPI) - Fully reverse engeenired shazam api
 - [hyugogirubato/SubFormator](https://github.com/hyugogirubato/SubFormator) - You downloaded a video with subtitles that don’t match the ones you want to use, so you downloaded subtitles in the language you want to use, except that, unfortunately, they don’t connect with the sp
 - [Threezh1/JSFinder](https://github.com/Threezh1/JSFinder) - JSFinder is a tool for quickly extracting URLs and subdomains from JS files on a website.
