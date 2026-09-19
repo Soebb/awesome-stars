@@ -141,6 +141,7 @@
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 - [biisal/fast-stream-bot](https://github.com/biisal/fast-stream-bot) - A lightweight fast telegram file streaming bot in go
 - [asdfzxcvbn/TeleURLUploader](https://github.com/asdfzxcvbn/TeleURLUploader) - the most demure url uploader written in go
+- [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [v2fly/v2ray-core](https://github.com/v2fly/v2ray-core) - A platform for building proxies to bypass network restrictions.
 - [bergkvist/includeimage](https://github.com/bergkvist/includeimage) - Dockerfile syntax extension for combining multiple Docker images into one. (INCLUDE &lt;image&gt;)
 - [warpdl/warpdl](https://github.com/warpdl/warpdl) - A powerful and versatile cross-platform download manager.
@@ -2641,6 +2642,7 @@
 
 ## Rust 
 
+- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Open Computer History | Record your screen continuously locally and provide context to your agents (Claude, Codex, Openclaw, Hermes, Runner...)
 - [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura) - The headless browser for AI agents and web scraping
 - [zackees/running-process](https://github.com/zackees/running-process) - A python subprocess replacement written in rust - track zombie processes, launch PTY and more
 - [persian-rust/book](https://github.com/persian-rust/book) - The Rust Programming Language Book - Persian Edition
@@ -2663,7 +2665,6 @@
 
 - [Linuxmaster14/telepipe](https://github.com/Linuxmaster14/telepipe) - A simple command-line utility to send messages to Telegram
 - [nimiology/nginx-wizard](https://github.com/nimiology/nginx-wizard) - interactive Bash wizard that configures Nginx with SSL (Let's Encrypt), WebSocket support, reverse proxy, and static/media file serving — perfect for Django or Docker deployments.
-- [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [fzerorubigd/persian-fonts-linux](https://github.com/fzerorubigd/persian-fonts-linux) - Persian fonts installer for linux
 - [aronchick/Docker-NGINX-Gunicorn-Flask-Python-Example](https://github.com/aronchick/Docker-NGINX-Gunicorn-Flask-Python-Example) - 
 - [flashdagger/git-subrepo-pypi](https://github.com/flashdagger/git-subrepo-pypi) - python package for installing git-subrepo
@@ -2718,7 +2719,6 @@
 
 ## TypeScript 
 
-- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Open Computer History | Record your screen continuously locally and provide context to your agents (Claude, Codex, Openclaw, Hermes, Runner...)
 - [salmanhossinpour/Ultradio](https://github.com/salmanhossinpour/Ultradio) - الترادیو یه رادیو انلاین موزیک کاملا رایگان برای عموم
 - [hamedtkd/saat-yar](https://github.com/hamedtkd/saat-yar) - Persian-first, RTL, local-first time tracking and worklog PWA for attendance, payroll, projects, invoices, reports, and offline work management.
 - [JorgeLNJunior/render-deploy](https://github.com/JorgeLNJunior/render-deploy) - A GitHub Action to deploy your application to Render.
