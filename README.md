@@ -534,6 +534,7 @@
 
 ## Python 
 
+- [nimaone/persian_tts](https://github.com/nimaone/persian_tts) - Persian text-to-speech with voice cloning, fully offline on CPU (ONNX + torch paths)
 - [mallahyari/pocket-tts](https://github.com/mallahyari/pocket-tts) - A Farsi TTS that fits in your CPU (and pocket)
 - [swingmx/swingmusic](https://github.com/swingmx/swingmusic) - Swing Music is a beautiful, self-hosted music player for your local audio files. Like a cooler Spotify ... but bring your own music.
 - [Vahrka/Ganzabara](https://github.com/Vahrka/Ganzabara) - Free accounting software for companies, stores, shops and markets
