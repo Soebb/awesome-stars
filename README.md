@@ -563,7 +563,6 @@
 - [GeiserX/Wayback-Archive](https://github.com/GeiserX/Wayback-Archive) - Download complete websites from the Wayback Machine with full asset preservation for offline viewing
 - [hetari/pyutube](https://github.com/hetari/pyutube) - A simple user friendly command line tool to download YouTube videos and playlists with fewer steps.
 - [fazi-gondal/Vidsaver](https://github.com/fazi-gondal/Vidsaver) - Vidsaver is a Flet-based video downloader for saving videos from supported social/video platforms to the device. It uses yt-dlp for download handling and provides a simple mobile/desktop UI for pastin
-- [secure-artifacts/Subtitled-video-Pro](https://github.com/secure-artifacts/Subtitled-video-Pro) - 非常好用和发展前景的字幕配置软件
 - [dhyeyppatel/CT-Forwards](https://github.com/dhyeyppatel/CT-Forwards) - This bot can auto forward new message from multiple source id to target id in telegram.
 - [dhyeyppatel/Image-Hosting](https://github.com/dhyeyppatel/Image-Hosting) - 
 - [weebzone/Telegram-Stremio](https://github.com/weebzone/Telegram-Stremio) - A powerful, self-hosted Telegram Stremio Media Server built with FastAPI, MongoDB, and PyroFork — seamlessly integrated with Stremio for automated media streaming and discovery.
@@ -1717,7 +1716,6 @@
 - [david-lev/TelegraphSearchBot](https://github.com/david-lev/TelegraphSearchBot) - 📃 Search for articles in a telegra.ph account
 - [david-lev/CapsLockBot](https://github.com/david-lev/CapsLockBot) - 🔠 Telegram bot to fix capslock messages
 - [david-lev/SamsungApkDownloader](https://github.com/david-lev/SamsungApkDownloader) - ⬇️ Python script to download samsung APK's
-- [ManaanAnsari/rasa_telegram](https://github.com/ManaanAnsari/rasa_telegram) - 
 - [lyz-code/autoimport](https://github.com/lyz-code/autoimport) - Autoimport automatically fixes wrong import statements.
 - [tqdm/tqdm](https://github.com/tqdm/tqdm) - :zap: A Fast, Extensible Progress Bar for Python and CLI
 - [Reiqy/document-scanner](https://github.com/Reiqy/document-scanner) - Document Scanner application in Python
