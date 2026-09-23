@@ -367,7 +367,6 @@
 - [DarkNamaTv/DarkNamaApp](https://github.com/DarkNamaTv/DarkNamaApp) - Android movie streaming application — completely free and ad-free.
 - [hesCalledAJ/B-Barq](https://github.com/hesCalledAJ/B-Barq) - 
 - [telegram-sms/telegram-sms](https://github.com/telegram-sms/telegram-sms) - An SMS-forwarding Robot Running on Your Android Device.
-- [abdellatif-laghjaj/ClipSave](https://github.com/abdellatif-laghjaj/ClipSave) - Fast, open-source all in one android video, media downloader for 1000+ websites. Save videos, audio, and images with yt-dlp, including facebook, insatgram, tiktok, pintrest, youtube videos and more. N
 - [alexch33/super-video-downloader](https://github.com/alexch33/super-video-downloader) - Video & Audio downloader for Android with web browser and player. M3U8 and MPD supported, live stream supported, using youtube-dlp and custom mp4/mp3/m3u8/mpd downloader, cookies supported, HTTP & SOC
 - [DavidVentura/offline-translator](https://github.com/DavidVentura/offline-translator) - Use Firefox Translation Models for on-device translation on Android
 - [teidesu/inugram](https://github.com/teidesu/inugram) - a very cool and dog-pilled fork (or rather, patchset) of Telegram Android
@@ -534,6 +533,7 @@
 
 ## Python 
 
+- [shahrryyar/Rega-TTS](https://github.com/shahrryyar/Rega-TTS) - 
 - [nimaone/persian_tts](https://github.com/nimaone/persian_tts) - Persian text-to-speech with voice cloning, fully offline on CPU (ONNX + torch paths)
 - [mallahyari/pocket-tts](https://github.com/mallahyari/pocket-tts) - A Farsi TTS that fits in your CPU (and pocket)
 - [swingmx/swingmusic](https://github.com/swingmx/swingmusic) - Swing Music is a beautiful, self-hosted music player for your local audio files. Like a cooler Spotify ... but bring your own music.
