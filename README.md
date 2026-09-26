@@ -589,7 +589,6 @@
 - [kiriya55/VideOCRplus](https://github.com/kiriya55/VideOCRplus) - Extract hardcoded subtitles from videos via a simple GUI using machine learning. Supports 200+ languages.
 - [jeanslack/Vidtuber](https://github.com/jeanslack/Vidtuber) - A simple yet comprehensive, cross-platform GUI for yt-dlp
 - [pwaller/pyfiglet](https://github.com/pwaller/pyfiglet) - An implementation of figlet written in Python
-- [NeuralFalconYT/omnivoice-colab](https://github.com/NeuralFalconYT/omnivoice-colab) - 
 - [k2-fsa/OmniVoice](https://github.com/k2-fsa/OmniVoice) - High-Quality Voice Cloning TTS for 600+ Languages
 - [Blaizzy/mlx-audio](https://github.com/Blaizzy/mlx-audio) - A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon.
 - [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) - VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
