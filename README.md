@@ -228,7 +228,6 @@
 
 - [NextAlone/Nagram](https://github.com/NextAlone/Nagram) - The third-party Telegram android app.
 - [CodeBySonu95/VoxSherpa-TTS](https://github.com/CodeBySonu95/VoxSherpa-TTS) - 🎙️ VoxSherpa TTS   Offline Neural Text-to-Speech Engine for Android  ⚡ Sherpa-ONNX powered   🔊 Natural voice synthesis   📱 Fully offline processing   🚀 No cloud • No limits
-- [monogram-android/monogram](https://github.com/monogram-android/monogram) - Native Telegram client for Android
 - [w-coding/hanban_borina](https://github.com/w-coding/hanban_borina) - فەرهەنگی کوردی فارسی هەنبانبۆرینە
 - [TGX-Android/Telegram-X](https://github.com/TGX-Android/Telegram-X) - The main repository of Telegram X — official alternative Telegram client for Android.
 - [Team-xManager/xManager](https://github.com/Team-xManager/xManager) - Ad-Free, New Features & Freedom
@@ -373,6 +372,7 @@
 - [AzeemIdrisi/InstaLoaderApp](https://github.com/AzeemIdrisi/InstaLoaderApp) - Instagram Bulk Media Downloader for Android based on instaloader
 - [RisorseArtificiali/anti-vocale](https://github.com/RisorseArtificiali/anti-vocale) - Android app for transcribing voice messages locally on-device, with no internet required.
 - [JunkFood02/Seal](https://github.com/JunkFood02/Seal) - 🦭 Video/Audio Downloader for Android, based on yt-dlp
+- [monogram-android/monogram](https://github.com/monogram-android/monogram) - Native Telegram client for Android
 - [subinps/TelePlay](https://github.com/subinps/TelePlay) - A self-hosted media streaming solution that lets you store, organize, and stream your video files from Telegram Servers. Access your media library from anywhere via a web interface or Android TV app /
 - [LibChecker/LibChecker](https://github.com/LibChecker/LibChecker) - An app to view libraries used in apps in your device.
 - [motmaenbash/motmaenbash-android](https://github.com/motmaenbash/motmaenbash-android) - MotmaenBash
@@ -533,6 +533,16 @@
 
 ## Python 
 
+- [SilentDemonSD/pyteledb](https://github.com/SilentDemonSD/pyteledb) - A Telegram-native embedded database for Telegram bots
+- [z-mio/parse_hub_bot](https://github.com/z-mio/parse_hub_bot) - Telegram 多平台聚合解析机器人
+- [nub-coders/zipper](https://github.com/nub-coders/zipper) - A Telegram bot for compressing, uncompressing, and managing files — supports password-protected ZIPs, direct link downloads, and premium storage via Razorpay.
+- [fyaz05/FileToLink](https://github.com/fyaz05/FileToLink) - Thunder - The fastest Telegram File To Link bot, built on the pyrofork platform.
+- [ThaungThanHan/hermes-omnivoice](https://github.com/ThaungThanHan/hermes-omnivoice) - Omnivoice TTS Plugin for Hermes Agent
+- [aliasfoxkde/py7zip](https://github.com/aliasfoxkde/py7zip) - An unofficial, cross platform, lightweight and easy to use port of 7zip command line binaries (7za) for Python. Unlike other libraries, this one fully supports 7zip natively, is easy to setup/install,
+- [twwat/splitzip](https://github.com/twwat/splitzip) - Create split ZIP archives compatible with Windows Explorer, 7-Zip, and standard unzip. Pure Python, no dependencies.
+- [HoomanJCode/Telegram_Insta_Bot](https://github.com/HoomanJCode/Telegram_Insta_Bot) - This Telegram bot downloads Instagram content (posts, reels, stories, profile pictures) and delivers them directly to Telegram. It demonstrates integration of Telegram Bot API, gallery-dl, async I/O, 
+- [HoomanJCode/Telegram_Yt_Bot](https://github.com/HoomanJCode/Telegram_Yt_Bot) - An Educational project to download Youtube by telegram bot.
+- [HoomanJCode/Telegram_7z_Bot](https://github.com/HoomanJCode/Telegram_7z_Bot) - A powerful, modular Telegram bot that downloads files from URLs, creates password-protected 7z archives, and provides direct download links with automatic file expiration. Built for reliability, secur
 - [shahrryyar/Rega-TTS](https://github.com/shahrryyar/Rega-TTS) - 
 - [nimaone/persian_tts](https://github.com/nimaone/persian_tts) - Persian text-to-speech with voice cloning, fully offline on CPU (ONNX + torch paths)
 - [mallahyari/pocket-tts](https://github.com/mallahyari/pocket-tts) - A Farsi TTS that fits in your CPU (and pocket)
