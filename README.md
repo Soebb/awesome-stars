@@ -533,6 +533,8 @@
 
 ## Python 
 
+- [ramcana/subtitle-extract](https://github.com/ramcana/subtitle-extract) - Local desktop OCR for burned-in video subtitles, with optional GPU acceleration and SRT/TXT export.
+- [thatskiff33/whisper-transcriber](https://github.com/thatskiff33/whisper-transcriber) - Secure offline AI enabled transcription tool. Local, offline Whisper speech-to-text for Windows with speaker identification to transcribe audio into text. No admin, no FFmpeg, no GPU.
 - [SilentDemonSD/pyteledb](https://github.com/SilentDemonSD/pyteledb) - A Telegram-native embedded database for Telegram bots
 - [z-mio/parse_hub_bot](https://github.com/z-mio/parse_hub_bot) - Telegram 多平台聚合解析机器人
 - [nub-coders/zipper](https://github.com/nub-coders/zipper) - A Telegram bot for compressing, uncompressing, and managing files — supports password-protected ZIPs, direct link downloads, and premium storage via Razorpay.
@@ -1324,7 +1326,7 @@
 - [fredlarkins/webp-convert](https://github.com/fredlarkins/webp-convert) - Convert PNG and JPG images into WEBP images automatically.
 - [swaaz/InstaBot](https://github.com/swaaz/InstaBot) - Instagram bot built using Python and Selenium
 - [rzashakeri/instagram-getter](https://github.com/rzashakeri/instagram-getter) - Download anything from Instagram with this robot 📥
-- [Gumbraise/instagram-bomber](https://github.com/Gumbraise/instagram-bomber) - An open-source project. Instagram Messages Spammer/Bomber
+- [Gumbraise/instagram-bomber](https://github.com/Gumbraise/instagram-bomber) - [2026 UPDATED] An open-source project. Instagram Messages Spammer/Bomber since 2019
 - [gerald-lnj/duplicate-video-finder](https://github.com/gerald-lnj/duplicate-video-finder) - A python module to detect duplicate videos in a directory.
 - [ICRAR/ijson](https://github.com/ICRAR/ijson) - Iterative JSON parser with Pythonic interfaces
 - [Alir3z4/negar-cli](https://github.com/Alir3z4/negar-cli) - Negar Command Line Interface
@@ -1904,7 +1906,6 @@
 - [reza1615/Persian-Spell-checker](https://github.com/reza1615/Persian-Spell-checker) - 
 - [CyanBook/spotipy2](https://github.com/CyanBook/spotipy2) - The next generation Spotify Web API wrapper for Python 3.7+
 - [kalanakt/All-Url-Uploader](https://github.com/kalanakt/All-Url-Uploader) - A simple telegram Bot, Upload Media File| video To telegram using the direct download link. (youtube, Mediafire, google drive, mega drive, etc)
-- [subinps/pyrogram](https://github.com/subinps/pyrogram) - Telegram MTProto API Client Library and Framework in Pure Python for Users and Bots
 - [SamEdwardes/prettynum](https://github.com/SamEdwardes/prettynum) - Simple number formatting for python.
 - [SamEdwardes/pydatafaker](https://github.com/SamEdwardes/pydatafaker) - A python package to create fake data with relationships between tables.
 - [sloria/TextBlob](https://github.com/sloria/TextBlob) - Simple, Pythonic, text processing--Sentiment analysis, part-of-speech tagging, noun phrase extraction, translation, and more.
