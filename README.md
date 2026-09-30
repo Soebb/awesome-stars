@@ -473,6 +473,7 @@
 - [devmaxxing/videocr-app](https://github.com/devmaxxing/videocr-app) - Desktop application for extracting text/hard-coded subtitles from videos.
 - [shahind/Persian-Words-Database](https://github.com/shahind/Persian-Words-Database) - About 700,000 Persian(Farsi) Words
 - [subinps/Any-repo](https://github.com/subinps/Any-repo) - Any Repo
+- [subzeroid/instagrapi](https://github.com/subzeroid/instagrapi) - 🔥 The fastest and powerful Python library for Instagram Private API 2026 with HikerAPI SaaS
 - [sahadz/FileConvertRobot](https://github.com/sahadz/FileConvertRobot) - 
 - [MysteryBots/ID-Bot](https://github.com/MysteryBots/ID-Bot) - https://github.com/StarkBotsIndustries/ID-Bot
 - [QueraTeam/git-ninjas](https://github.com/QueraTeam/git-ninjas) - This repo is about our Practical Git course, and contains a list of users that successfully finished the course.
@@ -533,6 +534,11 @@
 
 ## Python 
 
+- [dhyeyppatel/File-Store-Bot](https://github.com/dhyeyppatel/File-Store-Bot) - Vercel
+- [thehornet2002/tel2bale](https://github.com/thehornet2002/tel2bale) - A Telegram bot that forwards files to Bale.
+- [asteroid-den/dispyro](https://github.com/asteroid-den/dispyro) - Improved dispatching for Pyrogram
+- [prono69/Album-Maker-Bot](https://github.com/prono69/Album-Maker-Bot) - An advanced telegram bot to make media group/album from individual files
+- [atomimus/kurimod](https://github.com/atomimus/kurimod) - A monkeypatcher add-on designed for Kurigram, which is a maintained version of Pyrogram by KurimuzonAkuma.
 - [ramcana/subtitle-extract](https://github.com/ramcana/subtitle-extract) - Local desktop OCR for burned-in video subtitles, with optional GPU acceleration and SRT/TXT export.
 - [thatskiff33/whisper-transcriber](https://github.com/thatskiff33/whisper-transcriber) - Secure offline AI enabled transcription tool. Local, offline Whisper speech-to-text for Windows with speaker identification to transcribe audio into text. No admin, no FFmpeg, no GPU.
 - [SilentDemonSD/pyteledb](https://github.com/SilentDemonSD/pyteledb) - A Telegram-native embedded database for Telegram bots
@@ -630,7 +636,7 @@
 - [tveronesi/imdbinfo](https://github.com/tveronesi/imdbinfo) - A Python package to fetch and manage IMDb movie information easily.
 - [Phr33d0m/subtitle-tools](https://github.com/Phr33d0m/subtitle-tools) - A collection of highly opinionated Python scripts for parallel processing video files, extracting subtitles, managing attachments, and performing OCR on hardcoded subtitles.
 - [Ilia-Abolhasani/downloader-telegram-bot](https://github.com/Ilia-Abolhasani/downloader-telegram-bot) - A simple Telegram bot that downloads Instagram videos — even from private or age-restricted posts (with session cookie).   Built with Python, `telebot`, and `yt-dlp`, this bot makes downloading videos
-- [nuhmanpk/headless-driver](https://github.com/nuhmanpk/headless-driver) - Headless Chrome WebDriver wrapper for Python (Selenium made simple)
+- [nuhmanpk/headless-driver](https://github.com/nuhmanpk/headless-driver) - Real browser TLS fingerprints, consensus ranking across engines, honest block detection and per-engine circuit breakers
 - [dreulavelle/PTT](https://github.com/dreulavelle/PTT) - The Best Damn Filename Parser You've Ever Used!
 - [paulpierre/autocrop](https://github.com/paulpierre/autocrop) - 🎬 Automagically crop a video clip within another video clip
 - [0x11DFE/Auto-Forwarder-Plugin](https://github.com/0x11DFE/Auto-Forwarder-Plugin) - An advanced and highly configurable auto-forwarding plugin for exteraGram. Create powerful rules to copy or forward messages between any chat, with support for content filtering, album handling, and a
@@ -1416,7 +1422,7 @@
 - [pooya-mohammadi/persian-spell-checker-kenlm](https://github.com/pooya-mohammadi/persian-spell-checker-kenlm) - A complete instruction for training a Persian spell checker and a language model based on SymSpell and KenLM, respectively using Wikipedia dataset.
 - [aleksve/ischedule](https://github.com/aleksve/ischedule) - Open source, single-thread interval scheduler
 - [iluvcapra/wavinfo](https://github.com/iluvcapra/wavinfo) - Probe WAVE Files for all metadata
-- [t0mer/ttsbot](https://github.com/t0mer/ttsbot) - ttsbot is a Telepot powerd, easy to use Telegram bot allowing you to convert text to speech using Reverso Translations.
+- [t0mer/ttsbot](https://github.com/t0mer/ttsbot) - Self-hosted Telegram bot that replies to any text message with an MP3 read aloud by a Reverso text-to-speech voice (Python, telepot, Docker)
 - [frederikwillersinn/google_drive_data_transfer](https://github.com/frederikwillersinn/google_drive_data_transfer) - Python Package Development | Google Drive File Transfer | PyDrive
 - [MarkSnaile/telegram-channel-views-boost](https://github.com/MarkSnaile/telegram-channel-views-boost) - A Python3 script built to increase post views on Telegram channels.
 - [Kraymer/flinck](https://github.com/Kraymer/flinck) - Sort your movies on filesystem by dates, ratings, etc using symlinks.
@@ -2176,7 +2182,6 @@
 - [abhijeetbhagat/mp4box](https://github.com/abhijeetbhagat/mp4box) - Python 3 port of the MP4Box tool
 - [derpferpmerp/ffmpeg-combine-directory](https://github.com/derpferpmerp/ffmpeg-combine-directory) - Combine all videos in current directory (Print out MP4Box Command)
 - [avilash/TikTokAPI-Python](https://github.com/avilash/TikTokAPI-Python) - TikTok API Python Wrapper
-- [subzeroid/instagrapi](https://github.com/subzeroid/instagrapi) - 🔥 The fastest and powerful Python library for Instagram Private API 2026 with HikerAPI SaaS
 - [yashrathi-git/vimeo-dl](https://github.com/yashrathi-git/vimeo-dl) - Downloads Vimeo videos and retrieve metadata such as views, likes, comments, duration of the video.
 - [jawah/charset_normalizer](https://github.com/jawah/charset_normalizer) - Truly universal encoding detector in pure Python.
 - [RincemonReji/RSS-Feed](https://github.com/RincemonReji/RSS-Feed) - 
