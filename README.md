@@ -60,6 +60,7 @@
 
 - [STranslate/STranslate](https://github.com/STranslate/STranslate) - A ready-to-go translation ocr tool developed with WPF/WPF 开发的一款即用即走的翻译、OCR工具
 - [KoalaBear84/OpenDirectoryDownloader](https://github.com/KoalaBear84/OpenDirectoryDownloader) - Indexes open directories
+- [KNG7-P/Se7en-Pro](https://github.com/KNG7-P/Se7en-Pro) - Modern Multi-Engine Windows Client & Anti-Censorship Suite
 - [nilaoda/N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 - [Valyreon/Subloader](https://github.com/Valyreon/Subloader) - Subloader is a subtitle downloader that enables you to quickly find and download subtitles for your video files.
 - [SubtitleEdit/subtitleedit](https://github.com/SubtitleEdit/subtitleedit) - the subtitle editor :)
@@ -108,7 +109,6 @@
 
 ## Dart 
 
-- [KNG7-P/Se7en-Pro](https://github.com/KNG7-P/Se7en-Pro) - Modern Multi-Engine Windows Client & Anti-Censorship Suite
 - [code3-dev/CCloud-GUI](https://github.com/code3-dev/CCloud-GUI) - A modern, free, and unlimited Iranian Persian streaming platform.
 - [bepass-org/oblivion](https://github.com/bepass-org/oblivion) - Unofficial warp client for android
 - [Begzar/BegzarApp](https://github.com/Begzar/BegzarApp) - Begzar, is a vpn software made for internet freedom.
@@ -135,6 +135,7 @@
 
 ## Go 
 
+- [HirbodBehnam/file2url-go](https://github.com/HirbodBehnam/file2url-go) - A Telegram bot to convert files to URL for direct download links.
 - [azolfagharj/telegram-commander](https://github.com/azolfagharj/telegram-commander) - Control your Linux server from Telegram with customizable buttons and shell commands.
 - [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
 - [DockerContainerService/image-save](https://github.com/DockerContainerService/image-save) - Dockerlessed image save tool, Save docker image to local without docker daemon
@@ -176,6 +177,7 @@
 
 ## HTML 
 
+- [mohsen-niksirat/tgexplorer](https://github.com/mohsen-niksirat/tgexplorer) - A web app to explore public Telegram channels
 - [bennyscripts/flask-file-hosting](https://github.com/bennyscripts/flask-file-hosting) - File host created in flask for one person. Great for an easy way to move files in your network.
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [AnshumanPM/Stream-Site-Backend](https://github.com/AnshumanPM/Stream-Site-Backend) - Website which can stream videos directly on the browser.
@@ -242,9 +244,11 @@
 
 ## JavaScript 
 
+- [tangyoha/telegram_media_downloader](https://github.com/tangyoha/telegram_media_downloader) - 基于Dineshkarthik的项目， 电报视频下载，电报资源下载，跨平台，支持web查看下载进度 ，支持bot下发指令下载，支持下载已经加入的私有群但是限制下载的资源， telegram media download,Download media files from a telegram conversation/chat/channel up to 2GiB per file
 - [moghadam-pro/media-relay-bot](https://github.com/moghadam-pro/media-relay-bot) - A private-first Telegram media relay that turns supported social-media post URLs into temporary direct-download links.
 - [Hamed-Gharghi/Cloudflare-Telegram-bot-builder](https://github.com/Hamed-Gharghi/Cloudflare-Telegram-bot-builder) - HG-TeleFlare: Build Telegram bots without code. Zero-config, self-bootstrapping Cloudflare Workers with D1, KV, and visual rule builder. Deploy in 60s. ⚡
 - [sadatrahman3/Universal-Video-Downloader](https://github.com/sadatrahman3/Universal-Video-Downloader) - 
+- [dhyeyppatel/Image-Hosting](https://github.com/dhyeyppatel/Image-Hosting) - 
 - [IRNova/Nova-Proxy](https://github.com/IRNova/Nova-Proxy) - یک پنل گرافیکی کاربردی برای ارائه اشتراک‌های Worker با پروکسی‌های ، Trojan و Warp به همراه زنجیره پروکسی، ارائه دهنده تنظیمات کامل DNS، IP تمیز و روتینگ پیشرفته برای کاربران تمامی پلتفرم‌ها با استفاده
 - [helloyanis/media-downloader-unleashed](https://github.com/helloyanis/media-downloader-unleashed) - A browser extension to download music and videos from the websites you visit!
 - [aandrew-me/ytDownloader](https://github.com/aandrew-me/ytDownloader) - Desktop app to download audio/video from hundreds of sites
@@ -363,6 +367,7 @@
 
 ## Kotlin 
 
+- [IReaderorg/IReader](https://github.com/IReaderorg/IReader) - Free and open source novel reader for Android and Desktop.
 - [DarkNamaTv/DarkNamaApp](https://github.com/DarkNamaTv/DarkNamaApp) - Android movie streaming application — completely free and ad-free.
 - [hesCalledAJ/B-Barq](https://github.com/hesCalledAJ/B-Barq) - 
 - [telegram-sms/telegram-sms](https://github.com/telegram-sms/telegram-sms) - An SMS-forwarding Robot Running on Your Android Device.
@@ -473,7 +478,6 @@
 - [devmaxxing/videocr-app](https://github.com/devmaxxing/videocr-app) - Desktop application for extracting text/hard-coded subtitles from videos.
 - [shahind/Persian-Words-Database](https://github.com/shahind/Persian-Words-Database) - About 700,000 Persian(Farsi) Words
 - [subinps/Any-repo](https://github.com/subinps/Any-repo) - Any Repo
-- [subzeroid/instagrapi](https://github.com/subzeroid/instagrapi) - 🔥 The fastest and powerful Python library for Instagram Private API 2026 with HikerAPI SaaS
 - [sahadz/FileConvertRobot](https://github.com/sahadz/FileConvertRobot) - 
 - [MysteryBots/ID-Bot](https://github.com/MysteryBots/ID-Bot) - https://github.com/StarkBotsIndustries/ID-Bot
 - [QueraTeam/git-ninjas](https://github.com/QueraTeam/git-ninjas) - This repo is about our Practical Git course, and contains a list of users that successfully finished the course.
@@ -492,6 +496,7 @@
 
 ## PHP 
 
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [kihanb/jirjirakbot](https://github.com/kihanb/jirjirakbot) - JirJirakBot Project | Self-Destruct Messages (SDM)
 - [danog/downloadRenameBot](https://github.com/danog/downloadRenameBot) - 2gb+ Telegram file/YouTube upload&renamer bot based on MadelineProto
 - [PBhadoo/Rapidleech](https://github.com/PBhadoo/Rapidleech) - The Most Up to Date Rapidleech Fork
@@ -534,7 +539,13 @@
 
 ## Python 
 
-- [dhyeyppatel/File-Store-Bot](https://github.com/dhyeyppatel/File-Store-Bot) - Vercel
+- [popovantondev/TelegramMediaSender](https://github.com/popovantondev/TelegramMediaSender) - Send ordered video, audio and subtitles to Telegram · macOS · RU / DE / EN
+- [ehcaning/divar-telegram-bot](https://github.com/ehcaning/divar-telegram-bot) - این ربات تلگرام هر موقعی که توی تاپیک مورد نظرتون آگهی جدیدی بیاد، بهتون توی تلگرام اطلاع میده
+- [matt-silva-hq2095o6/telegram-media-bulk-save](https://github.com/matt-silva-hq2095o6/telegram-media-bulk-save) - Bulk-download media from Telegram chats with resume support and rate-limit handling.
+- [anthony591561-bit/Mux-Sub](https://github.com/anthony591561-bit/Mux-Sub) - Automate the muxing of subtitles, fonts, chapters, and metadata into video files using FFmpeg.
+- [awesomo913/VideoTranscriber](https://github.com/awesomo913/VideoTranscriber) - Free, open-source, offline video & audio transcription for Windows. Drop in a file, get a text transcript — nothing leaves your PC.
+- [D-Deadric-C/telecloud](https://github.com/D-Deadric-C/telecloud) - TeleCloud is a secure Telegram-backed cloud storage web and Android app with chunked uploads, resumable downloads, sharing, and Supabase authentication.
+- [GitBib/pymkv2](https://github.com/GitBib/pymkv2) - A Python wrapper for mkvmerge. It provides support for muxing, splitting, linking, chapters, tags, and attachments through the use of mkvmerge.
 - [thehornet2002/tel2bale](https://github.com/thehornet2002/tel2bale) - A Telegram bot that forwards files to Bale.
 - [asteroid-den/dispyro](https://github.com/asteroid-den/dispyro) - Improved dispatching for Pyrogram
 - [prono69/Album-Maker-Bot](https://github.com/prono69/Album-Maker-Bot) - An advanced telegram bot to make media group/album from individual files
@@ -578,11 +589,10 @@
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
 - [JuanBindez/pycompatibility](https://github.com/JuanBindez/pycompatibility) - Python3 library for checking code compatibility with different Python versions.
 - [nesquena/hermes-webui](https://github.com/nesquena/hermes-webui) - Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!
-- [GeiserX/Wayback-Archive](https://github.com/GeiserX/Wayback-Archive) - Download complete websites from the Wayback Machine with full asset preservation for offline viewing
+- [GeiserX/Wayback-Archive](https://github.com/GeiserX/Wayback-Archive) - Rescue whole websites from the Wayback Machine.
 - [hetari/pyutube](https://github.com/hetari/pyutube) - A simple user friendly command line tool to download YouTube videos and playlists with fewer steps.
 - [fazi-gondal/Vidsaver](https://github.com/fazi-gondal/Vidsaver) - Vidsaver is a Flet-based video downloader for saving videos from supported social/video platforms to the device. It uses yt-dlp for download handling and provides a simple mobile/desktop UI for pastin
 - [dhyeyppatel/CT-Forwards](https://github.com/dhyeyppatel/CT-Forwards) - This bot can auto forward new message from multiple source id to target id in telegram.
-- [dhyeyppatel/Image-Hosting](https://github.com/dhyeyppatel/Image-Hosting) - 
 - [weebzone/Telegram-Stremio](https://github.com/weebzone/Telegram-Stremio) - A powerful, self-hosted Telegram Stremio Media Server built with FastAPI, MongoDB, and PyroFork — seamlessly integrated with Stremio for automated media streaming and discovery.
 - [Cyberdrop-DL/cyberdrop-dl](https://github.com/Cyberdrop-DL/cyberdrop-dl) - Bulk asynchronous downloader for multiple file hosts
 - [rjriajul/wzgram](https://github.com/rjriajul/wzgram) - WZGram : A high-performance Pyrogram fork, modernized for speed, efficiency, and the latest Telegram API.
@@ -593,7 +603,6 @@
 - [DevURANIUM/Saveit](https://github.com/DevURANIUM/Saveit) - This script automatically saves timed (self-destructing) photos in Telegram chats before they disappear. It efficiently detects and stores these images, providing a backup solution for users who want 
 - [Tatsh/instagram-archiver](https://github.com/Tatsh/instagram-archiver) - Save Instagram content you have access to.
 - [JuanBindez/pytubefix](https://github.com/JuanBindez/pytubefix) - Python3 library for downloading YouTube Videos.
-- [SUDEEPBOTS/SudeepGram](https://github.com/SUDEEPBOTS/SudeepGram) - Elegant, modern and asynchronous Telegram MTProto API framework in Python for users and bots
 - [Unrud/video-downloader](https://github.com/Unrud/video-downloader) - Download videos from websites like YouTube and many others (based on yt-dlp)
 - [cccaaannn/telegram_youtube_downloader](https://github.com/cccaaannn/telegram_youtube_downloader) - Telegram bot for downloading video or audio from multiple sites.
 - [SerxUp/super-dl](https://github.com/SerxUp/super-dl) - A simple video/audio downloader
@@ -636,7 +645,7 @@
 - [tveronesi/imdbinfo](https://github.com/tveronesi/imdbinfo) - A Python package to fetch and manage IMDb movie information easily.
 - [Phr33d0m/subtitle-tools](https://github.com/Phr33d0m/subtitle-tools) - A collection of highly opinionated Python scripts for parallel processing video files, extracting subtitles, managing attachments, and performing OCR on hardcoded subtitles.
 - [Ilia-Abolhasani/downloader-telegram-bot](https://github.com/Ilia-Abolhasani/downloader-telegram-bot) - A simple Telegram bot that downloads Instagram videos — even from private or age-restricted posts (with session cookie).   Built with Python, `telebot`, and `yt-dlp`, this bot makes downloading videos
-- [nuhmanpk/headless-driver](https://github.com/nuhmanpk/headless-driver) - Real browser TLS fingerprints, consensus ranking across engines, honest block detection and per-engine circuit breakers
+- [nuhmanpk/headless-driver](https://github.com/nuhmanpk/headless-driver) - Search the web, read any page as clean Markdown, and give your AI agent both. Free, fast, no API key.
 - [dreulavelle/PTT](https://github.com/dreulavelle/PTT) - The Best Damn Filename Parser You've Ever Used!
 - [paulpierre/autocrop](https://github.com/paulpierre/autocrop) - 🎬 Automagically crop a video clip within another video clip
 - [0x11DFE/Auto-Forwarder-Plugin](https://github.com/0x11DFE/Auto-Forwarder-Plugin) - An advanced and highly configurable auto-forwarding plugin for exteraGram. Create powerful rules to copy or forward messages between any chat, with support for content filtering, album handling, and a
@@ -2182,6 +2191,7 @@
 - [abhijeetbhagat/mp4box](https://github.com/abhijeetbhagat/mp4box) - Python 3 port of the MP4Box tool
 - [derpferpmerp/ffmpeg-combine-directory](https://github.com/derpferpmerp/ffmpeg-combine-directory) - Combine all videos in current directory (Print out MP4Box Command)
 - [avilash/TikTokAPI-Python](https://github.com/avilash/TikTokAPI-Python) - TikTok API Python Wrapper
+- [subzeroid/instagrapi](https://github.com/subzeroid/instagrapi) - 🔥 The fastest and powerful Python library for Instagram Private API 2026 with HikerAPI SaaS
 - [yashrathi-git/vimeo-dl](https://github.com/yashrathi-git/vimeo-dl) - Downloads Vimeo videos and retrieve metadata such as views, likes, comments, duration of the video.
 - [jawah/charset_normalizer](https://github.com/jawah/charset_normalizer) - Truly universal encoding detector in pure Python.
 - [RincemonReji/RSS-Feed](https://github.com/RincemonReji/RSS-Feed) - 
@@ -2656,6 +2666,8 @@
 
 ## Rust 
 
+- [Open-Less/openless](https://github.com/Open-Less/openless) - Hold a key, speak, release — AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (按住快捷键说话，松开即得润色后的文字)
+- [jub0t/Concat](https://github.com/jub0t/Concat) - Beta: The truly free, and open-source cross-platform CapCut replacement (supports MCPs).
 - [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Open Computer History | Record your screen continuously locally and provide context to your agents (Claude, Codex, Openclaw, Hermes, Runner...)
 - [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura) - The headless browser for AI agents and web scraping
 - [zackees/running-process](https://github.com/zackees/running-process) - A python subprocess replacement written in rust - track zombie processes, launch PTY and more
@@ -2733,6 +2745,7 @@
 
 ## TypeScript 
 
+- [dahshury/WinSTT](https://github.com/dahshury/WinSTT) - WinSTT: local-first speech-to-text, text-to-speech app. Portable, minimal, easy to use.
 - [salmanhossinpour/Ultradio](https://github.com/salmanhossinpour/Ultradio) - الترادیو یه رادیو انلاین موزیک کاملا رایگان برای عموم
 - [hamedtkd/saat-yar](https://github.com/hamedtkd/saat-yar) - Persian-first, RTL, local-first time tracking and worklog PWA for attendance, payroll, projects, invoices, reports, and offline work management.
 - [JorgeLNJunior/render-deploy](https://github.com/JorgeLNJunior/render-deploy) - A GitHub Action to deploy your application to Render.
