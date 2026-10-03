@@ -46,6 +46,7 @@
 
 ## C 
 
+- [karim23657/offline-persian-tts-win7](https://github.com/karim23657/offline-persian-tts-win7) - Offline Persian (and multilingual) Text-to-Speech for Windows 7. A self-contained package using sherpa-onnx with a custom Win7 compatibility shim. No Python or internet required at runtime.
 - [daanzu/py-webrtcvad-wheels](https://github.com/daanzu/py-webrtcvad-wheels) - Python interface to the WebRTC Voice Activity Detector (VAD) [released with binary wheels!]
 - [shirokhorshid/shirokhorshid-android](https://github.com/shirokhorshid/shirokhorshid-android) - Independently maintained, community fork of Psiphon Android client
 - [donno2048/clickpy](https://github.com/donno2048/clickpy) - A library to control mouse clicking
@@ -135,6 +136,7 @@
 
 ## Go 
 
+- [MamdMehrabi/Uploader](https://github.com/MamdMehrabi/Uploader) - A website where every file uploaded is transferred to Telegram.
 - [HirbodBehnam/file2url-go](https://github.com/HirbodBehnam/file2url-go) - A Telegram bot to convert files to URL for direct download links.
 - [azolfagharj/telegram-commander](https://github.com/azolfagharj/telegram-commander) - Control your Linux server from Telegram with customizable buttons and shell commands.
 - [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
@@ -312,6 +314,7 @@
 
 ## Jupyter Notebook 
 
+- [mehdihoore/TTS_TELEGRAM_BOT_WithFilesStopUser](https://github.com/mehdihoore/TTS_TELEGRAM_BOT_WithFilesStopUser) - تلگرام بات تبدیل متن به گفتار رایگان و بدون نیاز به API
 - [MahtaFetrat/ManaTTS-Persian-Speech-Dataset](https://github.com/MahtaFetrat/ManaTTS-Persian-Speech-Dataset) - ManaTTS is the largest open Persian speech dataset with 114+ hours of transcribed audio. Includes data collection pipeline and tools. Suitable for Persian text-to-speech models.
 - [SharifiZarchi/Introduction_to_Machine_Learning](https://github.com/SharifiZarchi/Introduction_to_Machine_Learning) - Machine Learning Course, Sharif University of Technology
 - [AnswerDotAI/fasthtml](https://github.com/AnswerDotAI/fasthtml) - The fastest way to create an HTML app
@@ -539,6 +542,10 @@
 
 ## Python 
 
+- [gazzy-source/all-media-downloader](https://github.com/gazzy-source/all-media-downloader) - Guided multi-platform Telegram media downloader by Gazzy Labs — video, audio, images, subtitles from 1000+ sites
+- [soymadip/quikrun](https://github.com/soymadip/quikrun) - Run Your code without hassle
+- [mehdihoore/linguascribe-bot](https://github.com/mehdihoore/linguascribe-bot) - Telegram bot for Persian audio/video transcription, translation, SRT subtitles, and exam-prep summarization using Gemini.
+- [thevahidal/jake](https://github.com/thevahidal/jake) - 🚀 Effortlessly create and deploy your own one-link website on GitHub. A free Linktree alternative.
 - [popovantondev/TelegramMediaSender](https://github.com/popovantondev/TelegramMediaSender) - Send ordered video, audio and subtitles to Telegram · macOS · RU / DE / EN
 - [ehcaning/divar-telegram-bot](https://github.com/ehcaning/divar-telegram-bot) - این ربات تلگرام هر موقعی که توی تاپیک مورد نظرتون آگهی جدیدی بیاد، بهتون توی تلگرام اطلاع میده
 - [matt-silva-hq2095o6/telegram-media-bulk-save](https://github.com/matt-silva-hq2095o6/telegram-media-bulk-save) - Bulk-download media from Telegram chats with resume support and rate-limit handling.
@@ -625,7 +632,7 @@
 - [agapess/Gitvidsub](https://github.com/agapess/Gitvidsub) - 
 - [crackbest/V2ray-Config](https://github.com/crackbest/V2ray-Config) - Automatically fetch free V2Ray configs from Telegram channels.
 - [V2RayRoot/V2RayConfig](https://github.com/V2RayRoot/V2RayConfig) - Automatically fetch free V2Ray configs from Telegram channels.
-- [KittenML/KittenTTS](https://github.com/KittenML/KittenTTS) - State-of-the-art TTS model under 25MB 😻
+- [KittenML/KittenTTS](https://github.com/KittenML/KittenTTS) - Open-source State-of-the-art TTS model which runs on a CPU 😻
 - [upekshaip/tg-ytdlp-bot](https://github.com/upekshaip/tg-ytdlp-bot) - This is a telegram deployable bot for downloading any private video files from any site (Intergrated with yt-dlp). Also can download private videos or playlists with cookies too
 - [vanshcz/bulkforward](https://github.com/vanshcz/bulkforward) - 🚀 Professional Telegram automation bot for bulk message broadcasting, auto-replies, and smart reactions. Features include DM-only mode, configurable delays, statistics tracking, and a clean UI. Built 
 - [viperadnan-git/transferit-py](https://github.com/viperadnan-git/transferit-py) - Pure-Python client for transfer.it — upload and download files via the MEGA backend, no browser required.
@@ -2668,7 +2675,7 @@
 
 - [Open-Less/openless](https://github.com/Open-Less/openless) - Hold a key, speak, release — AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (按住快捷键说话，松开即得润色后的文字)
 - [jub0t/Concat](https://github.com/jub0t/Concat) - Beta: The truly free, and open-source cross-platform CapCut replacement (supports MCPs).
-- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Open Computer History | Record your screen continuously locally and provide context to your agents (Claude, Codex, Openclaw, Hermes, Runner...)
+- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Open Computer History | Continuously record your company computer work, map your workflows, help you find work worth automating, and power your agents' context
 - [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura) - The headless browser for AI agents and web scraping
 - [zackees/running-process](https://github.com/zackees/running-process) - A python subprocess replacement written in rust - track zombie processes, launch PTY and more
 - [persian-rust/book](https://github.com/persian-rust/book) - The Rust Programming Language Book - Persian Edition
