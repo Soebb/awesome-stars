@@ -2674,7 +2674,7 @@
 ## Rust 
 
 - [Open-Less/openless](https://github.com/Open-Less/openless) - Hold a key, speak, release — AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (按住快捷键说话，松开即得润色后的文字)
-- [jub0t/Concat](https://github.com/jub0t/Concat) - Beta: The truly free, and open-source cross-platform CapCut replacement (supports MCPs).
+- [jub0t/concat](https://github.com/jub0t/concat) - Beta: The truly free, and open-source cross-platform CapCut replacement (supports MCPs).
 - [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Open Computer History | Continuously record your company computer work, map your workflows, help you find work worth automating, and power your agents' context
 - [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura) - The headless browser for AI agents and web scraping
 - [zackees/running-process](https://github.com/zackees/running-process) - A python subprocess replacement written in rust - track zombie processes, launch PTY and more
