@@ -542,6 +542,7 @@
 
 ## Python 
 
+- [SoroushImanian/HaveIT](https://github.com/SoroushImanian/HaveIT) - An intelligent, self-hosted audio assistant for Telegram. Delivers high-fidelity 320kbps MP3s with smart metadata and cover art, powered by a secure network tunneling layer for maximum reliability.
 - [gazzy-source/all-media-downloader](https://github.com/gazzy-source/all-media-downloader) - Guided multi-platform Telegram media downloader by Gazzy Labs — video, audio, images, subtitles from 1000+ sites
 - [soymadip/quikrun](https://github.com/soymadip/quikrun) - Run Your code without hassle
 - [mehdihoore/linguascribe-bot](https://github.com/mehdihoore/linguascribe-bot) - Telegram bot for Persian audio/video transcription, translation, SRT subtitles, and exam-prep summarization using Gemini.
