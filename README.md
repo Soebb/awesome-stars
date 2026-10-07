@@ -284,7 +284,7 @@
 - [sabermazoji/sabermazoji.github.io](https://github.com/sabermazoji/sabermazoji.github.io) - 
 - [vrumger/DiscussUnpinBot](https://github.com/vrumger/DiscussUnpinBot) - A Telegram bot to unpin/repin messages in your group when you post on the connected channel.
 - [ArdeshirV/SampleQRCodeJS](https://github.com/ArdeshirV/SampleQRCodeJS) - Generate QR code and present on a dynamic HTML web page using qrcodejs library.
-- [sampotts/plyr](https://github.com/sampotts/plyr) - A simple HTML5, YouTube and Vimeo player
+- [sampotts/plyr](https://github.com/sampotts/plyr) - Deprecated in favour of Video.js 10; security updates only. Simple HTML5, YouTube and Vimeo player.
 - [msaaddev/who-unfollowed-me](https://github.com/msaaddev/who-unfollowed-me) - 🙁 A CLI that tells you who recently unfollowed you on GitHub
 - [JinsoRaj/TorrentConverter](https://github.com/JinsoRaj/TorrentConverter) - A Telegram bot to convert Torrent files -&gt; magnet links & vice versa.
 - [devmaxxing/flood-it](https://github.com/devmaxxing/flood-it) - Fork of ddycai/flood-it for the CSI4105 course project. Implements astar search with a naive admissible heuristic and a non-admissible heuristic.
@@ -413,6 +413,7 @@
 
 ## Others 
 
+- [Syenar/BatchSubMux](https://github.com/Syenar/BatchSubMux) - BatchSubMux for Windows and Linux. Pairs with File Renamer by Syenar: https://gitlab.com/syenar/file-renamer
 - [ALIILAPRO/MusicFinder](https://github.com/ALIILAPRO/MusicFinder) - 🎵 Music Finder is a browser extension that allows you to search for music and download tracks via a Telegram bot.
 - [MoonWalker440/TeleBotList](https://github.com/MoonWalker440/TeleBotList) - A cool collection of awesome Telegram bots source code hosted on github
 - [rahgozar94725/freedom](https://github.com/rahgozar94725/freedom) - آموزش راه‌اندازی فیلتر شکن شخصی
@@ -542,6 +543,12 @@
 
 ## Python 
 
+- [Victorgm21/subwizard](https://github.com/Victorgm21/subwizard) - Automatic subtitle generator for video and audio using Faster-Whisper. Supports exporting to .srt or embedding into .mp4. Includes both GUI and CLI, with multiple performance modes and GPU/CPU compati
+- [marodriguezd/SRT4U-Subtitle-Processor](https://github.com/marodriguezd/SRT4U-Subtitle-Processor) - Local-first subtitle processor: desktop GUI + headless CLI to translate, clean, analyze and burn in subtitles (.srt/.vtt/.ass/.txt), with optional local REST API and Whisper transcription.
+- [sting11k/erasedub](https://github.com/sting11k/erasedub) - Open-source AI video translation and dubbing that also removes hardcoded (burned-in) subtitles: hardsub removal, speech-to-text (Whisper), subtitle translation (Google Translate or LLM), TTS dubbing a
+- [tripasect/Hardsubber](https://github.com/tripasect/Hardsubber) - Burn subtitles into videos with a simple GUI
+- [nutuzar/nErase](https://github.com/nutuzar/nErase) - A portable desktop tool to blur and remove hardcoded subtitles from videos using PySide6, VapourSynth, and FFmpeg.
+- [op200/EasyRip](https://github.com/op200/EasyRip) - Python script used to process media.  (batch processing, encode, mux, subtitle & font subset)
 - [SoroushImanian/HaveIT](https://github.com/SoroushImanian/HaveIT) - An intelligent, self-hosted audio assistant for Telegram. Delivers high-fidelity 320kbps MP3s with smart metadata and cover art, powered by a secure network tunneling layer for maximum reliability.
 - [gazzy-source/all-media-downloader](https://github.com/gazzy-source/all-media-downloader) - Guided multi-platform Telegram media downloader by Gazzy Labs — video, audio, images, subtitles from 1000+ sites
 - [soymadip/quikrun](https://github.com/soymadip/quikrun) - Run Your code without hassle
@@ -622,6 +629,7 @@
 - [wiltodelta/remove-ai-watermarks](https://github.com/wiltodelta/remove-ai-watermarks) - Remove visible and invisible AI watermarks and provenance metadata from images and video. Python library and CLI for SynthID, C2PA, EXIF, IPTC, XMP, and common generative-AI marks.
 - [yashhere/BeautifyMP3](https://github.com/yashhere/BeautifyMP3) - A command line tool for fixing ID3 metadata and adding Album Art to MP3 songs
 - [kiriya55/VideOCRplus](https://github.com/kiriya55/VideOCRplus) - Extract hardcoded subtitles from videos via a simple GUI using machine learning. Supports 200+ languages.
+- [jamiepine/voicebox](https://github.com/jamiepine/voicebox) - The open-source AI voice studio. Clone, dictate, create.
 - [jeanslack/Vidtuber](https://github.com/jeanslack/Vidtuber) - A simple yet comprehensive, cross-platform GUI for yt-dlp
 - [pwaller/pyfiglet](https://github.com/pwaller/pyfiglet) - An implementation of figlet written in Python
 - [k2-fsa/OmniVoice](https://github.com/k2-fsa/OmniVoice) - High-Quality Voice Cloning TTS for 600+ Languages
@@ -2758,7 +2766,6 @@
 - [hamedtkd/saat-yar](https://github.com/hamedtkd/saat-yar) - Persian-first, RTL, local-first time tracking and worklog PWA for attendance, payroll, projects, invoices, reports, and offline work management.
 - [JorgeLNJunior/render-deploy](https://github.com/JorgeLNJunior/render-deploy) - A GitHub Action to deploy your application to Render.
 - [bugbakery/transcribee](https://github.com/bugbakery/transcribee) - open source audio and video transcription software
-- [jamiepine/voicebox](https://github.com/jamiepine/voicebox) - The open-source AI voice studio. Clone, dictate, create.
 - [shabane/kamaji](https://github.com/shabane/kamaji) - find [ss, vmess, vless, trojan] config from Telegram Channels and convert theme to a Subscription Link(Even Test)
 - [bepass-org/oblivion-desktop](https://github.com/bepass-org/oblivion-desktop) - Oblivion Desktop - Unofficial Warp Client for Windows/Mac/Linux
 - [sajjadmrx/btime-desktop](https://github.com/sajjadmrx/btime-desktop) - ویجت نمایش تاریخ و آب و هوا برای سیستم عامل های ویندوز،مک، لینوکس
