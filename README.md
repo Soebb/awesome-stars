@@ -370,6 +370,7 @@
 
 ## Kotlin 
 
+- [rokrokss/recly](https://github.com/rokrokss/recly) - Your AI recorder is already on your wrist.
 - [IReaderorg/IReader](https://github.com/IReaderorg/IReader) - Free and open source novel reader for Android and Desktop.
 - [DarkNamaTv/DarkNamaApp](https://github.com/DarkNamaTv/DarkNamaApp) - Android movie streaming application — completely free and ad-free.
 - [hesCalledAJ/B-Barq](https://github.com/hesCalledAJ/B-Barq) - 
@@ -1373,7 +1374,6 @@
 - [JacobChesslo/pymorse](https://github.com/JacobChesslo/pymorse) - Python based Morse Code Translator
 - [ShivangKakkar/VideoStickerBot](https://github.com/ShivangKakkar/VideoStickerBot) - 
 - [luckydonald/pytgbot](https://github.com/luckydonald/pytgbot) - python module to access the telegram bot api.
-- [persian-tools/py-persian-tools](https://github.com/persian-tools/py-persian-tools) - An anthology of a variety of tools for the Persian language in Python
 - [elektito/finglish](https://github.com/elektito/finglish) - A Finglish to Persian converter.
 - [alighazi/price_alert_bot](https://github.com/alighazi/price_alert_bot) - Telegram bot to set price alerts and get charts and useful information about cryptocurrencies
 - [tweak1337/telegram_parser-v.2---Telethon](https://github.com/tweak1337/telegram_parser-v.2---Telethon) - Second version of public channels parser in telegram using Telethon library. (Postgresql)
@@ -1974,7 +1974,6 @@
 - [asweigart/pyautogui](https://github.com/asweigart/pyautogui) - A cross-platform GUI automation Python module for human beings. Used to programmatically control the mouse & keyboard.
 - [s18k/web_scraping_forall_info](https://github.com/s18k/web_scraping_forall_info) - A python program to scrap a webpage to gain meta information and all information about images,links,and text and export it to a csv file
 - [KiLJ4EdeN/Persian_Speech_To_Text](https://github.com/KiLJ4EdeN/Persian_Speech_To_Text) - Simple Speech to text prototype using google api
-- [vm542/bitcoin-wallet-bot](https://github.com/vm542/bitcoin-wallet-bot) - A telegram bot to create and manage a bitcoin wallet. Fast, open-source and commission-free !
 - [imba-tjd/pip-autoremove](https://github.com/imba-tjd/pip-autoremove) - Remove a package and its unused dependencies.
 - [enjoysoftware/pip3-autoremove](https://github.com/enjoysoftware/pip3-autoremove) - Remove a package and its unused dependencies(Supports Python3)
 - [invl/pip-autoremove](https://github.com/invl/pip-autoremove) - Remove a package and its unused dependencies.
