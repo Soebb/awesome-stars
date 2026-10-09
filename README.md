@@ -314,6 +314,7 @@
 
 ## Jupyter Notebook 
 
+- [Respaired/Darya_TTS](https://github.com/Respaired/Darya_TTS) - The Biggest Fastest lightest TTS you can find. (supports Persian, Russian and English)
 - [mehdihoore/TTS_TELEGRAM_BOT_WithFilesStopUser](https://github.com/mehdihoore/TTS_TELEGRAM_BOT_WithFilesStopUser) - تلگرام بات تبدیل متن به گفتار رایگان و بدون نیاز به API
 - [MahtaFetrat/ManaTTS-Persian-Speech-Dataset](https://github.com/MahtaFetrat/ManaTTS-Persian-Speech-Dataset) - ManaTTS is the largest open Persian speech dataset with 114+ hours of transcribed audio. Includes data collection pipeline and tools. Suitable for Persian text-to-speech models.
 - [SharifiZarchi/Introduction_to_Machine_Learning](https://github.com/SharifiZarchi/Introduction_to_Machine_Learning) - Machine Learning Course, Sharif University of Technology
