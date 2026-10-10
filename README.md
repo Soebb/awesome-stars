@@ -545,6 +545,7 @@
 
 ## Python 
 
+- [mt-tg-stack/telegram-sender](https://github.com/mt-tg-stack/telegram-sender) - A strategy-driven, async-first Telegram message sending library built on pyrofork with automatic device profile randomization.
 - [Victorgm21/subwizard](https://github.com/Victorgm21/subwizard) - Automatic subtitle generator for video and audio using Faster-Whisper. Supports exporting to .srt or embedding into .mp4. Includes both GUI and CLI, with multiple performance modes and GPU/CPU compati
 - [marodriguezd/SRT4U-Subtitle-Processor](https://github.com/marodriguezd/SRT4U-Subtitle-Processor) - Local-first subtitle processor: desktop GUI + headless CLI to translate, clean, analyze and burn in subtitles (.srt/.vtt/.ass/.txt), with optional local REST API and Whisper transcription.
 - [sting11k/erasedub](https://github.com/sting11k/erasedub) - Open-source AI video translation and dubbing that also removes hardcoded (burned-in) subtitles: hardsub removal, speech-to-text (Whisper), subtitle translation (Google Translate or LLM), TTS dubbing a
@@ -2683,7 +2684,7 @@
 ## Rust 
 
 - [Open-Less/openless](https://github.com/Open-Less/openless) - Hold a key, speak, release — AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (按住快捷键说话，松开即得润色后的文字)
-- [jub0t/concat](https://github.com/jub0t/concat) - Beta: The truly free, and open-source cross-platform CapCut replacement (supports MCPs).
+- [jub0t/concat](https://github.com/jub0t/concat) - The truly free, and open-source cross-platform CapCut replacement (supports MCPs).
 - [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Open Computer History | Continuously record your company computer work, map your workflows, help you find work worth automating, and power your agents' context
 - [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura) - The headless browser for AI agents and web scraping
 - [zackees/running-process](https://github.com/zackees/running-process) - A python subprocess replacement written in rust - track zombie processes, launch PTY and more
@@ -2761,6 +2762,7 @@
 
 ## TypeScript 
 
+- [vanloctech/youwee](https://github.com/vanloctech/youwee) - A beautiful, cross-platform downloader for YouTube, TikTok, Instagram, and 1800+ sites (yt-dlp GUI) with AI video summaries and post-processing
 - [dahshury/WinSTT](https://github.com/dahshury/WinSTT) - WinSTT: local-first speech-to-text, text-to-speech app. Portable, minimal, easy to use.
 - [salmanhossinpour/Ultradio](https://github.com/salmanhossinpour/Ultradio) - الترادیو یه رادیو انلاین موزیک کاملا رایگان برای عموم
 - [hamedtkd/saat-yar](https://github.com/hamedtkd/saat-yar) - Persian-first, RTL, local-first time tracking and worklog PWA for attendance, payroll, projects, invoices, reports, and offline work management.
