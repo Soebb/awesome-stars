@@ -545,6 +545,8 @@
 
 ## Python 
 
+- [kadirb4rut/video-dubbing-translator](https://github.com/kadirb4rut/video-dubbing-translator) - Local-first AI video dubbing with Whisper/WhisperX, Google translation, VoxCPM2 voice cloning, and optional LatentSync lip-sync.
+- [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) - VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning
 - [mt-tg-stack/telegram-sender](https://github.com/mt-tg-stack/telegram-sender) - A strategy-driven, async-first Telegram message sending library built on pyrofork with automatic device profile randomization.
 - [Victorgm21/subwizard](https://github.com/Victorgm21/subwizard) - Automatic subtitle generator for video and audio using Faster-Whisper. Supports exporting to .srt or embedding into .mp4. Includes both GUI and CLI, with multiple performance modes and GPU/CPU compati
 - [marodriguezd/SRT4U-Subtitle-Processor](https://github.com/marodriguezd/SRT4U-Subtitle-Processor) - Local-first subtitle processor: desktop GUI + headless CLI to translate, clean, analyze and burn in subtitles (.srt/.vtt/.ass/.txt), with optional local REST API and Whisper transcription.
@@ -1943,7 +1945,6 @@
 - [SamEdwardes/pydatafaker](https://github.com/SamEdwardes/pydatafaker) - A python package to create fake data with relationships between tables.
 - [sloria/TextBlob](https://github.com/sloria/TextBlob) - Simple, Pythonic, text processing--Sentiment analysis, part-of-speech tagging, noun phrase extraction, translation, and more.
 - [AmihayHassan/PTB_exchange_telegram_bot](https://github.com/AmihayHassan/PTB_exchange_telegram_bot) - 
-- [Nachtalb/DanbooruChannelBot](https://github.com/Nachtalb/DanbooruChannelBot) - Mirror Danbooru posts filtered or unflitered to any channel, group or private chat on Telegram. It is used to run @danbooru_dump which mirrors the complete Danbooru live.
 - [ctcq/newsbot](https://github.com/ctcq/newsbot) - 
 - [ArdeshirV/NumericFileSort](https://github.com/ArdeshirV/NumericFileSort) - Python script that sorts text file lines by floating point number at the start of each line of file. You can use it with a file as argument or with stdin with regular commands output.
 - [ArdeshirV/MyBinance](https://github.com/ArdeshirV/MyBinance) - Demonstrates specified cryptocurrency values by binance.com API
@@ -1976,6 +1977,7 @@
 - [asweigart/pyautogui](https://github.com/asweigart/pyautogui) - A cross-platform GUI automation Python module for human beings. Used to programmatically control the mouse & keyboard.
 - [s18k/web_scraping_forall_info](https://github.com/s18k/web_scraping_forall_info) - A python program to scrap a webpage to gain meta information and all information about images,links,and text and export it to a csv file
 - [KiLJ4EdeN/Persian_Speech_To_Text](https://github.com/KiLJ4EdeN/Persian_Speech_To_Text) - Simple Speech to text prototype using google api
+- [vm542/bitcoin-wallet-bot](https://github.com/vm542/bitcoin-wallet-bot) - A telegram bot to create and manage a bitcoin wallet. Fast, open-source and commission-free !
 - [imba-tjd/pip-autoremove](https://github.com/imba-tjd/pip-autoremove) - Remove a package and its unused dependencies.
 - [enjoysoftware/pip3-autoremove](https://github.com/enjoysoftware/pip3-autoremove) - Remove a package and its unused dependencies(Supports Python3)
 - [invl/pip-autoremove](https://github.com/invl/pip-autoremove) - Remove a package and its unused dependencies.
@@ -2684,7 +2686,7 @@
 ## Rust 
 
 - [Open-Less/openless](https://github.com/Open-Less/openless) - Hold a key, speak, release — AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (按住快捷键说话，松开即得润色后的文字)
-- [jub0t/concat](https://github.com/jub0t/concat) - The truly free, and open-source cross-platform CapCut replacement (supports MCPs).
+- [jub0t/concat](https://github.com/jub0t/concat) - ⭐ Concat: The truly free, and open-source cross-platform CapCut replacement (supports MCPs).
 - [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Open Computer History | Continuously record your company computer work, map your workflows, help you find work worth automating, and power your agents' context
 - [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura) - The headless browser for AI agents and web scraping
 - [zackees/running-process](https://github.com/zackees/running-process) - A python subprocess replacement written in rust - track zombie processes, launch PTY and more
