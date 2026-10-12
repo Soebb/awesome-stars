@@ -35,6 +35,8 @@
 - [Rust](#rust)
 - [Shell](#shell)
 - [Smalltalk](#smalltalk)
+- [Svelte](#svelte)
+- [Swift](#swift)
 - [TSQL](#tsql)
 - [Tcl](#tcl)
 - [TypeScript](#typescript)
@@ -59,6 +61,7 @@
 
 ## C# # 
 
+- [popovantondev/GitHubSync](https://github.com/popovantondev/GitHubSync) - Send and download GitHub project files and release attachments
 - [STranslate/STranslate](https://github.com/STranslate/STranslate) - A ready-to-go translation ocr tool developed with WPF/WPF 开发的一款即用即走的翻译、OCR工具
 - [KoalaBear84/OpenDirectoryDownloader](https://github.com/KoalaBear84/OpenDirectoryDownloader) - Indexes open directories
 - [KNG7-P/Se7en-Pro](https://github.com/KNG7-P/Se7en-Pro) - Modern Multi-Engine Windows Client & Anti-Censorship Suite
@@ -371,6 +374,7 @@
 
 ## Kotlin 
 
+- [FossifyOrg/Music-Player](https://github.com/FossifyOrg/Music-Player) - A clean music player with a customizable widget, stylish interface and no ads.
 - [rokrokss/recly](https://github.com/rokrokss/recly) - Your AI recorder is already on your wrist.
 - [IReaderorg/IReader](https://github.com/IReaderorg/IReader) - Free and open source novel reader for Android and Desktop.
 - [DarkNamaTv/DarkNamaApp](https://github.com/DarkNamaTv/DarkNamaApp) - Android movie streaming application — completely free and ad-free.
@@ -545,6 +549,7 @@
 
 ## Python 
 
+- [PyrogramMod/PyrogramMod](https://github.com/PyrogramMod/PyrogramMod) - PyrogramMod is an unofficial fork of github.com/pyrogram/pyrogram
 - [kadirb4rut/video-dubbing-translator](https://github.com/kadirb4rut/video-dubbing-translator) - Local-first AI video dubbing with Whisper/WhisperX, Google translation, VoxCPM2 voice cloning, and optional LatentSync lip-sync.
 - [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) - VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning
 - [mt-tg-stack/telegram-sender](https://github.com/mt-tg-stack/telegram-sender) - A strategy-driven, async-first Telegram message sending library built on pyrofork with automatic device profile randomization.
@@ -2686,7 +2691,7 @@
 ## Rust 
 
 - [Open-Less/openless](https://github.com/Open-Less/openless) - Hold a key, speak, release — AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (按住快捷键说话，松开即得润色后的文字)
-- [jub0t/concat](https://github.com/jub0t/concat) - ⭐ Concat: The truly free, and open-source cross-platform CapCut replacement (supports MCPs).
+- [jub0t/concat](https://github.com/jub0t/concat) - ⭐ Concat: The truly free, and open-source cross-platform CapCut replacement. Supports MCPs & API.
 - [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Open Computer History | Continuously record your company computer work, map your workflows, help you find work worth automating, and power your agents' context
 - [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura) - The headless browser for AI agents and web scraping
 - [zackees/running-process](https://github.com/zackees/running-process) - A python subprocess replacement written in rust - track zombie processes, launch PTY and more
@@ -2754,6 +2759,14 @@
 
 - [ArdeshirV/SpringAvestanEditor](https://github.com/ArdeshirV/SpringAvestanEditor) - Avestan language text editor
 
+## Svelte 
+
+- [viperadnan-git/chathop](https://github.com/viperadnan-git/chathop) - Forwards messages from one chat to others. Each destination gets its own filters and caption rules. Runs on Telegram Serverless — no host, no database.
+
+## Swift 
+
+- [VocaHQ/vocaphone](https://github.com/VocaHQ/vocaphone) - On-device voice dictation for iPhone and Android. Optional self-hosted VocaGateway. Android 13+ beta, iOS 17+ source build.
+
 ## TSQL 
 
 - [Hameds/IranCountryDivisions](https://github.com/Hameds/IranCountryDivisions) - کلیه تقسیمات کشوری ایران تا سطح آبادی بر اساس اطلاعات مرکز آمار ایران تا پایان سال ۱۴۰۴
@@ -2764,6 +2777,7 @@
 
 ## TypeScript 
 
+- [amir9480/gamenet-time-manager](https://github.com/amir9480/gamenet-time-manager) - نرم افزار رایگان مدیریت زمان و هزینه‌ی گیم نت: محاسبه‌ی خودکار هزینه‌ی تایم هر دستگاه، بوفه، مشتریان، نسیه و گزارش‌گیری. قابل نصب و بدون نیاز به اینترنت.
 - [vanloctech/youwee](https://github.com/vanloctech/youwee) - A beautiful, cross-platform downloader for YouTube, TikTok, Instagram, and 1800+ sites (yt-dlp GUI) with AI video summaries and post-processing
 - [dahshury/WinSTT](https://github.com/dahshury/WinSTT) - WinSTT: local-first speech-to-text, text-to-speech app. Portable, minimal, easy to use.
 - [salmanhossinpour/Ultradio](https://github.com/salmanhossinpour/Ultradio) - الترادیو یه رادیو انلاین موزیک کاملا رایگان برای عموم
