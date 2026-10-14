@@ -48,6 +48,7 @@
 
 ## C 
 
+- [karim23657/ParsiGoo-win](https://github.com/karim23657/ParsiGoo-win) - 
 - [karim23657/offline-persian-tts-win7](https://github.com/karim23657/offline-persian-tts-win7) - Offline Persian (and multilingual) Text-to-Speech for Windows 7. A self-contained package using sherpa-onnx with a custom Win7 compatibility shim. No Python or internet required at runtime.
 - [daanzu/py-webrtcvad-wheels](https://github.com/daanzu/py-webrtcvad-wheels) - Python interface to the WebRTC Voice Activity Detector (VAD) [released with binary wheels!]
 - [shirokhorshid/shirokhorshid-android](https://github.com/shirokhorshid/shirokhorshid-android) - Independently maintained, community fork of Psiphon Android client
@@ -265,7 +266,6 @@
 - [bypass-vip/bypass.vip](https://github.com/bypass-vip/bypass.vip) - The #1 Linkvertise bypasser is back!
 - [justpy-org/justpy](https://github.com/justpy-org/justpy) - An object oriented high-level Python Web Framework that requires no frontend programming
 - [tuhinpal/imdb-api](https://github.com/tuhinpal/imdb-api) - Serverless IMDB API powered by Cloudflare Worker
-- [webrecorder/pywb](https://github.com/webrecorder/pywb) - Core Python Web Archiving Toolkit for replay and recording of web archives
 - [AnotiaWang/AntiChannelSpammersBot](https://github.com/AnotiaWang/AntiChannelSpammersBot) - A Telegram bot that can delete messages from users appearing as channels, also messages from anonymous admins and the linked channels.
 - [chankitsaini/InstaChat](https://github.com/chankitsaini/InstaChat) - 
 - [parnexcodes/yt-dl-api](https://github.com/parnexcodes/yt-dl-api) - A Youtube-DL API Made in NodeJS.
@@ -373,6 +373,7 @@
 
 ## Kotlin 
 
+- [michaloblastni/LiveOfflineTranscribe](https://github.com/michaloblastni/LiveOfflineTranscribe) - A simple, accessible and offline real-time transcription app for Android.
 - [FossifyOrg/Music-Player](https://github.com/FossifyOrg/Music-Player) - A clean music player with a customizable widget, stylish interface and no ads.
 - [rokrokss/recly](https://github.com/rokrokss/recly) - Your AI recorder is already on your wrist.
 - [IReaderorg/IReader](https://github.com/IReaderorg/IReader) - Free and open source novel reader for Android and Desktop.
@@ -1359,6 +1360,7 @@
 - [Altabeh/tesseract-ocr-wrapper](https://github.com/Altabeh/tesseract-ocr-wrapper) - This is a highly efficient python wrapper for tesseract-ocr.
 - [DavideGalilei/gpytranslate](https://github.com/DavideGalilei/gpytranslate) - A Python3 library for translating text using Google Translate API.
 - [ShivangKakkar/googletrans](https://github.com/ShivangKakkar/googletrans) - Fork of py-googletrans to use newer versions of httpx
+- [webrecorder/pywb](https://github.com/webrecorder/pywb) - Core Python Web Archiving Toolkit for replay and recording of web archives
 - [emkademy/jumpcutter](https://github.com/emkademy/jumpcutter) - Automatically jump-cut silent parts of your videos using Python
 - [flying-sheep/get_version](https://github.com/flying-sheep/get_version) - Automatically use the latest “vX.X.X” tag as version in your Python package
 - [rk0n/yttv](https://github.com/rk0n/yttv) - Python API for YouTubeTV
