@@ -233,6 +233,8 @@
 
 ## Java 
 
+- [notune/android_transcribe_app](https://github.com/notune/android_transcribe_app) - Offline voice input keyboard & live subtitle tool for Android
+- [marodriguezd/Aura-Transcribe](https://github.com/marodriguezd/Aura-Transcribe) - Aura Transcribe keyboard & live subtitle tool for Android
 - [NextAlone/Nagram](https://github.com/NextAlone/Nagram) - The third-party Telegram android app.
 - [CodeBySonu95/VoxSherpa-TTS](https://github.com/CodeBySonu95/VoxSherpa-TTS) - 🎙️ VoxSherpa TTS   Offline Neural Text-to-Speech Engine for Android  ⚡ Sherpa-ONNX powered   🔊 Natural voice synthesis   📱 Fully offline processing   🚀 No cloud • No limits
 - [w-coding/hanban_borina](https://github.com/w-coding/hanban_borina) - فەرهەنگی کوردی فارسی هەنبانبۆرینە
@@ -373,6 +375,7 @@
 
 ## Kotlin 
 
+- [chartmann1590/LiveTranscribe-Android](https://github.com/chartmann1590/LiveTranscribe-Android) - Live android transcription app
 - [michaloblastni/LiveOfflineTranscribe](https://github.com/michaloblastni/LiveOfflineTranscribe) - A simple, accessible and offline real-time transcription app for Android.
 - [FossifyOrg/Music-Player](https://github.com/FossifyOrg/Music-Player) - A clean music player with a customizable widget, stylish interface and no ads.
 - [rokrokss/recly](https://github.com/rokrokss/recly) - Your AI recorder is already on your wrist.
@@ -576,7 +579,7 @@
 - [prono69/Album-Maker-Bot](https://github.com/prono69/Album-Maker-Bot) - An advanced telegram bot to make media group/album from individual files
 - [atomimus/kurimod](https://github.com/atomimus/kurimod) - A monkeypatcher add-on designed for Kurigram, which is a maintained version of Pyrogram by KurimuzonAkuma.
 - [ramcana/subtitle-extract](https://github.com/ramcana/subtitle-extract) - Local desktop OCR for burned-in video subtitles, with optional GPU acceleration and SRT/TXT export.
-- [thatskiff33/whisper-transcriber](https://github.com/thatskiff33/whisper-transcriber) - Secure offline AI enabled transcription tool. Local, offline Whisper speech-to-text for Windows with speaker identification to transcribe audio into text. No admin, no FFmpeg, no GPU.
+- [thatskiff33/unminute](https://github.com/thatskiff33/unminute) - Unlimit your meeting minutes. Secure offline AI enabled transcription tool. Local, offline Whisper speech-to-text for Windows with speaker identification to transcribe audio into text. No admin, no FF
 - [SilentDemonSD/pyteledb](https://github.com/SilentDemonSD/pyteledb) - A Telegram-native embedded database for Telegram bots
 - [z-mio/parse_hub_bot](https://github.com/z-mio/parse_hub_bot) - Telegram 多平台聚合解析机器人
 - [nub-coders/zipper](https://github.com/nub-coders/zipper) - A Telegram bot for compressing, uncompressing, and managing files — supports password-protected ZIPs, direct link downloads, and premium storage via Razorpay.
@@ -907,7 +910,7 @@
 - [jnsougata/opentube](https://github.com/jnsougata/opentube) - Access YouTube Public Data without YouTubeAPI
 - [david-lev/pywa](https://github.com/david-lev/pywa) - 🤖 Hey there! I am using PyWa.
 - [mo1ein/TelegramArchive](https://github.com/mo1ein/TelegramArchive) - Export telegram chats.
-- [rany2/edge-tts](https://github.com/rany2/edge-tts) - Use Microsoft Edge's online text-to-speech service from Python WITHOUT needing Microsoft Edge or Windows or an API key
+- [rany2/edge-tts](https://github.com/rany2/edge-tts) - Use Microsoft Edge's online text-to-speech service from Python WITHOUT needing Microsoft Edge
 - [hynek/environ-config](https://github.com/hynek/environ-config) - Python Application Configuration With Environment Variables
 - [hynek/structlog](https://github.com/hynek/structlog) - Simple, powerful, and fast logging for Python.
 - [pikpikcu/js-finding](https://github.com/pikpikcu/js-finding) - JS Finding can be used to extract JavaScript (JS) files from either a single domain URL or a list of domains. The tool supports various extraction methods and provides additional options for file down
@@ -1808,7 +1811,7 @@
 - [jxmorris12/language_tool_python](https://github.com/jxmorris12/language_tool_python) - a free, non-AI python grammar checker 📝✅
 - [GopalSaraf/TorrentLeechBot](https://github.com/GopalSaraf/TorrentLeechBot) - A powerful telegram mirror bot..
 - [xHossein/radiojavanapi](https://github.com/xHossein/radiojavanapi) - Fast and effective Radio Javan API wrapper
-- [xHossein/PyPasser](https://github.com/xHossein/PyPasser) - Bypassing reCaptcha V3 by sending HTTP requests & solving reCaptcha V2 using speech to text engine.
+- [xHossein/PyPasser](https://github.com/xHossein/PyPasser) - Bypass & solve CAPTCHAs in Python — reCAPTCHA V3 over pure HTTP, V2 via audio, Cloudflare Turnstile, Arvancloud ARCaptcha, and anti-bot walls.
 - [viperadnan-git/emailer-py](https://github.com/viperadnan-git/emailer-py) - Emailer API built using FastAPI and smtplib
 - [vstavrinov/streamlink-service](https://github.com/vstavrinov/streamlink-service) - video streaming service based on streamlink  project (https://github.com/streamlink/streamlink)
 - [matbgn/auto-scan](https://github.com/matbgn/auto-scan) - Auto-scan is a tool to automatically scan documents from printer/scanner, OCR files, optimize and rotate it and finally send it by email as attachment.
@@ -2692,7 +2695,7 @@
 ## Rust 
 
 - [Open-Less/openless](https://github.com/Open-Less/openless) - Hold a key, speak, release — AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (按住快捷键说话，松开即得润色后的文字)
-- [jub0t/concat](https://github.com/jub0t/concat) - ⭐ Concat: The truly free, and open-source cross-platform CapCut replacement. Supports MCPs & API.
+- [jub0t/concat](https://github.com/jub0t/concat) - Concat: The truly free, and open-source cross-platform CapCut replacement. Supports MCPs & API.
 - [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Open Computer History | Continuously record your company computer work, map your workflows, help you find work worth automating, and power your agents' context
 - [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura) - The headless browser for AI agents and web scraping
 - [zackees/running-process](https://github.com/zackees/running-process) - A python subprocess replacement written in rust - track zombie processes, launch PTY and more
@@ -2714,6 +2717,7 @@
 
 ## Shell 
 
+- [jqssun/android-titanium-browser](https://github.com/jqssun/android-titanium-browser) - Secure open-source Android browser with support for extensions
 - [Linuxmaster14/telepipe](https://github.com/Linuxmaster14/telepipe) - A simple command-line utility to send messages to Telegram
 - [nimiology/nginx-wizard](https://github.com/nimiology/nginx-wizard) - interactive Bash wizard that configures Nginx with SSL (Let's Encrypt), WebSocket support, reverse proxy, and static/media file serving — perfect for Django or Docker deployments.
 - [fzerorubigd/persian-fonts-linux](https://github.com/fzerorubigd/persian-fonts-linux) - Persian fonts installer for linux
