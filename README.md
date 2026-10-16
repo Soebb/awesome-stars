@@ -48,6 +48,7 @@
 
 ## C 
 
+- [obs-rust/obs-studio](https://github.com/obs-rust/obs-studio) - OBS-STUDIO-RUST is an independent fork of obsproject/obs-studio with all the problems fixed. want to have maintainer privledges? File an issue and tag @zackees
 - [karim23657/ParsiGoo-win](https://github.com/karim23657/ParsiGoo-win) - 
 - [karim23657/offline-persian-tts-win7](https://github.com/karim23657/offline-persian-tts-win7) - Offline Persian (and multilingual) Text-to-Speech for Windows 7. A self-contained package using sherpa-onnx with a custom Win7 compatibility shim. No Python or internet required at runtime.
 - [daanzu/py-webrtcvad-wheels](https://github.com/daanzu/py-webrtcvad-wheels) - Python interface to the WebRTC Voice Activity Detector (VAD) [released with binary wheels!]
@@ -62,6 +63,7 @@
 
 ## C# # 
 
+- [naravid19/N_m3u8DL_RE_GUI](https://github.com/naravid19/N_m3u8DL_RE_GUI) - Windows GUI for N_m3u8DL-RE — download HLS, DASH, and Smooth Streaming with batch mode, mux options, resume support, and a browser companion extension for one-click stream capture.
 - [popovantondev/GitHubSync](https://github.com/popovantondev/GitHubSync) - Send and download GitHub project files and release attachments
 - [STranslate/STranslate](https://github.com/STranslate/STranslate) - A ready-to-go translation ocr tool developed with WPF/WPF 开发的一款即用即走的翻译、OCR工具
 - [KoalaBear84/OpenDirectoryDownloader](https://github.com/KoalaBear84/OpenDirectoryDownloader) - Indexes open directories
@@ -552,6 +554,7 @@
 
 ## Python 
 
+- [Jameshskelton/realtime_speech_translation](https://github.com/Jameshskelton/realtime_speech_translation) - 
 - [PyrogramMod/PyrogramMod](https://github.com/PyrogramMod/PyrogramMod) - PyrogramMod is an unofficial fork of github.com/pyrogram/pyrogram
 - [kadirb4rut/video-dubbing-translator](https://github.com/kadirb4rut/video-dubbing-translator) - Local-first AI video dubbing with Whisper/WhisperX, Google translation, VoxCPM2 voice cloning, and optional LatentSync lip-sync.
 - [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) - VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning
@@ -663,7 +666,6 @@
 - [srezasm/farsi-asr-dataset](https://github.com/srezasm/farsi-asr-dataset) - A collection of scripts and codes used to collect the largest ASR datasets for Farsi language.
 - [TorhamDev/Torham-personal-website](https://github.com/TorhamDev/Torham-personal-website) - https://torham.tech
 - [SepehrRasouli/clean-code-python](https://github.com/SepehrRasouli/clean-code-python) - :bathtub: Clean Code concepts adapted for Python
-- [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 - [Sirozha1337/faster-auto-subtitle](https://github.com/Sirozha1337/faster-auto-subtitle) - Automatically generate, translate and overlay subtitles for any video.
 - [rocketapi-io/rocketapi-python](https://github.com/rocketapi-io/rocketapi-python) - 🚀 RocketAPI Python SDK
 - [jessielw/Reclaimerr](https://github.com/jessielw/Reclaimerr) - https://jessielw.github.io/Reclaimerr/ - Automatically reclaim space in your media library using customizable rules. Integrates with Jellyfin, Plex, and Emby (any or all of them) to analyze and manage
