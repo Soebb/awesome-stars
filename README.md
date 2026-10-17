@@ -142,6 +142,7 @@
 
 ## Go 
 
+- [Unrud/remote-touchpad](https://github.com/Unrud/remote-touchpad) - Control mouse and keyboard from a smartphone
 - [MamdMehrabi/Uploader](https://github.com/MamdMehrabi/Uploader) - A website where every file uploaded is transferred to Telegram.
 - [HirbodBehnam/file2url-go](https://github.com/HirbodBehnam/file2url-go) - A Telegram bot to convert files to URL for direct download links.
 - [azolfagharj/telegram-commander](https://github.com/azolfagharj/telegram-commander) - Control your Linux server from Telegram with customizable buttons and shell commands.
@@ -235,6 +236,7 @@
 
 ## Java 
 
+- [jean-voila/FeurStagram](https://github.com/jean-voila/FeurStagram) - Instagram without Reels, feed or ads: an open-source, updatable Instagram app for Android that keeps DMs and stories.
 - [notune/android_transcribe_app](https://github.com/notune/android_transcribe_app) - Offline voice input keyboard & live subtitle tool for Android
 - [marodriguezd/Aura-Transcribe](https://github.com/marodriguezd/Aura-Transcribe) - Aura Transcribe keyboard & live subtitle tool for Android
 - [NextAlone/Nagram](https://github.com/NextAlone/Nagram) - The third-party Telegram android app.
@@ -554,6 +556,7 @@
 
 ## Python 
 
+- [jessielw/SubSyncr](https://github.com/jessielw/SubSyncr) - Desktop batch queue for subtitle synchronization, harnessing four engines (ffsubsync, alass, lapse and autosubsync)
 - [Jameshskelton/realtime_speech_translation](https://github.com/Jameshskelton/realtime_speech_translation) - 
 - [PyrogramMod/PyrogramMod](https://github.com/PyrogramMod/PyrogramMod) - PyrogramMod is an unofficial fork of github.com/pyrogram/pyrogram
 - [kadirb4rut/video-dubbing-translator](https://github.com/kadirb4rut/video-dubbing-translator) - Local-first AI video dubbing with Whisper/WhisperX, Google translation, VoxCPM2 voice cloning, and optional LatentSync lip-sync.
@@ -2697,7 +2700,7 @@
 ## Rust 
 
 - [Open-Less/openless](https://github.com/Open-Less/openless) - Hold a key, speak, release — AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (按住快捷键说话，松开即得润色后的文字)
-- [jub0t/concat](https://github.com/jub0t/concat) - Concat: The truly free, and open-source cross-platform CapCut replacement. Supports MCPs & API.
+- [jub0t/Concat](https://github.com/jub0t/Concat) - The truly free, and open-source cross-platform CapCut replacement. Supports MCPs & API.
 - [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Open Computer History | Continuously record your company computer work, map your workflows, help you find work worth automating, and power your agents' context
 - [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura) - The headless browser for AI agents and web scraping
 - [zackees/running-process](https://github.com/zackees/running-process) - A python subprocess replacement written in rust - track zombie processes, launch PTY and more
