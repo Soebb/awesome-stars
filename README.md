@@ -645,7 +645,7 @@
 - [Soebb/VideOCR-Telegram-bot](https://github.com/Soebb/VideOCR-Telegram-bot) - Extract hardcoded subtitles from videos using PaddleOCR or GoogleLens. Supports 200+ languages.
 - [FALKON-CODE/Telegram-Mirror](https://github.com/FALKON-CODE/Telegram-Mirror) - دسترسی و دانلود محتوای کانال‌های تلگرام بدون فیلتر، مستقیم از گیتهاب(اینترنت ملی)
 - [theskumar/python-dotenv](https://github.com/theskumar/python-dotenv) - Reads key-value pairs from a .env file and can set them as environment variables. It helps in developing applications following the 12-factor principles.
-- [wiltodelta/remove-ai-watermarks](https://github.com/wiltodelta/remove-ai-watermarks) - Remove visible and invisible AI watermarks and provenance metadata from images and video. Python library and CLI for SynthID, C2PA, EXIF, IPTC, XMP, and common generative-AI marks.
+- [wiltodelta/remove-ai-watermarks](https://github.com/wiltodelta/remove-ai-watermarks) - Remove visible and invisible AI watermarks from images and video, and AI provenance metadata from images, video, and audio. Python library, CLI, and agent skill for SynthID, C2PA, EXIF, IPTC, XMP, and
 - [yashhere/BeautifyMP3](https://github.com/yashhere/BeautifyMP3) - A command line tool for fixing ID3 metadata and adding Album Art to MP3 songs
 - [kiriya55/VideOCRplus](https://github.com/kiriya55/VideOCRplus) - Extract hardcoded subtitles from videos via a simple GUI using machine learning. Supports 200+ languages.
 - [jamiepine/voicebox](https://github.com/jamiepine/voicebox) - The open-source AI voice studio. Clone, dictate, create.
@@ -2700,7 +2700,7 @@
 ## Rust 
 
 - [Open-Less/openless](https://github.com/Open-Less/openless) - Hold a key, speak, release — AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (按住快捷键说话，松开即得润色后的文字)
-- [jub0t/Concat](https://github.com/jub0t/Concat) - The truly free, and open-source cross-platform CapCut replacement. Supports MCPs & API.
+- [jub0t/Concat](https://github.com/jub0t/Concat) - The truly free, open-source, cross-platform CapCut replacement. Runs locally: no account, no upload. Scriptable through a JSON-RPC API; MCP planned.
 - [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Open Computer History | Continuously record your company computer work, map your workflows, help you find work worth automating, and power your agents' context
 - [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura) - The headless browser for AI agents and web scraping
 - [zackees/running-process](https://github.com/zackees/running-process) - A python subprocess replacement written in rust - track zombie processes, launch PTY and more
