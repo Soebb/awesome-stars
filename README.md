@@ -86,6 +86,7 @@
 
 ## C++ 
 
+- [handy-computer/transcribe.cpp](https://github.com/handy-computer/transcribe.cpp) - ggml speech-to-text inference for 16+ model families
 - [Tatsh/bpmdetect](https://github.com/Tatsh/bpmdetect) - Automatic BPM (beats per minute) detection utility.
 - [mhogomchungu/media-downloader](https://github.com/mhogomchungu/media-downloader) - Media Downloader is a Qt/C++ front end to yt-dlp, youtube-dl, gallery-dl, lux, you-get, svtplay-dl, aria2c, wget and safari books..
 - [ServeurpersoCom/omnivoice.cpp](https://github.com/ServeurpersoCom/omnivoice.cpp) - Local AI text-to-speech with voice cloning and voice design, powered by GGML. C++17 port of OmniVoice (k2-fsa/OmniVoice). 646 languages, 24 kHz mono output, runs on CPU, CUDA, ROCm, Metal, Vulkan.
@@ -379,6 +380,10 @@
 
 ## Kotlin 
 
+- [sosauce/Chocola](https://github.com/sosauce/Chocola) - 🍫 Chocola is a cute and powerful offline music player for Android!
+- [SoCalled-Panda/livelens](https://github.com/SoCalled-Panda/livelens) - Real-time, system-wide translated subtitles for Android — 100% on-device. Whisper (sherpa-onnx) captures any app's audio and renders live captions over it. No cloud, no accounts, no telemetry.
+- [zt-Fang/EyeOpener-Translator](https://github.com/zt-Fang/EyeOpener-Translator) - Real-time speech translation for Android: a floating subtitle layer over any app. 41 languages, on-device ASR (sherpa-onnx / Vosk), offline / cloud / LLM translation.
+- [R-Dilipkumar/LiveSub-Offline-Translator](https://github.com/R-Dilipkumar/LiveSub-Offline-Translator) - LiveSub — private, offline live subtitles and translation for any app on Android. On-device speech recognition (Sherpa-ONNX) and translation (ML Kit), shown in a floating overlay.
 - [chartmann1590/LiveTranscribe-Android](https://github.com/chartmann1590/LiveTranscribe-Android) - Live android transcription app
 - [michaloblastni/LiveOfflineTranscribe](https://github.com/michaloblastni/LiveOfflineTranscribe) - A simple, accessible and offline real-time transcription app for Android.
 - [FossifyOrg/Music-Player](https://github.com/FossifyOrg/Music-Player) - A clean music player with a customizable widget, stylish interface and no ads.
@@ -2700,7 +2705,7 @@
 ## Rust 
 
 - [Open-Less/openless](https://github.com/Open-Less/openless) - Hold a key, speak, release — AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (按住快捷键说话，松开即得润色后的文字)
-- [jub0t/Concat](https://github.com/jub0t/Concat) - The truly free, open-source, cross-platform CapCut replacement. Runs locally: no account, no upload. Scriptable through a JSON-RPC API; MCP planned.
+- [jub0t/Concat](https://github.com/jub0t/Concat) - The truly free, open-source, local-first, cross-platform CapCut replacement. Scriptable through a JSON-RPC API & MCP.
 - [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Open Computer History | Continuously record your company computer work, map your workflows, help you find work worth automating, and power your agents' context
 - [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura) - The headless browser for AI agents and web scraping
 - [zackees/running-process](https://github.com/zackees/running-process) - A python subprocess replacement written in rust - track zombie processes, launch PTY and more
