@@ -431,6 +431,7 @@
 
 ## Others 
 
+- [ae9is/subtitle-anything](https://github.com/ae9is/subtitle-anything) - Add AI generated subtitles to any video playing in your browser!
 - [Syenar/BatchSubMux](https://github.com/Syenar/BatchSubMux) - BatchSubMux for Windows and Linux. Pairs with File Renamer by Syenar: https://gitlab.com/syenar/file-renamer
 - [ALIILAPRO/MusicFinder](https://github.com/ALIILAPRO/MusicFinder) - 🎵 Music Finder is a browser extension that allows you to search for music and download tracks via a Telegram bot.
 - [MoonWalker440/TeleBotList](https://github.com/MoonWalker440/TeleBotList) - A cool collection of awesome Telegram bots source code hosted on github
@@ -518,7 +519,7 @@
 
 ## PHP 
 
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.
 - [kihanb/jirjirakbot](https://github.com/kihanb/jirjirakbot) - JirJirakBot Project | Self-Destruct Messages (SDM)
 - [danog/downloadRenameBot](https://github.com/danog/downloadRenameBot) - 2gb+ Telegram file/YouTube upload&renamer bot based on MadelineProto
 - [PBhadoo/Rapidleech](https://github.com/PBhadoo/Rapidleech) - The Most Up to Date Rapidleech Fork
@@ -561,6 +562,8 @@
 
 ## Python 
 
+- [GeorgeAzma/live-subs](https://github.com/GeorgeAzma/live-subs) - Live subtitles from desktop audio auto translated to English
+- [WEIFENG2333/VideoCaptioner](https://github.com/WEIFENG2333/VideoCaptioner) - 🎬 卡卡字幕助手 | VideoCaptioner - 基于 LLM 的智能字幕助手 - 视频字幕生成、断句、校正、字幕翻译全流程处理！- A powered tool for easy and efficient video subtitling.
 - [jessielw/SubSyncr](https://github.com/jessielw/SubSyncr) - Desktop batch queue for subtitle synchronization, harnessing four engines (ffsubsync, alass, lapse and autosubsync)
 - [Jameshskelton/realtime_speech_translation](https://github.com/Jameshskelton/realtime_speech_translation) - 
 - [PyrogramMod/PyrogramMod](https://github.com/PyrogramMod/PyrogramMod) - PyrogramMod is an unofficial fork of github.com/pyrogram/pyrogram
@@ -590,7 +593,7 @@
 - [prono69/Album-Maker-Bot](https://github.com/prono69/Album-Maker-Bot) - An advanced telegram bot to make media group/album from individual files
 - [atomimus/kurimod](https://github.com/atomimus/kurimod) - A monkeypatcher add-on designed for Kurigram, which is a maintained version of Pyrogram by KurimuzonAkuma.
 - [ramcana/subtitle-extract](https://github.com/ramcana/subtitle-extract) - Local desktop OCR for burned-in video subtitles, with optional GPU acceleration and SRT/TXT export.
-- [thatskiff33/unminute](https://github.com/thatskiff33/unminute) - Unlimit your meeting minutes. Secure offline AI enabled transcription tool. Local, offline Whisper speech-to-text for Windows with speaker identification to transcribe audio into text. No admin, no FF
+- [thatskiff33/unminute](https://github.com/thatskiff33/unminute) - Unminute turns meeting recordings into reviewed transcripts, with speakers named, on your own computer with nothing uploaded, then hands the text to your AI assistant and clears its own copies.
 - [SilentDemonSD/pyteledb](https://github.com/SilentDemonSD/pyteledb) - A Telegram-native embedded database for Telegram bots
 - [z-mio/parse_hub_bot](https://github.com/z-mio/parse_hub_bot) - Telegram 多平台聚合解析机器人
 - [nub-coders/zipper](https://github.com/nub-coders/zipper) - A Telegram bot for compressing, uncompressing, and managing files — supports password-protected ZIPs, direct link downloads, and premium storage via Razorpay.
@@ -674,6 +677,7 @@
 - [srezasm/farsi-asr-dataset](https://github.com/srezasm/farsi-asr-dataset) - A collection of scripts and codes used to collect the largest ASR datasets for Farsi language.
 - [TorhamDev/Torham-personal-website](https://github.com/TorhamDev/Torham-personal-website) - https://torham.tech
 - [SepehrRasouli/clean-code-python](https://github.com/SepehrRasouli/clean-code-python) - :bathtub: Clean Code concepts adapted for Python
+- [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 - [Sirozha1337/faster-auto-subtitle](https://github.com/Sirozha1337/faster-auto-subtitle) - Automatically generate, translate and overlay subtitles for any video.
 - [rocketapi-io/rocketapi-python](https://github.com/rocketapi-io/rocketapi-python) - 🚀 RocketAPI Python SDK
 - [jessielw/Reclaimerr](https://github.com/jessielw/Reclaimerr) - https://jessielw.github.io/Reclaimerr/ - Automatically reclaim space in your media library using customizable rules. Integrates with Jellyfin, Plex, and Emby (any or all of them) to analyze and manage
@@ -1356,7 +1360,6 @@
 - [ponty/pyscreenshot](https://github.com/ponty/pyscreenshot) - Python screenshot library, replacement for the Pillow ImageGrab module on Linux.
 - [CT83/SmoothStream](https://github.com/CT83/SmoothStream) - Webcam, PiCamera streaming over the network with Python made easy.
 - [Parth0105/Auto_Module_Installer](https://github.com/Parth0105/Auto_Module_Installer) - python project to install modules
-- [buurro/spotify-now-playing-telegram](https://github.com/buurro/spotify-now-playing-telegram) - Share what you're playing on Spotify
 - [eriknyquist/tones](https://github.com/eriknyquist/tones) - Pure-python library for generating audio tones, with support for polyphony, pitch-bending and vibrato
 - [kul-sudo/Screened](https://github.com/kul-sudo/Screened) - Screened - Quick and Easy Screen Capturing
 - [ali-hv/AvaFarsi](https://github.com/ali-hv/AvaFarsi) - AvaFarsi is an open-source graphical app which helps you to download the songs of iranian singers easily
@@ -2792,6 +2795,7 @@
 
 ## TypeScript 
 
+- [buxuku/SmartSub](https://github.com/buxuku/SmartSub) - 视频转字幕、字幕翻译、AI 配音与声音克隆、字幕烧录——免费开源的一站式桌面工具。基于 Whisper / FunASR 等本地模型离线语音转文字，批量处理 + 全平台 GPU 加速，跨 Windows / macOS / Linux。Free, open-source desktop app to generate, translate, dub & burn video subtitles —
 - [amir9480/gamenet-time-manager](https://github.com/amir9480/gamenet-time-manager) - نرم افزار رایگان مدیریت زمان و هزینه‌ی گیم نت: محاسبه‌ی خودکار هزینه‌ی تایم هر دستگاه، بوفه، مشتریان، نسیه و گزارش‌گیری. قابل نصب و بدون نیاز به اینترنت.
 - [vanloctech/youwee](https://github.com/vanloctech/youwee) - A beautiful, cross-platform downloader for YouTube, TikTok, Instagram, and 1800+ sites (yt-dlp GUI) with AI video summaries and post-processing
 - [dahshury/WinSTT](https://github.com/dahshury/WinSTT) - WinSTT: local-first speech-to-text, text-to-speech app. Portable, minimal, easy to use.
