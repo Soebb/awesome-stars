@@ -33,6 +33,7 @@
 - [R](#r)
 - [Ruby](#ruby)
 - [Rust](#rust)
+- [SCSS](#scss)
 - [Shell](#shell)
 - [Smalltalk](#smalltalk)
 - [Svelte](#svelte)
@@ -562,6 +563,10 @@
 
 ## Python 
 
+- [astronuttt/persian-writing-skills](https://github.com/astronuttt/persian-writing-skills) - 
+- [TitanComputer/Batch-Folder-Renamer](https://github.com/TitanComputer/Batch-Folder-Renamer) - A lightweight CustomTkinter-based tool to batch rename folders by removing prefixes, suffixes, and formatting names cleanly.
+- [TitanComputer/Persian-Subtitle-Toolkit](https://github.com/TitanComputer/Persian-Subtitle-Toolkit) - A lightweight Python desktop utility for batch processing, cleaning, and optimizing Persian subtitle files.
+- [PySimpleGUI/PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) - Python GUIs for Humans! Create any GUI simple or complicated in a way that's intuitive.  Launched in 2018. NEW for 2026 - the LGPL3 Version 6.  Transforms tkinter, Qt, WxPython, and Remi into a simple
 - [GeorgeAzma/live-subs](https://github.com/GeorgeAzma/live-subs) - Live subtitles from desktop audio auto translated to English
 - [WEIFENG2333/VideoCaptioner](https://github.com/WEIFENG2333/VideoCaptioner) - 🎬 卡卡字幕助手 | VideoCaptioner - 基于 LLM 的智能字幕助手 - 视频字幕生成、断句、校正、字幕翻译全流程处理！- A powered tool for easy and efficient video subtitling.
 - [jessielw/SubSyncr](https://github.com/jessielw/SubSyncr) - Desktop batch queue for subtitle synchronization, harnessing four engines (ffsubsync, alass, lapse and autosubsync)
@@ -1366,7 +1371,6 @@
 - [ricardojoserf/instagram-followers-bot](https://github.com/ricardojoserf/instagram-followers-bot) - A bot for Instagram. You can follow users using a tag or in a specific location, unfollow those who dont follow-you-back, and follow-back those who follow you
 - [amitkr-codes/localdb.json](https://github.com/amitkr-codes/localdb.json) - 
 - [SpEcHiDe/Media-Search-bot](https://github.com/SpEcHiDe/Media-Search-bot) - Inline bot for searching channels, without using any external third party database
-- [zackees/vids-db](https://github.com/zackees/vids-db) - 
 - [xgorn/Spotify-Loader](https://github.com/xgorn/Spotify-Loader) - Telegram bot download spotify playlist/artist/album/track music
 - [jusidama18/Gist-Telegram-Bot](https://github.com/jusidama18/Gist-Telegram-Bot) - 
 - [partiallywritten/Nexa-API](https://github.com/partiallywritten/Nexa-API) - Simple, Free and Easy to use Public api
@@ -2727,6 +2731,10 @@
 - [kiamazi/kateb](https://github.com/kiamazi/kateb) - Install and update free Farsi fonts
 - [alenpaulvarghese/AurSearchBot](https://github.com/alenpaulvarghese/AurSearchBot) - Telegram bot for searching in Arch User Repository ( AUR ); Implemented using rust.
 - [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger) - 📼 Merge video & audio files via CLI
+
+## SCSS 
+
+- [ali-rajabpour/persian-google-calendar](https://github.com/ali-rajabpour/persian-google-calendar) - A web application that allows users to view and manage their Google Calendar events using a Persian/Jalali calendar interface
 
 ## Shell 
 
