@@ -118,6 +118,7 @@
 
 ## Dart 
 
+- [DR1N0/loud-caption](https://github.com/DR1N0/loud-caption) - Offline, on-device live captions and streaming translation for Android — Chinese, English, Japanese, Korean, Cantonese. Built for people with hearing loss.
 - [code3-dev/CCloud-GUI](https://github.com/code3-dev/CCloud-GUI) - A modern, free, and unlimited Iranian Persian streaming platform.
 - [bepass-org/oblivion](https://github.com/bepass-org/oblivion) - Unofficial warp client for android
 - [Begzar/BegzarApp](https://github.com/Begzar/BegzarApp) - Begzar, is a vpn software made for internet freedom.
@@ -563,6 +564,7 @@
 
 ## Python 
 
+- [jessielw/VideoForge](https://github.com/jessielw/VideoForge) - Video Encoding WebUI (Linux on Docker and Windows via PyWebView)
 - [astronuttt/persian-writing-skills](https://github.com/astronuttt/persian-writing-skills) - 
 - [TitanComputer/Batch-Folder-Renamer](https://github.com/TitanComputer/Batch-Folder-Renamer) - A lightweight CustomTkinter-based tool to batch rename folders by removing prefixes, suffixes, and formatting names cleanly.
 - [TitanComputer/Persian-Subtitle-Toolkit](https://github.com/TitanComputer/Persian-Subtitle-Toolkit) - A lightweight Python desktop utility for batch processing, cleaning, and optimizing Persian subtitle files.
@@ -1828,7 +1830,7 @@
 - [jxmorris12/language_tool_python](https://github.com/jxmorris12/language_tool_python) - a free, non-AI python grammar checker 📝✅
 - [GopalSaraf/TorrentLeechBot](https://github.com/GopalSaraf/TorrentLeechBot) - A powerful telegram mirror bot..
 - [xHossein/radiojavanapi](https://github.com/xHossein/radiojavanapi) - Fast and effective Radio Javan API wrapper
-- [xHossein/PyPasser](https://github.com/xHossein/PyPasser) - Bypass & solve CAPTCHAs in Python — reCAPTCHA V3 over pure HTTP, V2 via audio, Cloudflare Turnstile, Arvancloud ARCaptcha, and anti-bot walls.
+- [xHossein/PyPasser](https://github.com/xHossein/PyPasser) - Free, open-source CAPTCHA solver for Python (no paid APIs) — solve reCAPTCHA (V2, V3), GeeTest V4, Lemin, Cloudflare Turnstile, ARCaptcha, and anti-bot walls via pure HTTP requests and browser automat
 - [viperadnan-git/emailer-py](https://github.com/viperadnan-git/emailer-py) - Emailer API built using FastAPI and smtplib
 - [vstavrinov/streamlink-service](https://github.com/vstavrinov/streamlink-service) - video streaming service based on streamlink  project (https://github.com/streamlink/streamlink)
 - [matbgn/auto-scan](https://github.com/matbgn/auto-scan) - Auto-scan is a tool to automatically scan documents from printer/scanner, OCR files, optimize and rotate it and finally send it by email as attachment.
@@ -2711,6 +2713,7 @@
 
 ## Rust 
 
+- [sunerpy/voltip](https://github.com/sunerpy/voltip) - Push-to-talk voice typing for Windows, macOS, Linux and Android. On-device or cloud speech recognition, AI polish with presets, a dictionary, rules and scenes, long recordings with subtitles; the phon
 - [Open-Less/openless](https://github.com/Open-Less/openless) - Hold a key, speak, release — AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (按住快捷键说话，松开即得润色后的文字)
 - [jub0t/Concat](https://github.com/jub0t/Concat) - The truly free, open-source, local-first, cross-platform CapCut replacement. Scriptable through a JSON-RPC API & MCP.
 - [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Open Computer History | Continuously record your company computer work, map your workflows, help you find work worth automating, and power your agents' context
