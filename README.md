@@ -383,7 +383,6 @@
 ## Kotlin 
 
 - [sosauce/Chocola](https://github.com/sosauce/Chocola) - 🍫 Chocola is a cute and powerful offline music player for Android!
-- [SoCalled-Panda/livelens](https://github.com/SoCalled-Panda/livelens) - Real-time, system-wide translated subtitles for Android — 100% on-device. Whisper (sherpa-onnx) captures any app's audio and renders live captions over it. No cloud, no accounts, no telemetry.
 - [zt-Fang/EyeOpener-Translator](https://github.com/zt-Fang/EyeOpener-Translator) - Real-time speech translation for Android: a floating subtitle layer over any app. 41 languages, on-device ASR (sherpa-onnx / Vosk), offline / cloud / LLM translation.
 - [R-Dilipkumar/LiveSub-Offline-Translator](https://github.com/R-Dilipkumar/LiveSub-Offline-Translator) - LiveSub — private, offline live subtitles and translation for any app on Android. On-device speech recognition (Sherpa-ONNX) and translation (ML Kit), shown in a floating overlay.
 - [chartmann1590/LiveTranscribe-Android](https://github.com/chartmann1590/LiveTranscribe-Android) - Live android transcription app
@@ -564,6 +563,7 @@
 
 ## Python 
 
+- [n8henrie/pycookiecheat](https://github.com/n8henrie/pycookiecheat) - Borrow cookies from your browser's authenticated session for use in Python scripts.
 - [jessielw/VideoForge](https://github.com/jessielw/VideoForge) - Video Encoding WebUI (Linux on Docker and Windows via PyWebView)
 - [astronuttt/persian-writing-skills](https://github.com/astronuttt/persian-writing-skills) - 
 - [TitanComputer/Batch-Folder-Renamer](https://github.com/TitanComputer/Batch-Folder-Renamer) - A lightweight CustomTkinter-based tool to batch rename folders by removing prefixes, suffixes, and formatting names cleanly.
@@ -687,7 +687,7 @@
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 - [Sirozha1337/faster-auto-subtitle](https://github.com/Sirozha1337/faster-auto-subtitle) - Automatically generate, translate and overlay subtitles for any video.
 - [rocketapi-io/rocketapi-python](https://github.com/rocketapi-io/rocketapi-python) - 🚀 RocketAPI Python SDK
-- [jessielw/Reclaimerr](https://github.com/jessielw/Reclaimerr) - https://jessielw.github.io/Reclaimerr/ - Automatically reclaim space in your media library using customizable rules. Integrates with Jellyfin, Plex, and Emby (any or all of them) to analyze and manage
+- [jessielw/Reclaimerr](https://github.com/jessielw/Reclaimerr) - Automatically reclaim space in your media library using customizable rules. Integrates with Jellyfin, Plex, and Emby (any or all of them) to analyze and manage your content. Functions similarly to See
 - [NTFSvolume/mega.py](https://github.com/NTFSvolume/mega.py) - Python library for https://mega.nz and https://transfer.it API
 - [timminator/Chrome-Lens-OCR](https://github.com/timminator/Chrome-Lens-OCR) - Library to use Google Lens OCR for free from the command line, via the API used in Chromium!
 - [cxyfer/GeminiASR](https://github.com/cxyfer/GeminiASR) - A Python tool that uses Google Gemini API to transcribe video or audio files into SRT subtitle files.
@@ -2199,7 +2199,7 @@
 - [xgorn/TikTokDL](https://github.com/xgorn/TikTokDL) - Telegram bot to download tiktok video/audio
 - [xgorn/BulkLoader](https://github.com/xgorn/BulkLoader) - Telegram bot to bulk download list of yt-dlp supported link and upload to telegram
 - [shivamdev-lgtm/python-aria-mirror-bot](https://github.com/shivamdev-lgtm/python-aria-mirror-bot) - A telegram bot for all your mirror needs | OG Repo
-- [MarshalX/tgcalls](https://github.com/MarshalX/tgcalls) - Voice chats, private incoming and outgoing calls in Telegram for Developers
+- [MarshalX/tgcalls](https://github.com/MarshalX/tgcalls) - Voice and video calls in Telegram for Python
 - [arun017s/FeedbackBot](https://github.com/arun017s/FeedbackBot) - 
 - [AmirulAndalib/TL-GD](https://github.com/AmirulAndalib/TL-GD) - A FORKED AND Modded version of TL:GD...
 - [cmlburnett/mkvxmlmaker](https://github.com/cmlburnett/mkvxmlmaker) - Python module that makes XML files for feeding mkvmerge
@@ -2713,6 +2713,7 @@
 
 ## Rust 
 
+- [xevrion/hatchzip](https://github.com/xevrion/hatchzip) - Extract huge archives in place: the archive shrinks as your files hatch, so you only need room for the output. ZIP, 7z, tar, split archives.
 - [sunerpy/voltip](https://github.com/sunerpy/voltip) - Push-to-talk voice typing for Windows, macOS, Linux and Android. On-device or cloud speech recognition, AI polish with presets, a dictionary, rules and scenes, long recordings with subtitles; the phon
 - [Open-Less/openless](https://github.com/Open-Less/openless) - Hold a key, speak, release — AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (按住快捷键说话，松开即得润色后的文字)
 - [jub0t/Concat](https://github.com/jub0t/Concat) - The truly free, open-source, local-first, cross-platform CapCut replacement. Scriptable through a JSON-RPC API & MCP.
@@ -2806,6 +2807,7 @@
 
 ## TypeScript 
 
+- [Kurdeus/tg-stream-cf-worker](https://github.com/Kurdeus/tg-stream-cf-worker) - A telegram bot for Cloudflare Workers that will give instant stream links for telegram files without the need of waiting till the download completes. (Telegram File Stream Bot)
 - [buxuku/SmartSub](https://github.com/buxuku/SmartSub) - 视频转字幕、字幕翻译、AI 配音与声音克隆、字幕烧录——免费开源的一站式桌面工具。基于 Whisper / FunASR 等本地模型离线语音转文字，批量处理 + 全平台 GPU 加速，跨 Windows / macOS / Linux。Free, open-source desktop app to generate, translate, dub & burn video subtitles —
 - [amir9480/gamenet-time-manager](https://github.com/amir9480/gamenet-time-manager) - نرم افزار رایگان مدیریت زمان و هزینه‌ی گیم نت: محاسبه‌ی خودکار هزینه‌ی تایم هر دستگاه، بوفه، مشتریان، نسیه و گزارش‌گیری. قابل نصب و بدون نیاز به اینترنت.
 - [vanloctech/youwee](https://github.com/vanloctech/youwee) - A beautiful, cross-platform downloader for YouTube, TikTok, Instagram, and 1800+ sites (yt-dlp GUI) with AI video summaries and post-processing
