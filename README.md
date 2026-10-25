@@ -145,6 +145,7 @@
 
 ## Go 
 
+- [rohit267/net-merge](https://github.com/rohit267/net-merge) - Use all your internet connections at once on Windows, macOS, Linux and Android: per-connection load balancing over Wi-Fi, Ethernet, mobile data and phone tethers
 - [Unrud/remote-touchpad](https://github.com/Unrud/remote-touchpad) - Control mouse and keyboard from a smartphone
 - [MamdMehrabi/Uploader](https://github.com/MamdMehrabi/Uploader) - A website where every file uploaded is transferred to Telegram.
 - [HirbodBehnam/file2url-go](https://github.com/HirbodBehnam/file2url-go) - A Telegram bot to convert files to URL for direct download links.
@@ -563,6 +564,7 @@
 
 ## Python 
 
+- [EchterAlsFake/Porn_Fetch](https://github.com/EchterAlsFake/Porn_Fetch) - Cross-Platform Porn (Hub) downloader with Account Login and Searching support
 - [n8henrie/pycookiecheat](https://github.com/n8henrie/pycookiecheat) - Borrow cookies from your browser's authenticated session for use in Python scripts.
 - [jessielw/VideoForge](https://github.com/jessielw/VideoForge) - Video Encoding WebUI (Linux on Docker and Windows via PyWebView)
 - [astronuttt/persian-writing-skills](https://github.com/astronuttt/persian-writing-skills) - 
@@ -2807,6 +2809,7 @@
 
 ## TypeScript 
 
+- [ArchiveBox/archivebox-browser-extension](https://github.com/ArchiveBox/archivebox-browser-extension) - 🖥️ Official ArchiveBox browser extension: automatically/manually preserve your browsing history using ArchiveBox.
 - [Kurdeus/tg-stream-cf-worker](https://github.com/Kurdeus/tg-stream-cf-worker) - A telegram bot for Cloudflare Workers that will give instant stream links for telegram files without the need of waiting till the download completes. (Telegram File Stream Bot)
 - [buxuku/SmartSub](https://github.com/buxuku/SmartSub) - 视频转字幕、字幕翻译、AI 配音与声音克隆、字幕烧录——免费开源的一站式桌面工具。基于 Whisper / FunASR 等本地模型离线语音转文字，批量处理 + 全平台 GPU 加速，跨 Windows / macOS / Linux。Free, open-source desktop app to generate, translate, dub & burn video subtitles —
 - [amir9480/gamenet-time-manager](https://github.com/amir9480/gamenet-time-manager) - نرم افزار رایگان مدیریت زمان و هزینه‌ی گیم نت: محاسبه‌ی خودکار هزینه‌ی تایم هر دستگاه، بوفه، مشتریان، نسیه و گزارش‌گیری. قابل نصب و بدون نیاز به اینترنت.
