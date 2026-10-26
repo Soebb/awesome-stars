@@ -127,6 +127,7 @@
 
 ## Dockerfile 
 
+- [chodeus/ffmpeg-static](https://github.com/chodeus/ffmpeg-static) - 
 - [fazibaba/Building-Containers-Podman](https://github.com/fazibaba/Building-Containers-Podman) - Docker is a popular tool for building and running containers, but it's not the only one. Podman is a similar tool that can be used as a drop-in replacement for Docker. One advantage of Podman is that 
 - [venkateswarluvajrala/docker-exercises](https://github.com/venkateswarluvajrala/docker-exercises) - This Repository offers tasks to test and enhance expertise in creating optimized Docker images and containers
 - [partiallywritten/X-Bin-Patch](https://github.com/partiallywritten/X-Bin-Patch) - Method to deploy Mega.nz-Bot to Heroku
@@ -383,6 +384,9 @@
 
 ## Kotlin 
 
+- [Lanzkila/KirinDL](https://github.com/Lanzkila/KirinDL) - Kirin Downloader - based on SealPlus. but with GalleryDL
+- [Lanzkila/KirinYT](https://github.com/Lanzkila/KirinYT) - Full-featured audio/video downloader for Android using yt-dlp
+- [SibtainOcn/Hazel](https://github.com/SibtainOcn/Hazel) - The art of saving media 🍂✨ -&gt; A simple way to save videos, music, and playlists from YouTube and 1500+ sites with zero ads, tracking, or account setups
 - [sosauce/Chocola](https://github.com/sosauce/Chocola) - 🍫 Chocola is a cute and powerful offline music player for Android!
 - [zt-Fang/EyeOpener-Translator](https://github.com/zt-Fang/EyeOpener-Translator) - Real-time speech translation for Android: a floating subtitle layer over any app. 41 languages, on-device ASR (sherpa-onnx / Vosk), offline / cloud / LLM translation.
 - [R-Dilipkumar/LiveSub-Offline-Translator](https://github.com/R-Dilipkumar/LiveSub-Offline-Translator) - LiveSub — private, offline live subtitles and translation for any app on Android. On-device speech recognition (Sherpa-ONNX) and translation (ML Kit), shown in a floating overlay.
@@ -2715,7 +2719,7 @@
 
 ## Rust 
 
-- [xevrion/hatchzip](https://github.com/xevrion/hatchzip) - Extract huge archives in place: the archive shrinks as your files hatch, so you only need room for the output. ZIP, 7z, tar, split archives.
+- [xevrion/hatchzip](https://github.com/xevrion/hatchzip) - HatchZip is a free, open-source archive extractor for Windows, macOS and Linux that extracts ZIP, 7z, RAR, tar and split archives in place, so it needs free space for the extracted files only. Desktop
 - [sunerpy/voltip](https://github.com/sunerpy/voltip) - Push-to-talk voice typing for Windows, macOS, Linux and Android. On-device or cloud speech recognition, AI polish with presets, a dictionary, rules and scenes, long recordings with subtitles; the phon
 - [Open-Less/openless](https://github.com/Open-Less/openless) - Hold a key, speak, release — AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (按住快捷键说话，松开即得润色后的文字)
 - [jub0t/Concat](https://github.com/jub0t/Concat) - The truly free, open-source, local-first, cross-platform CapCut replacement. Scriptable through a JSON-RPC API & MCP.
