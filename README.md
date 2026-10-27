@@ -260,6 +260,7 @@
 
 ## JavaScript 
 
+- [HeyPuter/everything](https://github.com/HeyPuter/everything) - We're rebuilding and open-sourcing the world’s software from scratch.
 - [tangyoha/telegram_media_downloader](https://github.com/tangyoha/telegram_media_downloader) - 基于Dineshkarthik的项目， 电报视频下载，电报资源下载，跨平台，支持web查看下载进度 ，支持bot下发指令下载，支持下载已经加入的私有群但是限制下载的资源， telegram media download,Download media files from a telegram conversation/chat/channel up to 2GiB per file
 - [moghadam-pro/media-relay-bot](https://github.com/moghadam-pro/media-relay-bot) - A private-first Telegram media relay that turns supported social-media post URLs into temporary direct-download links.
 - [Hamed-Gharghi/Cloudflare-Telegram-bot-builder](https://github.com/Hamed-Gharghi/Cloudflare-Telegram-bot-builder) - HG-TeleFlare: Build Telegram bots without code. Zero-config, self-bootstrapping Cloudflare Workers with D1, KV, and visual rule builder. Deploy in 60s. ⚡
@@ -568,6 +569,7 @@
 
 ## Python 
 
+- [Kekobade/Easydl](https://github.com/Kekobade/Easydl) - Easydl Is a Cool CLI Based Downloader, that makes you Download Your Every Use Platform. Like Youtube, Spicetify And Soundcloud. It Downloads Video/Music (MP3, MP4, Flac, etc).
 - [EchterAlsFake/Porn_Fetch](https://github.com/EchterAlsFake/Porn_Fetch) - Cross-Platform Porn (Hub) downloader with Account Login and Searching support
 - [n8henrie/pycookiecheat](https://github.com/n8henrie/pycookiecheat) - Borrow cookies from your browser's authenticated session for use in Python scripts.
 - [jessielw/VideoForge](https://github.com/jessielw/VideoForge) - Video Encoding WebUI (Linux on Docker and Windows via PyWebView)
@@ -874,9 +876,8 @@
 - [DeepL/deepl-python](https://github.com/DeepL/deepl-python) - Official Python library for the DeepL language translation API.
 - [adonistoday/deep-speech-app](https://github.com/adonistoday/deep-speech-app) - 
 - [nidhaloff/deep-translator](https://github.com/nidhaloff/deep-translator) - A flexible free and unlimited python tool to translate between different languages in a simple way using multiple translators.
-- [Soebb/own-youtube-streaming](https://github.com/Soebb/own-youtube-streaming) - A local Telegram bot to generate own youtube stream url
+- [Soebb/own-yt-streaming-bot](https://github.com/Soebb/own-yt-streaming-bot) - A local Telegram bot to generate own youtube stream url
 - [Soebb/thumb-change-bot](https://github.com/Soebb/thumb-change-bot) - A simple Telegram bot to change the videos thumbnail.
-- [Soebb/Persian-Spell-Corrector](https://github.com/Soebb/Persian-Spell-Corrector) - aka Farsi text corrector
 - [Soebb/persian-deepspeech-bot](https://github.com/Soebb/persian-deepspeech-bot) - Persian speech to text, Farsi voice recognition in telegram
 - [moehmeni/syncedlyrics](https://github.com/moehmeni/syncedlyrics) - Get an LRC format (synchronized) lyrics for your music
 - [SadeghKrmi/pertts-streamlit](https://github.com/SadeghKrmi/pertts-streamlit) - Persian text-to-speech streamlit interface
