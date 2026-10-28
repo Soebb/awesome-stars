@@ -324,7 +324,7 @@
 - [kodjunkie/beetube-bot](https://github.com/kodjunkie/beetube-bot) - 🤖 A telegram bot for music, movies, anime, torrent, EDM tracks, series downloads, files, and more...
 - [AkhileshNS/heroku-deploy](https://github.com/AkhileshNS/heroku-deploy) - A simple github action that dynamically deploys an app to heroku
 - [yarnpkg/yarn](https://github.com/yarnpkg/yarn) - The 1.x line is frozen - features and bugfixes now happen on https://github.com/yarnpkg/berry
-- [backmeupplz/voicy](https://github.com/backmeupplz/voicy) - @voicybot Telegram bot main repository
+- [backmeupplz/voicy](https://github.com/backmeupplz/voicy) - Voicy (@voicybot): a Telegram bot that turns voice messages into text in groups and private chats
 
 ## Jupyter Notebook 
 
@@ -1837,7 +1837,7 @@
 - [jxmorris12/language_tool_python](https://github.com/jxmorris12/language_tool_python) - a free, non-AI python grammar checker 📝✅
 - [GopalSaraf/TorrentLeechBot](https://github.com/GopalSaraf/TorrentLeechBot) - A powerful telegram mirror bot..
 - [xHossein/radiojavanapi](https://github.com/xHossein/radiojavanapi) - Fast and effective Radio Javan API wrapper
-- [xHossein/PyPasser](https://github.com/xHossein/PyPasser) - Free, open-source CAPTCHA solver for Python (no paid APIs) — solve reCAPTCHA (V2, V3), GeeTest V4, Lemin, Cloudflare Turnstile, ARCaptcha, and anti-bot walls via pure HTTP requests and browser automat
+- [xHossein/PyPasser](https://github.com/xHossein/PyPasser) - Free, open-source CAPTCHA solver for Python (no paid APIs) — solve and bypass reCAPTCHA (V2, V3), GeeTest V4, Lemin, Cloudflare Turnstile, ARCaptcha, and anti-bot walls via pure HTTP requests and brow
 - [viperadnan-git/emailer-py](https://github.com/viperadnan-git/emailer-py) - Emailer API built using FastAPI and smtplib
 - [vstavrinov/streamlink-service](https://github.com/vstavrinov/streamlink-service) - video streaming service based on streamlink  project (https://github.com/streamlink/streamlink)
 - [matbgn/auto-scan](https://github.com/matbgn/auto-scan) - Auto-scan is a tool to automatically scan documents from printer/scanner, OCR files, optimize and rotate it and finally send it by email as attachment.
