@@ -6,6 +6,7 @@
 ## Contents
 
 - [Adblock Filter List](#adblock-filter-list)
+- [Astro](#astro)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -46,6 +47,10 @@
 ## Adblock Filter List 
 
 - [MasterKia/PersianBlocker](https://github.com/MasterKia/PersianBlocker) - سرانجام، یک لیست بهینه و گسترده برای مسدودسازی تبلیغ ها و ردیاب ها در سایت های پارسی زبان!
+
+## Astro 
+
+- [tortuvshin/open-apps](https://github.com/tortuvshin/open-apps) - A curated, self-refreshing directory of real open-source application codebases - built for developers who want to learn from production apps and find projects worth contributing to.
 
 ## C 
 
@@ -146,7 +151,7 @@
 
 ## Go 
 
-- [rohit267/net-merge](https://github.com/rohit267/net-merge) - Use all your internet connections at once on Windows, macOS, Linux and Android: per-connection load balancing over Wi-Fi, Ethernet, mobile data and phone tethers
+- [net-merge/net-merge](https://github.com/net-merge/net-merge) - Use all your internet connections at once on Windows, macOS, Linux and Android: per-connection load balancing over Wi-Fi, Ethernet, mobile data and phone tethers
 - [Unrud/remote-touchpad](https://github.com/Unrud/remote-touchpad) - Control mouse and keyboard from a smartphone
 - [MamdMehrabi/Uploader](https://github.com/MamdMehrabi/Uploader) - A website where every file uploaded is transferred to Telegram.
 - [HirbodBehnam/file2url-go](https://github.com/HirbodBehnam/file2url-go) - A Telegram bot to convert files to URL for direct download links.
@@ -385,9 +390,10 @@
 
 ## Kotlin 
 
+- [fhes-tus/Vern-TTS](https://github.com/fhes-tus/Vern-TTS) - An offline zero subscription, zero ads free TTS app for android and desktop
 - [Lanzkila/KirinDL](https://github.com/Lanzkila/KirinDL) - Kirin Downloader - based on SealPlus. but with GalleryDL
 - [Lanzkila/KirinYT](https://github.com/Lanzkila/KirinYT) - Full-featured audio/video downloader for Android using yt-dlp
-- [SibtainOcn/Hazel](https://github.com/SibtainOcn/Hazel) - The art of saving media 🍂✨ -&gt; A simple way to save videos, music, and playlists from YouTube and 1500+ sites with zero ads, tracking, or account setups
+- [SibtainOcn/Hazel](https://github.com/SibtainOcn/Hazel) - The art of saving media 🍂✨ -&gt; A modern clean interface android app to save videos, music, and playlists from YouTube and 1500+ sites with zero ads, tracking, or account setups
 - [sosauce/Chocola](https://github.com/sosauce/Chocola) - 🍫 Chocola is a cute and powerful offline music player for Android!
 - [zt-Fang/EyeOpener-Translator](https://github.com/zt-Fang/EyeOpener-Translator) - Real-time speech translation for Android: a floating subtitle layer over any app. 41 languages, on-device ASR (sherpa-onnx / Vosk), offline / cloud / LLM translation.
 - [R-Dilipkumar/LiveSub-Offline-Translator](https://github.com/R-Dilipkumar/LiveSub-Offline-Translator) - LiveSub — private, offline live subtitles and translation for any app on Android. On-device speech recognition (Sherpa-ONNX) and translation (ML Kit), shown in a floating overlay.
@@ -569,6 +575,7 @@
 
 ## Python 
 
+- [Huanshere/VideoLingo](https://github.com/Huanshere/VideoLingo) - Netflix-level subtitle cutting, translation, alignment, and even dubbing - one-click fully automated AI video subtitle team | Netflix级字幕切割、翻译、对齐、甚至加上配音，一键全自动视频搬运AI字幕组
 - [Kekobade/Easydl](https://github.com/Kekobade/Easydl) - Easydl Is a Cool CLI Based Downloader, that makes you Download Your Every Use Platform. Like Youtube, Spicetify And Soundcloud. It Downloads Video/Music (MP3, MP4, Flac, etc).
 - [EchterAlsFake/Porn_Fetch](https://github.com/EchterAlsFake/Porn_Fetch) - Cross-Platform Porn (Hub) downloader with Account Login and Searching support
 - [n8henrie/pycookiecheat](https://github.com/n8henrie/pycookiecheat) - Borrow cookies from your browser's authenticated session for use in Python scripts.
@@ -2814,6 +2821,8 @@
 
 ## TypeScript 
 
+- [anmolkapil/plexo](https://github.com/anmolkapil/plexo) - Speed up downloads by combining multiple network connections in parallel
+- [nexmoe/VidBee](https://github.com/nexmoe/VidBee) - Download video and audio from  YouTube ,  TikTok ,  Twitter ,  Instagram ,  Facebook ,  Twitch ,  Bilibili , and 1000+ sites—or import local media. Create searchable transcripts on your computer, then
 - [ArchiveBox/archivebox-browser-extension](https://github.com/ArchiveBox/archivebox-browser-extension) - 🖥️ Official ArchiveBox browser extension: automatically/manually preserve your browsing history using ArchiveBox.
 - [Kurdeus/tg-stream-cf-worker](https://github.com/Kurdeus/tg-stream-cf-worker) - A telegram bot for Cloudflare Workers that will give instant stream links for telegram files without the need of waiting till the download completes. (Telegram File Stream Bot)
 - [buxuku/SmartSub](https://github.com/buxuku/SmartSub) - 视频转字幕、字幕翻译、AI 配音与声音克隆、字幕烧录——免费开源的一站式桌面工具。基于 Whisper / FunASR 等本地模型离线语音转文字，批量处理 + 全平台 GPU 加速，跨 Windows / macOS / Linux。Free, open-source desktop app to generate, translate, dub & burn video subtitles —
@@ -2852,7 +2861,7 @@
 - [vrumger/ChannelHashBot](https://github.com/vrumger/ChannelHashBot) - A Telegram bot that forwards messages with hashtags from your group to your channel.
 - [xditya/YouTubeFeeds](https://github.com/xditya/YouTubeFeeds) - Get new YouTube video notifications, from multiple YouTube channels, on multiple telegram chats!
 - [UnmaintainedProjects/tgcalls-next](https://github.com/UnmaintainedProjects/tgcalls-next) - Community fork of tgcallsjs with built-in GramJS support.
-- [Borodutch/VideoDownloadBot](https://github.com/Borodutch/VideoDownloadBot) - Telegram bot to download videos from URLs
+- [Borodutch/VideoDownloadBot](https://github.com/Borodutch/VideoDownloadBot) - @VideoDownloadBot: a Telegram bot that downloads videos from YouTube, TikTok, Instagram, X and many more sites by link, up to 2 GB
 - [devmaxxing/webxr-kamehameha](https://github.com/devmaxxing/webxr-kamehameha) - 
 - [Borodutch/telegram-bot-starter](https://github.com/Borodutch/telegram-bot-starter) - Telegram bot starter based on grammY
 - [backmeupplz/IsBotDownBot](https://github.com/backmeupplz/IsBotDownBot) - @IsBotDownBot Telegram bot code
