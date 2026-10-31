@@ -575,6 +575,7 @@
 
 ## Python 
 
+- [amirhzd/sedabot](https://github.com/amirhzd/sedabot) - Offline Persian TTS for Windows with global hotkeys  — free, open source, MIT licensed
 - [Huanshere/VideoLingo](https://github.com/Huanshere/VideoLingo) - Netflix-level subtitle cutting, translation, alignment, and even dubbing - one-click fully automated AI video subtitle team | Netflix级字幕切割、翻译、对齐、甚至加上配音，一键全自动视频搬运AI字幕组
 - [Kekobade/Easydl](https://github.com/Kekobade/Easydl) - Easydl Is a Cool CLI Based Downloader, that makes you Download Your Every Use Platform. Like Youtube, Spicetify And Soundcloud. It Downloads Video/Music (MP3, MP4, Flac, etc).
 - [EchterAlsFake/Porn_Fetch](https://github.com/EchterAlsFake/Porn_Fetch) - Cross-Platform Porn (Hub) downloader with Account Login and Searching support
