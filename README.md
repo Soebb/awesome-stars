@@ -22,6 +22,7 @@
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
+- [MDX](#mdx)
 - [Makefile](#makefile)
 - [Nim](#nim)
 - [Objective-C](#objective-c)
@@ -209,7 +210,6 @@
 - [vabs/youtube-channel-name-converter](https://github.com/vabs/youtube-channel-name-converter) - Convert Youtube Channel Name To Channel ID
 - [ZapperDJ/DiogenesList](https://github.com/ZapperDJ/DiogenesList) - Multiplatform HTML directory listing creator
 - [deanmalmgren/textract](https://github.com/deanmalmgren/textract) - extract text from any document. no muss. no fuss.
-- [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [GoFarsi/book](https://github.com/GoFarsi/book) - کتاب آزاد  (آنلاین/آفلاین) زبان برنامه‌نویسی گو فارسی
 - [khuyentran1401/top-github-scraper](https://github.com/khuyentran1401/top-github-scraper) - Scape top GitHub repositories and users based on keywords
 - [AhmadIbrahiim/Website-downloader](https://github.com/AhmadIbrahiim/Website-downloader) - 💡  Download the complete source code of any website (including all assets). [ Javascripts, Stylesheets, Images ]  using Node.js
@@ -390,6 +390,7 @@
 
 ## Kotlin 
 
+- [tazztone/losslesscut-android](https://github.com/tazztone/losslesscut-android) - LosslessCut is an editor Android app that cuts video and audio losslessly.
 - [fhes-tus/Vern-TTS](https://github.com/fhes-tus/Vern-TTS) - An offline zero subscription, zero ads free TTS app for android and desktop
 - [Lanzkila/KirinDL](https://github.com/Lanzkila/KirinDL) - Kirin Downloader - based on SealPlus. but with GalleryDL
 - [Lanzkila/KirinYT](https://github.com/Lanzkila/KirinYT) - Full-featured audio/video downloader for Android using yt-dlp
@@ -427,6 +428,10 @@
 - [jing332/tts-server-android](https://github.com/jing332/tts-server-android) - 这是一个Android系统TTS应用，内置微软演示接口，可自定义HTTP请求，可导入其他本地TTS引擎，以及根据中文双引号的简单旁白/对话识别朗读 ，还有自动重试，备用配置，文本替换等更多功能。
 - [DicioTeam/dicio-android](https://github.com/DicioTeam/dicio-android) - Dicio assistant app for Android
 - [persian-calendar/persian-calendar](https://github.com/persian-calendar/persian-calendar) - Android Persian Calendar
+
+## MDX 
+
+- [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 
 ## Makefile 
 
@@ -575,6 +580,10 @@
 
 ## Python 
 
+- [Petrprogs/yt-dlp-proxy](https://github.com/Petrprogs/yt-dlp-proxy) - Script for finding and using best proxy for yt-dlp
+- [zackees/yt-dlp-proxy](https://github.com/zackees/yt-dlp-proxy) - Script for finding and using best proxy for yt-dlp
+- [AmirHosein-Vahed/InMemDB](https://github.com/AmirHosein-Vahed/InMemDB) - This project is simulating key value DBs with python.
+- [wendy7756/AI-Video-Transcriber](https://github.com/wendy7756/AI-Video-Transcriber) - Transcribe and summarize videos and podcasts using AI. Open-source, multi-platform, and supports multiple languages.
 - [amirhzd/sedabot](https://github.com/amirhzd/sedabot) - Offline Persian TTS for Windows with global hotkeys  — free, open source, MIT licensed
 - [Huanshere/VideoLingo](https://github.com/Huanshere/VideoLingo) - Netflix-level subtitle cutting, translation, alignment, and even dubbing - one-click fully automated AI video subtitle team | Netflix级字幕切割、翻译、对齐、甚至加上配音，一键全自动视频搬运AI字幕组
 - [Kekobade/Easydl](https://github.com/Kekobade/Easydl) - Easydl Is a Cool CLI Based Downloader, that makes you Download Your Every Use Platform. Like Youtube, Spicetify And Soundcloud. It Downloads Video/Music (MP3, MP4, Flac, etc).
@@ -769,7 +778,6 @@
 - [KiLJ4EdeN/train-tesseract4-persian](https://github.com/KiLJ4EdeN/train-tesseract4-persian) - Train Tesseract 4 for persian
 - [HKPROJECTS/aiokoyeb](https://github.com/HKPROJECTS/aiokoyeb) - Python API client for Koyeb
 - [weebzone/Surf-TG](https://github.com/weebzone/Surf-TG) - Python Web App which Indexes a Your Telegram Channel and Serves its Files for Download and Stream.
-- [zackees/tx](https://github.com/zackees/tx) - Front end for wormhole, better transfers and more secure
 - [zackees/keyvalue_sqlite](https://github.com/zackees/keyvalue_sqlite) - Super simple KeyValue store for python, backed by sqlite.
 - [carl-steinbach/selenium-scraper](https://github.com/carl-steinbach/selenium-scraper) - 
 - [QuixiAI/github2file](https://github.com/QuixiAI/github2file) - 
@@ -1435,7 +1443,6 @@
 - [karkason/pywinsandbox](https://github.com/karkason/pywinsandbox) - Windows Sandbox Utillities Python Package
 - [munro/python-selenium-async](https://github.com/munro/python-selenium-async) - Wrapper for Selenium to make it easy, with asyncio support!
 - [mohammad-aq1996/persian-todolist](https://github.com/mohammad-aq1996/persian-todolist) - Simple to do list in Farsi
-- [mohammad-sky/WhatsApp-Messenger](https://github.com/mohammad-sky/WhatsApp-Messenger) - Send each user's file to his WhatsApp account or send a file to a large number of users
 - [dan-da/py2php](https://github.com/dan-da/py2php) - py2php is a utility that will auto-translate python code into PHP code.
 - [hastagAB/Awesome-Python-Scripts](https://github.com/hastagAB/Awesome-Python-Scripts) - A Curated list of Awesome Python Scripts that Automate Stuffs.
 - [AliEslah/subtitle-translator](https://github.com/AliEslah/subtitle-translator) - Python CLI experiment for batch subtitle translation to Persian.
