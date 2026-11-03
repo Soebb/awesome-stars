@@ -162,7 +162,6 @@
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 - [biisal/fast-stream-bot](https://github.com/biisal/fast-stream-bot) - A lightweight fast telegram file streaming bot in go
 - [asdfzxcvbn/TeleURLUploader](https://github.com/asdfzxcvbn/TeleURLUploader) - the most demure url uploader written in go
-- [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [v2fly/v2ray-core](https://github.com/v2fly/v2ray-core) - A platform for building proxies to bypass network restrictions.
 - [bergkvist/includeimage](https://github.com/bergkvist/includeimage) - Dockerfile syntax extension for combining multiple Docker images into one. (INCLUDE &lt;image&gt;)
 - [warpdl/warpdl](https://github.com/warpdl/warpdl) - A powerful and versatile cross-platform download manager.
@@ -1008,7 +1007,7 @@
 - [amirhoseinsb/Cloud_Player_V2](https://github.com/amirhoseinsb/Cloud_Player_V2) - You can use the cloudplayer tool to listen to the music of the singer you want without going to a specific website and at a very high speed.
 - [viperadnan-git/bdsm-typer](https://github.com/viperadnan-git/bdsm-typer) - Auto typing tool to paste texts on software where pasting text is not allowed. Made for desktop.
 - [m1guelpf/yt-whisper](https://github.com/m1guelpf/yt-whisper) - Using OpenAI's Whisper to automatically generate YouTube subtitles
-- [mvdctop/Movie_Data_Capture](https://github.com/mvdctop/Movie_Data_Capture) - Local Movies Organizer
+- [mvdctop/Movie_Data_Capture](https://github.com/mvdctop/Movie_Data_Capture) - The AI local media metadata crawler
 - [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
 - [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - an ambient intelligence library
 - [Textualize/frogmouth](https://github.com/Textualize/frogmouth) - A Markdown browser for your terminal
@@ -1170,9 +1169,9 @@
 - [FKLC/AnyAPI](https://github.com/FKLC/AnyAPI) - AnyAPI is a library that helps you to write any API wrapper with ease and in pythonic way.
 - [tmbo/questionary](https://github.com/tmbo/questionary) - Python library to build pretty command line user prompts ✨Easy to use multi-select lists, confirmations, free text prompts ...
 - [jamilkarami/wikipediasummary](https://github.com/jamilkarami/wikipediasummary) - Utility package to fetch Wikipedia page summaries
-- [NatLee/Blur-Generator](https://github.com/NatLee/Blur-Generator) - Generate blur image with 3 types of blur `motion`, `lens`, and `gaussian` by using OpenCV.
+- [NatLee/blur-generator](https://github.com/NatLee/blur-generator) - Generate blur image with 3 types of blur `motion`, `lens`, and `gaussian` by using OpenCV.
 - [tropicoo/yt-dlp-bot](https://github.com/tropicoo/yt-dlp-bot) - Self-hosted Video Download Telegram Bot 🇺🇦
-- [NatLee/Batch-crop-images](https://github.com/NatLee/Batch-crop-images) - A tool for cropping similar images in a batch with an interface.
+- [NatLee/batch-crop-images](https://github.com/NatLee/batch-crop-images) - A tool for cropping similar images in a batch with an interface.
 - [yerodin/requester](https://github.com/yerodin/requester) - Python tool to download web resources (bye bye wget & curl)
 - [labteral/chatgpt-python](https://github.com/labteral/chatgpt-python) - Unofficial Python SDK for OpenAI's ChatGPT
 - [llm-workflow-engine/llm-workflow-engine](https://github.com/llm-workflow-engine/llm-workflow-engine) - Power CLI and Workflow manager for LLMs (core package)
@@ -2767,6 +2766,7 @@
 - [jqssun/android-titanium-browser](https://github.com/jqssun/android-titanium-browser) - Secure open-source Android browser with support for extensions
 - [Linuxmaster14/telepipe](https://github.com/Linuxmaster14/telepipe) - A simple command-line utility to send messages to Telegram
 - [nimiology/nginx-wizard](https://github.com/nimiology/nginx-wizard) - interactive Bash wizard that configures Nginx with SSL (Let's Encrypt), WebSocket support, reverse proxy, and static/media file serving — perfect for Django or Docker deployments.
+- [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [fzerorubigd/persian-fonts-linux](https://github.com/fzerorubigd/persian-fonts-linux) - Persian fonts installer for linux
 - [aronchick/Docker-NGINX-Gunicorn-Flask-Python-Example](https://github.com/aronchick/Docker-NGINX-Gunicorn-Flask-Python-Example) - 
 - [flashdagger/git-subrepo-pypi](https://github.com/flashdagger/git-subrepo-pypi) - python package for installing git-subrepo
