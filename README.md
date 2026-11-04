@@ -218,7 +218,6 @@
 - [khalby786/REHeader](https://github.com/khalby786/REHeader) - Generate beautiful header images for your GitHub profile READMEs.
 - [rkaissi/Youtube-Video-Downloader](https://github.com/rkaissi/Youtube-Video-Downloader) - Convert a YouTube video or playlist to an MP3 audio or MP4 video format. Includes conversion history when signed in.
 - [itsh3sam/NovaFilm](https://github.com/itsh3sam/NovaFilm) - A django movie website.
-- [cinemagoer/cinemagoer](https://github.com/cinemagoer/cinemagoer) - Cinemagoer is a Python package useful to retrieve and manage the data of the IMDb (to which we are not affiliated in any way) movie database about movies, people and characters
 - [ImJanindu/imjanindu.github.io](https://github.com/ImJanindu/imjanindu.github.io) - Simple portfolio website
 - [donno2048/win95.exe](https://github.com/donno2048/win95.exe) - Microsoft Windows 95 as an executable (using python and pyinstaller)
 - [DustbinServer/Dustbin](https://github.com/DustbinServer/Dustbin) - Just Another Text Storage Service.
@@ -579,6 +578,8 @@
 
 ## Python 
 
+- [z44d/tgram](https://github.com/z44d/tgram) - A developer-friendly Telegram Bot API library designed for Python enthusiasts.
+- [AYMENJD/Kvsqlite](https://github.com/AYMENJD/Kvsqlite) - Easy-to-use key value database backed by SQLite.
 - [Petrprogs/yt-dlp-proxy](https://github.com/Petrprogs/yt-dlp-proxy) - Script for finding and using best proxy for yt-dlp
 - [zackees/yt-dlp-proxy](https://github.com/zackees/yt-dlp-proxy) - Script for finding and using best proxy for yt-dlp
 - [AmirHosein-Vahed/InMemDB](https://github.com/AmirHosein-Vahed/InMemDB) - This project is simulating key value DBs with python.
@@ -598,7 +599,7 @@
 - [jessielw/SubSyncr](https://github.com/jessielw/SubSyncr) - Desktop batch queue for subtitle synchronization, harnessing four engines (ffsubsync, alass, lapse and autosubsync)
 - [Jameshskelton/realtime_speech_translation](https://github.com/Jameshskelton/realtime_speech_translation) - 
 - [PyrogramMod/PyrogramMod](https://github.com/PyrogramMod/PyrogramMod) - PyrogramMod is an unofficial fork of github.com/pyrogram/pyrogram
-- [kadirb4rut/video-dubbing-translator](https://github.com/kadirb4rut/video-dubbing-translator) - Local-first AI video dubbing with Whisper/WhisperX, Google translation, VoxCPM2 voice cloning, and optional LatentSync lip-sync.
+- [kadirb4rut/voxadub](https://github.com/kadirb4rut/voxadub) - VoxaDub — Local-first AI video and live broadcast dubbing with Hy-MT2 translation and speaker-aware VoxCPM2 voices. Live Dubbing is experimental.
 - [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) - VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning
 - [mt-tg-stack/telegram-sender](https://github.com/mt-tg-stack/telegram-sender) - A strategy-driven, async-first Telegram message sending library built on pyrofork with automatic device profile randomization.
 - [Victorgm21/subwizard](https://github.com/Victorgm21/subwizard) - Automatic subtitle generator for video and audio using Faster-Whisper. Supports exporting to .srt or embedding into .mp4. Includes both GUI and CLI, with multiple performance modes and GPU/CPU compati
@@ -691,7 +692,7 @@
 - [jeanslack/Vidtuber](https://github.com/jeanslack/Vidtuber) - A simple yet comprehensive, cross-platform GUI for yt-dlp
 - [pwaller/pyfiglet](https://github.com/pwaller/pyfiglet) - An implementation of figlet written in Python
 - [k2-fsa/OmniVoice](https://github.com/k2-fsa/OmniVoice) - High-Quality Voice Cloning TTS for 600+ Languages
-- [Blaizzy/mlx-audio](https://github.com/Blaizzy/mlx-audio) - A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon.
+- [Neywa-Labs/mlx-audio](https://github.com/Neywa-Labs/mlx-audio) - A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon.
 - [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) - VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
 - [devgaganin/devgagantools](https://github.com/devgaganin/devgagantools) - This repository aimed to be fast uploading and fast downloading via Telethon (user and bots both supported)
 - [alltechdev/gplay-apk-downloader](https://github.com/alltechdev/gplay-apk-downloader) - Download APK files directly from Google Play Store.
@@ -1171,7 +1172,7 @@
 - [jamilkarami/wikipediasummary](https://github.com/jamilkarami/wikipediasummary) - Utility package to fetch Wikipedia page summaries
 - [NatLee/blur-generator](https://github.com/NatLee/blur-generator) - Generate blur image with 3 types of blur `motion`, `lens`, and `gaussian` by using OpenCV.
 - [tropicoo/yt-dlp-bot](https://github.com/tropicoo/yt-dlp-bot) - Self-hosted Video Download Telegram Bot 🇺🇦
-- [NatLee/batch-crop-images](https://github.com/NatLee/batch-crop-images) - A tool for cropping similar images in a batch with an interface.
+- [NatLee/batch-crop-images](https://github.com/NatLee/batch-crop-images) - Crop a whole folder of images with one box: draw it once in an OpenCV window (or pass --box / a preset) and batch-crop applies it to every image.
 - [yerodin/requester](https://github.com/yerodin/requester) - Python tool to download web resources (bye bye wget & curl)
 - [labteral/chatgpt-python](https://github.com/labteral/chatgpt-python) - Unofficial Python SDK for OpenAI's ChatGPT
 - [llm-workflow-engine/llm-workflow-engine](https://github.com/llm-workflow-engine/llm-workflow-engine) - Power CLI and Workflow manager for LLMs (core package)
@@ -1801,6 +1802,7 @@
 - [chiragarora01/Visual-Speech-To-Text-Team_Voyage](https://github.com/chiragarora01/Visual-Speech-To-Text-Team_Voyage) - 
 - [scrazzz/imgbbpy](https://github.com/scrazzz/imgbbpy) - An Asynchronous and Synchronous API Wrapper for the Imgbb API.
 - [Matin-B/ReadInTelegramBot](https://github.com/Matin-B/ReadInTelegramBot) - Access stored data in Pocket (GetPocket) via Telegram Bot
+- [cinemagoer/cinemagoer](https://github.com/cinemagoer/cinemagoer) - Cinemagoer is a Python package useful to retrieve and manage the data of the IMDb (to which we are not affiliated in any way) movie database about movies, people and characters
 - [kaarne/splitgram](https://github.com/kaarne/splitgram) - Telegram bot for cost splitting
 - [GameGodS3/rSlashBot](https://github.com/GameGodS3/rSlashBot) - Send name of a subreddit, and this Telegram bot will fetch you the latest post in it.
 - [ItsNotGoodName/email-to-telegram](https://github.com/ItsNotGoodName/email-to-telegram) - Telegram bot that reads a mail file and forwards to Telegram chat.
@@ -2737,7 +2739,7 @@
 - [xevrion/hatchzip](https://github.com/xevrion/hatchzip) - HatchZip is a free, open-source archive extractor for Windows, macOS and Linux that extracts ZIP, 7z, RAR, tar and split archives in place, so it needs free space for the extracted files only. Desktop
 - [sunerpy/voltip](https://github.com/sunerpy/voltip) - Push-to-talk voice typing for Windows, macOS, Linux and Android. On-device or cloud speech recognition, AI polish with presets, a dictionary, rules and scenes, long recordings with subtitles; the phon
 - [Open-Less/openless](https://github.com/Open-Less/openless) - Hold a key, speak, release — AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (按住快捷键说话，松开即得润色后的文字)
-- [jub0t/Concat](https://github.com/jub0t/Concat) - The truly free, open-source, local-first, cross-platform CapCut replacement. Scriptable through a JSON-RPC API & MCP.
+- [jub0t/Concat](https://github.com/jub0t/Concat) - Beta: The truly free, open-source, local-first, cross-platform CapCut replacement. Scriptable through a JSON-RPC API & MCP.
 - [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Open Computer History | Continuously record your company computer work, map your workflows, help you find work worth automating, and power your agents' context
 - [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura) - The headless browser for AI agents and web scraping
 - [zackees/running-process](https://github.com/zackees/running-process) - A python subprocess replacement written in rust - track zombie processes, launch PTY and more
