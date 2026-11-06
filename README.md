@@ -94,6 +94,7 @@
 ## C++ 
 
 - [handy-computer/transcribe.cpp](https://github.com/handy-computer/transcribe.cpp) - ggml speech-to-text inference for 16+ model families
+- [Revincx/Yurigram](https://github.com/Revincx/Yurigram) - An unofficial tdesktop client with more features
 - [Tatsh/bpmdetect](https://github.com/Tatsh/bpmdetect) - Automatic BPM (beats per minute) detection utility.
 - [mhogomchungu/media-downloader](https://github.com/mhogomchungu/media-downloader) - Media Downloader is a Qt/C++ front end to yt-dlp, youtube-dl, gallery-dl, lux, you-get, svtplay-dl, aria2c, wget and safari books..
 - [ServeurpersoCom/omnivoice.cpp](https://github.com/ServeurpersoCom/omnivoice.cpp) - Local AI text-to-speech with voice cloning and voice design, powered by GGML. C++17 port of OmniVoice (k2-fsa/OmniVoice). 646 languages, 24 kHz mono output, runs on CPU, CUDA, ROCm, Metal, Vulkan.
@@ -643,7 +644,6 @@
 - [Vahrka/Ganzabara](https://github.com/Vahrka/Ganzabara) - Free accounting software for companies, stores, shops and markets
 - [XiaoYouChR/Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3) - The only downloader you need. 下载器的集大成者。
 - [mahzoonmmd/Msrt-sub](https://github.com/mahzoonmmd/Msrt-sub) - Smart desktop app for video subtitle extraction & Persian translation
-- [Revincx/Yurigram](https://github.com/Revincx/Yurigram) - An unofficial tdesktop client with more features
 - [isPoori/DeleteWatch](https://github.com/isPoori/DeleteWatch) - Telegram bot to monitor, log, and notify deleted messages in chats. Save deleted messages with user and chat info in a SQLite database. Easy to configure and use
 - [expire5853/universal-video-compressor](https://github.com/expire5853/universal-video-compressor) - A modern Windows GUI for general-purpose video compression with CPU, GPU and NPU capability detection.
 - [jfolz/simplejpeg](https://github.com/jfolz/simplejpeg) - A simple package for fast JPEG encoding and decoding.
@@ -2103,7 +2103,6 @@
 - [AJBotVerse/ReactionButtonBot](https://github.com/AJBotVerse/ReactionButtonBot) - Adding automatically like & dislike buttons to documents.
 - [ijustbsd/instagram-saver-bot](https://github.com/ijustbsd/instagram-saver-bot) - This telegram bot can save photos, videos and post descriptions from Instagram.
 - [DIGITALCRIMINAL/ArchivedUltimaScraper](https://github.com/DIGITALCRIMINAL/ArchivedUltimaScraper) - Scrape content from OnlyFans and Fansly
-- [UltimaHoarder/UltimaScraper](https://github.com/UltimaHoarder/UltimaScraper) - Scrape all the media from an OnlyFans account - Updated regularly
 - [ImJanindu/47MusicPlayerBot](https://github.com/ImJanindu/47MusicPlayerBot) - A Telegram Music Bot written in Python with Pyrogram and Py-Tgcalls.
 - [m4mallu/tube](https://github.com/m4mallu/tube) - https://github.com/m4mallu/inline-tube-mate
 - [IonTheOne/telegram_autoreger](https://github.com/IonTheOne/telegram_autoreger) - Automation registration for Telegram
@@ -2736,11 +2735,13 @@
 
 ## Rust 
 
+- [AldaronLau/pookie](https://github.com/AldaronLau/pookie) - Load cookies from your web browsers (fork of archived rookie crate)
+- [gyroflow/mp4-merge](https://github.com/gyroflow/mp4-merge) - A tool and library to losslessly join multiple .mp4 files shot with same camera and settings
 - [alenpaulvarghese/lazy-zip](https://github.com/alenpaulvarghese/lazy-zip) - Browse a remote ZIP archive by URL and download only the files you pick, using HTTP Range requests. Desktop app for Windows, macOS and Linux.
 - [xevrion/hatchzip](https://github.com/xevrion/hatchzip) - HatchZip is a free, open-source archive extractor for Windows, macOS and Linux that extracts ZIP, 7z, RAR, tar and split archives in place, so it needs free space for the extracted files only. Desktop
 - [sunerpy/voltip](https://github.com/sunerpy/voltip) - Push-to-talk voice typing for Windows, macOS, Linux and Android. On-device or cloud speech recognition, AI polish with presets, a dictionary, rules and scenes, long recordings with subtitles; the phon
 - [Open-Less/openless](https://github.com/Open-Less/openless) - Hold a key, speak, release — AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (按住快捷键说话，松开即得润色后的文字)
-- [jub0t/Concat](https://github.com/jub0t/Concat) - Beta: The truly free, open-source, local-first, cross-platform CapCut replacement. Scriptable through a JSON-RPC API & MCP.
+- [jub0t/Concat](https://github.com/jub0t/Concat) - Beta: The truly free, open-source, local-first, cross-platform video editor. Scriptable through a JSON-RPC API & MCP.
 - [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Open Computer History | Continuously record your company computer work, map your workflows, help you find work worth automating, and power your agents' context
 - [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura) - The headless browser for AI agents and web scraping
 - [zackees/running-process](https://github.com/zackees/running-process) - A python subprocess replacement written in rust - track zombie processes, launch PTY and more
@@ -2871,6 +2872,7 @@
 - [matnbaz/matnbaz](https://github.com/matnbaz/matnbaz) - Source-code for the "matnbaz" project (Archived)
 - [vrumger/ChannelHashBot](https://github.com/vrumger/ChannelHashBot) - A Telegram bot that forwards messages with hashtags from your group to your channel.
 - [xditya/YouTubeFeeds](https://github.com/xditya/YouTubeFeeds) - Get new YouTube video notifications, from multiple YouTube channels, on multiple telegram chats!
+- [UltimaHoarder/UltimaScraper](https://github.com/UltimaHoarder/UltimaScraper) - Datascraper that is currently adult focused - Updated regularly
 - [UnmaintainedProjects/tgcalls-next](https://github.com/UnmaintainedProjects/tgcalls-next) - Community fork of tgcallsjs with built-in GramJS support.
 - [Borodutch/VideoDownloadBot](https://github.com/Borodutch/VideoDownloadBot) - @VideoDownloadBot: a Telegram bot that downloads videos from YouTube, TikTok, Instagram, X and many more sites by link, up to 2 GB
 - [devmaxxing/webxr-kamehameha](https://github.com/devmaxxing/webxr-kamehameha) - 
