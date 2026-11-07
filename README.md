@@ -13,7 +13,6 @@
 - [CSS](#css)
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
-- [EJS](#ejs)
 - [Fluent](#fluent)
 - [Go](#go)
 - [HCL](#hcl)
@@ -141,10 +140,6 @@
 - [Divkix/docker-telegram-bot-api](https://github.com/Divkix/docker-telegram-bot-api) - Auto build repository for 🐳 docker image of telegram-bot-api using Github Actions
 - [gautamajay52/heroku-stack-container-repo](https://github.com/gautamajay52/heroku-stack-container-repo) - After deploying this repo your Heroku app will have stack as container. After that you just have to deploy your own original app.
 - [samadii/ubuntu-desktop-on-heroku](https://github.com/samadii/ubuntu-desktop-on-heroku) - A Heroku install of Ubuntu 20.10 (Groovy Gorilla), with the XFCE desktop environment and VNC
-
-## EJS 
-
-- [viperadnan-git/tiiny](https://github.com/viperadnan-git/tiiny) - Shorten your long URLs in just a click.
 
 ## Fluent 
 
@@ -579,6 +574,7 @@
 
 ## Python 
 
+- [spignelon/ShareDir](https://github.com/spignelon/ShareDir) - Share your files and folders with ease
 - [z44d/tgram](https://github.com/z44d/tgram) - A developer-friendly Telegram Bot API library designed for Python enthusiasts.
 - [AYMENJD/Kvsqlite](https://github.com/AYMENJD/Kvsqlite) - Easy-to-use key value database backed by SQLite.
 - [Petrprogs/yt-dlp-proxy](https://github.com/Petrprogs/yt-dlp-proxy) - Script for finding and using best proxy for yt-dlp
@@ -2760,6 +2756,7 @@
 - [kiamazi/kateb](https://github.com/kiamazi/kateb) - Install and update free Farsi fonts
 - [alenpaulvarghese/AurSearchBot](https://github.com/alenpaulvarghese/AurSearchBot) - Telegram bot for searching in Arch User Repository ( AUR ); Implemented using rust.
 - [tgotwig/vidmerger](https://github.com/tgotwig/vidmerger) - 📼 Merge video & audio files via CLI
+- [viperadnan-git/tiiny](https://github.com/viperadnan-git/tiiny) - Self-hosted link shortener that counts clicks, not people. Custom slugs, privacy-friendly stats and an admin panel in one small binary.
 
 ## SCSS 
 
