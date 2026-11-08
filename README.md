@@ -199,7 +199,7 @@
 - [FlagMotori/writeups](https://github.com/FlagMotori/writeups) - رایتاپ‌های تیم فلگ موتوری
 - [Gl0deanR/create-flask-app](https://github.com/Gl0deanR/create-flask-app) - 
 - [viperadnan-git/telegram-filestream](https://github.com/viperadnan-git/telegram-filestream) - API to stream publically available Telegram files
-- [Soebb/streaming-url-gen-bot](https://github.com/Soebb/streaming-url-gen-bot) - Telegram bot to generate steaming link for youtube videos or from direct download links of videos. Videos will be hosted on the app server.
+- [Soebb/streaming-url-gen-bot](https://github.com/Soebb/streaming-url-gen-bot) - Telegram bot to generate streaming link for TG videos or from YouTube & direct download links of videos. Videos will be hosted on the app server.
 - [vitalets/github-trending-repos](https://github.com/vitalets/github-trending-repos) - Track GitHub trending repositories in your favorite programming language by native GitHub notifications!
 - [karim23657/Subtr](https://github.com/karim23657/Subtr) - This user-friendly tool seamlessly translates SRT and DFXP subtitles to any language, making it the ideal choice for handling subtitle sentence breaks across tracks. Experience the ease and accuracy o
 - [vabs/youtube-channel-name-converter](https://github.com/vabs/youtube-channel-name-converter) - Convert Youtube Channel Name To Channel ID
@@ -574,6 +574,9 @@
 
 ## Python 
 
+- [CZ-NIC/mininterface](https://github.com/CZ-NIC/mininterface) - CLI & dialog toolkit – a minimal interface to Python application (GUI, TUI, CLI + config files, web)
+- [callowayproject/generate-changelog](https://github.com/callowayproject/generate-changelog) - Use your commit log to make a beautiful changelog file.
+- [callowayproject/bump-my-version](https://github.com/callowayproject/bump-my-version) - A small command line tool to simplify releasing software by updating all version strings in your source code by the correct increment and optionally commit and tag the changes.
 - [spignelon/ShareDir](https://github.com/spignelon/ShareDir) - Share your files and folders with ease
 - [z44d/tgram](https://github.com/z44d/tgram) - A developer-friendly Telegram Bot API library designed for Python enthusiasts.
 - [AYMENJD/Kvsqlite](https://github.com/AYMENJD/Kvsqlite) - Easy-to-use key value database backed by SQLite.
@@ -2731,6 +2734,7 @@
 
 ## Rust 
 
+- [erfnemati/mirza](https://github.com/erfnemati/mirza) - Voice typing for any app
 - [AldaronLau/pookie](https://github.com/AldaronLau/pookie) - Load cookies from your web browsers (fork of archived rookie crate)
 - [gyroflow/mp4-merge](https://github.com/gyroflow/mp4-merge) - A tool and library to losslessly join multiple .mp4 files shot with same camera and settings
 - [alenpaulvarghese/lazy-zip](https://github.com/alenpaulvarghese/lazy-zip) - Browse a remote ZIP archive by URL and download only the files you pick, using HTTP Range requests. Desktop app for Windows, macOS and Linux.
@@ -2830,6 +2834,7 @@
 
 ## TypeScript 
 
+- [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted PaaS alternative to Heroku / Netlify / Coolify / Vercel / Dokku / Portainer running on Kubernetes
 - [anmolkapil/plexo](https://github.com/anmolkapil/plexo) - Speed up downloads by combining multiple network connections in parallel
 - [nexmoe/VidBee](https://github.com/nexmoe/VidBee) - Download video and audio from 1000+ sites, transcribe locally with speaker labels, and summarize, translate, or chat with your media using your preferred AI provider.
 - [ArchiveBox/archivebox-browser-extension](https://github.com/ArchiveBox/archivebox-browser-extension) - 🖥️ Official ArchiveBox browser extension: automatically/manually preserve your browsing history using ArchiveBox.
