@@ -70,7 +70,7 @@
 ## C# # 
 
 - [naravid19/N_m3u8DL_RE_GUI](https://github.com/naravid19/N_m3u8DL_RE_GUI) - Windows GUI for N_m3u8DL-RE — download HLS, DASH, and Smooth Streaming with batch mode, mux options, resume support, and a browser companion extension for one-click stream capture.
-- [popovantondev/GitHubSync](https://github.com/popovantondev/GitHubSync) - Send and download GitHub project files and release attachments
+- [popovantondev/GitHubSync](https://github.com/popovantondev/GitHubSync) - Upload files to GitHub and download project files or release attachments after your confirmation · Windows · RU / DE / EN
 - [STranslate/STranslate](https://github.com/STranslate/STranslate) - A ready-to-go translation ocr tool developed with WPF/WPF 开发的一款即用即走的翻译、OCR工具
 - [KoalaBear84/OpenDirectoryDownloader](https://github.com/KoalaBear84/OpenDirectoryDownloader) - Indexes open directories
 - [KNG7-P/Se7en-Pro](https://github.com/KNG7-P/Se7en-Pro) - Modern Multi-Engine Windows Client & Anti-Censorship Suite
@@ -162,6 +162,7 @@
 - [bergkvist/includeimage](https://github.com/bergkvist/includeimage) - Dockerfile syntax extension for combining multiple Docker images into one. (INCLUDE &lt;image&gt;)
 - [warpdl/warpdl](https://github.com/warpdl/warpdl) - A powerful and versatile cross-platform download manager.
 - [meanii/downly](https://github.com/meanii/downly) - downly is a simple telegram bot that can download files from the internet and upload them to telegram.
+- [mo1ein/TelegramArchive](https://github.com/mo1ein/TelegramArchive) - Export telegram data.
 - [EverythingSuckz/github-telegram-notify](https://github.com/EverythingSuckz/github-telegram-notify) - Actions that sends commit updates of a repository to any chat in Telegram
 - [utkusen/wholeaked](https://github.com/utkusen/wholeaked) - a file-sharing tool that allows you to find the responsible person in case of a leakage
 - [Brawl345/rssbot](https://github.com/Brawl345/rssbot) - RSS Bot for the Telegram Messenger
@@ -443,6 +444,7 @@
 
 ## Others 
 
+- [ishandutta2007/Awesome-Text-to-Speech](https://github.com/ishandutta2007/Awesome-Text-to-Speech) - 🎤 A curated list of the latest and most influential tools, models, and resources in the Text-to-Speech sector. 🌟 Star if you like it!  🌟
 - [ae9is/subtitle-anything](https://github.com/ae9is/subtitle-anything) - Add AI generated subtitles to any video playing in your browser!
 - [Syenar/BatchSubMux](https://github.com/Syenar/BatchSubMux) - BatchSubMux for Windows and Linux. Pairs with File Renamer by Syenar: https://gitlab.com/syenar/file-renamer
 - [ALIILAPRO/MusicFinder](https://github.com/ALIILAPRO/MusicFinder) - 🎵 Music Finder is a browser extension that allows you to search for music and download tracks via a Telegram bot.
@@ -574,6 +576,7 @@
 
 ## Python 
 
+- [EchterAlsFake/unofficial-api-for-pornhub](https://github.com/EchterAlsFake/unofficial-api-for-pornhub) - Unofficial Python client for xvideos.com: search, metadata extraction, and video download (curl-cffi + selectolax)
 - [CZ-NIC/mininterface](https://github.com/CZ-NIC/mininterface) - CLI & dialog toolkit – a minimal interface to Python application (GUI, TUI, CLI + config files, web)
 - [callowayproject/generate-changelog](https://github.com/callowayproject/generate-changelog) - Use your commit log to make a beautiful changelog file.
 - [callowayproject/bump-my-version](https://github.com/callowayproject/bump-my-version) - A small command line tool to simplify releasing software by updating all version strings in your source code by the correct increment and optionally commit and tag the changes.
@@ -587,9 +590,9 @@
 - [amirhzd/sedabot](https://github.com/amirhzd/sedabot) - Offline Persian TTS for Windows with global hotkeys  — free, open source, MIT licensed
 - [Huanshere/VideoLingo](https://github.com/Huanshere/VideoLingo) - Netflix-level subtitle cutting, translation, alignment, and even dubbing - one-click fully automated AI video subtitle team | Netflix级字幕切割、翻译、对齐、甚至加上配音，一键全自动视频搬运AI字幕组
 - [Kekobade/Easydl](https://github.com/Kekobade/Easydl) - Easydl Is a Cool CLI Based Downloader, that makes you Download Your Every Use Platform. Like Youtube, Spicetify And Soundcloud. It Downloads Video/Music (MP3, MP4, Flac, etc).
-- [EchterAlsFake/Porn_Fetch](https://github.com/EchterAlsFake/Porn_Fetch) - Cross-Platform Porn (Hub) downloader with Account Login and Searching support
+- [EchterAlsFake/Porn_Fetch](https://github.com/EchterAlsFake/Porn_Fetch) - Cross-Platform Porn Downloader that respects your privacy and is extremely configurable.
 - [n8henrie/pycookiecheat](https://github.com/n8henrie/pycookiecheat) - Borrow cookies from your browser's authenticated session for use in Python scripts.
-- [jessielw/VideoForge](https://github.com/jessielw/VideoForge) - Video Encoding WebUI (Linux on Docker and Windows via PyWebView)
+- [jessielw/VideoForge](https://github.com/jessielw/VideoForge) - Video Encoding WebUI
 - [astronuttt/persian-writing-skills](https://github.com/astronuttt/persian-writing-skills) - 
 - [TitanComputer/Batch-Folder-Renamer](https://github.com/TitanComputer/Batch-Folder-Renamer) - A lightweight CustomTkinter-based tool to batch rename folders by removing prefixes, suffixes, and formatting names cleanly.
 - [TitanComputer/Persian-Subtitle-Toolkit](https://github.com/TitanComputer/Persian-Subtitle-Toolkit) - A lightweight Python desktop utility for batch processing, cleaning, and optimizing Persian subtitle files.
@@ -613,7 +616,7 @@
 - [soymadip/quikrun](https://github.com/soymadip/quikrun) - Run Your code without hassle
 - [mehdihoore/linguascribe-bot](https://github.com/mehdihoore/linguascribe-bot) - Telegram bot for Persian audio/video transcription, translation, SRT subtitles, and exam-prep summarization using Gemini.
 - [thevahidal/jake](https://github.com/thevahidal/jake) - 🚀 Effortlessly create and deploy your own one-link website on GitHub. A free Linktree alternative.
-- [popovantondev/TelegramMediaSender](https://github.com/popovantondev/TelegramMediaSender) - Send ordered video, audio and subtitles to Telegram · macOS · RU / DE / EN
+- [popovantondev/TelegramMediaSender](https://github.com/popovantondev/TelegramMediaSender) - Send numbered bundles of video, audio and subtitles to Telegram in your chosen order · macOS · RU / DE / EN
 - [ehcaning/divar-telegram-bot](https://github.com/ehcaning/divar-telegram-bot) - این ربات تلگرام هر موقعی که توی تاپیک مورد نظرتون آگهی جدیدی بیاد، بهتون توی تلگرام اطلاع میده
 - [matt-silva-hq2095o6/telegram-media-bulk-save](https://github.com/matt-silva-hq2095o6/telegram-media-bulk-save) - Bulk-download media from Telegram chats with resume support and rate-limit handling.
 - [anthony591561-bit/Mux-Sub](https://github.com/anthony591561-bit/Mux-Sub) - Automate the muxing of subtitles, fonts, chapters, and metadata into video files using FFmpeg.
@@ -952,7 +955,6 @@
 - [coderholic/pyradio](https://github.com/coderholic/pyradio) - Curses based internet radio player
 - [jnsougata/opentube](https://github.com/jnsougata/opentube) - Access YouTube Public Data without YouTubeAPI
 - [david-lev/pywa](https://github.com/david-lev/pywa) - 🤖 Hey there! I am using PyWa.
-- [mo1ein/TelegramArchive](https://github.com/mo1ein/TelegramArchive) - Export telegram chats.
 - [rany2/edge-tts](https://github.com/rany2/edge-tts) - Use Microsoft Edge's online text-to-speech service from Python WITHOUT needing Microsoft Edge
 - [hynek/environ-config](https://github.com/hynek/environ-config) - Python Application Configuration With Environment Variables
 - [hynek/structlog](https://github.com/hynek/structlog) - Simple, powerful, and fast logging for Python.
@@ -2768,6 +2770,7 @@
 
 ## Shell 
 
+- [EchterAlsFake/PySide6-to-Android](https://github.com/EchterAlsFake/PySide6-to-Android) - a guide on how to compile a PySide6 (Qt for Python) application for Android devices.
 - [jqssun/android-titanium-browser](https://github.com/jqssun/android-titanium-browser) - Secure open-source Android browser with support for extensions
 - [Linuxmaster14/telepipe](https://github.com/Linuxmaster14/telepipe) - A simple command-line utility to send messages to Telegram
 - [nimiology/nginx-wizard](https://github.com/nimiology/nginx-wizard) - interactive Bash wizard that configures Nginx with SSL (Let's Encrypt), WebSocket support, reverse proxy, and static/media file serving — perfect for Django or Docker deployments.
