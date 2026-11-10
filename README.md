@@ -385,6 +385,7 @@
 
 ## Kotlin 
 
+- [Soebb/MoveMusic](https://github.com/Soebb/MoveMusic) - A free, offline Android music-player with a one-action Move to playlist operation.
 - [tazztone/losslesscut-android](https://github.com/tazztone/losslesscut-android) - LosslessCut is an editor Android app that cuts video and audio losslessly.
 - [fhes-tus/Vern-TTS](https://github.com/fhes-tus/Vern-TTS) - An offline zero subscription, zero ads free TTS app for android and desktop
 - [Lanzkila/KirinDL](https://github.com/Lanzkila/KirinDL) - Kirin Downloader - based on SealPlus. but with GalleryDL
@@ -618,7 +619,6 @@
 - [thevahidal/jake](https://github.com/thevahidal/jake) - 🚀 Effortlessly create and deploy your own one-link website on GitHub. A free Linktree alternative.
 - [popovantondev/TelegramMediaSender](https://github.com/popovantondev/TelegramMediaSender) - Send numbered bundles of video, audio and subtitles to Telegram in your chosen order · macOS · RU / DE / EN
 - [ehcaning/divar-telegram-bot](https://github.com/ehcaning/divar-telegram-bot) - این ربات تلگرام هر موقعی که توی تاپیک مورد نظرتون آگهی جدیدی بیاد، بهتون توی تلگرام اطلاع میده
-- [matt-silva-hq2095o6/telegram-media-bulk-save](https://github.com/matt-silva-hq2095o6/telegram-media-bulk-save) - Bulk-download media from Telegram chats with resume support and rate-limit handling.
 - [anthony591561-bit/Mux-Sub](https://github.com/anthony591561-bit/Mux-Sub) - Automate the muxing of subtitles, fonts, chapters, and metadata into video files using FFmpeg.
 - [awesomo913/VideoTranscriber](https://github.com/awesomo913/VideoTranscriber) - Free, open-source, offline video & audio transcription for Windows. Drop in a file, get a text transcript — nothing leaves your PC.
 - [D-Deadric-C/telecloud](https://github.com/D-Deadric-C/telecloud) - TeleCloud is a secure Telegram-backed cloud storage web and Android app with chunked uploads, resumable downloads, sharing, and Supabase authentication.
@@ -2736,6 +2736,7 @@
 
 ## Rust 
 
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [erfnemati/mirza](https://github.com/erfnemati/mirza) - Voice typing for any app
 - [AldaronLau/pookie](https://github.com/AldaronLau/pookie) - Load cookies from your web browsers (fork of archived rookie crate)
 - [gyroflow/mp4-merge](https://github.com/gyroflow/mp4-merge) - A tool and library to losslessly join multiple .mp4 files shot with same camera and settings
@@ -2837,6 +2838,8 @@
 
 ## TypeScript 
 
+- [0xdolan/Zimanyar](https://github.com/0xdolan/Zimanyar) - Offline grammar checker and teacher for Kurdish (Sorani and Kurmanji): browser extension, Linux app, CLI and web.
+- [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
 - [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted PaaS alternative to Heroku / Netlify / Coolify / Vercel / Dokku / Portainer running on Kubernetes
 - [anmolkapil/plexo](https://github.com/anmolkapil/plexo) - Speed up downloads by combining multiple network connections in parallel
 - [nexmoe/VidBee](https://github.com/nexmoe/VidBee) - Download video and audio from 1000+ sites, transcribe locally with speaker labels, and summarize, translate, or chat with your media using your preferred AI provider.
