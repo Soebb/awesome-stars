@@ -577,6 +577,7 @@
 
 ## Python 
 
+- [pymupdf/PyMuPDF](https://github.com/pymupdf/PyMuPDF) - PyMuPDF is a high performance Python library for data extraction, analysis, conversion & manipulation of PDF (and other) documents.
 - [EchterAlsFake/unofficial-api-for-pornhub](https://github.com/EchterAlsFake/unofficial-api-for-pornhub) - Unofficial Python client for xvideos.com: search, metadata extraction, and video download (curl-cffi + selectolax)
 - [CZ-NIC/mininterface](https://github.com/CZ-NIC/mininterface) - CLI & dialog toolkit – a minimal interface to Python application (GUI, TUI, CLI + config files, web)
 - [callowayproject/generate-changelog](https://github.com/callowayproject/generate-changelog) - Use your commit log to make a beautiful changelog file.
@@ -788,7 +789,7 @@
 - [Pranjalya/tts-tortoise-gradio](https://github.com/Pranjalya/tts-tortoise-gradio) - A Gradio setup for Tortoise TTS.
 - [jhsoby/telegram-wikilinksbot](https://github.com/jhsoby/telegram-wikilinksbot) - Telegram bot that links [[wiki links]] and Wikidata entities in chats
 - [GamingBeast1/Ultra-forward-bot](https://github.com/GamingBeast1/Ultra-forward-bot) - A powerful forward bot to forward bulk messages from one channel to other
-- [Moksh-Bhardwaj/TG-URL-Shortener-Bot](https://github.com/Moksh-Bhardwaj/TG-URL-Shortener-Bot) - Telegram URL Shortener Bot With Many Amazing Features.
+- [MokshBhardwajOfficial/TG-URL-Shortener-Bot](https://github.com/MokshBhardwajOfficial/TG-URL-Shortener-Bot) - Telegram URL Shortener Bot With Many Amazing Features.
 - [persiannlp/parsinlu](https://github.com/persiannlp/parsinlu) - A comprehensive suite of high-level NLP tasks for Persian language
 - [AmirAref/LinkedinBot](https://github.com/AmirAref/LinkedinBot) - a telegram robot that uploads media from the Linkedin.com posts into telegram.
 - [AmirAref/Torobot](https://github.com/AmirAref/Torobot) - an inline telegram robot to easy access and search in torob.com products from telegram.
@@ -1003,7 +1004,7 @@
 - [bndr/pipreqs](https://github.com/bndr/pipreqs) - pipreqs - Generate pip requirements.txt file based on imports of any project. Looking for maintainers to move this project forward.
 - [stlukey/whispercpp.py](https://github.com/stlukey/whispercpp.py) - Python bindings for whisper.cpp
 - [kfatehi/persian-tts-server](https://github.com/kfatehi/persian-tts-server) - Simple HTTP server wrapping Coqui TTS
-- [Moksh-Bhardwaj/public-forward-bot](https://github.com/Moksh-Bhardwaj/public-forward-bot) - 
+- [MokshBhardwajOfficial/public-forward-bot](https://github.com/MokshBhardwajOfficial/public-forward-bot) - 
 - [MiguelX413/IgTgBot](https://github.com/MiguelX413/IgTgBot) - Let's me post Instagram posts on Telegram.
 - [dory111111/Pengenuity](https://github.com/dory111111/Pengenuity) - Pengunuity is an experimental open-source autonomous AI Agent that aims to replicate the structure of human memory.
 - [amirhoseinsb/Cloud_Player_V2](https://github.com/amirhoseinsb/Cloud_Player_V2) - You can use the cloudplayer tool to listen to the music of the singer you want without going to a specific website and at a very high speed.
