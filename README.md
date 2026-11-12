@@ -54,7 +54,7 @@
 
 ## C 
 
-- [obs-rust/obs-studio](https://github.com/obs-rust/obs-studio) - OBS-STUDIO-RUST is an independent fork of obsproject/obs-studio with all the problems fixed. want to have maintainer privledges? File an issue and tag @zackees
+- [obs-rust/obs-studio](https://github.com/obs-rust/obs-studio) - OBS-STUDIO-RUST is an independent fork of obsproject/obs-studio rewrite in rust with all the problems fixed.
 - [karim23657/ParsiGoo-win](https://github.com/karim23657/ParsiGoo-win) - 
 - [karim23657/offline-persian-tts-win7](https://github.com/karim23657/offline-persian-tts-win7) - Offline Persian (and multilingual) Text-to-Speech for Windows 7. A self-contained package using sherpa-onnx with a custom Win7 compatibility shim. No Python or internet required at runtime.
 - [daanzu/py-webrtcvad-wheels](https://github.com/daanzu/py-webrtcvad-wheels) - Python interface to the WebRTC Voice Activity Detector (VAD) [released with binary wheels!]
@@ -241,6 +241,7 @@
 
 ## Java 
 
+- [w-coding/Sqlite-Browser-for-android](https://github.com/w-coding/Sqlite-Browser-for-android) - 
 - [jean-voila/FeurStagram](https://github.com/jean-voila/FeurStagram) - Instagram without Reels, feed or ads: an open-source, updatable Instagram app for Android that keeps DMs and stories.
 - [notune/android_transcribe_app](https://github.com/notune/android_transcribe_app) - Offline voice input keyboard & live subtitle tool for Android
 - [marodriguezd/Aura-Transcribe](https://github.com/marodriguezd/Aura-Transcribe) - Aura Transcribe keyboard & live subtitle tool for Android
@@ -408,7 +409,7 @@
 - [AzeemIdrisi/InstaLoaderApp](https://github.com/AzeemIdrisi/InstaLoaderApp) - Instagram Bulk Media Downloader for Android based on instaloader
 - [RisorseArtificiali/anti-vocale](https://github.com/RisorseArtificiali/anti-vocale) - Android app for transcribing voice messages locally on-device, with no internet required.
 - [JunkFood02/Seal](https://github.com/JunkFood02/Seal) - 🦭 Video/Audio Downloader for Android, based on yt-dlp
-- [monogram-android/monogram](https://github.com/monogram-android/monogram) - Native Telegram client for Android
+- [monogram-android/monogram](https://github.com/monogram-android/monogram) - Telegram client for Android
 - [subinps/TelePlay](https://github.com/subinps/TelePlay) - A self-hosted media streaming solution that lets you store, organize, and stream your video files from Telegram Servers. Access your media library from anywhere via a web interface or Android TV app /
 - [LibChecker/LibChecker](https://github.com/LibChecker/LibChecker) - An app to view libraries used in apps in your device.
 - [motmaenbash/motmaenbash-android](https://github.com/motmaenbash/motmaenbash-android) - MotmaenBash
@@ -908,7 +909,7 @@
 - [bipinkrish/Link-Bypasser-Bot](https://github.com/bipinkrish/Link-Bypasser-Bot) - A Telegram Bot (with Site) that can Bypass Ad Links, Generate Direct Links and Jump Paywalls
 - [jianchang512/pyvideotrans](https://github.com/jianchang512/pyvideotrans) - Translate the video from one language to another and embed dubbing & subtitles.
 - [zackees/isolated-environment](https://github.com/zackees/isolated-environment) - Internal venv management to fix AI dependency hell in python
-- [rjriajul/FZBypassBot](https://github.com/rjriajul/FZBypassBot) - A Elegant Fast Multi Threaded Bypass Bot for Bigger Deeds. Try Now !!
+- [SilentDemonSD/FZBypassBot](https://github.com/SilentDemonSD/FZBypassBot) - A Elegant Fast Multi Threaded Bypass Bot for Bigger Deeds. Try Now !!
 - [zackees/zcmds](https://github.com/zackees/zcmds) - Swiss army knife of insanely productive CLI and AI tools. Cross platform.
 - [YaoFANGUK/video-subtitle-generator](https://github.com/YaoFANGUK/video-subtitle-generator) - 视频音频生成字幕，生成srt文件。无需申请第三方API，本地实现音频转文本。基于Transformer的视频字幕生成框架。A GUI tool for generating subtitle from videos and generating srt files.
 - [YaoFANGUK/video-subtitle-remover](https://github.com/YaoFANGUK/video-subtitle-remover) - 基于AI的图片/视频硬字幕去除、文本水印去除，无损分辨率生成去字幕、去水印后的图片/视频文件。无需申请第三方API，本地实现。AI-based tool for removing hard-coded subtitles and text-like watermarks from videos or Pictures.
@@ -2515,7 +2516,7 @@
 - [Jack-of-tg/MEDIA-EDITOR-BOT](https://github.com/Jack-of-tg/MEDIA-EDITOR-BOT) - 
 - [breakdowns/drive-searchbot](https://github.com/breakdowns/drive-searchbot) - Google Drive file searcher
 - [odysseusmax/tg-index](https://github.com/odysseusmax/tg-index) - Python web app to index telegram chats and serve its files for download over HTTP.
-- [paul-nameless/tg](https://github.com/paul-nameless/tg) - terminal telegram client
+- [paul-nameless/tg](https://github.com/paul-nameless/tg) - terminal telegram client - TUI, CLI and an agent skill
 - [gautamajay52/UdemyBot](https://github.com/gautamajay52/UdemyBot) - UdemyBot - A Simple Udemy Free Courses Scrapper
 - [gautamajay52/ufile.io](https://github.com/gautamajay52/ufile.io) - Asynchronous Python Wrapper for the Ufile API
 - [New-dev0/TgTwitterBot](https://github.com/New-dev0/TgTwitterBot) - TgTwitterBot -  Control and Explore Twitter from Telegram
@@ -2759,7 +2760,6 @@
 - [telegram-rs/telegram-bot](https://github.com/telegram-rs/telegram-bot) - Rust Library for creating a Telegram Bot
 - [chanderlud/giga-grabber](https://github.com/chanderlud/giga-grabber) - A very fast and relatively stable Mega downloader
 - [deadnews/imgup](https://github.com/deadnews/imgup) - Upload images via APIs
-- [timweri/deal-watcher](https://github.com/timweri/deal-watcher) - Watch subreddits and RSS for new posts
 - [ferrisgram/ferrisgram](https://github.com/ferrisgram/ferrisgram) - Autogenerated wrapper for the Telegram Bot API written in Rust.
 - [kiamazi/kateb](https://github.com/kiamazi/kateb) - Install and update free Farsi fonts
 - [alenpaulvarghese/AurSearchBot](https://github.com/alenpaulvarghese/AurSearchBot) - Telegram bot for searching in Arch User Repository ( AUR ); Implemented using rust.
