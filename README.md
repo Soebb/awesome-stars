@@ -241,6 +241,7 @@
 
 ## Java 
 
+- [zmxhot/InstantCaption](https://github.com/zmxhot/InstantCaption) - Free offline AI translator for Android: low-latency speech translation, live captions and floating subtitles powered by local LLMs. 免费离线 AI 同声传译 · 本地大模型 · 低延迟字幕。NPU integration in source; public APK u
 - [w-coding/Sqlite-Browser-for-android](https://github.com/w-coding/Sqlite-Browser-for-android) - 
 - [jean-voila/FeurStagram](https://github.com/jean-voila/FeurStagram) - Instagram without Reels, feed or ads: an open-source, updatable Instagram app for Android that keeps DMs and stories.
 - [notune/android_transcribe_app](https://github.com/notune/android_transcribe_app) - Offline voice input keyboard & live subtitle tool for Android
@@ -386,6 +387,7 @@
 
 ## Kotlin 
 
+- [darshanparajuli/LogcatReader](https://github.com/darshanparajuli/LogcatReader) - A simple app for viewing logcat logs on an android device.
 - [Soebb/MoveMusic](https://github.com/Soebb/MoveMusic) - A free, offline Android music-player with a one-action Move to playlist operation.
 - [tazztone/losslesscut-android](https://github.com/tazztone/losslesscut-android) - LosslessCut is an editor Android app that cuts video and audio losslessly.
 - [fhes-tus/Vern-TTS](https://github.com/fhes-tus/Vern-TTS) - An offline zero subscription, zero ads free TTS app for android and desktop
