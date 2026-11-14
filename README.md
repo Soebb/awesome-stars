@@ -92,6 +92,7 @@
 
 ## C++ 
 
+- [iMiKED/apk-icon-editor](https://github.com/iMiKED/apk-icon-editor) - APK editor to easily change APK icons, name and version (fork)
 - [handy-computer/transcribe.cpp](https://github.com/handy-computer/transcribe.cpp) - ggml speech-to-text inference for 16+ model families
 - [Revincx/Yurigram](https://github.com/Revincx/Yurigram) - An unofficial tdesktop client with more features
 - [Tatsh/bpmdetect](https://github.com/Tatsh/bpmdetect) - Automatic BPM (beats per minute) detection utility.
@@ -148,6 +149,7 @@
 
 ## Go 
 
+- [ahbanavi/sms-cleaner](https://github.com/ahbanavi/sms-cleaner) - Keeps an Android Google Messages SMS inbox clean: blocks spam, removes offers, archives notices
 - [net-merge/net-merge](https://github.com/net-merge/net-merge) - Use all your internet connections at once on Windows, macOS, Linux and Android: per-connection load balancing over Wi-Fi, Ethernet, mobile data and phone tethers
 - [Unrud/remote-touchpad](https://github.com/Unrud/remote-touchpad) - Control mouse and keyboard from a smartphone
 - [MamdMehrabi/Uploader](https://github.com/MamdMehrabi/Uploader) - A website where every file uploaded is transferred to Telegram.
@@ -580,6 +582,7 @@
 
 ## Python 
 
+- [kihanb/ip-matcher](https://github.com/kihanb/ip-matcher) - 
 - [pymupdf/PyMuPDF](https://github.com/pymupdf/PyMuPDF) - PyMuPDF is a high performance Python library for data extraction, analysis, conversion & manipulation of PDF (and other) documents.
 - [EchterAlsFake/unofficial-api-for-pornhub](https://github.com/EchterAlsFake/unofficial-api-for-pornhub) - Unofficial Python client for xvideos.com: search, metadata extraction, and video download (curl-cffi + selectolax)
 - [CZ-NIC/mininterface](https://github.com/CZ-NIC/mininterface) - CLI & dialog toolkit – a minimal interface to Python application (GUI, TUI, CLI + config files, web)
@@ -673,7 +676,7 @@
 - [hetari/pyutube](https://github.com/hetari/pyutube) - A simple user friendly command line tool to download YouTube videos and playlists with fewer steps.
 - [fazi-gondal/Vidsaver](https://github.com/fazi-gondal/Vidsaver) - Vidsaver is a Flet-based video downloader for saving videos from supported social/video platforms to the device. It uses yt-dlp for download handling and provides a simple mobile/desktop UI for pastin
 - [dhyeyppatel/CT-Forwards](https://github.com/dhyeyppatel/CT-Forwards) - This bot can auto forward new message from multiple source id to target id in telegram.
-- [weebzone/Telegram-Stremio](https://github.com/weebzone/Telegram-Stremio) - A powerful, self-hosted Telegram Stremio Media Server built with FastAPI, MongoDB, and PyroFork — seamlessly integrated with Stremio for automated media streaming and discovery.
+- [weebzone/Telegram-Stremio](https://github.com/weebzone/Telegram-Stremio) - Self-hosted server that turns your Telegram channels into a multi-user Stremio & Nuvio addon: web panel, catalogs, tokens, subscriptions. Updates: t.me/TGMediaServer
 - [Cyberdrop-DL/cyberdrop-dl](https://github.com/Cyberdrop-DL/cyberdrop-dl) - Bulk asynchronous downloader for multiple file hosts
 - [rjriajul/wzgram](https://github.com/rjriajul/wzgram) - WZGram : A high-performance Pyrogram fork, modernized for speed, efficiency, and the latest Telegram API.
 - [Linuxmaster14/TGForwarder](https://github.com/Linuxmaster14/TGForwarder) - TGForwarder is a self-hosted message forwarding tool for Telegram. It uses your bot token to monitor a source chat (channel, group, or private) and forwards all messages to a specified destination. Pe
@@ -1828,7 +1831,7 @@
 - [Chan-Bill/wiki-pdf-gen](https://github.com/Chan-Bill/wiki-pdf-gen) - Scrape Wikipedia articles and generate PDF files.
 - [xuan-practice-coding/websiteCrawler](https://github.com/xuan-practice-coding/websiteCrawler) - 
 - [py-pdf/fpdf2](https://github.com/py-pdf/fpdf2) - Simple PDF generation for Python
-- [kernoeb/Telegramusic](https://github.com/kernoeb/Telegramusic) - Python Telegram Bot to download music from Deezer, YouTube and SoundCloud (Docker)
+- [kernoeb/telegramusic](https://github.com/kernoeb/telegramusic) - Python Telegram Bot to download music from Deezer, YouTube and SoundCloud (Docker)
 - [Bricio/yt-dlp](https://github.com/Bricio/yt-dlp) - A youtube-dl fork with additional features and fixes
 - [vokimon/python-wavefile](https://github.com/vokimon/python-wavefile) - Pythonic access to audio files
 - [audeering/audiofile](https://github.com/audeering/audiofile) - Handling audio files in Python
@@ -2740,6 +2743,7 @@
 
 ## Rust 
 
+- [teng-lin/rookie-cookies](https://github.com/teng-lin/rookie-cookies) - Cross-platform browser cookie extraction and decryption for Chrome, Edge, Brave, Chromium, Firefox, and Safari. Extract cookies from browser profiles and decrypt browser cookies into cookie jars using
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [erfnemati/mirza](https://github.com/erfnemati/mirza) - Voice typing for any app
 - [AldaronLau/pookie](https://github.com/AldaronLau/pookie) - Load cookies from your web browsers (fork of archived rookie crate)
