@@ -389,6 +389,8 @@
 
 ## Kotlin 
 
+- [code3-dev/CCloud](https://github.com/code3-dev/CCloud) - Android movie streaming application — completely free and ad-free.
+- [MaheshTechnicals/Sealplus](https://github.com/MaheshTechnicals/Sealplus) - Seal Plus - Your go-to Android app for downloading videos & audio from YouTube, Instagram, TikTok, and 1000+ platforms! Features stunning Gradient Dark theme, auto-updates, and modern Material Design 
 - [darshanparajuli/LogcatReader](https://github.com/darshanparajuli/LogcatReader) - A simple app for viewing logcat logs on an android device.
 - [Soebb/MoveMusic](https://github.com/Soebb/MoveMusic) - A free, offline Android music-player with a one-action Move to playlist operation.
 - [tazztone/losslesscut-android](https://github.com/tazztone/losslesscut-android) - LosslessCut is an editor Android app that cuts video and audio losslessly.
@@ -488,7 +490,7 @@
 - [alipyth/Aparat_bot](https://github.com/alipyth/Aparat_bot) - ربات افزایش فالورر و بازدید آپارات . این ربات کاملا طبیعی عمل میکنه و خبری از ربات فالوور فیک نیست .
 - [dkncus/CrowdRemoval](https://github.com/dkncus/CrowdRemoval) - 
 - [Cozy-Tech/regex_tutorial_and_examples](https://github.com/Cozy-Tech/regex_tutorial_and_examples) - 
-- [MrBotDeveloper/This-Repo-Has-119-Stars](https://github.com/MrBotDeveloper/This-Repo-Has-119-Stars) - Yes it's true :broken_heart:, currently it has 119 stars ⭐ and 21 forks 🍴.
+- [MrBotDeveloper/This-Repo-Has-120-Stars](https://github.com/MrBotDeveloper/This-Repo-Has-120-Stars) - Yes it's true :broken_heart:, currently it has 120 stars ⭐ and 21 forks 🍴.
 - [ahmadazizi/iran-cities](https://github.com/ahmadazizi/iran-cities) - The most accurate database of city, county, village and province names of Iran.
 - [iranremote/awesome-iran-remote](https://github.com/iranremote/awesome-iran-remote) - A list of remote-friendly or full-remote companies that targets iranian talents.
 - [Blatzar/scraping-tutorial](https://github.com/Blatzar/scraping-tutorial) - Tutorial for scraping streaming sites
@@ -533,7 +535,6 @@
 - [cassidoo/scrapers](https://github.com/cassidoo/scrapers) - A list of scrapers from around the web.
 - [RajatVarshney18/Movie_Describer](https://github.com/RajatVarshney18/Movie_Describer) - Its a basic PWA single page web application which searches for a movie using the OMDb API call and gives all the info related to that movie such as genre, release date, producer name etc.
 - [TelegramPlayground/Free-Movie-Series-DB-API](https://github.com/TelegramPlayground/Free-Movie-Series-DB-API) - FREE UnOfficial Movie / Series Search API, without APIKeys
-- [m4mallu/inline-tube-mate](https://github.com/m4mallu/inline-tube-mate) - An Inline Telegram YouTube downloader bot with custom, permanent thumbnail support, force subscription and cancel upload facility. The bot can send or broadcast messages to the users.
 - [aahnik/tgcf-on-gh-action](https://github.com/aahnik/tgcf-on-gh-action) - Running tgcf periodically in past mode for free using GitHub Actions.
 - [AbirHasan2005/TelegramScraper](https://github.com/AbirHasan2005/TelegramScraper) - Scrape Telegram group members (hidden members also) and add them to yours.
 
@@ -582,6 +583,7 @@
 
 ## Python 
 
+- [0xdolan/zimankit](https://github.com/0xdolan/zimankit) - Kurdish language toolkit for Sorani and Kurmanji: normalisation, IPA, transliteration, morphology, verb paradigms, ergativity, sentence structure, language ID and wordlists. Try it in your browser.
 - [kihanb/ip-matcher](https://github.com/kihanb/ip-matcher) - 
 - [pymupdf/PyMuPDF](https://github.com/pymupdf/PyMuPDF) - PyMuPDF is a high performance Python library for data extraction, analysis, conversion & manipulation of PDF (and other) documents.
 - [EchterAlsFake/unofficial-api-for-pornhub](https://github.com/EchterAlsFake/unofficial-api-for-pornhub) - Unofficial Python client for xvideos.com: search, metadata extraction, and video download (curl-cffi + selectolax)
@@ -2887,7 +2889,7 @@
 - [matnbaz/matnbaz](https://github.com/matnbaz/matnbaz) - Source-code for the "matnbaz" project (Archived)
 - [vrumger/ChannelHashBot](https://github.com/vrumger/ChannelHashBot) - A Telegram bot that forwards messages with hashtags from your group to your channel.
 - [xditya/YouTubeFeeds](https://github.com/xditya/YouTubeFeeds) - Get new YouTube video notifications, from multiple YouTube channels, on multiple telegram chats!
-- [UltimaHoarder/UltimaScraper](https://github.com/UltimaHoarder/UltimaScraper) - Datascraper that is currently adult focused - Updated regularly
+- [UltimaHoarder/UltimaScraper](https://github.com/UltimaHoarder/UltimaScraper) - Datascraper that is currently adult focused (OnlyFans, etc)- Updated regularly
 - [UnmaintainedProjects/tgcalls-next](https://github.com/UnmaintainedProjects/tgcalls-next) - Community fork of tgcallsjs with built-in GramJS support.
 - [Borodutch/VideoDownloadBot](https://github.com/Borodutch/VideoDownloadBot) - @VideoDownloadBot: a Telegram bot that downloads videos from YouTube, TikTok, Instagram, X and many more sites by link, up to 2 GB
 - [devmaxxing/webxr-kamehameha](https://github.com/devmaxxing/webxr-kamehameha) - 
