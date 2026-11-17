@@ -54,7 +54,6 @@
 
 ## C 
 
-- [obs-rust/obs-studio](https://github.com/obs-rust/obs-studio) - OBS-STUDIO-RUST is an independent fork of obsproject/obs-studio rewrite in rust with all the problems fixed.
 - [karim23657/ParsiGoo-win](https://github.com/karim23657/ParsiGoo-win) - 
 - [karim23657/offline-persian-tts-win7](https://github.com/karim23657/offline-persian-tts-win7) - Offline Persian (and multilingual) Text-to-Speech for Windows 7. A self-contained package using sherpa-onnx with a custom Win7 compatibility shim. No Python or internet required at runtime.
 - [daanzu/py-webrtcvad-wheels](https://github.com/daanzu/py-webrtcvad-wheels) - Python interface to the WebRTC Voice Activity Detector (VAD) [released with binary wheels!]
@@ -583,7 +582,7 @@
 
 ## Python 
 
-- [0xdolan/zimankit](https://github.com/0xdolan/zimankit) - Kurdish language toolkit for Sorani and Kurmanji: normalisation, IPA, transliteration, morphology, verb paradigms, ergativity, sentence structure, language ID and wordlists. Try it in your browser.
+- [kanilabs/zimankit](https://github.com/kanilabs/zimankit) - Kurdish language toolkit for Sorani and Kurmanji: normalisation, IPA, transliteration, morphology, verb paradigms, ergativity, sentence structure, language ID and wordlists. Try it in your browser.
 - [kihanb/ip-matcher](https://github.com/kihanb/ip-matcher) - 
 - [pymupdf/PyMuPDF](https://github.com/pymupdf/PyMuPDF) - PyMuPDF is a high performance Python library for data extraction, analysis, conversion & manipulation of PDF (and other) documents.
 - [EchterAlsFake/unofficial-api-for-pornhub](https://github.com/EchterAlsFake/unofficial-api-for-pornhub) - Unofficial Python client for xvideos.com: search, metadata extraction, and video download (curl-cffi + selectolax)
@@ -1267,7 +1266,7 @@
 - [moehmeni/audiowave](https://github.com/moehmeni/audiowave) - Generate a waveform image from an audio
 - [gnai/Audio-Chunking-Tool](https://github.com/gnai/Audio-Chunking-Tool) - An audio tool using pydubs library with python to chunk your audio content into your desired length, and parameters to tune.
 - [jcavalin/earll_bot](https://github.com/jcavalin/earll_bot) - Earll is a telegram bot that helps you with some kinds of messages.
-- [0xdolan/pyroj](https://github.com/0xdolan/pyroj) - Kurdish solar calendar and conversions (Gregorian, Persian/Jalali, tabular Islamic) using the Python standard library only.
+- [kanilabs/pyroj](https://github.com/kanilabs/pyroj) - Kurdish solar calendar and conversions (Gregorian, Persian/Jalali, tabular Islamic) using the Python standard library only.
 - [0xdolan/Subtitle-Fixer](https://github.com/0xdolan/Subtitle-Fixer) - The Subtitle Fixer is a simple tool that helps you fix subtitles in Kurdish (ckb), Persian, and Arabic
 - [Bricio/ChatToSub](https://github.com/Bricio/ChatToSub) - Convert Extracted Chat From YT Into Subtitle (.srt)
 - [donno2048/link2mp4](https://github.com/donno2048/link2mp4) - Download videos as MP4 files
@@ -2745,6 +2744,7 @@
 
 ## Rust 
 
+- [libracoder/kiri](https://github.com/libracoder/kiri) - A small, fast container runtime for macOS, Windows and Linux with free Ngrok alternative
 - [teng-lin/rookie-cookies](https://github.com/teng-lin/rookie-cookies) - Cross-platform browser cookie extraction and decryption for Chrome, Edge, Brave, Chromium, Firefox, and Safari. Extract cookies from browser profiles and decrypt browser cookies into cookie jars using
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [erfnemati/mirza](https://github.com/erfnemati/mirza) - Voice typing for any app
@@ -2753,6 +2753,7 @@
 - [alenpaulvarghese/lazy-zip](https://github.com/alenpaulvarghese/lazy-zip) - Browse a remote ZIP archive by URL and download only the files you pick, using HTTP Range requests. Desktop app for Windows, macOS and Linux.
 - [xevrion/hatchzip](https://github.com/xevrion/hatchzip) - HatchZip is a free, open-source archive extractor for Windows, macOS and Linux that extracts ZIP, 7z, RAR, tar and split archives in place, so it needs free space for the extracted files only. Desktop
 - [sunerpy/voltip](https://github.com/sunerpy/voltip) - Push-to-talk voice typing for Windows, macOS, Linux and Android. On-device or cloud speech recognition, AI polish with presets, a dictionary, rules and scenes, long recordings with subtitles; the phon
+- [obs-rust/obs-studio](https://github.com/obs-rust/obs-studio) - OBS-STUDIO-RUST is an independent fork of obsproject/obs-studio rewrite in rust with all the problems fixed.
 - [Open-Less/openless](https://github.com/Open-Less/openless) - Hold a key, speak, release — AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (按住快捷键说话，松开即得润色后的文字)
 - [jub0t/Concat](https://github.com/jub0t/Concat) - Beta: The truly free, open-source, local-first, cross-platform video editor. Scriptable through a JSON-RPC API & MCP.
 - [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Open Computer History | Continuously record your company computer work, map your workflows, help you find work worth automating, and power your agents' context
@@ -2847,7 +2848,7 @@
 
 ## TypeScript 
 
-- [0xdolan/Zimanyar](https://github.com/0xdolan/Zimanyar) - Offline grammar checker and teacher for Kurdish (Sorani and Kurmanji): browser extension, Linux app, CLI and web.
+- [kanilabs/Zimanyar](https://github.com/kanilabs/Zimanyar) - Offline grammar checker and teacher for Kurdish (Sorani and Kurmanji): browser extension, Linux app, CLI and web.
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
 - [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted PaaS alternative to Heroku / Netlify / Coolify / Vercel / Dokku / Portainer running on Kubernetes
 - [anmolkapil/plexo](https://github.com/anmolkapil/plexo) - Speed up downloads by combining multiple network connections in parallel
