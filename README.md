@@ -68,6 +68,7 @@
 
 ## C# # 
 
+- [arcusmaximus/YTSubConverter](https://github.com/arcusmaximus/YTSubConverter) - A tool for creating styled YouTube subtitles
 - [naravid19/N_m3u8DL_RE_GUI](https://github.com/naravid19/N_m3u8DL_RE_GUI) - Windows GUI for N_m3u8DL-RE — download HLS, DASH, and Smooth Streaming with batch mode, mux options, resume support, and a browser companion extension for one-click stream capture.
 - [popovantondev/GitHubSync](https://github.com/popovantondev/GitHubSync) - Upload files to GitHub and download project files or release attachments after your confirmation · Windows · RU / DE / EN
 - [STranslate/STranslate](https://github.com/STranslate/STranslate) - A ready-to-go translation ocr tool developed with WPF/WPF 开发的一款即用即走的翻译、OCR工具
@@ -148,6 +149,7 @@
 
 ## Go 
 
+- [ACAne0320/Tomoru](https://github.com/ACAne0320/Tomoru) - Live bilingual subtitles for anything your computer plays: videos, streams, games and meetings. On your computer or in the cloud.
 - [ahbanavi/sms-cleaner](https://github.com/ahbanavi/sms-cleaner) - Keeps an Android Google Messages SMS inbox clean: blocks spam, removes offers, archives notices
 - [net-merge/net-merge](https://github.com/net-merge/net-merge) - Use all your internet connections at once on Windows, macOS, Linux and Android: per-connection load balancing over Wi-Fi, Ethernet, mobile data and phone tethers
 - [Unrud/remote-touchpad](https://github.com/Unrud/remote-touchpad) - Control mouse and keyboard from a smartphone
@@ -263,6 +265,7 @@
 
 ## JavaScript 
 
+- [mrjavadseydi/telegram-webproxy-worker](https://github.com/mrjavadseydi/telegram-webproxy-worker) - Serverless Telegram WEB proxy on Cloudflare Workers: one-click deploy, no VPS, no MTProxy
 - [HeyPuter/everything](https://github.com/HeyPuter/everything) - We're rebuilding and open-sourcing the world’s software from scratch.
 - [tangyoha/telegram_media_downloader](https://github.com/tangyoha/telegram_media_downloader) - 基于Dineshkarthik的项目， 电报视频下载，电报资源下载，跨平台，支持web查看下载进度 ，支持bot下发指令下载，支持下载已经加入的私有群但是限制下载的资源， telegram media download,Download media files from a telegram conversation/chat/channel up to 2GiB per file
 - [moghadam-pro/media-relay-bot](https://github.com/moghadam-pro/media-relay-bot) - A private-first Telegram media relay that turns supported social-media post URLs into temporary direct-download links.
@@ -582,6 +585,9 @@
 
 ## Python 
 
+- [MahtaFetrat/Nevise](https://github.com/MahtaFetrat/Nevise) - Bert-Based persian spell-checker
+- [Milomilo777/whisper-transcriber-suite](https://github.com/Milomilo777/whisper-transcriber-suite) - Free, offline Whisper transcription for Windows, macOS and Linux. Turn audio and video into SRT, VTT, DOCX, PDF and more, with speaker labels and YouTube downloads. No cloud, no account, your audio ne
+- [ACAne0320/OpenBBQ](https://github.com/ACAne0320/OpenBBQ) - Open-source, agent-friendly CLI for video transcription, subtitle translation, bilingual subtitles, review, export, and hard-subtitle burning.
 - [kanilabs/zimankit](https://github.com/kanilabs/zimankit) - Kurdish language toolkit for Sorani and Kurmanji: normalisation, IPA, transliteration, morphology, verb paradigms, ergativity, sentence structure, language ID and wordlists. Try it in your browser.
 - [kihanb/ip-matcher](https://github.com/kihanb/ip-matcher) - 
 - [pymupdf/PyMuPDF](https://github.com/pymupdf/PyMuPDF) - PyMuPDF is a high performance Python library for data extraction, analysis, conversion & manipulation of PDF (and other) documents.
@@ -2756,7 +2762,7 @@
 - [obs-rust/obs-studio](https://github.com/obs-rust/obs-studio) - OBS-STUDIO-RUST is an independent fork of obsproject/obs-studio rewrite in rust with all the problems fixed.
 - [Open-Less/openless](https://github.com/Open-Less/openless) - Hold a key, speak, release — AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (按住快捷键说话，松开即得润色后的文字)
 - [jub0t/Concat](https://github.com/jub0t/Concat) - Beta: The truly free, open-source, local-first, cross-platform video editor. Scriptable through a JSON-RPC API & MCP.
-- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Open Computer History | Continuously record your company computer work, map your workflows, help you find work worth automating, and power your agents' context
+- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Screenpipe finds the work worth automating | Continuously record computer work locally, discover recurring workflows, and hand the result to any agent you already use.
 - [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura) - The headless browser for AI agents and web scraping
 - [zackees/running-process](https://github.com/zackees/running-process) - A python subprocess replacement written in rust - track zombie processes, launch PTY and more
 - [persian-rust/book](https://github.com/persian-rust/book) - The Rust Programming Language Book - Persian Edition
