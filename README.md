@@ -1174,6 +1174,7 @@
 - [p-ranav/PhotoLab](https://github.com/p-ranav/PhotoLab) - AI-Powered Photo Editor (Python, PyQt6, PyTorch)
 - [WoeUSB/WoeUSB-ng](https://github.com/WoeUSB/WoeUSB-ng) - WoeUSB-ng is a simple tool that enable you to create your own usb stick windows installer from an iso image or a real DVD. This is a rewrite of original WoeUSB.
 - [binh-vu/hugedict](https://github.com/binh-vu/hugedict) - A drop-in replacement for dictionary objects that are too big to fit in memory
+- [daijro/SearchifyX](https://github.com/daijro/SearchifyX) - Fast flashcard searcher tool
 - [somnathrakshit/geograpy3](https://github.com/somnathrakshit/geograpy3) - Extract place names from a URL or text, and add context to those names -- for example distinguishing between a country, region or city.
 - [elyase/geotext](https://github.com/elyase/geotext) - Geotext extracts country and city mentions from text
 - [elyase/locasticsearch](https://github.com/elyase/locasticsearch) - Serverless full text search in Python
@@ -2341,7 +2342,6 @@
 - [stafazzoli/FarsiOCR](https://github.com/stafazzoli/FarsiOCR) - An OCR application for Farsi/ Persian documents.
 - [abhint/OxfordDictionariesTelegramBot](https://github.com/abhint/OxfordDictionariesTelegramBot) - This is a telegram bot built using the Oxford Dictionary API
 - [nuhmanpk/ReportBot](https://github.com/nuhmanpk/ReportBot) - 
-- [shamilhabeebnelli/TG-MegaBot](https://github.com/shamilhabeebnelli/TG-MegaBot) - A Modular All In One Telegram Bot (Rename, Trim, Cut, Screenshot, Url Uploader, Youtube, FFMPEG, etc)
 - [RobotTrick/Archive-bot](https://github.com/RobotTrick/Archive-bot) - A telegram bot that allows compression of multiple files into a ZIP archive
 - [cessen/subs_extract](https://github.com/cessen/subs_extract) - Extracts per-sentence subtitles + audio from a subtitle file + video file.
 - [fedecalendino/pysub-parser](https://github.com/fedecalendino/pysub-parser) - Library for extracting text and timestamps from multiple subtitle files (.ass, .ssa, .srt, .sub, .txt).
