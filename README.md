@@ -198,7 +198,6 @@
 - [mohsen-niksirat/tgexplorer](https://github.com/mohsen-niksirat/tgexplorer) - A web app to explore public Telegram channels
 - [bennyscripts/flask-file-hosting](https://github.com/bennyscripts/flask-file-hosting) - File host created in flask for one person. Great for an easy way to move files in your network.
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-- [AnshumanPM/Stream-Site-Backend](https://github.com/AnshumanPM/Stream-Site-Backend) - Website which can stream videos directly on the browser.
 - [jalammar/jalammar.github.io](https://github.com/jalammar/jalammar.github.io) - Build a Jekyll blog in minutes, without touching the command line.
 - [FlagMotori/writeups](https://github.com/FlagMotori/writeups) - رایتاپ‌های تیم فلگ موتوری
 - [Gl0deanR/create-flask-app](https://github.com/Gl0deanR/create-flask-app) - 
@@ -272,7 +271,7 @@
 - [Hamed-Gharghi/Cloudflare-Telegram-bot-builder](https://github.com/Hamed-Gharghi/Cloudflare-Telegram-bot-builder) - HG-TeleFlare: Build Telegram bots without code. Zero-config, self-bootstrapping Cloudflare Workers with D1, KV, and visual rule builder. Deploy in 60s. ⚡
 - [sadatrahman3/Universal-Video-Downloader](https://github.com/sadatrahman3/Universal-Video-Downloader) - 
 - [dhyeyppatel/Image-Hosting](https://github.com/dhyeyppatel/Image-Hosting) - 
-- [IRNova/Nova-Proxy](https://github.com/IRNova/Nova-Proxy) - یک پنل گرافیکی کاربردی برای ارائه اشتراک‌های Worker با پروکسی‌های ، Trojan و Warp به همراه زنجیره پروکسی، ارائه دهنده تنظیمات کامل DNS، IP تمیز و روتینگ پیشرفته برای کاربران تمامی پلتفرم‌ها با استفاده
+- [IRNova/NovaWorker](https://github.com/IRNova/NovaWorker) - Nova — A self-hosted Cloudflare Worker proxy with a web panel, subscription management, and Telegram bot integration.
 - [helloyanis/media-downloader-unleashed](https://github.com/helloyanis/media-downloader-unleashed) - A browser extension to download music and videos from the websites you visit!
 - [aandrew-me/ytDownloader](https://github.com/aandrew-me/ytDownloader) - Desktop app to download audio/video from hundreds of sites
 - [vanshcz/GitHubZipBot](https://github.com/vanshcz/GitHubZipBot) - GitHubZipBot For Telegram
@@ -585,6 +584,7 @@
 
 ## Python 
 
+- [mallahyari/nemotron-asr-streaming-farsi](https://github.com/mallahyari/nemotron-asr-streaming-farsi) - Streaming Persian (Farsi) speech recognition: fine-tuning NVIDIA Nemotron 3.5 ASR streaming. Data prep, training, evaluation, inference.
 - [MahtaFetrat/Nevise](https://github.com/MahtaFetrat/Nevise) - Bert-Based persian spell-checker
 - [Milomilo777/whisper-transcriber-suite](https://github.com/Milomilo777/whisper-transcriber-suite) - Free, offline Whisper transcription for Windows, macOS and Linux. Turn audio and video into SRT, VTT, DOCX, PDF and more, with speaker labels and YouTube downloads. No cloud, no account, your audio ne
 - [ACAne0320/OpenBBQ](https://github.com/ACAne0320/OpenBBQ) - Open-source, agent-friendly CLI for video transcription, subtitle translation, bilingual subtitles, review, export, and hard-subtitle burning.
@@ -701,7 +701,7 @@
 - [Soebb/VideOCR-Telegram-bot](https://github.com/Soebb/VideOCR-Telegram-bot) - Extract hardcoded subtitles from videos using PaddleOCR or GoogleLens. Supports 200+ languages.
 - [FALKON-CODE/Telegram-Mirror](https://github.com/FALKON-CODE/Telegram-Mirror) - دسترسی و دانلود محتوای کانال‌های تلگرام بدون فیلتر، مستقیم از گیتهاب(اینترنت ملی)
 - [theskumar/python-dotenv](https://github.com/theskumar/python-dotenv) - Reads key-value pairs from a .env file and can set them as environment variables. It helps in developing applications following the 12-factor principles.
-- [wiltodelta/remove-ai-watermarks](https://github.com/wiltodelta/remove-ai-watermarks) - Remove visible and invisible AI watermarks from images and video, and AI provenance metadata from images, video, and audio. Python library, CLI, and agent skill for SynthID, C2PA, EXIF, IPTC, XMP, and
+- [wiltodelta/remove-ai-watermarks](https://github.com/wiltodelta/remove-ai-watermarks) - Remove visible and invisible AI watermarks from images and video, clean supported audio watermarks, and strip AI provenance metadata. Python library, CLI, and agent skill for SynthID, C2PA, and other 
 - [yashhere/BeautifyMP3](https://github.com/yashhere/BeautifyMP3) - A command line tool for fixing ID3 metadata and adding Album Art to MP3 songs
 - [kiriya55/VideOCRplus](https://github.com/kiriya55/VideOCRplus) - Extract hardcoded subtitles from videos via a simple GUI using machine learning. Supports 200+ languages.
 - [jamiepine/voicebox](https://github.com/jamiepine/voicebox) - The open-source AI voice studio. Clone, dictate, create.
@@ -722,6 +722,7 @@
 - [viperadnan-git/transferit-py](https://github.com/viperadnan-git/transferit-py) - Pure-Python client for transfer.it — upload and download files via the MEGA backend, no browser required.
 - [DevHanza/TelegramYTDLBot](https://github.com/DevHanza/TelegramYTDLBot) - Telegram YouTube Downloader Bot
 - [tddschn/poetry-add-requirements.txt](https://github.com/tddschn/poetry-add-requirements.txt) - Add dependencies specified in requirements.txt file(s) to your Poetry or UV project
+- [AnshumanPM/Stream-Site-Backend](https://github.com/AnshumanPM/Stream-Site-Backend) - Website which can stream videos directly on the browser.
 - [srezasm/farsi-asr-dataset](https://github.com/srezasm/farsi-asr-dataset) - A collection of scripts and codes used to collect the largest ASR datasets for Farsi language.
 - [TorhamDev/Torham-personal-website](https://github.com/TorhamDev/Torham-personal-website) - https://torham.tech
 - [SepehrRasouli/clean-code-python](https://github.com/SepehrRasouli/clean-code-python) - :bathtub: Clean Code concepts adapted for Python
@@ -1838,7 +1839,7 @@
 - [Chan-Bill/wiki-pdf-gen](https://github.com/Chan-Bill/wiki-pdf-gen) - Scrape Wikipedia articles and generate PDF files.
 - [xuan-practice-coding/websiteCrawler](https://github.com/xuan-practice-coding/websiteCrawler) - 
 - [py-pdf/fpdf2](https://github.com/py-pdf/fpdf2) - Simple PDF generation for Python
-- [kernoeb/telegramusic](https://github.com/kernoeb/telegramusic) - Python Telegram Bot to download music from Deezer, YouTube and SoundCloud (Docker)
+- [kernoeb/telegramusic](https://github.com/kernoeb/telegramusic) - Telegram bot and Mini App to search and download music from Deezer, YouTube and SoundCloud (Docker)
 - [Bricio/yt-dlp](https://github.com/Bricio/yt-dlp) - A youtube-dl fork with additional features and fixes
 - [vokimon/python-wavefile](https://github.com/vokimon/python-wavefile) - Pythonic access to audio files
 - [audeering/audiofile](https://github.com/audeering/audiofile) - Handling audio files in Python
@@ -2749,6 +2750,7 @@
 
 ## Rust 
 
+- [gyroing/persian-tts-bridge](https://github.com/gyroing/persian-tts-bridge) - Modular offline Persian TTS workspace in Rust with standalone C/FFI normalizer and SentencePiece BPE tokenizer libraries
 - [libracoder/kiri](https://github.com/libracoder/kiri) - A small, fast container runtime for macOS, Windows and Linux with free Ngrok alternative
 - [teng-lin/rookie-cookies](https://github.com/teng-lin/rookie-cookies) - Cross-platform browser cookie extraction and decryption for Chrome, Edge, Brave, Chromium, Firefox, and Safari. Extract cookies from browser profiles and decrypt browser cookies into cookie jars using
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
