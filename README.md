@@ -161,6 +161,7 @@
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 - [biisal/fast-stream-bot](https://github.com/biisal/fast-stream-bot) - A lightweight fast telegram file streaming bot in go
 - [asdfzxcvbn/TeleURLUploader](https://github.com/asdfzxcvbn/TeleURLUploader) - the most demure url uploader written in go
+- [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [v2fly/v2ray-core](https://github.com/v2fly/v2ray-core) - A platform for building proxies to bypass network restrictions.
 - [bergkvist/includeimage](https://github.com/bergkvist/includeimage) - Dockerfile syntax extension for combining multiple Docker images into one. (INCLUDE &lt;image&gt;)
 - [warpdl/warpdl](https://github.com/warpdl/warpdl) - A powerful and versatile cross-platform download manager.
@@ -390,6 +391,7 @@
 
 ## Kotlin 
 
+- [Soebb/Persian-spellchecker-app](https://github.com/Soebb/Persian-spellchecker-app) - An Android app for correcting Persian text with the Nevise Hugging Face Space.
 - [code3-dev/CCloud](https://github.com/code3-dev/CCloud) - Android movie streaming application — completely free and ad-free.
 - [MaheshTechnicals/Sealplus](https://github.com/MaheshTechnicals/Sealplus) - Seal Plus - Your go-to Android app for downloading videos & audio from YouTube, Instagram, TikTok, and 1000+ platforms! Features stunning Gradient Dark theme, auto-updates, and modern Material Design 
 - [darshanparajuli/LogcatReader](https://github.com/darshanparajuli/LogcatReader) - A simple app for viewing logcat logs on an android device.
@@ -584,6 +586,7 @@
 
 ## Python 
 
+- [Soebb/instagram-bulk-dl-bot](https://github.com/Soebb/instagram-bulk-dl-bot) - Telegram downloader bot for public Instagram posts. It reads post URLs from links.txt and sends each post's photos/videos to a Telegram channel.
 - [mallahyari/nemotron-asr-streaming-farsi](https://github.com/mallahyari/nemotron-asr-streaming-farsi) - Streaming Persian (Farsi) speech recognition: fine-tuning NVIDIA Nemotron 3.5 ASR streaming. Data prep, training, evaluation, inference.
 - [MahtaFetrat/Nevise](https://github.com/MahtaFetrat/Nevise) - Bert-Based persian spell-checker
 - [Milomilo777/whisper-transcriber-suite](https://github.com/Milomilo777/whisper-transcriber-suite) - Free, offline Whisper transcription for Windows, macOS and Linux. Turn audio and video into SRT, VTT, DOCX, PDF and more, with speaker labels and YouTube downloads. No cloud, no account, your audio ne
@@ -2331,7 +2334,7 @@
 - [fayasnoushad/pixeldrain](https://github.com/fayasnoushad/pixeldrain) - A pixeldrain python package
 - [nuhmanpk/Instant-Tag-Remover](https://github.com/nuhmanpk/Instant-Tag-Remover) - Removes forward tag from all messages
 - [RabbitFored/chat-archive-bot-unamed](https://github.com/RabbitFored/chat-archive-bot-unamed) - Telegram chat archiver
-- [samadii/VidSubExtract-Bot](https://github.com/samadii/VidSubExtract-Bot) - A simple script to extracting hard-coded subtitle from videos by your Telegram bot.
+- [samadii/VidSubExtract-Bot](https://github.com/samadii/VidSubExtract-Bot) - A Telegram bot that extracts hard-coded (burned-in) subtitles from videos and exports them as an SRT file using FFmpeg with Tesseract OCR and optional Google Lens OCR.
 - [Imyr/TeleRG](https://github.com/Imyr/TeleRG) - Grabs torrent or magnet links from feeds. Basically, an RSS bot. Has been modified to be used with Telegram Mirror Bot, as was it's intended purpose.
 - [AnjanaMadu/SeedrAPI](https://github.com/AnjanaMadu/SeedrAPI) - Unofficial API wrapper for seedr.cc
 - [PredatorHackerzZ/MessageSearchBot](https://github.com/PredatorHackerzZ/MessageSearchBot) - 
@@ -2788,11 +2791,11 @@
 
 ## Shell 
 
+- [FOSS-Egypt/WebGetter](https://github.com/FOSS-Egypt/WebGetter) - An open-source project which allows you to get any website source code in a few minutes
 - [EchterAlsFake/PySide6-to-Android](https://github.com/EchterAlsFake/PySide6-to-Android) - a guide on how to compile a PySide6 (Qt for Python) application for Android devices.
 - [jqssun/android-titanium-browser](https://github.com/jqssun/android-titanium-browser) - Secure open-source Android browser with support for extensions
 - [Linuxmaster14/telepipe](https://github.com/Linuxmaster14/telepipe) - A simple command-line utility to send messages to Telegram
 - [nimiology/nginx-wizard](https://github.com/nimiology/nginx-wizard) - interactive Bash wizard that configures Nginx with SSL (Let's Encrypt), WebSocket support, reverse proxy, and static/media file serving — perfect for Django or Docker deployments.
-- [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [fzerorubigd/persian-fonts-linux](https://github.com/fzerorubigd/persian-fonts-linux) - Persian fonts installer for linux
 - [aronchick/Docker-NGINX-Gunicorn-Flask-Python-Example](https://github.com/aronchick/Docker-NGINX-Gunicorn-Flask-Python-Example) - 
 - [flashdagger/git-subrepo-pypi](https://github.com/flashdagger/git-subrepo-pypi) - python package for installing git-subrepo
@@ -2855,6 +2858,7 @@
 
 ## TypeScript 
 
+- [mallahyari/cilla-apps](https://github.com/mallahyari/cilla-apps) - Local-first Persian voice applications built with Cilla Mini (18.2M Persian TTS)
 - [kanilabs/Zimanyar](https://github.com/kanilabs/Zimanyar) - Offline grammar checker and teacher for Kurdish (Sorani and Kurmanji): browser extension, Linux app, CLI and web.
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
 - [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted PaaS alternative to Heroku / Netlify / Coolify / Vercel / Dokku / Portainer running on Kubernetes
