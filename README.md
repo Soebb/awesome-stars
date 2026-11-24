@@ -149,7 +149,7 @@
 
 ## Go 
 
-- [ACAne0320/Tomoru](https://github.com/ACAne0320/Tomoru) - Live bilingual subtitles for anything your computer plays: videos, streams, games and meetings. On your computer or in the cloud.
+- [ACAne0320/Tomoru](https://github.com/ACAne0320/Tomoru) - Live bilingual subtitles for anything your computer plays: videos, streams, games and meetings. Windows, macOS and Linux, running locally or in the cloud.
 - [ahbanavi/sms-cleaner](https://github.com/ahbanavi/sms-cleaner) - Keeps an Android Google Messages SMS inbox clean: blocks spam, removes offers, archives notices
 - [net-merge/net-merge](https://github.com/net-merge/net-merge) - Use all your internet connections at once on Windows, macOS, Linux and Android: per-connection load balancing over Wi-Fi, Ethernet, mobile data and phone tethers
 - [Unrud/remote-touchpad](https://github.com/Unrud/remote-touchpad) - Control mouse and keyboard from a smartphone
@@ -586,6 +586,7 @@
 
 ## Python 
 
+- [mallahyari/tiny-ava](https://github.com/mallahyari/tiny-ava) - tiny-ava: 4.5M-parameter Persian (Farsi) TTS models (PyTorch & ONNX, 24 kHz, 38-77x real-time on CPU)
 - [Soebb/instagram-bulk-dl-bot](https://github.com/Soebb/instagram-bulk-dl-bot) - Telegram downloader bot for public Instagram posts. It reads post URLs from links.txt and sends each post's photos/videos to a Telegram channel.
 - [mallahyari/nemotron-asr-streaming-farsi](https://github.com/mallahyari/nemotron-asr-streaming-farsi) - Streaming Persian (Farsi) speech recognition: fine-tuning NVIDIA Nemotron 3.5 ASR streaming. Data prep, training, evaluation, inference.
 - [MahtaFetrat/Nevise](https://github.com/MahtaFetrat/Nevise) - Bert-Based persian spell-checker
@@ -826,7 +827,7 @@
 - [pgp/mega.py](https://github.com/pgp/mega.py) - Python library for the https://mega.nz/ API.
 - [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, macOS and Windows operating systems.
 - [zackees/python-compile](https://github.com/zackees/python-compile) - Compile your python apps into linux binaries
-- [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) - 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
+- [bilibili/GPT-SoVITS](https://github.com/bilibili/GPT-SoVITS) - 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
 - [containers/podman-compose](https://github.com/containers/podman-compose) - a script to run docker-compose.yml using podman
 - [fayasnoushad/tools-bot](https://github.com/fayasnoushad/tools-bot) - A telegram tools bot for groups.
 - [fayasnoushad/gemini-bot](https://github.com/fayasnoushad/gemini-bot) - A telegram gemini generative ai bot made with gemini api.
@@ -2858,6 +2859,7 @@
 
 ## TypeScript 
 
+- [rojvv/rast-obsidian](https://github.com/rojvv/rast-obsidian) - 
 - [mallahyari/cilla-apps](https://github.com/mallahyari/cilla-apps) - Local-first Persian voice applications built with Cilla Mini (18.2M Persian TTS)
 - [kanilabs/Zimanyar](https://github.com/kanilabs/Zimanyar) - Offline grammar checker and teacher for Kurdish (Sorani and Kurmanji): browser extension, Linux app, CLI and web.
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
