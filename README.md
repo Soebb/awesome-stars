@@ -391,6 +391,7 @@
 
 ## Kotlin 
 
+- [mallahyari/tiny-ava](https://github.com/mallahyari/tiny-ava) - tiny-ava: 4.5M-parameter Persian (Farsi) TTS models (PyTorch & ONNX, 24 kHz, 38-77x real-time on CPU)
 - [Soebb/Persian-spellchecker-app](https://github.com/Soebb/Persian-spellchecker-app) - An Android app for correcting Persian text with the Nevise Hugging Face Space.
 - [code3-dev/CCloud](https://github.com/code3-dev/CCloud) - Android movie streaming application — completely free and ad-free.
 - [MaheshTechnicals/Sealplus](https://github.com/MaheshTechnicals/Sealplus) - Seal Plus - Your go-to Android app for downloading videos & audio from YouTube, Instagram, TikTok, and 1000+ platforms! Features stunning Gradient Dark theme, auto-updates, and modern Material Design 
@@ -493,7 +494,7 @@
 - [alipyth/Aparat_bot](https://github.com/alipyth/Aparat_bot) - ربات افزایش فالورر و بازدید آپارات . این ربات کاملا طبیعی عمل میکنه و خبری از ربات فالوور فیک نیست .
 - [dkncus/CrowdRemoval](https://github.com/dkncus/CrowdRemoval) - 
 - [Cozy-Tech/regex_tutorial_and_examples](https://github.com/Cozy-Tech/regex_tutorial_and_examples) - 
-- [MrBotDeveloper/This-Repo-Has-120-Stars](https://github.com/MrBotDeveloper/This-Repo-Has-120-Stars) - Yes it's true :broken_heart:, currently it has 120 stars ⭐ and 21 forks 🍴.
+- [MrBotDeveloper/This-Repo-Has-119-Stars](https://github.com/MrBotDeveloper/This-Repo-Has-119-Stars) - Yes it's true :broken_heart:, currently it has 119 stars ⭐ and 21 forks 🍴.
 - [ahmadazizi/iran-cities](https://github.com/ahmadazizi/iran-cities) - The most accurate database of city, county, village and province names of Iran.
 - [iranremote/awesome-iran-remote](https://github.com/iranremote/awesome-iran-remote) - A list of remote-friendly or full-remote companies that targets iranian talents.
 - [Blatzar/scraping-tutorial](https://github.com/Blatzar/scraping-tutorial) - Tutorial for scraping streaming sites
@@ -586,7 +587,6 @@
 
 ## Python 
 
-- [mallahyari/tiny-ava](https://github.com/mallahyari/tiny-ava) - tiny-ava: 4.5M-parameter Persian (Farsi) TTS models (PyTorch & ONNX, 24 kHz, 38-77x real-time on CPU)
 - [Soebb/instagram-bulk-dl-bot](https://github.com/Soebb/instagram-bulk-dl-bot) - Telegram downloader bot for public Instagram posts. It reads post URLs from links.txt and sends each post's photos/videos to a Telegram channel.
 - [mallahyari/nemotron-asr-streaming-farsi](https://github.com/mallahyari/nemotron-asr-streaming-farsi) - Streaming Persian (Farsi) speech recognition: fine-tuning NVIDIA Nemotron 3.5 ASR streaming. Data prep, training, evaluation, inference.
 - [MahtaFetrat/Nevise](https://github.com/MahtaFetrat/Nevise) - Bert-Based persian spell-checker
@@ -1213,9 +1213,9 @@
 - [whtsky/pixelmatch-py](https://github.com/whtsky/pixelmatch-py) - A fast pixel-level image comparison library, originally created to compare screenshots in tests.
 - [MrMKN/PyLeaves](https://github.com/MrMKN/PyLeaves) - 🌿 python package for tools of pyrogram
 - [JorianWoltjer/AutoCaptions](https://github.com/JorianWoltjer/AutoCaptions) - A GUI tool that uses OpenAIs Whisper to transcribe text from an audio/video file, into a Premiere Pro sequence to automate the creation of subtitles.
-- [ratoaq2/knowit](https://github.com/ratoaq2/knowit) - Know better your media files
+- [ratoaq2/knowit](https://github.com/ratoaq2/knowit) - Know your media
 - [guessit-io/guessit](https://github.com/guessit-io/guessit) - GuessIt is a python library that extracts as much information as possible from a video filename.
-- [ratoaq2/cleanit](https://github.com/ratoaq2/cleanit) - Subtitles extremely clean
+- [ratoaq2/cleanit](https://github.com/ratoaq2/cleanit) - Clean your subtitles
 - [vevv/subby](https://github.com/vevv/subby) - Advanced subtitle converter and processor
 - [botbahlul/autosrt](https://github.com/botbahlul/autosrt) - A python script COMMAND LINE utility to AUTO GENERATE SUBTITLE FILE (using free Google Speech Recognition API) and TRANSLATED SUBTITLE FILE (using unofficial online Google Translate API) for any video
 - [botbahlul/PyAutoSRT](https://github.com/botbahlul/PyAutoSRT) - PySimpleGUI based DESKTOP APP to AUTO GENERATE SUBTITLE FILE (using free Google Speech Recognition API) and TRANSLATED SUBTITLE FILE (using unofficial online Google Translate API) for any video or aud
@@ -2766,7 +2766,7 @@
 - [sunerpy/voltip](https://github.com/sunerpy/voltip) - Push-to-talk voice typing for Windows, macOS, Linux and Android. On-device or cloud speech recognition, AI polish with presets, a dictionary, rules and scenes, long recordings with subtitles; the phon
 - [obs-rust/obs-studio](https://github.com/obs-rust/obs-studio) - OBS-STUDIO-RUST is an independent fork of obsproject/obs-studio rewrite in rust with all the problems fixed.
 - [Open-Less/openless](https://github.com/Open-Less/openless) - Hold a key, speak, release — AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (按住快捷键说话，松开即得润色后的文字)
-- [jub0t/Concat](https://github.com/jub0t/Concat) - Beta: The truly free, open-source, local-first, cross-platform video editor. Scriptable through a JSON-RPC API & MCP.
+- [jub0t/Concat](https://github.com/jub0t/Concat) - The open-source CapCut alternative.
 - [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Screenpipe finds the work worth automating | Continuously record computer work locally, discover recurring workflows, and hand the result to any agent you already use.
 - [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura) - The headless browser for AI agents and web scraping
 - [zackees/running-process](https://github.com/zackees/running-process) - A python subprocess replacement written in rust - track zombie processes, launch PTY and more
