@@ -161,7 +161,6 @@
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 - [biisal/fast-stream-bot](https://github.com/biisal/fast-stream-bot) - A lightweight fast telegram file streaming bot in go
 - [asdfzxcvbn/TeleURLUploader](https://github.com/asdfzxcvbn/TeleURLUploader) - the most demure url uploader written in go
-- [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [v2fly/v2ray-core](https://github.com/v2fly/v2ray-core) - A platform for building proxies to bypass network restrictions.
 - [bergkvist/includeimage](https://github.com/bergkvist/includeimage) - Dockerfile syntax extension for combining multiple Docker images into one. (INCLUDE &lt;image&gt;)
 - [warpdl/warpdl](https://github.com/warpdl/warpdl) - A powerful and versatile cross-platform download manager.
@@ -265,6 +264,7 @@
 
 ## JavaScript 
 
+- [4lwayz/portwatch-vi](https://github.com/4lwayz/portwatch-vi) - Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.
 - [mrjavadseydi/telegram-webproxy-worker](https://github.com/mrjavadseydi/telegram-webproxy-worker) - Serverless Telegram WEB proxy on Cloudflare Workers: one-click deploy, no VPS, no MTProxy
 - [HeyPuter/everything](https://github.com/HeyPuter/everything) - We're rebuilding and open-sourcing the world’s software from scratch.
 - [tangyoha/telegram_media_downloader](https://github.com/tangyoha/telegram_media_downloader) - 基于Dineshkarthik的项目， 电报视频下载，电报资源下载，跨平台，支持web查看下载进度 ，支持bot下发指令下载，支持下载已经加入的私有群但是限制下载的资源， telegram media download,Download media files from a telegram conversation/chat/channel up to 2GiB per file
@@ -399,9 +399,9 @@
 - [Soebb/MoveMusic](https://github.com/Soebb/MoveMusic) - A free, offline Android music-player with a one-action Move to playlist operation.
 - [tazztone/losslesscut-android](https://github.com/tazztone/losslesscut-android) - LosslessCut is an editor Android app that cuts video and audio losslessly.
 - [fhes-tus/Vern-TTS](https://github.com/fhes-tus/Vern-TTS) - An offline zero subscription, zero ads free TTS app for android and desktop
-- [Lanzkila/KirinDL](https://github.com/Lanzkila/KirinDL) - Kirin Downloader - based on SealPlus. but with GalleryDL
+- [Lanzkila/KirinDL](https://github.com/Lanzkila/KirinDL) - KirinDL - based on SealPlus. but with GalleryDL
 - [Lanzkila/KirinYT](https://github.com/Lanzkila/KirinYT) - Full-featured audio/video downloader for Android using yt-dlp
-- [SibtainOcn/Hazel](https://github.com/SibtainOcn/Hazel) - The art of saving media 🍂✨ -&gt; A modern clean interface android app to save videos, music, and playlists from YouTube and 1500+ sites with zero ads, tracking, or account setups
+- [SibtainOcn/Hazel](https://github.com/SibtainOcn/Hazel) - The art of saving media 🍂✨ -&gt; A modern clean interface android app to save videos, music, stories, highlights, posts, reels, images and playlists from YouTube, Instagram and 1500+ sites with zero a
 - [sosauce/Chocola](https://github.com/sosauce/Chocola) - 🍫 Chocola is a cute and powerful offline music player for Android!
 - [zt-Fang/EyeOpener-Translator](https://github.com/zt-Fang/EyeOpener-Translator) - Real-time speech translation for Android: a floating subtitle layer over any app. 41 languages, on-device ASR (sherpa-onnx / Vosk), offline / cloud / LLM translation.
 - [R-Dilipkumar/LiveSub-Offline-Translator](https://github.com/R-Dilipkumar/LiveSub-Offline-Translator) - LiveSub — private, offline live subtitles and translation for any app on Android. On-device speech recognition (Sherpa-ONNX) and translation (ML Kit), shown in a floating overlay.
@@ -587,10 +587,12 @@
 
 ## Python 
 
-- [Soebb/instagram-bulk-dl-bot](https://github.com/Soebb/instagram-bulk-dl-bot) - Telegram downloader bot for public Instagram posts. It reads post URLs from links.txt and sends each post's photos/videos to a Telegram channel.
+- [zackees/template-python-rust-cmd](https://github.com/zackees/template-python-rust-cmd) - Python bindings to a rust binary / libary
+- [amirmahdialmasi/text-to-speak](https://github.com/amirmahdialmasi/text-to-speak) - This program receives and processes text, and delivers an MP3 file.
+- [Soebb/insta2tg-bulk-uploader](https://github.com/Soebb/insta2tg-bulk-uploader) - Telegram download & upload bot for public Instagram posts. It reads post URLs from links.txt and sends each post's photos/videos to a Telegram channel.
 - [mallahyari/nemotron-asr-streaming-farsi](https://github.com/mallahyari/nemotron-asr-streaming-farsi) - Streaming Persian (Farsi) speech recognition: fine-tuning NVIDIA Nemotron 3.5 ASR streaming. Data prep, training, evaluation, inference.
 - [MahtaFetrat/Nevise](https://github.com/MahtaFetrat/Nevise) - Bert-Based persian spell-checker
-- [Milomilo777/whisper-transcriber-suite](https://github.com/Milomilo777/whisper-transcriber-suite) - Free, offline Whisper transcription for Windows, macOS and Linux. Turn audio and video into SRT, VTT, DOCX, PDF and more, with speaker labels and YouTube downloads. No cloud, no account, your audio ne
+- [Milomilo777/whisper-transcriber-suite](https://github.com/Milomilo777/whisper-transcriber-suite) - Free, open-source Whisper GUI for Windows, macOS and Linux. Transcribe audio and video offline and make batch subtitles: SRT, VTT, DOCX, PDF and more, with speaker labels and YouTube downloads. No clo
 - [ACAne0320/OpenBBQ](https://github.com/ACAne0320/OpenBBQ) - Open-source, agent-friendly CLI for video transcription, subtitle translation, bilingual subtitles, review, export, and hard-subtitle burning.
 - [kanilabs/zimankit](https://github.com/kanilabs/zimankit) - Kurdish language toolkit for Sorani and Kurmanji: normalisation, IPA, transliteration, morphology, verb paradigms, ergativity, sentence structure, language ID and wordlists. Try it in your browser.
 - [kihanb/ip-matcher](https://github.com/kihanb/ip-matcher) - 
@@ -1028,7 +1030,7 @@
 - [amirhoseinsb/Cloud_Player_V2](https://github.com/amirhoseinsb/Cloud_Player_V2) - You can use the cloudplayer tool to listen to the music of the singer you want without going to a specific website and at a very high speed.
 - [viperadnan-git/bdsm-typer](https://github.com/viperadnan-git/bdsm-typer) - Auto typing tool to paste texts on software where pasting text is not allowed. Made for desktop.
 - [m1guelpf/yt-whisper](https://github.com/m1guelpf/yt-whisper) - Using OpenAI's Whisper to automatically generate YouTube subtitles
-- [mvdctop/Movie_Data_Capture](https://github.com/mvdctop/Movie_Data_Capture) - The AI local media metadata crawler
+- [mvdctop/Movie_Data_Capture](https://github.com/mvdctop/Movie_Data_Capture) - MDC - The AI local media metadata crawler
 - [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
 - [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - an ambient intelligence library
 - [Textualize/frogmouth](https://github.com/Textualize/frogmouth) - A Markdown browser for your terminal
@@ -2797,6 +2799,7 @@
 - [jqssun/android-titanium-browser](https://github.com/jqssun/android-titanium-browser) - Secure open-source Android browser with support for extensions
 - [Linuxmaster14/telepipe](https://github.com/Linuxmaster14/telepipe) - A simple command-line utility to send messages to Telegram
 - [nimiology/nginx-wizard](https://github.com/nimiology/nginx-wizard) - interactive Bash wizard that configures Nginx with SSL (Let's Encrypt), WebSocket support, reverse proxy, and static/media file serving — perfect for Django or Docker deployments.
+- [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [fzerorubigd/persian-fonts-linux](https://github.com/fzerorubigd/persian-fonts-linux) - Persian fonts installer for linux
 - [aronchick/Docker-NGINX-Gunicorn-Flask-Python-Example](https://github.com/aronchick/Docker-NGINX-Gunicorn-Flask-Python-Example) - 
 - [flashdagger/git-subrepo-pypi](https://github.com/flashdagger/git-subrepo-pypi) - python package for installing git-subrepo
