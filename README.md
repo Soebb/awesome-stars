@@ -92,6 +92,7 @@
 
 ## C++ 
 
+- [omicronapps/7-Zip-JBinding-4Android](https://github.com/omicronapps/7-Zip-JBinding-4Android) - Android Java wrapper for 7z archiver engine
 - [iMiKED/apk-icon-editor](https://github.com/iMiKED/apk-icon-editor) - APK editor to easily change APK icons, name and version (fork)
 - [handy-computer/transcribe.cpp](https://github.com/handy-computer/transcribe.cpp) - ggml speech-to-text inference for 16+ model families
 - [Revincx/Yurigram](https://github.com/Revincx/Yurigram) - An unofficial tdesktop client with more features
@@ -161,6 +162,7 @@
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 - [biisal/fast-stream-bot](https://github.com/biisal/fast-stream-bot) - A lightweight fast telegram file streaming bot in go
 - [asdfzxcvbn/TeleURLUploader](https://github.com/asdfzxcvbn/TeleURLUploader) - the most demure url uploader written in go
+- [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [v2fly/v2ray-core](https://github.com/v2fly/v2ray-core) - A platform for building proxies to bypass network restrictions.
 - [bergkvist/includeimage](https://github.com/bergkvist/includeimage) - Dockerfile syntax extension for combining multiple Docker images into one. (INCLUDE &lt;image&gt;)
 - [warpdl/warpdl](https://github.com/warpdl/warpdl) - A powerful and versatile cross-platform download manager.
@@ -243,6 +245,7 @@
 
 ## Java 
 
+- [Soebb/TDLib-Insta-Bulk-Uploader](https://github.com/Soebb/TDLib-Insta-Bulk-Uploader) - An Android app for downloading Instagram posts and sending their photos and videos to a Telegram channel in batches.
 - [zmxhot/InstantCaption](https://github.com/zmxhot/InstantCaption) - Free offline AI translator for Android: low-latency speech translation, live captions and floating subtitles powered by local LLMs. 免费离线 AI 同声传译 · 本地大模型 · 低延迟字幕。NPU integration in source; public APK u
 - [w-coding/Sqlite-Browser-for-android](https://github.com/w-coding/Sqlite-Browser-for-android) - 
 - [jean-voila/FeurStagram](https://github.com/jean-voila/FeurStagram) - Instagram without Reels, feed or ads: an open-source, updatable Instagram app for Android that keeps DMs and stories.
@@ -401,7 +404,7 @@
 - [fhes-tus/Vern-TTS](https://github.com/fhes-tus/Vern-TTS) - An offline zero subscription, zero ads free TTS app for android and desktop
 - [Lanzkila/KirinDL](https://github.com/Lanzkila/KirinDL) - KirinDL - based on SealPlus. but with GalleryDL
 - [Lanzkila/KirinYT](https://github.com/Lanzkila/KirinYT) - Full-featured audio/video downloader for Android using yt-dlp
-- [SibtainOcn/Hazel](https://github.com/SibtainOcn/Hazel) - The art of saving media 🍂✨ -&gt; A modern clean interface android app to save videos, music, stories, highlights, posts, reels, images and playlists from YouTube, Instagram and 1500+ sites with zero a
+- [SibtainOcn/Hazel](https://github.com/SibtainOcn/Hazel) - Hazel 🍂✨ -&gt; A modern clean interface android app to save videos, music, stories, highlights, posts, reels, images and playlists from YouTube, Instagram and 1500+ sites with zero ads, tracking, or a
 - [sosauce/Chocola](https://github.com/sosauce/Chocola) - 🍫 Chocola is a cute and powerful offline music player for Android!
 - [zt-Fang/EyeOpener-Translator](https://github.com/zt-Fang/EyeOpener-Translator) - Real-time speech translation for Android: a floating subtitle layer over any app. 41 languages, on-device ASR (sherpa-onnx / Vosk), offline / cloud / LLM translation.
 - [R-Dilipkumar/LiveSub-Offline-Translator](https://github.com/R-Dilipkumar/LiveSub-Offline-Translator) - LiveSub — private, offline live subtitles and translation for any app on Android. On-device speech recognition (Sherpa-ONNX) and translation (ML Kit), shown in a floating overlay.
@@ -456,6 +459,7 @@
 
 ## Others 
 
+- [alphacep/awesome-speech](https://github.com/alphacep/awesome-speech) - Resources that make every language unique
 - [ishandutta2007/Awesome-Text-to-Speech](https://github.com/ishandutta2007/Awesome-Text-to-Speech) - 🎤 A curated list of the latest and most influential tools, models, and resources in the Text-to-Speech sector. 🌟 Star if you like it!  🌟
 - [ae9is/subtitle-anything](https://github.com/ae9is/subtitle-anything) - Add AI generated subtitles to any video playing in your browser!
 - [Syenar/BatchSubMux](https://github.com/Syenar/BatchSubMux) - BatchSubMux for Windows and Linux. Pairs with File Renamer by Syenar: https://gitlab.com/syenar/file-renamer
@@ -516,7 +520,6 @@
 - [asyraffff/readme-with-video](https://github.com/asyraffff/readme-with-video) - 
 - [m1guelpf/readme-with-video](https://github.com/m1guelpf/readme-with-video) - An example of a repo with a video on its README
 - [devs-krd/awesome-kurds](https://github.com/devs-krd/awesome-kurds) - A curated list of awesome Kurds.
-- [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
 - [dsssssssm/extensions-wordlist](https://github.com/dsssssssm/extensions-wordlist) - 🔍 Improve your files enumeration with specific extensions!
 - [m4mallu/clonebot-ui](https://github.com/m4mallu/clonebot-ui) - Redirecting link to the original and latest clonebot repository.
@@ -587,6 +590,7 @@
 
 ## Python 
 
+- [pytdbot/client](https://github.com/pytdbot/client) - Easy-to-use asynchronous TDLib wrapper for Python.
 - [zackees/template-python-rust-cmd](https://github.com/zackees/template-python-rust-cmd) - Python bindings to a rust binary / libary
 - [amirmahdialmasi/text-to-speak](https://github.com/amirmahdialmasi/text-to-speak) - This program receives and processes text, and delivers an MP3 file.
 - [Soebb/insta2tg-bulk-uploader](https://github.com/Soebb/insta2tg-bulk-uploader) - Telegram download & upload bot for public Instagram posts. It reads post URLs from links.txt and sends each post's photos/videos to a Telegram channel.
@@ -2100,6 +2104,7 @@
 - [charindithjaindu/InviteLinkGen](https://github.com/charindithjaindu/InviteLinkGen) - Invites link generator for telegram(made for channel referral links)
 - [nuuuwan/web_screen_scraper](https://github.com/nuuuwan/web_screen_scraper) - 
 - [H1M4N5HU0P/MAFIA-USERBOT](https://github.com/H1M4N5HU0P/MAFIA-USERBOT) - 
+- [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
 - [kantek/KanTeX](https://github.com/kantek/KanTeX) - 
 - [jayantkageri/tgEasy](https://github.com/jayantkageri/tgEasy) - tgEasy | Easy for a Brighter Shine | Monkey Patcher Addon for Pyrogram
 - [payamrastogi/imdb-telegram-bot](https://github.com/payamrastogi/imdb-telegram-bot) - 
@@ -2799,7 +2804,6 @@
 - [jqssun/android-titanium-browser](https://github.com/jqssun/android-titanium-browser) - Secure open-source Android browser with support for extensions
 - [Linuxmaster14/telepipe](https://github.com/Linuxmaster14/telepipe) - A simple command-line utility to send messages to Telegram
 - [nimiology/nginx-wizard](https://github.com/nimiology/nginx-wizard) - interactive Bash wizard that configures Nginx with SSL (Let's Encrypt), WebSocket support, reverse proxy, and static/media file serving — perfect for Django or Docker deployments.
-- [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [fzerorubigd/persian-fonts-linux](https://github.com/fzerorubigd/persian-fonts-linux) - Persian fonts installer for linux
 - [aronchick/Docker-NGINX-Gunicorn-Flask-Python-Example](https://github.com/aronchick/Docker-NGINX-Gunicorn-Flask-Python-Example) - 
 - [flashdagger/git-subrepo-pypi](https://github.com/flashdagger/git-subrepo-pypi) - python package for installing git-subrepo
